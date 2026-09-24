@@ -1,0 +1,36 @@
+{
+  "_allData": [
+    {
+      "_id": 2,
+      "_bannerAsset": "announcement/20260922_194245_6ab25ba5b6796.png",
+      "_url": "https://discord.gg/ournotes",
+      "_orderNum": 3,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1100000002,
+      "_bannerAsset": "announcement/20260922_194300_6ab25bb450abe.png",
+      "_url": "https://x.com/bangdreamon_EN",
+      "_orderNum": 4,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1100000003,
+      "_bannerAsset": "announcement/20260922_194324_6ab25bcc9d027.png",
+      "_url": "https://www.youtube.com/@bangdreamon_EN",
+      "_orderNum": 5,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1100000004,
+      "_bannerAsset": "announcement/20260922_194342_6ab25bdecc9a6.png",
+      "_url": "https://www.facebook.com/bangdreamon.EN/",
+      "_orderNum": 6,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    }
+  ]
+}

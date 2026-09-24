@@ -1,0 +1,44 @@
+{
+  "_allData": [
+    {
+      "_id": 2,
+      "_bannerAsset": "announcement/20260922_193401_6ab25999bd5cf.png",
+      "_url": "https://discord.gg/ournotes",
+      "_orderNum": 3,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1200000002,
+      "_bannerAsset": "announcement/20260922_194121_6ab25b51eda63.png",
+      "_url": "https://x.com/bangdreamon_KR",
+      "_orderNum": 4,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1200000003,
+      "_bannerAsset": "announcement/20260922_194138_6ab25b62c5514.png",
+      "_url": "https://www.youtube.com/@bangdreamon_KR",
+      "_orderNum": 5,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1200000004,
+      "_bannerAsset": "announcement/20260922_194151_6ab25b6f29e39.png",
+      "_url": "https://game.naver.com/lounge/BanG_Dream_Our_Notes/board",
+      "_orderNum": 6,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 1200000005,
+      "_bannerAsset": "announcement/20260922_194210_6ab25b822d6a7.png",
+      "_url": "https://cafe.naver.com/bangdreamournoteskr",
+      "_orderNum": 7,
+      "_startAt": "2026/09/01 0:00",
+      "_endAt": ""
+    }
+  ]
+}
