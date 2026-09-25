@@ -1,5 +1,5 @@
 {
-    "version": "b8bf744b3f24cd6074cfb51b4b903321",
+    "version": "9b59e991a57a6e87445a5295314860f7",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -338,7 +338,7 @@
         },
         {
             "name": "MasterExchange.bin",
-            "hash": "8d0d8412b9c79ee40a9f45632c59c8295c229a51ccbbb820575a510dc4c98fa9",
+            "hash": "54358013ced3e466e52432483a393c61ee5d4a5a6b0a9d25c7cef9759b27a8bd",
             "size": 512
         },
         {
@@ -363,7 +363,7 @@
         },
         {
             "name": "MasterGacha.bin",
-            "hash": "b8ec805fe9a015d2e8978626af874093c20ee2c44f5c86f77dc5c27cd0cdf449",
+            "hash": "05e97ce7182fa999945f8aedb630917c958967131218dc0fbe5074b3050d13a1",
             "size": 928
         },
         {
@@ -1153,8 +1153,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "969ded409239538b69b90635ef7443ed49f17b84cee14e162cb4cd6995204d59",
-            "size": 950208
+            "hash": "86b08ca0ed77cb581f363d439d3e3e3f2e5d449190c575aca40a09bfa4ff394a",
+            "size": 950368
         },
         {
             "name": "MasterTitle.bin",
