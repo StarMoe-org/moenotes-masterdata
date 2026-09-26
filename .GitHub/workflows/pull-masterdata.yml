@@ -1,0 +1,91 @@
+# Copy to .github/workflows/ in StarMoe-org/moenotes-masterdata.
+#
+# moenotes-sync triggers this workflow through repository_dispatch after it
+# starts serving new data; it can also be run manually. It downloads every file
+# listed by BASE_URL/index.json, verifies its SHA256 and commits each changed
+# region separately. Set the repository variable MASTERDATA_BASE_URL to the
+# public base URL of moenotes-sync, for example https://masterdata.example.com.
+name: Pull masterdata
+
+on:
+  repository_dispatch:
+    types: [masterdata-updated]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pull-masterdata
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+      - name: Commit changed regions
+        shell: bash
+        env:
+          BASE_URL: ${{ vars.MASTERDATA_BASE_URL }}
+        run: |
+          set -euo pipefail
+          base="${BASE_URL:?Set the repository variable MASTERDATA_BASE_URL}"
+          base="${base%/}"
+          work="$(mktemp -d)"
+          git config user.name "MoeNotes Bot"
+          git config user.email "moenotes-bot@users.noreply.github.com"
+
+          # download REGION fetches every file the index lists into $work/REGION
+          # and verifies it; it fails if the served data changed meanwhile.
+          download() {
+            local region="$1" dir="$work/$1" path
+            rm -rf "$dir" && mkdir -p "$dir" || return 1
+            curl -fsS --retry 3 -H 'Cache-Control: no-cache' "$base/index.json" -o "$work/index.json" || return 1
+            jq -e --arg r "$region" '.regions[$r]' "$work/index.json" > "$dir.json" || return 1
+            path="$(jq -r .path "$dir.json")"
+            [[ "$path" =~ ^/[a-z]+/master/$ ]] || { echo "::error::unexpected path $path"; exit 1; }
+            jq -r '.files | keys[]' "$dir.json" > "$dir.names"
+            if grep -Eqv '^[A-Za-z0-9_-]+\.json$' "$dir.names"; then
+              echo "::error::unexpected file name in index"
+              exit 1
+            fi
+            while read -r name; do
+              printf 'url = "%s%s%s"\noutput = "%s/%s"\n' "$base" "$path" "$name" "$dir" "$name"
+            done < "$dir.names" > "$dir.curl"
+            curl -fsS --retry 3 --compressed --parallel --parallel-max 8 --config "$dir.curl" || return 1
+            jq -r '.files | to_entries[] | "\(.value)  \(.key)"' "$dir.json" | (cd "$dir" && sha256sum --quiet --check -)
+          }
+
+          curl -fsS --retry 3 -H 'Cache-Control: no-cache' "$base/index.json" -o "$work/regions.json"
+          [ -f current_version.json ] || printf '{\n  "schema_version": 1,\n  "regions": {}\n}\n' > current_version.json
+          commits=0
+          for region in $(jq -r '.regions | keys_unsorted[]' "$work/regions.json"); do
+            [[ "$region" =~ ^[a-z-]+$ ]] || { echo "::error::unexpected region $region"; exit 1; }
+            for attempt in 1 2 3; do
+              download "$region" && break
+              [ "$attempt" -lt 3 ] || { echo "::error::no consistent $region snapshot"; exit 1; }
+              echo "::warning::$region changed while downloading; retrying"
+              sleep 15
+            done
+            entry="$(jq -c .entry "$work/$region.json")"
+            rm -rf "$region" && mkdir "$region" && cp "$work/$region"/* "$region"/
+            git add -A -- "$region"
+            previous="$(jq -cS --arg r "$region" '.regions[$r] // {} | del(.verified_at)' current_version.json)"
+            # Identical data keeps the published verification time.
+            if git diff --cached --quiet -- "$region" && [ "$previous" = "$(jq -cS 'del(.verified_at)' <<<"$entry")" ]; then
+              echo "$region unchanged"
+              continue
+            fi
+            jq --arg r "$region" --argjson e "$entry" '.regions[$r] = $e' current_version.json > "$work/current_version.json"
+            cp "$work/current_version.json" current_version.json
+            git add current_version.json
+            git commit -q -m "$region:$(jq -r .resource_version <<<"$entry")" -m "master: $(jq -r .version <<<"$entry")"
+            commits=$((commits + 1))
+          done
+          if [ "$commits" -gt 0 ]; then
+            git push -q origin "HEAD:$GITHUB_REF" ||
+              { git pull -q --rebase origin "$GITHUB_REF" && git push -q origin "HEAD:$GITHUB_REF"; }
+          fi
+          echo "$commits region commit(s)"
