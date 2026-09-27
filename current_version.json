@@ -26,12 +26,23 @@
     "en": {
       "version": "9b59e991a57a6e87445a5295314860f7",
       "resource_version": "1.0.0.104",
-      "verified_at": "2026-09-25T12:39:23.955761+00:00",
+      "verified_at": "2026-09-26T08:02:29.204472+00:00",
       "table_count": 240,
       "record_count": 43265,
       "manifest_sha256": "55ba947320a24c5742e6d2a434f4330050d7f1e22c1bc6f2233cd35609f87386",
       "snapshot_path": "en",
-      "data_path": "en"
+      "data_path": "en",
+      "client_version": "1.0.1",
+      "server": {
+        "apiServerRoot": "https://l14-prod-va-all-gs-sirius.bilibiligame.net|https://l17-prod-va-all-gs-sirius.bilibiligame.net",
+        "areaID": "3",
+        "atServerRoot": "https://l14-prod-va-anontokyo-gs-sirius.bilibiligame.net|https://l17-prod-va-anontokyo-gs-sirius.bilibiligame.net",
+        "cdnRoot": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/en_3e8a72c5f1d9066b9a37c2e85f619db0|https://l12-prod-sg-patch-sirius.bilibiligame.net/prod/en_3e8a72c5f1d9066b9a37c2e85f619db0",
+        "chatServerRoot": "wss://l14-prod-va-all-gs-sirius.bilibiligame.net/ws|wss://l17-prod-va-all-gs-sirius.bilibiligame.net/ws",
+        "displayName": "EN Region",
+        "liveServer": "l14-prod-oversea-photon-sirius.bilibiligame.net:9002|l12-prod-va-photon-sirius.bilibiligame.net:9001",
+        "name": "EN Region"
+      }
     },
     "kr": {
       "version": "1a2ef4224226823a1f180097ad768681",
