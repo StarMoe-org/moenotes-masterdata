@@ -9697,6 +9697,22 @@
       "_korean": "출시 지연에 대해 사과드립니다."
     },
     {
+      "_id": "AutoPostPresent_24",
+      "_japanese": "緊急メンテナンスのお詫びです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_25",
+      "_japanese": "イベント「アイの奔流 AtoZ」延期のお詫びです。",
+      "_english": "Please accept this as an apology for the delay of the [Love Rush! A to Z] event.",
+      "_traditionalChinese": "因活動「愛的奔流 AtoZ」延期而發放的致歉補償。",
+      "_simplifiedChinese": "活动「爱的奔流 AtoZ」延期开展的致歉补偿",
+      "_korean": "「사랑의 격류 AtoZ」 이벤트 연기에 대해 사과드립니다."
+    },
+    {
       "_id": "AutoPostPresent_1000000001",
       "_japanese": "",
       "_english": "Reward for reaching 500,000 pre-registrations",

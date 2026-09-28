@@ -25,6 +25,22 @@
       "_difficulty": 0
     },
     {
+      "_id": 4,
+      "_liveMusicId": 100047,
+      "_startAt": "2026/09/28 15:00:00",
+      "_endAt": "2026/10/05 0:00:00",
+      "_releaseEffectType": 0,
+      "_difficulty": 0
+    },
+    {
+      "_id": 5,
+      "_liveMusicId": 100104,
+      "_startAt": "2026/09/29 15:00:00",
+      "_endAt": "2026/10/06 0:00:00",
+      "_releaseEffectType": 0,
+      "_difficulty": 0
+    },
+    {
       "_id": 1000000001,
       "_liveMusicId": 100107,
       "_startAt": "2026/09/24 0:00:00",
