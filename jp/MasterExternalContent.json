@@ -1,0 +1,140 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_bannerAsset": "BannerContent_001.png",
+      "_url": "https://bang-dream-on.bushimo.jp/",
+      "_orderNum": 1,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 2,
+      "_bannerAsset": "BannerContent_003.png",
+      "_url": "https://x.com/bang_dream_on",
+      "_orderNum": 3,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 3,
+      "_bannerAsset": "BannerContent_002.png",
+      "_url": "https://bang-dream.com/",
+      "_orderNum": 2,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 4,
+      "_bannerAsset": "BannerContent_004.png",
+      "_url": "https://x.com/bang_dream_info",
+      "_orderNum": 4,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 5,
+      "_bannerAsset": "BannerContent_005.png",
+      "_url": "https://x.com/bang_dream_mygo",
+      "_orderNum": 5,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 6,
+      "_bannerAsset": "BannerContent_006.png",
+      "_url": "https://x.com/BDP_AveMujica",
+      "_orderNum": 6,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 7,
+      "_bannerAsset": "BannerContent_007.png",
+      "_url": "https://x.com/BDP_yumemita",
+      "_orderNum": 7,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 8,
+      "_bannerAsset": "BannerContent_008.png",
+      "_url": "https://x.com/millsage_ofc",
+      "_orderNum": 8,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 9,
+      "_bannerAsset": "BannerContent_009.png",
+      "_url": "https://x.com/DumbRock_ofc",
+      "_orderNum": 9,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 10,
+      "_bannerAsset": "BannerContent_010.png",
+      "_url": "https://www.youtube.com/@bang_dream_official",
+      "_orderNum": 10,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 11,
+      "_bannerAsset": "BannerContent_011.png",
+      "_url": "https://www.youtube.com/@bang_dream_mygo",
+      "_orderNum": 11,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 12,
+      "_bannerAsset": "BannerContent_012.png",
+      "_url": "https://www.youtube.com/@bang_dream_AveMujica",
+      "_orderNum": 12,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 13,
+      "_bannerAsset": "BannerContent_013.png",
+      "_url": "https://www.youtube.com/@BDP_yumemita",
+      "_orderNum": 13,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 14,
+      "_bannerAsset": "BannerContent_014.png",
+      "_url": "https://www.youtube.com/@millsage_ofc",
+      "_orderNum": 14,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 15,
+      "_bannerAsset": "BannerContent_015.png",
+      "_url": "https://www.youtube.com/@DumbRock_ofc",
+      "_orderNum": 15,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 16,
+      "_bannerAsset": "BannerContent_016.png",
+      "_url": "https://anime.bang-dream.com/yumemita/",
+      "_orderNum": 16,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 17,
+      "_bannerAsset": "BannerContent_017.png",
+      "_url": "https://avemujica-movie.bang-dream.com/",
+      "_orderNum": 17,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    }
+  ]
+}

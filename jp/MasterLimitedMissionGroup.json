@@ -1,0 +1,17 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_nameTextID": "LimitedMissionName_1",
+      "_missionCategory": 5,
+      "_completeRewardIds": [
+        8
+      ],
+      "_live2dCharacterIds": [],
+      "_bannerAsset": "limited_mission/limited_mission_banner_0001",
+      "_backgroundAsset": "Band/99/band_studio_background",
+      "_startAt": "null",
+      "_endAt": "null"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_1",
+      "_skinDescTextId": "ChatThemeDesc_1",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatThemeRelease_1"
+    },
+    {
+      "_id": 2,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatSkinAtlas_Pink",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_2",
+      "_skinDescTextId": "ChatThemeDesc_2",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatThemeRelease_2"
+    },
+    {
+      "_id": 3,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_3"
+    },
+    {
+      "_id": 4,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_4"
+    },
+    {
+      "_id": 5,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_5"
+    },
+    {
+      "_id": 6,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_6"
+    },
+    {
+      "_id": 7,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_7"
+    },
+    {
+      "_id": 8,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_8"
+    },
+    {
+      "_id": 9,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_9"
+    },
+    {
+      "_id": 10,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_10"
+    },
+    {
+      "_id": 11,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_11"
+    },
+    {
+      "_id": 12,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_12"
+    },
+    {
+      "_id": 13,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_13"
+    },
+    {
+      "_id": 14,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_14"
+    },
+    {
+      "_id": 15,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatSkinAtlas_Pink",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_15"
+    },
+    {
+      "_id": 16,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_16"
+    },
+    {
+      "_id": 17,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_17"
+    },
+    {
+      "_id": 18,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_18"
+    },
+    {
+      "_id": 19,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_19"
+    },
+    {
+      "_id": 20,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatSkinAtlas_Pink",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_20"
+    },
+    {
+      "_id": 21,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_21"
+    },
+    {
+      "_id": 22,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_22"
+    },
+    {
+      "_id": 23,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_23"
+    },
+    {
+      "_id": 24,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_24"
+    },
+    {
+      "_id": 25,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_25"
+    },
+    {
+      "_id": 26,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_26"
+    },
+    {
+      "_id": 27,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_27"
+    },
+    {
+      "_id": 28,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_28"
+    },
+    {
+      "_id": 29,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_29"
+    },
+    {
+      "_id": 30,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_30"
+    },
+    {
+      "_id": 31,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_31"
+    },
+    {
+      "_id": 32,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_32"
+    },
+    {
+      "_id": 33,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatSkinAtlas_Pink",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_33"
+    },
+    {
+      "_id": 34,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_34"
+    },
+    {
+      "_id": 35,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_35"
+    },
+    {
+      "_id": 36,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_36"
+    },
+    {
+      "_id": 37,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_37"
+    },
+    {
+      "_id": 38,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_38"
+    },
+    {
+      "_id": 39,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_39"
+    },
+    {
+      "_id": 40,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_40"
+    },
+    {
+      "_id": 41,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_41"
+    },
+    {
+      "_id": 42,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_42"
+    },
+    {
+      "_id": 43,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatSkinAtlas_Pink",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_43"
+    },
+    {
+      "_id": 44,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_44"
+    },
+    {
+      "_id": 45,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_45"
+    },
+    {
+      "_id": 46,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_46"
+    },
+    {
+      "_id": 47,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_47"
+    },
+    {
+      "_id": 48,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "EmbUI/BiliChatTextTheme/ChatSkinText_Initial",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_48"
+    },
+    {
+      "_id": 49,
+      "_assetName": "EmbUI/BiliAtlas/ChatSkinAtlas_Initial",
+      "_textAssetName": "UI/BiliChatTextTheme/ChatSkinText_Pink",
+      "_skinNameTextId": "ChatThemeName_3",
+      "_skinDescTextId": "ChatThemeDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatThemeRelease_49"
+    }
+  ]
+}

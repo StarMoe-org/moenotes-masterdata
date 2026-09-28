@@ -65,6 +65,24 @@
         "liveServer": "l14-prod-oversea-photon-sirius.bilibiligame.net:9001|l12-prod-kr-photon-sirius.bilibiligame.net:9001",
         "name": "Korea"
       }
+    },
+    "jp": {
+      "version": "1.0.0.100/1d77eb9c6ab18185ff9be27873bffa9a",
+      "resource_version": "1.0.0.100",
+      "resource_hash": "6e5f131f85a5a99987f13d1ed85f1649",
+      "resource_version_source": "x-asset-version",
+      "client_version": "1.0.3",
+      "upstream": {
+        "api_root": "https://api.bang-dream-on.jp",
+        "cdn_root": "https://static.bang-dream-on.jp",
+        "source": "version_response_headers"
+      },
+      "verified_at": "2026-09-28T19:20:38.636319+00:00",
+      "table_count": 235,
+      "record_count": 41743,
+      "manifest_sha256": "e30d743db7379302463adee53119eb26c906f37d776c61c7e3080b0c4e41b045",
+      "snapshot_path": "jp",
+      "data_path": "jp"
     }
   }
 }

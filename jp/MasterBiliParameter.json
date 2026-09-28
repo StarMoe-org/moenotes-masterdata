@@ -1,0 +1,14 @@
+{
+  "_allData": [
+    {
+      "_id": "chat_level_requirement",
+      "_type": "Int32",
+      "_value": "0"
+    },
+    {
+      "_id": "chat_frequency_cooldown",
+      "_type": "Int32",
+      "_value": "3"
+    }
+  ]
+}

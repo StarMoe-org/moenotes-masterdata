@@ -1,0 +1,444 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_1",
+      "_skinDescTextId": "ChatBubbleDesc_1",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_1"
+    },
+    {
+      "_id": 2,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_2",
+      "_skinDescTextId": "ChatBubbleDesc_2",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_2"
+    },
+    {
+      "_id": 3,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_3"
+    },
+    {
+      "_id": 4,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_4"
+    },
+    {
+      "_id": 5,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_5"
+    },
+    {
+      "_id": 6,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_6"
+    },
+    {
+      "_id": 7,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_7"
+    },
+    {
+      "_id": 8,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_8"
+    },
+    {
+      "_id": 9,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_9"
+    },
+    {
+      "_id": 10,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_10"
+    },
+    {
+      "_id": 11,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_11"
+    },
+    {
+      "_id": 12,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_12"
+    },
+    {
+      "_id": 13,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_13"
+    },
+    {
+      "_id": 14,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_14"
+    },
+    {
+      "_id": 15,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_15"
+    },
+    {
+      "_id": 16,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_16"
+    },
+    {
+      "_id": 17,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_17"
+    },
+    {
+      "_id": 18,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_18"
+    },
+    {
+      "_id": 19,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_19"
+    },
+    {
+      "_id": 20,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_20"
+    },
+    {
+      "_id": 21,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_21"
+    },
+    {
+      "_id": 22,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_22"
+    },
+    {
+      "_id": 23,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_23"
+    },
+    {
+      "_id": 24,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_24"
+    },
+    {
+      "_id": 25,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_25"
+    },
+    {
+      "_id": 26,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_26"
+    },
+    {
+      "_id": 27,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_27"
+    },
+    {
+      "_id": 28,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_28"
+    },
+    {
+      "_id": 29,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_29"
+    },
+    {
+      "_id": 30,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_30"
+    },
+    {
+      "_id": 31,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_31"
+    },
+    {
+      "_id": 32,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_32"
+    },
+    {
+      "_id": 33,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_33"
+    },
+    {
+      "_id": 34,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_34"
+    },
+    {
+      "_id": 35,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_35"
+    },
+    {
+      "_id": 36,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_36"
+    },
+    {
+      "_id": 37,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_37"
+    },
+    {
+      "_id": 38,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_38"
+    },
+    {
+      "_id": 39,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_39"
+    },
+    {
+      "_id": 40,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_40"
+    },
+    {
+      "_id": 41,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_1",
+      "_bubbleNameYou": "Chat_Log_You_1",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_41"
+    },
+    {
+      "_id": 42,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": true,
+      "_releaseConditionTextId": "ChatBubbleRelease_42"
+    },
+    {
+      "_id": 43,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_43"
+    },
+    {
+      "_id": 44,
+      "_assetName": "UI/Atlas/BiliAtlas/ChatDialogSkinAtlas",
+      "_bubbleNameMe": "Chat_Log_Me_0",
+      "_bubbleNameYou": "Chat_Log_You_0",
+      "_skinNameTextId": "ChatBubbleName_3",
+      "_skinDescTextId": "ChatBubbleDesc_3",
+      "_isInitialOwnership": false,
+      "_releaseConditionTextId": "ChatBubbleRelease_44"
+    }
+  ]
+}
