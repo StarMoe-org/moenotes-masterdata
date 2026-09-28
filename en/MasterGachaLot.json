@@ -276,7 +276,7 @@
       "_id": 35,
       "_lotGroupId": 9,
       "_rarityConstraint": 3,
-      "_resourceTypeConstraint": 2,
+      "_resourceTypeConstraint": 3,
       "_prizeGroupId": 5,
       "_weight": 340
     },
@@ -284,7 +284,7 @@
       "_id": 36,
       "_lotGroupId": 9,
       "_rarityConstraint": 2,
-      "_resourceTypeConstraint": 2,
+      "_resourceTypeConstraint": 3,
       "_prizeGroupId": 6,
       "_weight": 2100
     },
