@@ -1,5 +1,5 @@
 {
-    "version": "24fdc1a74bafadbde50857ded204a372",
+    "version": "0b21c9f4a3911370d5f981fb894c7544",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -338,7 +338,7 @@
         },
         {
             "name": "MasterExchange.bin",
-            "hash": "54358013ced3e466e52432483a393c61ee5d4a5a6b0a9d25c7cef9759b27a8bd",
+            "hash": "eb5a1354d90ea47ec8f615d1ece9ae1274bcf422b38773f2bfcbdbe548128318",
             "size": 512
         },
         {
@@ -348,8 +348,8 @@
         },
         {
             "name": "MasterExchangeProduct.bin",
-            "hash": "2cb98ef1ea2d2f7a60c0a9045b4711dab0648541712731ade95e66db6de90cdc",
-            "size": 2144
+            "hash": "1ce191bdab2c338b67a0f77ca5c77aa99541369a8b767881964c28635bf41c14",
+            "size": 2176
         },
         {
             "name": "MasterExternalContent.bin",
@@ -363,7 +363,7 @@
         },
         {
             "name": "MasterGacha.bin",
-            "hash": "05e97ce7182fa999945f8aedb630917c958967131218dc0fbe5074b3050d13a1",
+            "hash": "e205014384544210a2f626bf7d0c6d57d2217bab9eafc5891d67631151ffa39f",
             "size": 928
         },
         {
@@ -383,7 +383,7 @@
         },
         {
             "name": "MasterGachaLot.bin",
-            "hash": "3e70168a3efcae4bda33fdbb0d6c039c63fb7049bab87e63c4e90e279ad6d97b",
+            "hash": "b8a75ef3b81d2497f37d1b65ae70d695d0a54a52ada57b1425880ae134e3c089",
             "size": 576
         },
         {
@@ -468,7 +468,7 @@
         },
         {
             "name": "MasterHomeBanner.bin",
-            "hash": "d22fda57db6d08c23d3600688610757c25dfeb156a7c73bc5060e731d899962f",
+            "hash": "8428e87aed22010d4179d6080a4861553cbe02a7e75af533a5258a6ffcc9a7c2",
             "size": 448
         },
         {
@@ -648,8 +648,8 @@
         },
         {
             "name": "MasterLiveMusic.bin",
-            "hash": "4092567d69ef0df9b9caf9f66090045b27d4b948c0b6754684d02113c72a6a9f",
-            "size": 7488
+            "hash": "9bd53d8e9c529dedc20c6bf93fc425a66b5753d899996451be79d45b594d5bd7",
+            "size": 7552
         },
         {
             "name": "MasterLiveMusicAnotherVocal.bin",
@@ -688,8 +688,8 @@
         },
         {
             "name": "MasterLiveMusicReleaseEffect.bin",
-            "hash": "cff90a209354deaccab7624dd92bda53612344bb7d247e06d0ceab1f3eafc298",
-            "size": 288
+            "hash": "536be43eb81bdfdae7410e37d7b09401f7130c8b872be6323fcf722dadc2a568",
+            "size": 320
         },
         {
             "name": "MasterLiveMusicScore.bin",
@@ -1153,8 +1153,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "86b08ca0ed77cb581f363d439d3e3e3f2e5d449190c575aca40a09bfa4ff394a",
-            "size": 950368
+            "hash": "2c6eeed04e60a70959cdc0bfd4c66d4bf5d6315eba08bbeaedd09eb5baf9b861",
+            "size": 950560
         },
         {
             "name": "MasterTitle.bin",

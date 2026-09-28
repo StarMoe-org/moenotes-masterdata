@@ -1841,6 +1841,38 @@
       "_endAt": ""
     },
     {
+      "_id": 30000025,
+      "_exchangeId": 3,
+      "_resourceType": 8,
+      "_resourceId": 100047,
+      "_resourceCount": 1,
+      "_paymentResourceCount": 10,
+      "_limitCount": 1,
+      "_resetType": 1,
+      "_paymentSteps": [],
+      "_paymentStepResourceCounts": [],
+      "_isRecommended": false,
+      "_thumbnailAsset": "",
+      "_startAt": "2026-09-28 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 30000026,
+      "_exchangeId": 3,
+      "_resourceType": 8,
+      "_resourceId": 100104,
+      "_resourceCount": 1,
+      "_paymentResourceCount": 10,
+      "_limitCount": 1,
+      "_resetType": 1,
+      "_paymentSteps": [],
+      "_paymentStepResourceCounts": [],
+      "_isRecommended": false,
+      "_thumbnailAsset": "",
+      "_startAt": "2026-09-29 15:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 50000001,
       "_exchangeId": 5,
       "_resourceType": 2,
