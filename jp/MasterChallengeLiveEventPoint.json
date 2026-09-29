@@ -1,3 +1,40 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_group": 1,
+      "_scoreRank": 2,
+      "_value": 1500
+    },
+    {
+      "_id": 2,
+      "_group": 1,
+      "_scoreRank": 3,
+      "_value": 2000
+    },
+    {
+      "_id": 3,
+      "_group": 1,
+      "_scoreRank": 4,
+      "_value": 2550
+    },
+    {
+      "_id": 4,
+      "_group": 1,
+      "_scoreRank": 5,
+      "_value": 3250
+    },
+    {
+      "_id": 5,
+      "_group": 1,
+      "_scoreRank": 6,
+      "_value": 3900
+    },
+    {
+      "_id": 6,
+      "_group": 1,
+      "_scoreRank": 7,
+      "_value": 5000
+    }
+  ]
 }

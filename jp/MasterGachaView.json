@@ -359,6 +359,54 @@
       "_memberCardIds": [],
       "_supportCardIds": [],
       "_labelIds": []
+    },
+    {
+      "_id": 31,
+      "_gachaId": 10,
+      "_gachaViewType": 5,
+      "_hideLogo": false,
+      "_gachaTextDisplayType": 0,
+      "_frontAssetName": "Gacha/Video/00010/gacha_top_00010_01",
+      "_backAssetName": "Gacha/Bg/gacha_bg_00001",
+      "_memberCardIds": [],
+      "_supportCardIds": [],
+      "_labelIds": []
+    },
+    {
+      "_id": 32,
+      "_gachaId": 10,
+      "_gachaViewType": 5,
+      "_hideLogo": false,
+      "_gachaTextDisplayType": 0,
+      "_frontAssetName": "Gacha/Video/00010/gacha_top_00010_02",
+      "_backAssetName": "Gacha/Bg/gacha_bg_00001",
+      "_memberCardIds": [],
+      "_supportCardIds": [],
+      "_labelIds": []
+    },
+    {
+      "_id": 33,
+      "_gachaId": 10,
+      "_gachaViewType": 5,
+      "_hideLogo": false,
+      "_gachaTextDisplayType": 0,
+      "_frontAssetName": "Gacha/Video/00010/gacha_top_00010_03",
+      "_backAssetName": "Gacha/Bg/gacha_bg_00001",
+      "_memberCardIds": [],
+      "_supportCardIds": [],
+      "_labelIds": []
+    },
+    {
+      "_id": 34,
+      "_gachaId": 10,
+      "_gachaViewType": 5,
+      "_hideLogo": false,
+      "_gachaTextDisplayType": 0,
+      "_frontAssetName": "Gacha/Video/00010/gacha_top_00010_04",
+      "_backAssetName": "Gacha/Bg/gacha_bg_00001",
+      "_memberCardIds": [],
+      "_supportCardIds": [],
+      "_labelIds": []
     }
   ]
 }

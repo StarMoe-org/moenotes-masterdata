@@ -881,6 +881,30 @@
       "_korean": ""
     },
     {
+      "_id": "live_skill_category_simple",
+      "_japanese": "シンプル",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "live_skill_category_life",
+      "_japanese": "ライフ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "live_skill_category_judgement",
+      "_japanese": "判定",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "strory_skip_continuous_on",
       "_japanese": "ストーリーをスキップして一覧に戻りますか？",
       "_english": "",
@@ -8481,6 +8505,86 @@
       "_korean": ""
     },
     {
+      "_id": "Chapter_Title_947",
+      "_japanese": "しんきょく",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_948",
+      "_japanese": "ぼちぼち",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_949",
+      "_japanese": "らしんばん",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_950",
+      "_japanese": "ユノのおんがく",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_951",
+      "_japanese": "しぼりだす",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_952",
+      "_japanese": "ザ・ゆめみた",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_953",
+      "_japanese": "のうひん",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_954",
+      "_japanese": "いざまいる",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_955",
+      "_japanese": "ぎゅうぎゅう",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_1199",
+      "_japanese": "26年誕生日：馬橋 心玖(10/4)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Arena_Season_Name_0001",
       "_japanese": "Season1",
       "_english": "",
@@ -9473,6 +9577,14 @@
       "_korean": ""
     },
     {
+      "_id": "Arranger_Name_100109",
+      "_japanese": "ケンモチヒデフミ、Skye K",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Arranger_Name_100110",
       "_japanese": "瀬名水紀(Dream Monster)、Aira",
       "_english": "",
@@ -9675,6 +9787,14 @@
     {
       "_id": "AutoPostPresent_25",
       "_japanese": "イベント「アイの奔流 AtoZ」延期のお詫びです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_27",
+      "_japanese": "緊急メンテナンス及びアップデートご協力のお礼です。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -11049,6 +11169,14 @@
       "_korean": ""
     },
     {
+      "_id": "Help_Carousel_Title_10",
+      "_japanese": "チャレンジイベント",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_Carousel_Title_11",
       "_japanese": "スタジオ練習",
       "_english": "",
@@ -11091,6 +11219,14 @@
     {
       "_id": "Help_Carousel_Title_16",
       "_japanese": "ミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_Carousel_Title_20",
+      "_japanese": "衣装変更",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -19945,6 +20081,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100109",
+      "_japanese": "ケンモチヒデフミ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Composer_Name_100110",
       "_japanese": "瀬名水紀(Dream Monster)、Aira",
       "_english": "",
@@ -19955,6 +20099,22 @@
     {
       "_id": "Content_Name_1",
       "_japanese": "スタジオ練習",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Costume_Name_Default",
+      "_japanese": "通常衣装",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Costume_Name_Birthday_2627",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -22081,6 +22241,126 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_188",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_189",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_190",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_191",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_192",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_193",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_194",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_195",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_196",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_197",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_198",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_199",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_200",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_201",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_202",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_204",
       "_japanese": "リリース記念！MyGO!!!!!ピックアップガチャの交換所で獲得",
       "_english": "",
@@ -22091,6 +22371,414 @@
     {
       "_id": "Degree_Description_205",
       "_japanese": "リリース記念！Ave Mujicaピックアップガチャの交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_206",
+      "_japanese": "ワタシが主役のサイバーナイトガチャの交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000001",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000002",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000003",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000004",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000005",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000006",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000007",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000008",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000009",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000010",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000011",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000012",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000013",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000014",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000015",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000016",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000017",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000018",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000019",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000020",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000021",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000022",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000023",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000024",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000025",
+      "_japanese": "アイの奔流 AtoZ プレミアムミッションパス報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000001",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 1位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000002",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 2位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000003",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 3位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000004",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP10",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000005",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP100",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000006",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP1000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000007",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP5000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000008",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP10000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000009",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 1位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000010",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 2位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000011",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 3位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000012",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP10",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000013",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP100",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000014",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP1000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000015",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP5000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000016",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP10000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000017",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 1位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000018",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 2位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000019",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 3位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000020",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP10",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000021",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP100",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000022",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP1000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000023",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP5000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000024",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP10000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000025",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -22755,6 +23443,14 @@
     {
       "_id": "Degree_Description_10000106",
       "_japanese": "「Stellar Stellar」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_10000107",
+      "_japanese": "「夢我夢中」を100回クリアで獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -23427,6 +24123,14 @@
     {
       "_id": "Degree_Name_10000106",
       "_japanese": "[ステッカー]Stellar Stellarジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_10000107",
+      "_japanese": "[ステッカー]夢我夢中ジャケット",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -24793,6 +25497,126 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_188",
+      "_japanese": "[ステッカー]汐見 蛍 「鳴らす」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_189",
+      "_japanese": "[ステッカー]伊沢 なつめ 「鳴らす」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_190",
+      "_japanese": "[ステッカー]琴平 凪 「鳴らす」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_191",
+      "_japanese": "[ステッカー]浜崎 まほろ 「鳴らす」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_192",
+      "_japanese": "[ステッカー]和泉 朋花 「鳴らす」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_193",
+      "_japanese": "[ステッカー]仲町 あられ 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_194",
+      "_japanese": "[ステッカー]宮永 ののか 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_195",
+      "_japanese": "[ステッカー]峰月 律 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_196",
+      "_japanese": "[ステッカー]藤 都子 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_197",
+      "_japanese": "[ステッカー]千石 ユノ 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_198",
+      "_japanese": "[ステッカー]須賀 蕾叶 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_199",
+      "_japanese": "[ステッカー]馬橋 心玖 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_200",
+      "_japanese": "[ステッカー]矢倉 蓬咲 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_201",
+      "_japanese": "[ステッカー]梅里 ちえり 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_202",
+      "_japanese": "[ステッカー]四宮 寧月 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_204",
       "_japanese": "[ステッカー]リリース記念！MyGO!!!!!ピックアップガチャ",
       "_english": "",
@@ -24803,6 +25627,14 @@
     {
       "_id": "Degree_Name_205",
       "_japanese": "[ステッカー]リリース記念！Ave Mujicaピックアップガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_206",
+      "_japanese": "[ステッカー]ワタシが主役のサイバーナイトガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -24937,6 +25769,22 @@
       "_korean": ""
     },
     {
+      "_id": "Event_Name_0001",
+      "_japanese": "アイの奔流　AtoZ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_1",
+      "_japanese": "アイの奔流　AtoZ イベント交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Exchange_Name_2",
       "_japanese": "撃奏アリーナメダル交換所",
       "_english": "",
@@ -25011,6 +25859,38 @@
     {
       "_id": "Exchange_Name_12",
       "_japanese": "星のシール交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_13",
+      "_japanese": "ワタシが主役のサイバーナイトガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_14",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_15",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_16",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -26137,6 +27017,30 @@
       "_korean": ""
     },
     {
+      "_id": "ui_auto_formation_edit_select_simple",
+      "_japanese": "シンプル",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_auto_formation_edit_select_life",
+      "_japanese": "ライフ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_auto_formation_edit_select_judgement",
+      "_japanese": "判定",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_auto_formation_edit_member_shortage",
       "_japanese": "条件に該当するメンバーが不足しています。",
       "_english": "Not enough members meet the conditions.",
@@ -26227,6 +27131,14 @@
     {
       "_id": "Gacha_Description_9",
       "_japanese": "アイテム、R以上のメンバー、スナップなどを獲得できるガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Description_10",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -26849,6 +27761,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Name_10",
+      "_japanese": "ワタシが主役のサイバーナイトガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_rates_label_draw_one",
       "_japanese": "「1回引く」",
       "_english": "",
@@ -27449,6 +28369,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gekisou_Skill_Description_22",
+      "_japanese": "{0 < effects[0].time ? \"LUCK撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"LUCK撃奏中\"}</color>\n抽選ゲージ獲得量{effects[0].value/100:F1}%UP\nBAD以下のライフ減少を{effects[1].value/100:F1}%軽減する",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Gekisou_Skill_Name_1",
       "_japanese": "JUST数獲得量UP",
       "_english": "",
@@ -27611,6 +28539,14 @@
     {
       "_id": "Gekisou_Skill_Name_21",
       "_japanese": "LUCK抽選ゲージ獲得量UP(LIFEボーナス)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gekisou_Skill_Name_22",
+      "_japanese": "LUCK抽選ゲージ獲得量UP＆BAD以下ライフ減少軽減",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -29297,6 +30233,470 @@
       "_korean": ""
     },
     {
+      "_id": "ui_hc_history_button",
+      "_japanese": "スター履歴",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_title",
+      "_japanese": "スター履歴",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_discription",
+      "_japanese": "・過去30日分のスター履歴（獲得・消費）を確認できます。\n・31日以上前の履歴については、サポートまでお問い合わせください。\n※プレゼントボックス内のスターは、受け取り完了時に履歴へ反映されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_via_present",
+      "_japanese": "プレゼントボックス受取",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_time",
+      "_japanese": "日時",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_paid_hc",
+      "_japanese": "有償スター",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_free_hc",
+      "_japanese": "無償スター",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_content",
+      "_japanese": "項目",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_no_exist",
+      "_japanese": "過去30日間のスター獲得・消費履歴はありません。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_shop_purchase",
+      "_japanese": "ショップ購入(有償)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_monthly_pass",
+      "_japanese": "アワーノーツパス特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_event_box_gacha",
+      "_japanese": "イベントボックスガチャ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_story",
+      "_japanese": "ストーリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_admin",
+      "_japanese": "運営からの付与",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_friendship_story",
+      "_japanese": "絆ストーリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_shop",
+      "_japanese": "ショップ購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_gacha",
+      "_japanese": "ガチャ消費",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_live_boost",
+      "_japanese": "ライブブースト回復",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_vip_rank_pack",
+      "_japanese": "T.G.W CARDランクパック購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_season_pass",
+      "_japanese": "ミッションパスpt購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_present",
+      "_japanese": "その他",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_other",
+      "_japanese": "その他",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_1",
+      "_japanese": "その他",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_2",
+      "_japanese": "その他",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_3",
+      "_japanese": "ログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_4",
+      "_japanese": "ミッション報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_5",
+      "_japanese": "ガチャptの変換",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_6",
+      "_japanese": "ガチャおまけ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_7",
+      "_japanese": "アワーノーツパス購入特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_8",
+      "_japanese": "アワーノーツパス継続特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_9",
+      "_japanese": "ミッションパス報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_10",
+      "_japanese": "ショップ購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_11",
+      "_japanese": "グループメンバー特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_12",
+      "_japanese": "キャラクターランク報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_13",
+      "_japanese": "絆ランク報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_14",
+      "_japanese": "楽曲報酬(スコアランク)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_15",
+      "_japanese": "楽曲報酬(コンボ)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_16",
+      "_japanese": "ハイスコアレーティング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_17",
+      "_japanese": "ステージチャレンジ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_18",
+      "_japanese": "撃奏アリーナ昇格報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_19",
+      "_japanese": "撃奏アリーナシーズン報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_20",
+      "_japanese": "撃奏アリーナランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_21",
+      "_japanese": "撃奏アリーナデイリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_22",
+      "_japanese": "グループランクアップ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_23",
+      "_japanese": "グループランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_24",
+      "_japanese": "ライフブーストリクエスト",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_25",
+      "_japanese": "招待コード入力報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_26",
+      "_japanese": "イベントランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_27",
+      "_japanese": "ライブスタンプ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_28",
+      "_japanese": "イベントpt達成報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_29",
+      "_japanese": "アワーノーツパス初回特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_30",
+      "_japanese": "アワーノーツパスデイリー特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_31",
+      "_japanese": "<size=28>T.G.W CARDランクアップ報酬</size>",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_32",
+      "_japanese": "友達招待報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_33",
+      "_japanese": "イベント楽曲ランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_34",
+      "_japanese": "ログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_35",
+      "_japanese": "ミッションパス報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_36",
+      "_japanese": "ショップ購入おまけ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_Category_Title_10",
       "_japanese": "【ホーム】",
       "_english": "",
@@ -29393,6 +30793,14 @@
       "_korean": ""
     },
     {
+      "_id": "Help_Category_Title_140",
+      "_japanese": "【チャレンジイベント】",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_Category_Title_150",
       "_japanese": "【ストーリー】",
       "_english": "",
@@ -29443,6 +30851,14 @@
     {
       "_id": "Help_Category_Title_210",
       "_japanese": "【オプション】",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_Category_Title_220",
+      "_japanese": "【衣装変更】",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -29913,6 +31329,38 @@
       "_korean": ""
     },
     {
+      "_id": "Help_SubCategory_Description_140001",
+      "_japanese": "イベント期間中にライブをクリアすると、「イベントpt」「チャレンジpt」および「イベントバッジ」を獲得できます。\n獲得した「イベントpt」に応じて、イベントストーリーの解放や達成報酬を獲得することができます。\n\n>>>チャレンジライブについて\n獲得した「チャレンジpt」を消費して「チャレンジライブ」に挑戦できます。\n「チャレンジライブ」では課題楽曲に挑戦して「イベントpt」や「イベントバッジ」を通常のライブよりも多く獲得することができます。\n\n>>>楽曲スコアランキングについて\n「チャレンジライブ」にて課題楽曲をクリアすると、楽曲ごとのスコアランキングに参加できます。\n イベント終了時のランキング順位に応じて、イベント限定ステッカーなどの豪華報酬を獲得することができます。\n\n※イベントで獲得した「イベントpt」「チャレンジpt」および「イベントバッジ」は、次回イベントへ持ち越すことはできません。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Description_140002",
+      "_japanese": "イベントボーナスとは、イベント期間中に特定のメンバーやスナップを編成してライブをすることで\nイベントを有利に進めることができる機能です。\n\n>>>「イベントpt」と「イベントアイテム」獲得量アップ\nイベントボーナス対象のメンバーおよびスナップを編成してライブをクリアすると、\n「イベントpt」と「イベントアイテム」の獲得量にそれぞれボーナスが加算されます。\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\nまた、編成したメンバーおよびスナップの各種ボーナス値はすべて合算され、イベントptとイベントアイテムの双方に適用されます。\n\n>>>「パラメータボーナス」\nイベントボーナス対象のメンバーおよびスナップの総合力がアップします。\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\n※「パラメータボーナス」はチャレンジライブのみで発動します。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Description_140003",
+      "_japanese": "イベント期間中にライブをクリアして獲得した「イベントバッジ」は、対象のイベント専用交換所にて、スナップや各種アイテム等と交換できます。\n\n※交換所の内容は開催中のイベントによって異なります。詳しくは対象の交換所をご確認ください。\n※期限までに使用されなかったイベントバッジはご利用いただけなくなります。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Description_140004",
+      "_japanese": "イベント開催期間中、いつでも挑戦できる特別なミッションです。\n「パスミッション」をクリアしてパスptを獲得し、「パスLv」を上げることで、レベルに応じた報酬を獲得できます。\n\n>>>プレミアム報酬について\nイベントミッションパス画面より「プレミアムパス」を購入し、パスLvを達成することで解放・獲得できます。\nプレミアム報酬限定ステッカーや希望のプリズムなど、ノーマル報酬に加えてさらに豪華なアイテムが獲得することができます。\n\n※報酬の内容は開催中のイベントによって異なります。詳しくは対象のミッションパスをご確認ください。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_SubCategory_Description_150001",
       "_japanese": "バンドストーリー、アナザーストーリー、絆ストーリーなどの、ストーリー・映像を視聴することができます。",
       "_english": "",
@@ -30211,6 +31659,14 @@
     {
       "_id": "Help_SubCategory_Description_210018",
       "_japanese": "■システム → 画質の設定\nホーム画面などライブ以外の画質設定を行えます。\n動作が重い・端末の発熱などが気になる際は、「軽量品質」をお試しください。\n\n■システム → 購入アラート\n「ON」にすると、毎月合計10万円を超える購入をした際、アラート表示されるようになります。\n\n■通知 → ライブブースト全回復通知\nライブブーストが上限値まで回復した際に通知します。\n\n■通知 → 深夜帯の通知\n「OFF」にしている場合、0:00～5:59の間はアプリからの通知は届かなくなります。\n\n■通知 → スタジオ練習の通知\nスタジオ練習にて、練習時間が最大に達すると通知します。\n\n※本システムで通知をONにしましても、端末設定でOFFにしている場合は通知は届きません",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Description_220001",
+      "_japanese": "■ 衣装変更\nキャラクターごとに、ライブ・スタジオ練習の演奏中の衣装を変更できます。\n未獲得の衣装も、着用した姿や入手条件を確認できます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -30681,6 +32137,38 @@
       "_korean": ""
     },
     {
+      "_id": "Help_SubCategory_Title_140001",
+      "_japanese": "チャレンジライブイベントとは",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Title_140002",
+      "_japanese": "イベントボーナスについて",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Title_140003",
+      "_japanese": "イベントバッジ交換所について",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Title_140004",
+      "_japanese": "イベントミッションパスについて",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_SubCategory_Title_150001",
       "_japanese": "ストーリーとは",
       "_english": "",
@@ -30979,6 +32467,14 @@
     {
       "_id": "Help_SubCategory_Title_210018",
       "_japanese": "システム・通知",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_SubCategory_Title_220001",
+      "_japanese": "衣装変更",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -31897,6 +33393,22 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_41",
+      "_japanese": "メンバー(BD)の覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_43",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Description_47",
       "_japanese": "メンバーピースまたはスナップを変換すると獲得することができるアイテム",
       "_english": "",
@@ -32625,6 +34137,30 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000061",
+      "_japanese": "[ハート・リブート]千石 ユノの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_10000062",
+      "_japanese": "[きゅーと・ふろーと]宮永 ののかの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_10000063",
+      "_japanese": "[ナイト・フライト]峰月 律の覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -33099,6 +34635,30 @@
     {
       "_id": "Item_Name_10000060",
       "_japanese": "メンバーピース([楽園に君臨せし女神]オブリビオニス / 豊川 祥子)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000061",
+      "_japanese": "メンバーピース([ハート・リブート]千石 ユノ)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000062",
+      "_japanese": "メンバーピース([きゅーと・ふろーと]宮永 ののか)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000063",
+      "_japanese": "メンバーピース([ナイト・フライト]峰月 律)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -33585,6 +35145,30 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_10000061",
+      "_japanese": "めんばーぴーす10000061",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000062",
+      "_japanese": "めんばーぴーす10000062",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000063",
+      "_japanese": "めんばーぴーす10000063",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "",
@@ -33899,6 +35483,22 @@
     {
       "_id": "Item_Name_40",
       "_japanese": "メンバーピース(SSR)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_41",
+      "_japanese": "メンバーピース(BD)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_43",
+      "_japanese": "イベントバッジ(紺碧)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -34323,6 +35923,22 @@
     {
       "_id": "Item_Phonetic_Name_40",
       "_japanese": "メンバーピース(SSR)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_41",
+      "_japanese": "メンバーピース(BD)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_43",
+      "_japanese": "イベントバッジ(紺碧)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -42817,6 +44433,14 @@
       "_korean": ""
     },
     {
+      "_id": "Live_Skill_Name_Description_8",
+      "_japanese": "【シンプル】{effects[0].time:F1}秒間 スコア<color=#66FF8C>{effects[0].value/100:F1}%UP</color>",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Live_Skill_Name_1",
       "_japanese": "スコアUP",
       "_english": "",
@@ -42867,6 +44491,14 @@
     {
       "_id": "Live_Skill_Name_7",
       "_japanese": "スコアUP(LIFEボーナス)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Live_Skill_Name_8",
+      "_japanese": "スコアUP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43498,7 +45130,7 @@
     },
     {
       "_id": "local_notification_body_liveboost",
-      "_japanese": "LBが全回復したよ！",
+      "_japanese": "LBが全回復しました。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43531,6 +45163,14 @@
     {
       "_id": "LoginBonus_Name_2",
       "_japanese": "スタートダッシュログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "LoginBonus_Name_3",
+      "_japanese": "夢限大みゅーたいぷ 5th Single、millsage ＆ 一家Dumb Rock! 1st Single発売記念プレゼント！",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44201,6 +45841,14 @@
       "_korean": ""
     },
     {
+      "_id": "Lyricist_Name_100109",
+      "_japanese": "ケンモチヒデフミ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100110",
       "_japanese": "Aira",
       "_english": "",
@@ -44283,6 +45931,22 @@
     {
       "_id": "MemberGachaVoice_60",
       "_japanese": "完璧なAve Mujicaの世界を、\nご覧あれ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_61",
+      "_japanese": "やりたい放題でもいいんじゃない？",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_62",
+      "_japanese": "ばーじょんあ～～～～～っぷ！",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44763,6 +46427,30 @@
     {
       "_id": "MemberSubtitle_60",
       "_japanese": "楽園に君臨せし女神",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_61",
+      "_japanese": "ハート・リブート",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_62",
+      "_japanese": "きゅーと・ふろーと",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_63",
+      "_japanese": "ナイト・フライト",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -46945,6 +48633,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100109",
+      "_japanese": "夢我夢中",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Tilte_100110",
       "_japanese": "カーネーションの咲く日に",
       "_english": "",
@@ -47657,6 +49353,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100109",
+      "_japanese": "むがむちゅう",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100110",
       "_japanese": "かーねーしょんのさくひに",
       "_english": "",
@@ -48329,6 +50033,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Ruby_Tilte_100109",
+      "_japanese": "夢我夢中",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Ruby_Tilte_100110",
       "_japanese": "カーネーションの咲く日に",
       "_english": "",
@@ -48945,6 +50657,14 @@
       "_korean": ""
     },
     {
+      "_id": "ui_season_pass_point_purchase_unreceived_mission_cation",
+      "_japanese": "※無償スターから先に使用されます。\n※未受け取りのパスミッションがあります。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_season_pass_point_purchase_confirm_message",
       "_japanese": "スター{0}個を消費して、パスptを購入します。\nよろしいですか？",
       "_english": "",
@@ -49027,6 +50747,14 @@
     {
       "_id": "Season_Pass_Description_Season_Pass_Name_1",
       "_japanese": "説明",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Season_Pass_Description_Season_Pass_Name_2",
+      "_japanese": "アイの奔流　AtoZプレミアムミッションパスが解放されます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -49353,6 +51081,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Name_2",
+      "_japanese": "アイの奔流　AtoZミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Name_2",
       "_japanese": "スター×120",
       "_english": "",
@@ -49473,6 +51209,14 @@
       "_korean": ""
     },
     {
+      "_id": "Shop_Name_20",
+      "_japanese": "アイの奔流　AtoZプレミアムミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Description_2",
       "_japanese": "スター120個(有償120個)を購入できます。",
       "_english": "",
@@ -49587,6 +51331,14 @@
     {
       "_id": "Shop_Description_19",
       "_japanese": "「アワーノーツパス～Premium～」と有償スター2400個を購入できます。\n<color=#ff4d4d>（他アワーノーツパスとの併用不可）</color>",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Shop_Description_20",
+      "_japanese": "ミッションパスのプレミアムパスを購入できます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -51889,6 +53641,14 @@
       "_korean": ""
     },
     {
+      "_id": "Stamp_Name_74",
+      "_japanese": "アイの奔流 AtoZ 報酬スタンプ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Story_Chapter_Description_1",
       "_japanese": "とある事情により遅れて羽丘女子学園に入学した愛音。\n校内でバンドが流行っていることを知り、クラスメイトの燈を\nバンドに誘おうとするが、燈は過去の傷を抱えたままで――",
       "_english": "",
@@ -51929,6 +53689,14 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Chapter_Description_6",
+      "_japanese": "早速全国ツアーへ向けて動き出した夢限大みゅーたいぷ。\n看板曲を引っ提げて、いざ！　――といきたいところだが、\nユノの作曲は進捗が思わしくなく……？                ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Story_Chapter_Name_1",
       "_japanese": "迷い星、叫び重ねて",
       "_english": "",
@@ -51963,6 +53731,14 @@
     {
       "_id": "Story_Chapter_Name_5",
       "_japanese": "THAT KIND 愛",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Chapter_Name_6",
+      "_japanese": "アイの奔流　AtoZ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53041,6 +54817,78 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Episode_Description_601",
+      "_japanese": "そう、全国ツアーの看板曲！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_602",
+      "_japanese": "（ゆめみたらしい曲、ねえ）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_603",
+      "_japanese": "（一体何が引っかかって……）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_604",
+      "_japanese": "これ！　食玩のマジるる指人形です！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_605",
+      "_japanese": "『お世話になっております。\n夢限大みゅーたいぷ、千石ユノです』",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_606",
+      "_japanese": "かっこよかったんですっ！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_607",
+      "_japanese": "うん、なんていうか――愛！！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_608",
+      "_japanese": "マジるる指人形、開封の儀ッ！！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_609",
+      "_japanese": "あたしたち、バンドでしょ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Snap_Name_Tomori",
       "_japanese": "高松 燈",
       "_english": "",
@@ -53307,6 +55155,22 @@
     {
       "_id": "Snap_Name_tomori_oblivionis_arale_hotaru_raika",
       "_japanese": "燈&オブリビオニス&あられ&蛍&蕾叶",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Snap_Name_Arale_Nonoka_Ritsu_Miyako",
+      "_japanese": "あられ&ののか&律&都子",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Snap_Name_Miyako_Ritsu",
+      "_japanese": "都子＆律",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53587,6 +55451,30 @@
     {
       "_id": "SupportDiary_60",
       "_japanese": "ああもう　みんなめちゃくちゃ\n全っ然揃ってない\n\n蕾叶は飛び跳ねすぎ\nちゃんと弾きなさいっての\nチェリのドラムうるさ\nまあ　あんたはこれくらい目立ってる方がいいか\n蓬咲さんは逃げたいの我慢してるんだろうなー\nいっぱいいっぱいな音してる\n寧月は涼しい顔でピアノ弾いてるし\nまったく　怖いもの知らずなんだから\n\nほんっと何やってんだろ\n\n指が止まらない　こんなんじゃ足りない\n　もっと　もっと鳴らしたい\n世界で一番はた迷惑で　バカみたいにあったかい音",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_62",
+      "_japanese": "かっこいいだの、ビッグラブだの\n照れ臭いことをまっすぐに\nキラキラの目で、あいつらは言ってくる\n\nなんだかちょっと懐かしい\nそうだよね\nバンドって、こんな感じだった\n\n音楽を仕事にするのに慣れてきて\n望まれたものは、作れるようになったけど\n今回はなんか、それじゃ嫌かも\n\n胸の奥で鼓動が鳴ってる\n体がいつもより、ほんのちょっとだけ軽い\nひんやりしているはずのこいつも\n今は少し、熱く感じる",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_63",
+      "_japanese": "ユノさんちゃん、こちらをどうぞ！\n\nあっ、これは劇場版にて初めて出てきたオブリークニー\nレイズバーションでして、見てくださいここのお腹のあ\nたり！　ちょ〜っとわかりにくいかもなんですけど、マ\nジアームストロングのお腹のところが、ほら！　ムキっ\nて！　ムキってなってるんですよ！　これは映画の中で\n強敵・カネスキヤーネンと戦ったときに、マジアームス\nトロングもマジハムスプリングも一度負けちゃうんです\nけど、そこからこのままじゃダメだ！　って特訓パート\nに入るんです！　二人はカネスキヤーネンのパワーの前\nになすすべもなく〜って感じだったので、じゃあどんな\n攻撃にも負けない強いボディを手に入れようってことに\nなって！　そこで編み出したのが、この！　オブリーク\nニーレイズなんですよ！　これはお腹の横のところを鍛\nえるトレーニングなんですけど、そのおかげでもう一度\n戦った時にはもう全然ムキムキで！　ほんと〜に二人が\nかっこよくってですね〜！　……え？\n\n長くてよくわかんない？　そ、そんな〜〜〜！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_64",
+      "_japanese": "ドーナツとは、摩訶不思議である\n\n常に締め切りに追われる日々\n疲れた脳は糖分を欲する\nそれでも右手のペンを手放せない時\n空いた左手にジャストフィット\n\n美しい円形\nその真ん中にぽっかりと空いた穴\n\nまるでそこに吸い込まれるように\n気が付けば私の手には\n美味しい丸が、収まっているのだ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -54075,6 +55963,30 @@
     {
       "_id": "SupportSubtitle_61",
       "_japanese": "事前登録KV",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_62",
+      "_japanese": "青く燃える心",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_63",
+      "_japanese": "マジカルフィジカル・エール！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_64",
+      "_japanese": "まあるい休息",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -62065,6 +63977,14 @@
       "_korean": ""
     },
     {
+      "_id": "ui_title_costume_change",
+      "_japanese": "衣装変更",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_mission_live_stage_title",
       "_japanese": "ステージ{0}",
       "_english": "",
@@ -69371,7 +71291,7 @@
     {
       "_id": "ui_shop_birthdate_unselected_mark",
       "_japanese": "-",
-      "_english": "-",
+      "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
@@ -71778,7 +73698,7 @@
     },
     {
       "_id": "ui_arena_live_result_labal",
-      "_japanese": "対戦結果",
+      "_japanese": "対バン結果",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -72578,7 +74498,7 @@
     },
     {
       "_id": "ui_serial_code_input_dialog_expired",
-      "_japanese": "シリアルコードの入力期限が切れています。",
+      "_japanese": "シリアルコードの有効期間外です。利用対象期間をご確認ください。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -74555,6 +76475,14 @@
     {
       "_id": "ui_shop_star_usage_note",
       "_japanese": "※無償スターから先に使用し、\n有償スターは購入順に使用されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_description",
+      "_japanese": "・過去30日分のスター履歴（獲得・消費）を確認できます。\n・31日以上前の履歴については、サポートまでお問い合わせください。\n※プレゼントボックス内のスターは、受け取り完了時に履歴へ反映されます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -76641,6 +78569,142 @@
       "_korean": ""
     },
     {
+      "_id": "ui_costume_gain_dialog_title",
+      "_japanese": "衣装獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_gain_dialog_message",
+      "_japanese": "以下の衣装を受け取りました。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_gain_dialog_button",
+      "_japanese": "衣装を変更する",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_decide_button",
+      "_japanese": "決定",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_changed_costume_message",
+      "_japanese": "衣装を変更しました。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_equipped",
+      "_japanese": "選択中",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_annotation",
+      "_japanese": "※衣装はライブ・スタジオ練習の演奏中に反映されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_member_card_unlock_condition_format",
+      "_japanese": "{1}{0} を入手",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_exchange_unlock_condition_format",
+      "_japanese": "{0} で入手",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_story_unlock_condition_format",
+      "_japanese": "{0} {1} 閲覧で入手",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_transition_button_gacha",
+      "_japanese": "ガチャへ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_transition_button_exchange",
+      "_japanese": "交換所へ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_transition_button_story",
+      "_japanese": "ストーリーへ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_save_confirm_dialog_title",
+      "_japanese": "保存確認",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_save_confirm_dialog_message",
+      "_japanese": "衣装が保存されていません。\n保存して戻りますか？",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_save_confirm_dialog_ok",
+      "_japanese": "保存して戻る",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_costume_change_save_confirm_dialog_cancel",
+      "_japanese": "保存しないで戻る",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_concurrent_device_title",
       "_japanese": "接続エラー",
       "_english": "",
@@ -76689,6 +78753,30 @@
       "_korean": ""
     },
     {
+      "_id": "ui_title_campaign",
+      "_japanese": "キャンペーン",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_campaign_player_rank_limit",
+      "_japanese": "Lv.{0}まで",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_campaign_no_campaign_message",
+      "_japanese": "実施中のキャンペーンはありません。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_story_unlock_condition_player_rank",
       "_japanese": "プレイヤーランク{0}以上で解放",
       "_english": "",
@@ -76715,6 +78803,30 @@
     {
       "_id": "ui_event_event_item_count",
       "_japanese": "アイテム所持数",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_event_chapter_no_unlocked",
+      "_japanese": "未解放",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_jasrac_android",
+      "_japanese": "JASRAC許諾9014302058Y45112号\nJASRAC許諾9014302059Y31015号",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_jasrac_ios",
+      "_japanese": "JASRAC許諾9014302056Y45112号\nJASRAC許諾9014302057Y31015号",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

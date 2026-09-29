@@ -9,7 +9,9 @@
       "_imageAsset": "comic_001_1",
       "_order": 1,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 2,
@@ -20,7 +22,9 @@
       "_imageAsset": "comic_002_1",
       "_order": 2,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 3,
@@ -31,7 +35,9 @@
       "_imageAsset": "comic_003_1",
       "_order": 3,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 4,
@@ -42,7 +48,9 @@
       "_imageAsset": "comic_004_1",
       "_order": 4,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 5,
@@ -53,7 +61,9 @@
       "_imageAsset": "comic_005_1",
       "_order": 5,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 6,
@@ -64,7 +74,9 @@
       "_imageAsset": "comic_006_1",
       "_order": 6,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 7,
@@ -75,7 +87,9 @@
       "_imageAsset": "comic_007_1",
       "_order": 7,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 8,
@@ -86,7 +100,9 @@
       "_imageAsset": "comic_008_1",
       "_order": 8,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 9,
@@ -97,7 +113,9 @@
       "_imageAsset": "comic_009_1",
       "_order": 9,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 10,
@@ -108,7 +126,9 @@
       "_imageAsset": "comic_010_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 11,
@@ -119,7 +139,9 @@
       "_imageAsset": "comic_011_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 12,
@@ -130,7 +152,9 @@
       "_imageAsset": "comic_012_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 13,
@@ -141,7 +165,9 @@
       "_imageAsset": "comic_013_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 14,
@@ -152,7 +178,9 @@
       "_imageAsset": "comic_014_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 15,
@@ -163,7 +191,9 @@
       "_imageAsset": "comic_015_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 16,
@@ -174,7 +204,9 @@
       "_imageAsset": "comic_016_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 17,
@@ -185,7 +217,9 @@
       "_imageAsset": "comic_017_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 18,
@@ -196,7 +230,9 @@
       "_imageAsset": "comic_018_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 19,
@@ -207,7 +243,9 @@
       "_imageAsset": "comic_019_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 20,
@@ -218,7 +256,9 @@
       "_imageAsset": "comic_020_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 21,
@@ -229,7 +269,9 @@
       "_imageAsset": "comic_021_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 22,
@@ -240,7 +282,9 @@
       "_imageAsset": "comic_022_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 23,
@@ -251,7 +295,9 @@
       "_imageAsset": "comic_023_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 24,
@@ -262,7 +308,9 @@
       "_imageAsset": "comic_024_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     },
     {
       "_id": 25,
@@ -273,7 +321,9 @@
       "_imageAsset": "comic_025_1",
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "",
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0
     }
   ]
 }

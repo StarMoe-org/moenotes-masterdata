@@ -1099,6 +1099,16 @@
       "_hasAudio": false,
       "_overrideShaderName": "Sirius/Live/LiveSofdecGekisouCharacter",
       "_displayNameTextId": ""
+    },
+    {
+      "_id": 1000000010,
+      "_assetName": "HomeLanding/Gacha/home_gacha_00010",
+      "_autoStop": false,
+      "_width": 1920,
+      "_height": 1440,
+      "_hasAudio": false,
+      "_overrideShaderName": "",
+      "_displayNameTextId": ""
     }
   ]
 }

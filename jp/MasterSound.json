@@ -8141,6 +8141,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000109,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000109,
+      "_cueName": "Y_Mugamuchu",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1300000000021,
       "_category": 0,
       "_soundCueSheetID": 1300000000021,
@@ -9047,6 +9058,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000108,
       "_cueName": "Mi_StellarStellar_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000109,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000109,
+      "_cueName": "Y_Mugamuchu_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -19207,6 +19229,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3201202000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202011000062,
+      "_cueName": "Member_Nonoka_Gacha_062",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3201301000001,
       "_category": 2,
       "_soundCueSheetID": 3201013000001,
@@ -21312,6 +21345,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201015000001,
       "_cueName": "Growth_Yuno_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3201502000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202015000061,
+      "_cueName": "Member_Yuno_Gacha_061",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -26240,6 +26284,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201022000001,
       "_cueName": "Growth_Miku_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3202202000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202022000064,
+      "_cueName": "Member_Miku_Gacha_064",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,

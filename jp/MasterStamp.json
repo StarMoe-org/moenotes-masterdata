@@ -975,6 +975,20 @@
       "_voiceAsset": "",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": ""
+    },
+    {
+      "_id": 74,
+      "_nameTextId": "Stamp_Name_74",
+      "_stampCategory": 3,
+      "_priority": 74,
+      "_characterIds": [
+        15
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_yuno_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/09/30 18:00:00",
+      "_endAt": ""
     }
   ]
 }

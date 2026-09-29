@@ -1,6 +1,18 @@
 {
   "_allData": [
     {
+      "_id": 1,
+      "_nameTextId": "Exchange_Name_1",
+      "_exchangeCategoryId": 1,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 43,
+      "_targetDisplay": 1,
+      "_targetDisplayId": 1,
+      "_startAt": "2026-09-30 18:00:00",
+      "_endAt": "2026-10-19 20:59:59",
+      "_bannerAsset": "Story/Banner/Chapter/ui_banner_chapter_6"
+    },
+    {
       "_id": 2,
       "_nameTextId": "Exchange_Name_2",
       "_exchangeCategoryId": 2,
@@ -119,6 +131,54 @@
       "_startAt": "2026-01-01 0:00:00",
       "_endAt": "",
       "_bannerAsset": ""
+    },
+    {
+      "_id": 13,
+      "_nameTextId": "Exchange_Name_13",
+      "_exchangeCategoryId": 6,
+      "_paymentResourceType": 7,
+      "_paymentResourceId": 10,
+      "_targetDisplay": 2,
+      "_targetDisplayId": 10,
+      "_startAt": "2026-09-30 18:00:00",
+      "_endAt": "2026-11-08 14:59:59",
+      "_bannerAsset": "Gacha/Banner/gacha_banner_00010"
+    },
+    {
+      "_id": 14,
+      "_nameTextId": "Exchange_Name_14",
+      "_exchangeCategoryId": 8,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 61,
+      "_targetDisplay": 0,
+      "_targetDisplayId": 0,
+      "_startAt": "2026-09-30 15:00:00",
+      "_endAt": "2027-09-30 23:59:59",
+      "_bannerAsset": "Exchange/Banner/Banner_14"
+    },
+    {
+      "_id": 15,
+      "_nameTextId": "Exchange_Name_15",
+      "_exchangeCategoryId": 8,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 62,
+      "_targetDisplay": 0,
+      "_targetDisplayId": 0,
+      "_startAt": "2026-09-30 15:00:00",
+      "_endAt": "2027-09-30 23:59:59",
+      "_bannerAsset": "Exchange/Banner/Banner_15"
+    },
+    {
+      "_id": 16,
+      "_nameTextId": "Exchange_Name_16",
+      "_exchangeCategoryId": 8,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 63,
+      "_targetDisplay": 0,
+      "_targetDisplayId": 0,
+      "_startAt": "2026-09-30 15:00:00",
+      "_endAt": "2027-09-30 23:59:59",
+      "_bannerAsset": "Exchange/Banner/Banner_16"
     },
     {
       "_id": 17,
