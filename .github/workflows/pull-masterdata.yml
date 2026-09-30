@@ -25,6 +25,10 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v7
+        with:
+          clean: false
+      - name: Test snapshot validation
+        run: python3 -m unittest discover -s tests -v
       - name: Commit changed regions
         shell: bash
         env:
@@ -36,6 +40,8 @@ jobs:
           work="$(mktemp -d)"
           git config user.name "MoeNotes Bot"
           git config user.email "moenotes-bot@users.noreply.github.com"
+          # Recover before any download or modification of published paths.
+          commits="$(python3 scripts/update_snapshot.py recover)"
 
           # download REGION fetches every file the index lists into $work/REGION
           # and verifies it; it fails if the served data changed meanwhile.
@@ -44,6 +50,7 @@ jobs:
             rm -rf "$dir" && mkdir -p "$dir" || return 1
             curl -fsS --retry 3 -H 'Cache-Control: no-cache' "$base/index.json" -o "$work/index.json" || return 1
             jq -e --arg r "$region" '.regions[$r]' "$work/index.json" > "$dir.json" || return 1
+            python3 scripts/validate_snapshot.py region "$region" "$dir.json" || return 1
             path="$(jq -r .path "$dir.json")"
             [[ "$path" =~ ^/[a-z]+/master/$ ]] || { echo "::error::unexpected path $path"; exit 1; }
             jq -r '.files | keys[]' "$dir.json" > "$dir.names"
@@ -55,12 +62,11 @@ jobs:
               printf 'url = "%s%s%s"\noutput = "%s/%s"\n' "$base" "$path" "$name" "$dir" "$name"
             done < "$dir.names" > "$dir.curl"
             curl -fsS --retry 3 --compressed --parallel --parallel-max 8 --config "$dir.curl" || return 1
-            jq -r '.files | to_entries[] | "\(.value)  \(.key)"' "$dir.json" | (cd "$dir" && sha256sum --quiet --check -)
+            python3 scripts/validate_snapshot.py region "$region" "$dir.json" --directory "$dir"
           }
 
           curl -fsS --retry 3 -H 'Cache-Control: no-cache' "$base/index.json" -o "$work/regions.json"
-          [ -f current_version.json ] || printf '{\n  "schema_version": 1,\n  "regions": {}\n}\n' > current_version.json
-          commits=0
+          python3 scripts/validate_snapshot.py index "$work/regions.json"
           for region in $(jq -r '.regions | keys_unsorted[]' "$work/regions.json"); do
             [[ "$region" =~ ^[a-z-]+$ ]] || { echo "::error::unexpected region $region"; exit 1; }
             for attempt in 1 2 3; do
@@ -69,19 +75,12 @@ jobs:
               echo "::warning::$region changed while downloading; retrying"
               sleep 15
             done
-            entry="$(jq -c .entry "$work/$region.json")"
-            rm -rf "$region" && mkdir "$region" && cp "$work/$region"/* "$region"/
-            git add -A -- "$region"
-            previous="$(jq -cS --arg r "$region" '.regions[$r] // {} | del(.verified_at)' current_version.json)"
-            # Identical data keeps the published verification time.
-            if git diff --cached --quiet -- "$region" && [ "$previous" = "$(jq -cS 'del(.verified_at)' <<<"$entry")" ]; then
+            result="$(python3 scripts/update_snapshot.py publish "$region" "$work/$region.json" --directory "$work/$region")"
+            if [ "$result" = "unchanged" ]; then
               echo "$region unchanged"
               continue
             fi
-            jq --arg r "$region" --argjson e "$entry" '.regions[$r] = $e' current_version.json > "$work/current_version.json"
-            cp "$work/current_version.json" current_version.json
-            git add current_version.json
-            git commit -q -m "$region:$(jq -r .resource_version <<<"$entry")" -m "master: $(jq -r .version <<<"$entry")"
+            [ "$result" = "committed" ] || { echo "::error::unexpected publication result"; exit 1; }
             commits=$((commits + 1))
           done
           if [ "$commits" -gt 0 ]; then

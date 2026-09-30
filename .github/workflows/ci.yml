@@ -1,0 +1,36 @@
+name: Snapshot CI
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/**'
+      - 'README.md'
+      - '.gitignore'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/**'
+      - 'README.md'
+      - '.gitignore'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: snapshot-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Run offline snapshot regression tests
+        run: python3 -B -m unittest discover -s tests -v
