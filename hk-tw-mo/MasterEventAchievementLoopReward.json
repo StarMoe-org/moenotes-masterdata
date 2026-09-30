@@ -1,3 +1,13 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_eventId": 1,
+      "_loopStartEventPoint": 3000000,
+      "_loopEventPoint": 1000000,
+      "_rewardIds": [
+        121
+      ]
+    }
+  ]
 }

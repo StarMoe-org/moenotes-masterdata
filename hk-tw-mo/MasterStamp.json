@@ -977,6 +977,20 @@
       "_endAt": ""
     },
     {
+      "_id": 74,
+      "_nameTextId": "Stamp_Name_74",
+      "_stampCategory": 3,
+      "_priority": 74,
+      "_characterIds": [
+        15
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_yuno_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/09/28 15:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 1000000001,
       "_nameTextId": "Stamp_Name_1000000001",
       "_stampCategory": 2,
@@ -1005,7 +1019,9 @@
       "_nameTextId": "Stamp_Name_1000000003",
       "_stampCategory": 3,
       "_priority": 1000000003,
-      "_characterIds": [],
+      "_characterIds": [
+        6
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00001",
       "_voiceAsset": "",
@@ -1017,7 +1033,9 @@
       "_nameTextId": "Stamp_Name_1000000004",
       "_stampCategory": 3,
       "_priority": 1000000004,
-      "_characterIds": [],
+      "_characterIds": [
+        7
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00002",
       "_voiceAsset": "",
@@ -1029,7 +1047,9 @@
       "_nameTextId": "Stamp_Name_1000000005",
       "_stampCategory": 3,
       "_priority": 1000000005,
-      "_characterIds": [],
+      "_characterIds": [
+        8
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00003",
       "_voiceAsset": "",
@@ -1041,7 +1061,9 @@
       "_nameTextId": "Stamp_Name_1000000006",
       "_stampCategory": 3,
       "_priority": 1000000006,
-      "_characterIds": [],
+      "_characterIds": [
+        9
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00004",
       "_voiceAsset": "",
@@ -1053,7 +1075,9 @@
       "_nameTextId": "Stamp_Name_1000000007",
       "_stampCategory": 3,
       "_priority": 1000000007,
-      "_characterIds": [],
+      "_characterIds": [
+        10
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00005",
       "_voiceAsset": "",
@@ -1065,7 +1089,13 @@
       "_nameTextId": "Stamp_Name_1000000008",
       "_stampCategory": 3,
       "_priority": 1000000008,
-      "_characterIds": [],
+      "_characterIds": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_bili_00006",
       "_voiceAsset": "",

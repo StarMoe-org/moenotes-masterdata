@@ -254,6 +254,21 @@
       "_id": 1000000017,
       "_expireDays": 90,
       "_titleTextId": "Present_bili_mail_1000000017"
+    },
+    {
+      "_id": 1000000018,
+      "_expireDays": 30,
+      "_titleTextId": "Present_bili_mail_1000000018"
+    },
+    {
+      "_id": 1000000019,
+      "_expireDays": 7,
+      "_titleTextId": "Present_bili_mail_1000000019"
+    },
+    {
+      "_id": 1000000020,
+      "_expireDays": 7,
+      "_titleTextId": "Present_bili_mail_1000000020"
     }
   ]
 }
