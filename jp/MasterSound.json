@@ -26291,17 +26291,6 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 3202202000001,
-      "_category": 2,
-      "_soundCueSheetID": 3202022000064,
-      "_cueName": "Member_Miku_Gacha_064",
-      "_cacheType": 0,
-      "_audioSyncedTimerEnabled": false,
-      "_isRandomPitch": false,
-      "_minPitch": 0.0,
-      "_maxPitch": 0.0
-    },
-    {
       "_id": 3202301000001,
       "_category": 2,
       "_soundCueSheetID": 3201023000001,

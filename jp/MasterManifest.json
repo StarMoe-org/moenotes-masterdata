@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.300/9c69e77752c4df7d72d0fec64beaf817",
+    "version": "1.0.0.300/52355a9de56a475f691b10ef58acba58",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -533,8 +533,8 @@
         },
         {
             "name": "MasterLiveCampaignReward.bin",
-            "hash": "0c9af7621c51f6adfae0b5cedd1e7624966d784dad6128c0bbfeefa3a9691831",
-            "size": 352
+            "hash": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39",
+            "size": 128
         },
         {
             "name": "MasterLiveChallengePoint.bin",
@@ -648,7 +648,7 @@
         },
         {
             "name": "MasterLiveMusic.bin",
-            "hash": "f87941ec3269ea2c68770e0087b55a0759c2e5d6a66e7dd1c8f5f8b736f760c3",
+            "hash": "5c5ef03bc21a39ac117bdb948fc162f624fbf623916becfc7c7923334c1bd79d",
             "size": 7552
         },
         {
@@ -948,7 +948,7 @@
         },
         {
             "name": "MasterPresentType.bin",
-            "hash": "f7897e7932c730e4708155ad0e49e4476cf1d225b3ea7cad15a98084cb3343c4",
+            "hash": "df7355816c7ec86d8755bc4388385dc25af9449a8506528d87c7421f8ff94ad4",
             "size": 544
         },
         {
@@ -1058,8 +1058,8 @@
         },
         {
             "name": "MasterSound.bin",
-            "hash": "99a94b2a46870204b04da50cf1b2440444aaff75c8d628b7deb14d0d3f5640b8",
-            "size": 30464
+            "hash": "669da61a5f0e492bbcfa6e90337ada4390b7669ab0ba2c28508788e2ab3130c8",
+            "size": 30432
         },
         {
             "name": "MasterSoundCueSheet.bin",
@@ -1143,8 +1143,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "a562cbc8325e1053b95d43c97fa90415338af7215f6f8053c70f7540f5d73738",
-            "size": 231936
+            "hash": "b5311d5206939730cad55d1bca3b7dc596a63102c66528c2f51fc7ab5b4baa51",
+            "size": 232032
         },
         {
             "name": "MasterTitle.bin",

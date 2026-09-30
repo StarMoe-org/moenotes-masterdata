@@ -9793,8 +9793,24 @@
       "_korean": ""
     },
     {
+      "_id": "AutoPostPresent_26",
+      "_japanese": "スター表示等の不具合およびイベント延期のお詫びです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "AutoPostPresent_27",
       "_japanese": "緊急メンテナンス及びアップデートご協力のお礼です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_28",
+      "_japanese": "初心者ミッション報酬表示不具合のお詫びです。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -50531,6 +50547,22 @@
     {
       "_id": "Present_34",
       "_japanese": "「{0}」の報酬です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_35",
+      "_japanese": "ミッションパスの報酬です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_36",
+      "_japanese": "ショップ購入時のおまけです。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
