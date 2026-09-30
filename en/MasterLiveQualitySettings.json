@@ -3,7 +3,7 @@
     {
       "_id": 1,
       "_quality": 2,
-      "_liveBackgroundResolutionScale": 0.52,
+      "_liveBackgroundResolutionScale": 0.58,
       "_live2DFPS": 20,
       "_live2DPhysics": false,
       "_backgroundCameraFPS": 20,
@@ -14,7 +14,7 @@
     {
       "_id": 2,
       "_quality": 1,
-      "_liveBackgroundResolutionScale": 0.68,
+      "_liveBackgroundResolutionScale": 0.7,
       "_live2DFPS": 25,
       "_live2DPhysics": false,
       "_backgroundCameraFPS": 25,
@@ -25,7 +25,7 @@
     {
       "_id": 3,
       "_quality": 0,
-      "_liveBackgroundResolutionScale": 0.72,
+      "_liveBackgroundResolutionScale": 0.8,
       "_live2DFPS": 30,
       "_live2DPhysics": false,
       "_backgroundCameraFPS": 30,
