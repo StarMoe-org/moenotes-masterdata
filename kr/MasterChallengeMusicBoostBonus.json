@@ -1,3 +1,40 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_consumedChallengePointCount": 200,
+      "_playerExpRate": 1,
+      "_memberCardExpRate": 1,
+      "_friendshipExpRate": 1,
+      "_eventPointRate": 1,
+      "_liveMusicRewardRate": 1
+    },
+    {
+      "_id": 2,
+      "_consumedChallengePointCount": 400,
+      "_playerExpRate": 2,
+      "_memberCardExpRate": 2,
+      "_friendshipExpRate": 2,
+      "_eventPointRate": 2,
+      "_liveMusicRewardRate": 2
+    },
+    {
+      "_id": 3,
+      "_consumedChallengePointCount": 800,
+      "_playerExpRate": 4,
+      "_memberCardExpRate": 4,
+      "_friendshipExpRate": 4,
+      "_eventPointRate": 4,
+      "_liveMusicRewardRate": 4
+    },
+    {
+      "_id": 4,
+      "_consumedChallengePointCount": 1600,
+      "_playerExpRate": 8,
+      "_memberCardExpRate": 8,
+      "_friendshipExpRate": 8,
+      "_eventPointRate": 8,
+      "_liveMusicRewardRate": 8
+    }
+  ]
 }

@@ -39,6 +39,16 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
       "_releaseConditionTextId": "ChatBubbleRelease_4"
+    },
+    {
+      "_id": 1006,
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Wol",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Wol",
+      "_skinNameTextId": "ChatBubbleName_1006",
+      "_skinDescTextId": "ChatBubbleDesc_1006",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_releaseConditionTextId": "ChatBubbleRelease_1006"
     }
   ]
 }

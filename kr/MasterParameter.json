@@ -346,11 +346,6 @@
       "_value": "1.0.1"
     },
     {
-      "_id": "client_version_download_url",
-      "_type": "String",
-      "_value": ""
-    },
-    {
       "_id": "monthly_pass_add_purchase_threshold",
       "_type": "Int32",
       "_value": "14"

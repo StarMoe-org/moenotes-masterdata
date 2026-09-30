@@ -53,6 +53,15 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_releaseConditionTextId": "ChatFrameRelease_67"
+    },
+    {
+      "_id": 1006,
+      "_assetName": "BiliUI/BiliChatFrame/Chat_Frame_1006",
+      "_skinNameTextId": "ChatFrameName_1006",
+      "_skinDescTextId": "ChatFrameDesc_1006",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
+      "_releaseConditionTextId": "ChatFrameRelease_1006"
     }
   ]
 }

@@ -597,6 +597,10 @@
       "_cueSheetName": "Mi_StellarStellar"
     },
     {
+      "_id": 1300000000109,
+      "_cueSheetName": "Y_Mugamuchu"
+    },
+    {
       "_id": 1300000000021,
       "_cueSheetName": "M_SeishunComplex"
     },
@@ -931,6 +935,10 @@
     {
       "_id": 1400000000108,
       "_cueSheetName": "Mi_StellarStellar_short"
+    },
+    {
+      "_id": 1400000000109,
+      "_cueSheetName": "Y_Mugamuchu_short"
     },
     {
       "_id": 1400000000106,
@@ -1395,6 +1403,14 @@
     {
       "_id": 3202010000060,
       "_cueSheetName": "VoiceGacha_10_00060"
+    },
+    {
+      "_id": 3202015000061,
+      "_cueSheetName": "VoiceGacha_15_00061"
+    },
+    {
+      "_id": 3202011000062,
+      "_cueSheetName": "VoiceGacha_11_00062"
     },
     {
       "_id": 2100000000001,

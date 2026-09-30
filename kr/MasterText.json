@@ -8505,6 +8505,78 @@
       "_korean": "멤버 토크"
     },
     {
+      "_id": "Chapter_Title_947",
+      "_japanese": "しんきょく",
+      "_english": "New Song",
+      "_traditionalChinese": "新曲",
+      "_simplifiedChinese": "新曲",
+      "_korean": "신곡"
+    },
+    {
+      "_id": "Chapter_Title_948",
+      "_japanese": "ぼちぼち",
+      "_english": "Not Bad",
+      "_traditionalChinese": "還算可以",
+      "_simplifiedChinese": "慢慢来",
+      "_korean": "그럭저럭"
+    },
+    {
+      "_id": "Chapter_Title_949",
+      "_japanese": "らしんばん",
+      "_english": "Compass",
+      "_traditionalChinese": "指南針",
+      "_simplifiedChinese": "指南针",
+      "_korean": "나침반"
+    },
+    {
+      "_id": "Chapter_Title_950",
+      "_japanese": "ユノのおんがく",
+      "_english": "Yuno's Music",
+      "_traditionalChinese": "由乃的音樂",
+      "_simplifiedChinese": "由乃的音乐",
+      "_korean": "유노의 음악"
+    },
+    {
+      "_id": "Chapter_Title_951",
+      "_japanese": "しぼりだす",
+      "_english": "Squeeze Out",
+      "_traditionalChinese": "絞盡腦汁",
+      "_simplifiedChinese": "绞尽脑汁",
+      "_korean": "쥐어 짜내다"
+    },
+    {
+      "_id": "Chapter_Title_952",
+      "_japanese": "ザ・ゆめみた",
+      "_english": "The YMMT",
+      "_traditionalChinese": "充滿夢限大風格",
+      "_simplifiedChinese": "The・梦限大",
+      "_korean": "THE 유메미타"
+    },
+    {
+      "_id": "Chapter_Title_953",
+      "_japanese": "のうひん",
+      "_english": "Delivery",
+      "_traditionalChinese": "交件",
+      "_simplifiedChinese": "交稿",
+      "_korean": "납품"
+    },
+    {
+      "_id": "Chapter_Title_954",
+      "_japanese": "いざまいる",
+      "_english": "Here I Go",
+      "_traditionalChinese": "現在出發",
+      "_simplifiedChinese": "上吧",
+      "_korean": "자, 시작하지"
+    },
+    {
+      "_id": "Chapter_Title_955",
+      "_japanese": "ぎゅうぎゅう",
+      "_english": "Packed Tightly",
+      "_traditionalChinese": "塞滿滿",
+      "_simplifiedChinese": "满满地",
+      "_korean": "꽉꽉"
+    },
+    {
       "_id": "Arena_Season_Name_0001",
       "_japanese": "Season1",
       "_english": "Season 1",
@@ -8932,7 +9004,7 @@
       "_id": "Arranger_Name_100013",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
@@ -8956,7 +9028,7 @@
       "_id": "Arranger_Name_100016",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
@@ -9036,7 +9108,7 @@
       "_id": "Arranger_Name_100030",
       "_japanese": "あらケン(SUPA LOVE)",
       "_english": "araken (SUPA LOVE)",
-      "_traditionalChinese": "Araken(SUPA LOVE)",
+      "_traditionalChinese": "あらケン(SUPA LOVE)",
       "_simplifiedChinese": "あらケン(SUPA LOVE)",
       "_korean": "araken(SUPA LOVE)"
     },
@@ -9076,7 +9148,7 @@
       "_id": "Arranger_Name_100035",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
@@ -9116,7 +9188,7 @@
       "_id": "Arranger_Name_100040",
       "_japanese": "あらケン (SUPA LOVE)",
       "_english": "araken (SUPA LOVE)",
-      "_traditionalChinese": "Araken(SUPA LOVE)",
+      "_traditionalChinese": "あらケン(SUPA LOVE)",
       "_simplifiedChinese": "あらケン(SUPA LOVE)",
       "_korean": "araken(SUPA LOVE)"
     },
@@ -9505,6 +9577,14 @@
       "_korean": "牧野太洋"
     },
     {
+      "_id": "Arranger_Name_100109",
+      "_japanese": "ケンモチヒデフミ、Skye K",
+      "_english": "Kenmochi Hidefumi,Skye K",
+      "_traditionalChinese": "ケンモチヒデフミ、Skye K",
+      "_simplifiedChinese": "ケンモチヒデフミ、Skye K",
+      "_korean": "Kenmochi Hidefumi,Skye K"
+    },
+    {
       "_id": "Arranger_Name_100110",
       "_japanese": "瀬名水紀(Dream Monster)、Aira",
       "_english": "瀬名水紀 (Dream Monster), Aira",
@@ -9699,10 +9779,10 @@
     {
       "_id": "AutoPostPresent_24",
       "_japanese": "緊急メンテナンスのお詫びです。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "This is compensation for the emergency maintenance.",
+      "_traditionalChinese": "緊急維護的補償。",
+      "_simplifiedChinese": "紧急维护的补偿。",
+      "_korean": "긴급 점검에 대한 보상입니다."
     },
     {
       "_id": "AutoPostPresent_25",
@@ -9711,6 +9791,30 @@
       "_traditionalChinese": "因活動「愛的奔流 AtoZ」延期而發放的致歉補償。",
       "_simplifiedChinese": "活动「爱的奔流 AtoZ」延期开展的致歉补偿",
       "_korean": "「사랑의 격류 AtoZ」 이벤트 연기에 대해 사과드립니다."
+    },
+    {
+      "_id": "AutoPostPresent_26",
+      "_japanese": "スター表示等の不具合およびイベント延期のお詫びです。",
+      "_english": "Compensation for Star display and other issues, as well as the event postponement.",
+      "_traditionalChinese": "針對星星顯示等問題及活動延期的致歉。",
+      "_simplifiedChinese": "针对星钻显示等问题及活动延期的致歉。",
+      "_korean": "스타 표시 오류 및 이벤트 연기에 대해 사과드립니다."
+    },
+    {
+      "_id": "AutoPostPresent_27",
+      "_japanese": "緊急メンテナンス及びアップデートご協力のお礼です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_28",
+      "_japanese": "初心者ミッション報酬表示不具合のお詫びです。",
+      "_english": "Compensation for the Beginner Mission reward display issue.",
+      "_traditionalChinese": "針對新手任務獎勵顯示問題的補償。",
+      "_simplifiedChinese": "新手任务奖励显示问题的补偿。",
+      "_korean": "초보자 미션 보상 표시 오류에 대해 사과드립니다."
     },
     {
       "_id": "AutoPostPresent_1000000001",
@@ -13009,6 +13113,46 @@
       "_korean": "플레이어 님"
     },
     {
+      "_id": "ui_bili_title_challenge_music",
+      "_japanese": "チャレンジ楽曲",
+      "_english": "Challenge Song",
+      "_traditionalChinese": "挑戰樂曲",
+      "_simplifiedChinese": "挑战乐曲",
+      "_korean": "챌린지 곡"
+    },
+    {
+      "_id": "ui_bili_offline",
+      "_japanese": "离线",
+      "_english": "Offline",
+      "_traditionalChinese": "離線",
+      "_simplifiedChinese": "离线",
+      "_korean": "오프라인"
+    },
+    {
+      "_id": "ui_bili_live_invitation_offline",
+      "_japanese": "オフライン",
+      "_english": "Offline",
+      "_traditionalChinese": "離線",
+      "_simplifiedChinese": "离线",
+      "_korean": "오프라인"
+    },
+    {
+      "_id": "ui_bili_announcement_Recommend_NoAnnouncement_text",
+      "_japanese": "暫無精選內容",
+      "_english": "NO NEWS",
+      "_traditionalChinese": "暫無精選內容",
+      "_simplifiedChinese": "暫無精選內容",
+      "_korean": "콘텐츠가 없습니다."
+    },
+    {
+      "_id": "ui_bili_room_creator",
+      "_japanese": "ルーム作成者",
+      "_english": "Host",
+      "_traditionalChinese": "房主",
+      "_simplifiedChinese": "房主",
+      "_korean": "방장"
+    },
+    {
       "_id": "Help_Carousel_Title_1",
       "_japanese": "メンバー",
       "_english": "Members",
@@ -13079,6 +13223,14 @@
       "_traditionalChinese": "輔助模式",
       "_simplifiedChinese": "辅助模式",
       "_korean": "어시스트 모드"
+    },
+    {
+      "_id": "Help_Carousel_Title_10",
+      "_japanese": "チャレンジイベント",
+      "_english": "Challenge Event",
+      "_traditionalChinese": "挑戰活動",
+      "_simplifiedChinese": "挑战活动",
+      "_korean": "챌린지 이벤트"
     },
     {
       "_id": "Help_Carousel_Title_11",
@@ -14324,7 +14476,7 @@
       "_id": "Character_Description_Yuno",
       "_japanese": "夢限大みゅーたいぷの脱力系DJ&マニピュレーター。\r\nゆめみたの音楽の中心で、バンドの演奏をコントロールしている。あまり家の外に出ない引きこもりで、人と接するときはクールで淡々としているが、実は情に厚いところもある。",
       "_english": "Mugendai MewType's laid-back DJ and manipulator.\r\nAt the core of YMMT's music, she controls and supports the band's overall performance. A homebody who rarely goes outside, she comes across as cool and detached when interacting with others, but she actually has a warm and caring side deep down.",
-      "_traditionalChinese": "夢限大MewType中的鬆弛系DJ兼Manipulator。\r\n作為夢限大音樂的中心，掌控著整個樂團的演奏。平時是個足不出戶的宅女，與人相處時總顯得冷酷且平淡，但其實也有重情重義的一面。",
+      "_traditionalChinese": "夢限大MewType中的慵懶系DJ兼Manipulator。\r\n作為夢限大音樂的中心，掌控著整個樂團的演奏。平時是個足不出戶的宅女，與人相處時總顯得冷酷且平淡，但其實也有重情重義的一面。",
       "_simplifiedChinese": "梦限大MewType中慵懒随性的DJ兼音控师。\r\n作为梦限大乐队音乐的核心，掌控着乐队整体的演奏节奏。平时宅在家里很少出门，和人接触时总是冷静淡然，但实际上内心也有重情谊的一面。",
       "_korean": "무겐다이 뮤타입의 나른한 DJ & 매니퓰레이터.\r\n유메미타 음악의 중심을 잡으며 밴드 사운드 전체를 조율한다. 집 밖으로 나가지 않는 히키코모리로, 사람을 대할 때에는 쿨하고 덤덤하지만 사실 정이 깊은 구석도 있다."
     },
@@ -20737,6 +20889,38 @@
       "_korean": "「LIVE HOUSE 스태프 모집」 이벤트 참여 보상입니다."
     },
     {
+      "_id": "ChatBubbleName_1006",
+      "_japanese": "",
+      "_english": "Honeyed Whispers",
+      "_traditionalChinese": "蜜語入夢",
+      "_simplifiedChinese": "蜜语入梦",
+      "_korean": "달콤한 꿈"
+    },
+    {
+      "_id": "ChatBubbleDesc_1006",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Floral Whispers Chat Deco Pack.",
+      "_traditionalChinese": "購買綺花幽語聊天室裝扮禮包後獲得。",
+      "_simplifiedChinese": "购买绮花幽语聊天室装扮礼包后获取。",
+      "_korean": "꽃의 속삭임 채팅방 꾸미기 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatFrameName_1006",
+      "_japanese": "",
+      "_english": "Phantom Blooms",
+      "_traditionalChinese": "幻花覆影",
+      "_simplifiedChinese": "幻花覆影",
+      "_korean": "환상의 꽃"
+    },
+    {
+      "_id": "ChatFrameDesc_1006",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Floral Whispers Chat Deco Pack.",
+      "_traditionalChinese": "購買綺花幽語聊天室裝扮禮包後獲得。",
+      "_simplifiedChinese": "购买绮花幽语聊天室装扮礼包后获取。",
+      "_korean": "꽃의 속삭임 채팅방 꾸미기 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
       "_id": "ui_chat_topic_name_1",
       "_japanese": "GEKISO Backstage",
       "_english": "GEKISO Backstage",
@@ -22532,7 +22716,7 @@
       "_id": "Composer_Name_100013",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
@@ -22556,7 +22740,7 @@
       "_id": "Composer_Name_100016",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
       "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
@@ -22636,7 +22820,7 @@
       "_id": "Composer_Name_100030",
       "_japanese": "あらケン(SUPA LOVE)、Diggy-MO’",
       "_english": "araken (SUPA LOVE), Diggy-MO’",
-      "_traditionalChinese": "Araken(SUPA LOVE)、Diggy-MO’",
+      "_traditionalChinese": "あらケン(SUPA LOVE)、Diggy-MO’",
       "_simplifiedChinese": "あらケン(SUPA LOVE)、Diggy-MO’",
       "_korean": "araken(SUPA LOVE), Diggy-MO’"
     },
@@ -22676,7 +22860,7 @@
       "_id": "Composer_Name_100035",
       "_japanese": "トミタカズキ(SUPA LOVE)、Diggy-MO'",
       "_english": "Kazuki Tomita (SUPA LOVE), Diggy-MO'",
-      "_traditionalChinese": "Kazuki Tomita (SUPA LOVE)、Diggy-MO'",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)、Diggy-MO'",
       "_simplifiedChinese": "トミタカズキ(SUPA LOVE)、Diggy-MO'",
       "_korean": "토미타 카즈키 (SUPA LOVE), Diggy-MO'"
     },
@@ -22716,7 +22900,7 @@
       "_id": "Composer_Name_100040",
       "_japanese": "あらケン (SUPA LOVE)",
       "_english": "araken (SUPA LOVE)",
-      "_traditionalChinese": "Araken(SUPA LOVE)",
+      "_traditionalChinese": "あらケン(SUPA LOVE)",
       "_simplifiedChinese": "あらケン(SUPA LOVE)",
       "_korean": "araken(SUPA LOVE)"
     },
@@ -23103,6 +23287,14 @@
       "_traditionalChinese": "TAKU INOUE",
       "_simplifiedChinese": "TAKU INOUE",
       "_korean": "TAKU INOUE"
+    },
+    {
+      "_id": "Composer_Name_100109",
+      "_japanese": "ケンモチヒデフミ",
+      "_english": "Kenmochi Hidefumi",
+      "_traditionalChinese": "ケンモチヒデフミ",
+      "_simplifiedChinese": "ケンモチヒデフミ",
+      "_korean": "Kenmochi Hidefumi"
     },
     {
       "_id": "Composer_Name_100110",
@@ -25241,6 +25433,126 @@
       "_korean": "아워 노트 패스 누적 구매 횟수 11회 달성 시 획득"
     },
     {
+      "_id": "Degree_Description_188",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過millsage 1st Single《鳴らす》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过millsage 1st Single「鳴らす」兑换码特典交换所获得",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_189",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過millsage 1st Single《鳴らす》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过millsage 1st Single「鳴らす」兑换码特典交换所获得",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_190",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過millsage 1st Single《鳴らす》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过millsage 1st Single「鳴らす」兑换码特典交换所获得",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_191",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過millsage 1st Single《鳴らす》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过millsage 1st Single「鳴らす」兑换码特典交换所获得",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_192",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過millsage 1st Single《鳴らす》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过millsage 1st Single「鳴らす」兑换码特典交换所获得",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_193",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所获得",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_194",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所获得",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_195",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所获得",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_196",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所获得",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_197",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所获得",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_198",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所获得",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_199",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所获得",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_200",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所获得",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_201",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所获得",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_202",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所で獲得",
+      "_english": "Obtained via Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop.",
+      "_traditionalChinese": "透過一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所獲得",
+      "_simplifiedChinese": "通过一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所获得",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소에서 획득"
+    },
+    {
       "_id": "Degree_Description_204",
       "_japanese": "リリース記念！MyGO!!!!!ピックアップガチャの交換所で獲得",
       "_english": "Obtained at the Exchange Shop for the Launch Celebration! MyGO!!!!! Pickup Gacha.",
@@ -25255,6 +25567,494 @@
       "_traditionalChinese": "透過開服紀念！Ave Mujica Pick Up轉蛋兌換所獲得",
       "_simplifiedChinese": "通过开服纪念！Ave Mujica Pick Up招募交换所获得",
       "_korean": "오픈 기념! Ave Mujica 픽업 뽑기 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_206",
+      "_japanese": "ワタシが主役のサイバーナイトガチャの交換所で獲得",
+      "_english": "Obtained at the Exchange Shop for the Cyber Night: Starring Me! Gacha.",
+      "_traditionalChinese": "透過由我主演的賽博之夜轉蛋兌換所獲得",
+      "_simplifiedChinese": "通过由我主演的赛博之夜招募交换所获得",
+      "_korean": "내가 주연인 사이버 나이트 뽑기 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_207",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_208",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_209",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_210",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_211",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_276",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_277",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_278",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_279",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_280",
+      "_japanese": "プロフィールカードで使用できるステッカー",
+      "_english": "Sticker available for use on the Profile Card.",
+      "_traditionalChinese": "可使用於名片的貼紙",
+      "_simplifiedChinese": "可在名片中使用的贴纸",
+      "_korean": "프로필 카드에서 사용할 수 있는 스티커입니다."
+    },
+    {
+      "_id": "Degree_Description_20000001",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000002",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000003",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000004",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000005",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000006",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000007",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000008",
+      "_japanese": "アイの奔流 AtoZ 「夢我夢中」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「夢我夢中」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「夢我夢中」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「mugamuchu」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000009",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000010",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000011",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000012",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000013",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000014",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000015",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000016",
+      "_japanese": "アイの奔流 AtoZ 「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「這是我們的生存梗概」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「这是我们的生存梗概」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000017",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000018",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000019",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000020",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000021",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000022",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000023",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000024",
+      "_japanese": "アイの奔流 AtoZ 「オリオンをなぞる」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
+      "_traditionalChinese": "透過愛的奔流 AtoZ 「オリオンをなぞる」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ「オリオンをなぞる」分数排名奖励获得",
+      "_korean": "사랑의 격류 AtoZ 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000025",
+      "_japanese": "アイの奔流 AtoZ プレミアムミッションパス報酬で獲得",
+      "_english": "Obtained via the Premium Mission Pass Rewards for Love Rush A to Z.",
+      "_traditionalChinese": "透過愛的奔流 AtoZ Premium任務通行證報酬獲得",
+      "_simplifiedChinese": "通过爱的奔流　AtoZ 高级任务通行证奖励获得",
+      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Name_20000001",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 1位",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu 1st place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 第1名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 第1名",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu 1위"
+    },
+    {
+      "_id": "Degree_Name_20000002",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 2位",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu 2nd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 第2名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 第2名",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu 2위"
+    },
+    {
+      "_id": "Degree_Name_20000003",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 3位",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu 3rd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 第3名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 第3名",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu 3위"
+    },
+    {
+      "_id": "Degree_Name_20000004",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP10",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu TOP10",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 TOP10",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 TOP10",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000005",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP100",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu TOP100",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 TOP100",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 TOP100",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000006",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP1000",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu TOP1000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 TOP1000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 TOP1000",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000007",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP5000",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu TOP5000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 TOP5000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 TOP5000",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000008",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 TOP10000",
+      "_english": "[Sticker] Love Rush  A to Z/mugamuchu TOP10000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/夢我夢中 TOP10000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/夢我夢中 TOP10000",
+      "_korean": "[스티커] 사랑의 격류 AtoZ/mugamuchu TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000009",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 1位",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival 1st place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第1名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第1名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 1위"
+    },
+    {
+      "_id": "Degree_Name_20000010",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 2位",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival 2nd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第2名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第2名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 2위"
+    },
+    {
+      "_id": "Degree_Name_20000011",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ 3位",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival 3rd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第3名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第3名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 3위"
+    },
+    {
+      "_id": "Degree_Name_20000012",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP10",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival TOP10",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000013",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP100",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival TOP100",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP100",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP100",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000014",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP1000",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival TOP1000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP1000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP1000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000015",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP5000",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival TOP5000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP5000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP5000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000016",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/これはぼくたちの生存のあらすじ TOP10000",
+      "_english": "[Sticker] Love Rush  A to Z/Our Survival TOP10000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000017",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 1位",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru 1st place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第1名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第1名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 1위"
+    },
+    {
+      "_id": "Degree_Name_20000018",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 2位",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru 2nd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第2名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第2名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 2위"
+    },
+    {
+      "_id": "Degree_Name_20000019",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる 3位",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru 3rd place",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第3名",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第3名",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 3위"
+    },
+    {
+      "_id": "Degree_Name_20000020",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP10",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru TOP10",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000021",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP100",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru TOP100",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP100",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP100",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000022",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP1000",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru TOP1000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP1000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP1000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000023",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP5000",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru TOP5000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP5000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP5000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000024",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ/オリオンをなぞる TOP10000",
+      "_english": "[Sticker] Love Rush  A to Z/Orion wo Nazoru TOP10000",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10000",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10000",
+      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000025",
+      "_japanese": "[ステッカー]アイの奔流 AtoZ",
+      "_english": "[Sticker] Love Rush A to Z",
+      "_traditionalChinese": "[貼紙]愛的奔流 AtoZ",
+      "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ",
+      "_korean": "[스티커] 사랑의 격류 AtoZ"
     },
     {
       "_id": "Degree_Description_10000001",
@@ -25836,7 +26636,7 @@
       "_id": "Degree_Description_10000090",
       "_japanese": "「碧い瞳の中に」を100回クリアで獲得",
       "_english": "Obtained by clearing \"in your blue eyes\" 100 times.",
-      "_traditionalChinese": "通關「in your blue eyes」100次即獲得",
+      "_traditionalChinese": "通關「碧い瞳の中に」100次即獲得",
       "_simplifiedChinese": "完成「in your blue eyes」100次时获得",
       "_korean": "「in your blue eyes」 100회 클리어 시 획득"
     },
@@ -25927,6 +26727,14 @@
       "_traditionalChinese": "通關「Stellar Stellar」100次即獲得",
       "_simplifiedChinese": "完成「Stellar Stellar」100次时获得",
       "_korean": "「Stellar Stellar」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000107",
+      "_japanese": "「夢我夢中」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"mugamuchu\" 100 times.",
+      "_traditionalChinese": "通關「夢我夢中」100次即獲得",
+      "_simplifiedChinese": "完成「夢我夢中」100次时获得",
+      "_korean": "「mugamuchu」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Description_10000108",
@@ -26260,7 +27068,7 @@
       "_id": "Degree_Name_10000047",
       "_japanese": "[ステッカー]ファタールジャケット",
       "_english": "[Sticker] Fatal Jacket",
-      "_traditionalChinese": "[貼紙]Fatal封面",
+      "_traditionalChinese": "[貼紙]ファタール封面",
       "_simplifiedChinese": "[贴纸]ファタール封面",
       "_korean": "[스티커] 파탈 재킷"
     },
@@ -26468,7 +27276,7 @@
       "_id": "Degree_Name_10000081",
       "_japanese": "[ステッカー]ピースフル・ピーシーズ！ジャケット",
       "_english": "[Sticker] Peaceful Pieces! Jacket",
-      "_traditionalChinese": "[貼紙]ピースフル・ピーシーズ！封面",
+      "_traditionalChinese": "[貼紙]Peaceful Pieces!封面",
       "_simplifiedChinese": "[贴纸]Peaceful Pieces!封面",
       "_korean": "[스티커] Peaceful Pieces! 재킷"
     },
@@ -26532,7 +27340,7 @@
       "_id": "Degree_Name_10000092",
       "_japanese": "[ステッカー]TearJerkerジャケット",
       "_english": "[Sticker] TearJerker Jacket",
-      "_traditionalChinese": "[貼紙]Tearjerker封面",
+      "_traditionalChinese": "[貼紙]TearJerker封面",
       "_simplifiedChinese": "[贴纸]TearJerker封面",
       "_korean": "[스티커] TearJerker 재킷"
     },
@@ -26580,7 +27388,7 @@
       "_id": "Degree_Name_10000103",
       "_japanese": "[ステッカー]ホワイトノイズジャケット",
       "_english": "[Sticker] White Noise Jacket",
-      "_traditionalChinese": "[貼紙]White Noise封面",
+      "_traditionalChinese": "[貼紙]ホワイトノイズ封面",
       "_simplifiedChinese": "[贴纸]ホワイトノイズ封面",
       "_korean": "[스티커] White Noise 재킷"
     },
@@ -26607,6 +27415,14 @@
       "_traditionalChinese": "[貼紙]Stellar Stellar封面",
       "_simplifiedChinese": "[贴纸]Stellar Stellar封面",
       "_korean": "[스티커] Stellar Stellar 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000107",
+      "_japanese": "[ステッカー]夢我夢中ジャケット",
+      "_english": "[Sticker] mugamuchu Jacket",
+      "_traditionalChinese": "[貼紙]夢我夢中封面",
+      "_simplifiedChinese": "[贴纸]夢我夢中封面",
+      "_korean": "[스티커] mugamuchu 재킷"
     },
     {
       "_id": "Degree_Name_10000108",
@@ -27969,6 +28785,126 @@
       "_korean": "[스티커] 아워 노트 패스 누적 구매 횟수 11회"
     },
     {
+      "_id": "Degree_Name_188",
+      "_japanese": "[ステッカー]汐見 蛍 「鳴らす」特典ver.",
+      "_english": "[Sticker] Hotaru Shiomi - \"鳴らす\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]汐見螢 「鳴らす」特典ver.",
+      "_simplifiedChinese": "[贴纸]汐见萤 「鳴らす」特典ver.",
+      "_korean": "[스티커] 시오미 호타루 「鳴らす」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_189",
+      "_japanese": "[ステッカー]伊沢 なつめ 「鳴らす」特典ver.",
+      "_english": "[Sticker] Natsume Izawa - \"鳴らす\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]伊澤棗 「鳴らす」特典ver.",
+      "_simplifiedChinese": "[贴纸]伊泽枣 「鳴らす」特典ver.",
+      "_korean": "[스티커] 이자와 나츠메 「鳴らす」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_190",
+      "_japanese": "[ステッカー]琴平 凪 「鳴らす」特典ver.",
+      "_english": "[Sticker] Nagi Kotohira - \"鳴らす\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]琴平凪 「鳴らす」特典ver.",
+      "_simplifiedChinese": "[贴纸]琴平凪 「鳴らす」特典ver.",
+      "_korean": "[스티커] 코토히라 나기 「鳴らす」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_191",
+      "_japanese": "[ステッカー]浜崎 まほろ 「鳴らす」特典ver.",
+      "_english": "[Sticker] Mahoro Hamasaki - \"鳴らす\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]濱崎茉幌 「鳴らす」特典ver.",
+      "_simplifiedChinese": "[贴纸]滨崎茉幌 「鳴らす」特典ver.",
+      "_korean": "[스티커] 하마사키 마호로 「鳴らす」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_192",
+      "_japanese": "[ステッカー]和泉 朋花 「鳴らす」特典ver.",
+      "_english": "[Sticker] Houka Izumi - \"鳴らす\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]和泉朋花 「鳴らす」特典ver.",
+      "_simplifiedChinese": "[贴纸]和泉朋花 「鳴らす」特典ver.",
+      "_korean": "[스티커] 이즈미 호우카 「鳴らす」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_193",
+      "_japanese": "[ステッカー]仲町 あられ 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "[Sticker] Arale Nakamachi - \"Our Survival\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]仲町阿拉蕾 「這是我們的生存梗概」特典ver.",
+      "_simplifiedChinese": "[贴纸]仲町阿拉蕾 「这是我们的生存梗概」特典ver.",
+      "_korean": "[스티커] 나카마치 아라레 「이것은 우리들이 살아남는 줄거리」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_194",
+      "_japanese": "[ステッカー]宮永 ののか 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "[Sticker] Nonoka Miyanaga - \"Our Survival\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]宮永野乃花 「這是我們的生存梗概」特典ver.",
+      "_simplifiedChinese": "[贴纸]宫永野乃花  「这是我们的生存梗概」特典ver.",
+      "_korean": "[스티커] 미야나가 노노카 「이것은 우리들이 살아남는 줄거리」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_195",
+      "_japanese": "[ステッカー]峰月 律 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "[Sticker] Ritsu Minetsuki - \"Our Survival\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]峰月律 「這是我們的生存梗概」特典ver.",
+      "_simplifiedChinese": "[贴纸]峰月律 「这是我们的生存梗概」特典ver.",
+      "_korean": "[스티커] 미네츠키 리츠 「이것은 우리들이 살아남는 줄거리」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_196",
+      "_japanese": "[ステッカー]藤 都子 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "[Sticker] Miyako Fuji - \"Our Survival\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]藤都子 「這是我們的生存梗概」特典ver.",
+      "_simplifiedChinese": "[贴纸]藤都子 「这是我们的生存梗概」特典ver.",
+      "_korean": "[스티커] 후지 미야코 「이것은 우리들이 살아남는 줄거리」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_197",
+      "_japanese": "[ステッカー]千石 ユノ 「これはぼくたちの生存のあらすじ」特典ver.",
+      "_english": "[Sticker] Yuno Sengoku - \"Our Survival\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]千石由乃 「這是我們的生存梗概」特典ver.",
+      "_simplifiedChinese": "[贴纸]千石由乃 「这是我们的生存梗概」特典ver.",
+      "_korean": "[스티커] 센고쿠 유노 「이것은 우리들이 살아남는 줄거리」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_198",
+      "_japanese": "[ステッカー]須賀 蕾叶 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "[Sticker] Raika Suga - \"Peaceful Pieces!\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]須賀蕾葉 「Peaceful Pieces!」特典ver.",
+      "_simplifiedChinese": "[贴纸]须贺蕾叶 「Peaceful Pieces!」 特典ver.",
+      "_korean": "[스티커] 스가 라이카 「Peaceful Pieces!」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_199",
+      "_japanese": "[ステッカー]馬橋 心玖 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "[Sticker] Miku Mahashi - \"Peaceful Pieces!\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]馬橋心玖 「Peaceful Pieces!」特典ver.",
+      "_simplifiedChinese": "[贴纸]马桥心玖 「Peaceful Pieces!」 特典ver.",
+      "_korean": "[스티커] 마하시 미쿠 「Peaceful Pieces!」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_200",
+      "_japanese": "[ステッカー]矢倉 蓬咲 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "[Sticker] Yomogi Yakura - \"Peaceful Pieces!\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]矢倉蓬咲 「Peaceful Pieces!」特典ver.",
+      "_simplifiedChinese": "[贴纸]矢仓蓬咲 「Peaceful Pieces!」 特典ver.",
+      "_korean": "[스티커] 야쿠라 요모기 「Peaceful Pieces!」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_201",
+      "_japanese": "[ステッカー]梅里 ちえり 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "[Sticker] Chieri Umezato - \"Peaceful Pieces!\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]梅里千櫻梨 「Peaceful Pieces!」特典ver.",
+      "_simplifiedChinese": "[贴纸]梅里千樱梨 「Peaceful Pieces!」 特典ver.",
+      "_korean": "[스티커] 우메자토 치에리 「Peaceful Pieces!」 혜택 ver."
+    },
+    {
+      "_id": "Degree_Name_202",
+      "_japanese": "[ステッカー]四宮 寧月 「ピースフル・ピーシーズ！」 特典ver.",
+      "_english": "[Sticker] Shizuku Shinomiya - \"Peaceful Pieces!\" Bonus ver.",
+      "_traditionalChinese": "[貼紙]四宮寧月 「Peaceful Pieces!」特典ver.",
+      "_simplifiedChinese": "[贴纸]四宫宁月 「Peaceful Pieces!」 特典ver.",
+      "_korean": "[스티커] 시노미야 시즈쿠 「Peaceful Pieces!」 혜택 ver."
+    },
+    {
       "_id": "Degree_Name_204",
       "_japanese": "[ステッカー]リリース記念！MyGO!!!!!ピックアップガチャ",
       "_english": "[Sticker] Launch Celebration! MyGO!!!!! Pickup Gacha",
@@ -27983,6 +28919,94 @@
       "_traditionalChinese": "[貼紙]開服紀念！Ave Mujica Pick Up轉蛋",
       "_simplifiedChinese": "[贴纸]开服纪念！Ave Mujica Pick Up招募",
       "_korean": "[스티커] 오픈 기념! Ave Mujica 픽업 뽑기"
+    },
+    {
+      "_id": "Degree_Name_206",
+      "_japanese": "[ステッカー]ワタシが主役のサイバーナイトガチャ",
+      "_english": "[Sticker] Cyber Night: Starring Me! GACHA",
+      "_traditionalChinese": "[貼紙]由我主演的賽博之夜轉蛋",
+      "_simplifiedChinese": "[贴纸]由我主演的赛博之夜招募",
+      "_korean": "[스티커] 내가 주연인 사이버 나이트 뽑기"
+    },
+    {
+      "_id": "Degree_Name_207",
+      "_japanese": "アイの奔流 AtoZ TOP10",
+      "_english": "Love Rush A to Z TOP 10",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP10",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP10",
+      "_korean": "사랑의 격류 AtoZ TOP10"
+    },
+    {
+      "_id": "Degree_Name_208",
+      "_japanese": "アイの奔流 AtoZ TOP100",
+      "_english": "Love Rush A to Z TOP 100",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP100",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP100",
+      "_korean": "사랑의 격류 AtoZ TOP100"
+    },
+    {
+      "_id": "Degree_Name_209",
+      "_japanese": "アイの奔流 AtoZ TOP1000",
+      "_english": "Love Rush A to Z TOP 1,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP1000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP1000",
+      "_korean": "사랑의 격류 AtoZ TOP1000"
+    },
+    {
+      "_id": "Degree_Name_210",
+      "_japanese": "アイの奔流 AtoZ TOP5000",
+      "_english": "Love Rush A to Z TOP 5,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP5000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP5000",
+      "_korean": "사랑의 격류 AtoZ TOP5000"
+    },
+    {
+      "_id": "Degree_Name_211",
+      "_japanese": "アイの奔流 AtoZ TOP10000",
+      "_english": "Love Rush A to Z TOP 10,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP10000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP10000",
+      "_korean": "사랑의 격류 AtoZ TOP10000"
+    },
+    {
+      "_id": "Degree_Name_276",
+      "_japanese": "アイの奔流 AtoZ TOP10",
+      "_english": "Love Rush A to Z TOP 10",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP10",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP10",
+      "_korean": "사랑의 격류 AtoZ TOP10"
+    },
+    {
+      "_id": "Degree_Name_277",
+      "_japanese": "アイの奔流 AtoZ TOP100",
+      "_english": "Love Rush A to Z TOP 100",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP100",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP100",
+      "_korean": "사랑의 격류 AtoZ TOP100"
+    },
+    {
+      "_id": "Degree_Name_278",
+      "_japanese": "アイの奔流 AtoZ TOP1000",
+      "_english": "Love Rush A to Z TOP 1,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP1000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP1000",
+      "_korean": "사랑의 격류 AtoZ TOP1000"
+    },
+    {
+      "_id": "Degree_Name_279",
+      "_japanese": "アイの奔流 AtoZ TOP5000",
+      "_english": "Love Rush A to Z TOP 5,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP5000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP5000",
+      "_korean": "사랑의 격류 AtoZ TOP5000"
+    },
+    {
+      "_id": "Degree_Name_280",
+      "_japanese": "アイの奔流 AtoZ TOP10000",
+      "_english": "Love Rush A to Z TOP 10,000",
+      "_traditionalChinese": "愛的奔流 AtoZ TOP10000",
+      "_simplifiedChinese": "爱的奔流 AtoZ TOP10000",
+      "_korean": "사랑의 격류 AtoZ TOP10000"
     },
     {
       "_id": "Item_Source_Name_1",
@@ -28129,12 +29153,28 @@
       "_korean": "일가 Dumb Rock!"
     },
     {
+      "_id": "Event_Name_0001",
+      "_japanese": "アイの奔流　AtoZ",
+      "_english": "Love Rush A to Z",
+      "_traditionalChinese": "愛的奔流 AtoZ",
+      "_simplifiedChinese": "爱的奔流 AtoZ",
+      "_korean": "사랑의 격류 AtoZ"
+    },
+    {
       "_id": "Event_Name_001",
       "_japanese": "ゆめみたイベント",
       "_english": "YMMT Event",
       "_traditionalChinese": "夢限大活動",
       "_simplifiedChinese": "梦限大活动",
       "_korean": "유메미타 이벤트"
+    },
+    {
+      "_id": "Exchange_Name_1",
+      "_japanese": "アイの奔流　AtoZ イベント交換所",
+      "_english": "Love Rush A to Z Event Exchange Shop",
+      "_traditionalChinese": "愛的奔流 AtoZ 活動兌換所",
+      "_simplifiedChinese": "爱的奔流 AtoZ 活动交换所",
+      "_korean": "사랑의 격류 AtoZ 이벤트 교환소"
     },
     {
       "_id": "Exchange_Name_2",
@@ -28215,6 +29255,38 @@
       "_traditionalChinese": "星光貼紙兌換所",
       "_simplifiedChinese": "星星贴纸交换所",
       "_korean": "별의 스티커 교환소"
+    },
+    {
+      "_id": "Exchange_Name_13",
+      "_japanese": "ワタシが主役のサイバーナイトガチャ交換所",
+      "_english": "Cyber Night: Starring Me! GACHA Exchange Shop",
+      "_traditionalChinese": "由我主演的賽博之夜轉蛋兌換所",
+      "_simplifiedChinese": "由我主演的赛博之夜招募交换所",
+      "_korean": "내가 주연인 사이버 나이트 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_14",
+      "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換所",
+      "_english": "millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Shop",
+      "_traditionalChinese": "millsage 1st Single《鳴らす》序號特典兌換所",
+      "_simplifiedChinese": "millsage 1st Single「鳴らす」兑换码特典交换所",
+      "_korean": "millsage 1st Single 「鳴らす」 교환 코드 혜택 교환소"
+    },
+    {
+      "_id": "Exchange_Name_15",
+      "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換所",
+      "_english": "Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Shop",
+      "_traditionalChinese": "夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換所",
+      "_simplifiedChinese": "梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换所",
+      "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환소"
+    },
+    {
+      "_id": "Exchange_Name_16",
+      "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換所",
+      "_english": "Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Shop",
+      "_traditionalChinese": "一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換所",
+      "_simplifiedChinese": "一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换所",
+      "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환소"
     },
     {
       "_id": "Exchange_Name_17",
@@ -29473,6 +30545,14 @@
       "_korean": "아이템, R 이상 멤버, 스냅 등을 획득할 수 있는 뽑기"
     },
     {
+      "_id": "Gacha_Description_10",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -29547,7 +30627,7 @@
     {
       "_id": "gacha_unit_ko",
       "_japanese": "個",
-      "_english": "",
+      "_english": "piece",
       "_traditionalChinese": "個",
       "_simplifiedChinese": "个",
       "_korean": "개"
@@ -30087,6 +31167,14 @@
       "_traditionalChinese": "觀看廣告轉蛋",
       "_simplifiedChinese": "观看广告招募",
       "_korean": "광고 시청 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_10",
+      "_japanese": "ワタシが主役のサイバーナイトガチャ",
+      "_english": "Cyber Night: Starring Me! Gacha",
+      "_traditionalChinese": "由我主演的賽博之夜轉蛋",
+      "_simplifiedChinese": "由我主演的赛博之夜招募",
+      "_korean": "내가 주연인 사이버 나이트 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -32537,6 +33625,454 @@
       "_korean": "LUCK 추첨 게이지 UP (일가 Dumb Rock! 보너스)"
     },
     {
+      "_id": "ui_hc_history_button",
+      "_japanese": "スター履歴",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_title",
+      "_japanese": "スター履歴",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_discription",
+      "_japanese": "・過去30日分のスター履歴（獲得・消費）を確認できます。\r\n・31日以上前の履歴については、サポートまでお問い合わせください。\r\n※プレゼントボックス内のスターは、受け取り完了時に履歴へ反映されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_via_present",
+      "_japanese": "プレゼントボックス受取",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_time",
+      "_japanese": "日時",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_paid_hc",
+      "_japanese": "有償スター",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_free_hc",
+      "_japanese": "無償スター",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_header_content",
+      "_japanese": "項目",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_no_exist",
+      "_japanese": "過去30日間のスター獲得・消費履歴はありません。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_shop_purchase",
+      "_japanese": "ショップでのスター購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_monthly_pass",
+      "_japanese": "アワーノーツパスの特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_event_box_gacha",
+      "_japanese": "イベントのボックスガチャ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_story",
+      "_japanese": "ストーリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_admin",
+      "_japanese": "運営からの付与",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_friendship_story",
+      "_japanese": "絆ストーリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_shop",
+      "_japanese": "ショップでの購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_gacha",
+      "_japanese": "ガチャでの消費",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_live_boost",
+      "_japanese": "ライブブーストの回復",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_vip_rank_pack",
+      "_japanese": "T.G.W CARDランクパックの購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_season_pass",
+      "_japanese": "シーズンパスのポイント購入",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_present",
+      "_japanese": "プレゼントボックスから獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_reason_other",
+      "_japanese": "その他",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_1",
+      "_japanese": "その他の受取",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_2",
+      "_japanese": "所持上限を超えたスターの獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_3",
+      "_japanese": "ログインボーナスでの獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_4",
+      "_japanese": "ミッション未受け取り分の獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_5",
+      "_japanese": "交換所終了後のガチャptの変換分",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_6",
+      "_japanese": "ガチャのおまけ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_7",
+      "_japanese": "アワーノーツパス購入特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_8",
+      "_japanese": "アワーノーツパス継続特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_9",
+      "_japanese": "期間が切れたシーズンパス報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_10",
+      "_japanese": "ショップ購入時の所持上限分の受取",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_11",
+      "_japanese": "サークルメンバー特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_12",
+      "_japanese": "キャラランク達成報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_13",
+      "_japanese": "絆ランク達成報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_14",
+      "_japanese": "楽曲報酬のスコアランク報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_15",
+      "_japanese": "楽曲報酬のコンボ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_16",
+      "_japanese": "ハイスコアレーティングのグレード報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_17",
+      "_japanese": "ステージチャレンジ_達成報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_18",
+      "_japanese": "撃奏アリーナ_昇格報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_19",
+      "_japanese": "撃奏アリーナ_シーズン報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_20",
+      "_japanese": "撃奏アリーナ_ランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_21",
+      "_japanese": "撃奏アリーナ_デイリー報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_22",
+      "_japanese": "グループランクアップ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_23",
+      "_japanese": "グループランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_24",
+      "_japanese": "ライフブーストリクエスト",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_25",
+      "_japanese": "招待コード入力報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_26",
+      "_japanese": "イベントランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_27",
+      "_japanese": "ライブスタンプ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_28",
+      "_japanese": "イベントポイント達成報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_29",
+      "_japanese": "アワーノーツパス初回特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_30",
+      "_japanese": "アワーノーツパスデイリー特典",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_31",
+      "_japanese": "T.G.W CARDランクアップ報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_32",
+      "_japanese": "友達招待報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_33",
+      "_japanese": "イベント楽曲ランキング報酬",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "ui_hc_history_present_detail_34",
+      "_japanese": "ログインボーナスでの獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_Category_Title_10",
       "_japanese": "【ホーム】",
       "_english": "[Home]",
@@ -32631,6 +34167,14 @@
       "_traditionalChinese": "【激奏演出】",
       "_simplifiedChinese": "【激奏演出】",
       "_korean": "[격주 라이브]"
+    },
+    {
+      "_id": "Help_Category_Title_140",
+      "_japanese": "【チャレンジイベント】",
+      "_english": "[Challenge Event]",
+      "_traditionalChinese": "【挑戰活動】",
+      "_simplifiedChinese": "【挑战活动】",
+      "_korean": "[챌린지 이벤트]"
     },
     {
       "_id": "Help_Category_Title_150",
@@ -33287,6 +34831,38 @@
       "_traditionalChinese": "·自由對戰：最高分評級相近的玩家們將進行進行隨機配對。\r\n·房間對戰：建立房間後，使用「房間ID」或「邀請好友」邀請特定玩家一起遊玩。",
       "_simplifiedChinese": "・自由对战：最高分评级相近的玩家之间会随机匹配。\r\n・房间对战：创建房间，使用「房间ID」或「好友邀请」与特定玩家一起游玩。",
       "_korean": "·프리 대전: 하이 스코어 레이팅이 비슷한 플레이어끼리 랜덤으로 매칭됩니다.\r\n·룸 대전: 룸을 생성하고 「룸 ID」나 「친구 초대」를 통해 특정 플레이어와 함께 플레이할 수 있습니다."
+    },
+    {
+      "_id": "Help_SubCategory_Description_140001",
+      "_japanese": "イベント期間中にライブをクリアすると、「イベントpt」「チャレンジpt」および「イベントバッジ」を獲得できます。\r\n獲得した「イベントpt」に応じて、イベントストーリーの解放や達成報酬を獲得することができます。\r\n\r\n>>>チャレンジライブについて\r\n獲得した「チャレンジpt」を消費して「チャレンジライブ」に挑戦できます。\r\n「チャレンジライブ」では課題楽曲に挑戦して「イベントpt」や「イベントバッジ」を通常のライブよりも多く獲得することができます。\r\n\r\n>>>楽曲スコアランキングについて\r\n「チャレンジライブ」にて課題楽曲をクリアすると、楽曲ごとのスコアランキングに参加できます。\r\n イベント終了時のランキング順位に応じて、イベント限定ステッカーなどの豪華報酬を獲得することができます。\r\n\r\n※イベントで獲得した「イベントpt」「チャレンジpt」および「イベントバッジ」は、次回イベントへ持ち越すことはできません。",
+      "_english": "During the event period, clearing a LIVE earns you \"Event Pts,\" \"Challenge Pts,\" and \"Event Badges.\"\r\nDepending on the \"Event Pts\" you earn, you can unlock the Event Story and obtain Achievement Rewards.\r\n\r\n>>>About Challenge LIVE\r\nYou can spend earned \"Challenge Pts\" to attempt a \"Challenge LIVE.\"\r\nIn \"Challenge LIVE,\" you take on the assigned song and can earn more \"Event Pts\" and \"Event Badges\" than in a normal LIVE.\r\n\r\n>>>About Song Score Ranking\r\nClearing the assigned song in \"Challenge LIVE\" lets you participate in that Song's Score Ranking.\r\nDepending on your final ranking when the event ends, you can earn special rewards such as event-exclusive stickers.\r\n\r\n*\"Event Pts,\" \"Challenge Pts,\" and \"Event Badges\" earned in an event cannot be carried over to the next event.",
+      "_traditionalChinese": "在活動期間內通關演出，即可獲得「活動pt」、「挑戰pt」與「挑戰獎章」。\r\n根據已獲得的「活動pt」，可開放活動故事及獲得達成報酬。\r\n\r\n>>>關於挑戰演出\r\n消耗獲得的「挑戰pt」即可挑戰「挑戰演出」。\r\n在「挑戰演出」中，您可以挑戰課題樂曲。課題樂曲可以獲得比普通樂曲更多的「活動pt」和「活動獎章」。\r\n\r\n關於樂曲分數排行榜\r\n在「挑戰演出」中通關課題樂曲，即可參加每首樂曲的分數排行榜。\r\n活動結束時，您可以根據排行榜名次獲得對應的活動限定貼紙等豐富報酬。\r\n\r\n※在活動中獲得的「活動pt」、「挑戰pt」與「挑戰獎章」無法繼承至下個活動中使用。",
+      "_simplifiedChinese": "在活动期间完成演出，即可获得「活动pt」「挑战pt」及「活动徽章」。\r\n根据获得的「活动pt」，可解锁活动故事及获得达成奖励。\r\n\r\n>>>关于挑战演出\r\n消耗获得的「挑战pt」，即可挑战「挑战演出」。\r\n在「挑战演出」中挑战课题乐曲，可获得比通常演出更多的「活动pt」和「活动徽章」。\r\n\r\n>>>关于乐曲分数排名\r\n在「挑战演出」中完成课题乐曲，即可参与各乐曲的分数排名。\r\n 根据活动结束时的排名，可获得活动限定贴纸等丰厚奖励。\r\n\r\n※在活动中获得的「活动pt」「挑战pt」以及「活动徽章」，无法保留至下一次活动。",
+      "_korean": "이벤트 기간 중에 라이브를 클리어하면 「이벤트 pt」, 「챌린지 pt」 및 「이벤트 배지」를 획득할 수 있습니다.\r\n획득한 「이벤트 pt」에 따라 이벤트 스토리 해제나 달성 보상을 획득하실 수 있습니다.\r\n\r\n>>>챌린지 라이브 정보\r\n획득한 「챌린지 pt」를 소모하여 「챌린지 라이브」에 도전하실 수 있습니다.\r\n「챌린지 라이브」에서는 과제 곡에 도전하여 「이벤트 pt」와 「이벤트 배지」를 일반 라이브보다 더 많이 획득할 수 있습니다.\r\n\r\n>>>곡 스코어 랭킹 정보\r\n「챌린지 라이브」에서 과제 곡을 클리어하면 곡별 스코어 랭킹에 참가할 수 있습니다.\r\n이벤트 종료 시의 랭킹 순위에 따라 이벤트 한정 스티커 등의 푸짐한 보상을 획득할 수 있습니다.\r\n\r\n※이벤트에서 획득한 「이벤트 pt」, 「챌린지 pt」 및 「이벤트 배지」는 다음 이벤트로 이월할 수 없습니다."
+    },
+    {
+      "_id": "Help_SubCategory_Description_140002",
+      "_japanese": "イベントボーナスとは、イベント期間中に特定のメンバーやスナップを編成してライブをすることで\r\nイベントを有利に進めることができる機能です。\r\n\r\n>>>「イベントpt」と「イベントアイテム」獲得量アップ\r\nイベントボーナス対象のメンバーおよびスナップを編成してライブをクリアすると、\r\n「イベントpt」と「イベントアイテム」の獲得量にそれぞれボーナスが加算されます。\r\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\r\nまた、編成したメンバーおよびスナップの各種ボーナス値はすべて合算され、イベントptとイベントアイテムの双方に適用されます。\r\n\r\n>>>「パラメータボーナス」\r\nイベントボーナス対象のメンバーおよびスナップの総合力がアップします。\r\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\r\n※「パラメータボーナス」はチャレンジライブのみで発動します。",
+      "_english": "Event Bonus is a feature that lets you progress through an event more advantageously\r\nby forming certain Members or Snapshots in your team and playing LIVEs during the event period.\r\n\r\n>>>Increased \"Event Pts\" and \"Event Items\" Earned\r\nWhen you clear a LIVE with Members and Snapshots eligible for the Event Bonus in your team,\r\nbonuses are added to both your \"Event Pts\" and \"Event Items\" earnings.\r\nYou can check the bonus-eligible Members and Snapshots, along with their bonus values, on the event screen.\r\nIn addition, all bonus values from the Members and Snapshots in your team are combined and applied to both Event Pts and Event Items.\r\n\r\n>>>\"Parameter Bonus\"\r\nThe Total Power of Members and Snapshots eligible for the Event Bonus is increased.\r\nYou can check the bonus-eligible Members and Snapshots, along with their bonus values, on the event screen.\r\n*\"Parameter Bonus\" only activates in Challenge LIVE.",
+      "_traditionalChinese": "所謂活動加成，是在活動期間內編組特定團員或快照\r\n便能在演出取得優勢的功能。\r\n\r\n>>>提升「活動pt」與「活動道具」獲得量\r\n編組活動加成對象團員與快照後通關演出，\r\n「活動pt」與「活動道具」的獲得量將會以各自的加成效果來增加數量。\r\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\r\n此外，系統將會總計編組團員與快照的各種加成值，活動pt與活動道具皆會受到該總計加成值的影響。\r\n\r\n>>>「能力值加成」\r\n將會提升活動加成對象成員與快照的綜合力。\r\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\r\n※「能力值加成」只會在挑戰演出中發動。",
+      "_simplifiedChinese": "活动加成是指在活动期间，将特定成员或留影编入队伍进行演出，\r\n从而更有利于推进活动的一项功能。\r\n\r\n>>>「活动pt」与「活动道具」获得量提升\r\n将活动加成对象成员及留影编入队伍并完成演出后，\r\n「活动pt」与「活动道具」的获得量将分别增加相应的加成。\r\n加成对象成员及留影，以及加成数值，均可在相应的活动界面中确认。\r\n此外，编入队伍的成员及留影的各项加成数值将全部累加，并同时适用于活动pt与活动道具。\r\n\r\n>>>「能力值加成」\r\n活动加成对象成员及留影的综合能力将会提升。\r\n加成对象成员及留影，以及加成数值，均可在相应的活动界面中确认。\r\n※「能力值加成」仅在挑战演出中生效。",
+      "_korean": "이벤트 보너스란, 이벤트 기간 중에 특정 멤버나 스냅을 편성해 라이브를 함으로써\r\n이벤트를 유리하게 진행할 수 있는 기능입니다.\r\n\r\n>>>「이벤트 pt」와 「이벤트 아이템」 획득량 업\r\n이벤트 보너스 대상 멤버 및 스냅을 편성하여 라이브를 클리어하면,\r\n「이벤트 pt」와 「이벤트 아이템」의 획득량에 각각 보너스가 가산됩니다.\r\n보너스 대상 멤버 및 스냅, 보너스 값은 대상 이벤트 화면에서 확인할 수 있습니다.\r\n또한 편성한 멤버 및 스냅의 각종 보너스 값은 모두 합산되어 이벤트 pt와 이벤트 아이템 양쪽에 적용됩니다.\r\n\r\n>>>「능력치 보너스」\r\n이벤트 보너스 대상 멤버 및 스냅의 종합력이 상승합니다.\r\n보너스 대상 멤버 및 스냅, 보너스 값은 대상 이벤트 화면에서 확인할 수 있습니다.\r\n※「능력치 보너스」는 챌린지 라이브에서만 발동합니다."
+    },
+    {
+      "_id": "Help_SubCategory_Description_140003",
+      "_japanese": "イベント期間中にライブをクリアして獲得した「イベントバッジ」は、対象のイベント専用交換所にて、スナップや各種アイテム等と交換できます。\r\n\r\n※交換所の内容は開催中のイベントによって異なります。詳しくは対象の交換所をご確認ください。\r\n※期限までに使用されなかったイベントバッジはご利用いただけなくなります。",
+      "_english": "\"Event Badges\" earned by clearing LIVEs during the event period can be exchanged for Snapshots, various items, and more at the dedicated Event Exchange Shop.\r\n\r\n*The contents of the Exchange Shop vary depending on the event currently being held. Please check the applicable Exchange Shop for details.\r\n*Event Badges that are not used by the expiration date will no longer be usable.",
+      "_traditionalChinese": "在活動期間內通關演出後獲得的「活動獎章」，可以在對象的活動專用兌換所中兌換快照或各種道具。\r\n\r\n※兌換所的內容會因舉辦的活動而有所不同，詳情請前往對象兌換所中確認。\r\n※在期限內未使用的活動獎章，期限後將無法再使用。",
+      "_simplifiedChinese": "在活动期间完成演出所获得的「活动徽章」，可在相应的活动专属交换所中，交换留影及各种道具等。\r\n\r\n※交换所的内容会根据正在举办的活动而有所不同。详情请在相应的交换所中确认。\r\n※逾期未使用的活动徽章将无法继续使用。",
+      "_korean": "이벤트 기간 중 라이브를 클리어해 획득한 「이벤트 배지」는 대상 이벤트 전용 교환소에서 스냅이나 각종 아이템 등으로 교환할 수 있습니다.\r\n\r\n※교환소의 내용은 개최 중인 이벤트에 따라 다릅니다. 자세한 내용은 대상 교환소를 확인해 주십시오.\r\n※기한까지 사용되지 않은 이벤트 배지는 더 이상 이용하실 수 없습니다."
+    },
+    {
+      "_id": "Help_SubCategory_Description_140004",
+      "_japanese": "イベント開催期間中、いつでも挑戦できる特別なミッションです。\r\n「パスミッション」をクリアしてパスptを獲得し、「パスLv」を上げることで、レベルに応じた報酬を獲得できます。\r\n\r\n>>>プレミアム報酬について\r\nイベントミッションパス画面より「プレミアムパス」を購入し、パスLvを達成することで解放・獲得できます。\r\nプレミアム報酬限定ステッカーや希望のプリズムなど、ノーマル報酬に加えてさらに豪華なアイテムが獲得することができます。\r\n\r\n※報酬の内容は開催中のイベントによって異なります。詳しくは対象のミッションパスをご確認ください。",
+      "_english": "These are special missions that can be challenged at any time during the event period.\r\nComplete \"Pass Missions\" to earn Pass Pts and raise your \"Pass Lv.\" You can earn rewards based on your level.\r\n\r\n>>>About Premium Rewards\r\nYou can unlock and obtain these by purchasing the \"Premium Pass\" from the Event Mission Pass screen and reaching Pass Lv. milestones.\r\nIn addition to Normal Rewards, you can obtain even more luxurious items, including Stickers exclusive to Premium Rewards and Hope Prisms.\r\n\r\n*Reward contents vary depending on the event currently being held. Please check the applicable Mission Pass for details.",
+      "_traditionalChinese": "是在活動舉辦期間，可以隨時挑戰的特別任務。\r\n通關「通行證任務」獲得通行證pt後提升「通行證Lv」，即可獲得各等級所對應的報酬。\r\n\r\n>>>關於Premium報酬\r\n透過活動任務通行證畫面購買「Premium通行證」後達成通行證Lv，即可開放並獲得Premium報酬。\r\n不只通常報酬，還能獲得Premium報酬限定的貼紙或希望稜晶等更加豐富的道具。\r\n\r\n※報酬內容會根據舉辦的活動而有所不同。詳情請確認對象的任務通行證。",
+      "_simplifiedChinese": "这是在活动举办期间，随时均可挑战的特殊任务。\r\n完成「通行证任务」获得通行证pt，提升「通行证Lv」，即可获得相应等级的奖励。\r\n\r\n>>>关于高级奖励\r\n在活动任务通行证界面购买「高级通行证」，并达到相应通行证Lv后即可解锁并获得。\r\n在普通奖励的基础上，还能额外获得高级奖励限定贴纸、希望棱晶等更为丰厚的道具。\r\n\r\n※奖励的内容会根据正在举办的活动而有所不同。详情请在相应的任务通行证中确认。",
+      "_korean": "이벤트 개최 기간 중 언제든 도전할 수 있는 특별한 미션입니다.\r\n「패스 미션」을 클리어하여 패스 pt를 획득하고, 「패스 Lv」를 올리면 레벨에 따라 보상을 획득할 수 있습니다.\r\n\r\n>>>프리미엄 보상 정보\r\n이벤트 미션 패스 화면에서 「프리미엄 패스」를 구매하고 패스 Lv를 달성하면 해제·획득할 수 있습니다.\r\n프리미엄 보상 한정 스티커나 희망의 젬 등, 일반 보상에 더해 더욱 호화로운 아이템을 획득할 수 있습니다.\r\n\r\n※ 보상 내용은 진행 중인 이벤트에 따라 다릅니다. 자세한 내용은 대상 미션 패스를 확인해 주세요."
     },
     {
       "_id": "Help_SubCategory_Description_150001",
@@ -34785,6 +36361,38 @@
       "_korean": "매칭"
     },
     {
+      "_id": "Help_SubCategory_Title_140001",
+      "_japanese": "チャレンジライブイベントとは",
+      "_english": "About Challenge LIVE Event",
+      "_traditionalChinese": "關於挑戰演出活動",
+      "_simplifiedChinese": "关于挑战演出活动",
+      "_korean": "챌린지 라이브 이벤트란"
+    },
+    {
+      "_id": "Help_SubCategory_Title_140002",
+      "_japanese": "イベントボーナスについて",
+      "_english": "About Event Bonus",
+      "_traditionalChinese": "關於活動加成",
+      "_simplifiedChinese": "活动加成说明",
+      "_korean": "이벤트 보너스에 대하여"
+    },
+    {
+      "_id": "Help_SubCategory_Title_140003",
+      "_japanese": "イベントバッジ交換所について",
+      "_english": "About Event Badge Exchange Shop",
+      "_traditionalChinese": "關於活動獎章（兌換所）",
+      "_simplifiedChinese": "活动徽章交换所说明",
+      "_korean": "이벤트 배지 교환소에 대하여"
+    },
+    {
+      "_id": "Help_SubCategory_Title_140004",
+      "_japanese": "イベントミッションパスについて",
+      "_english": "About Event Mission Pass",
+      "_traditionalChinese": "關於活動任務通行證",
+      "_simplifiedChinese": "活动任务通行证说明",
+      "_korean": "이벤트 미션 패스에 대하여"
+    },
+    {
       "_id": "Help_SubCategory_Title_150001",
       "_japanese": "ストーリーとは",
       "_english": "About Story",
@@ -36057,6 +37665,14 @@
       "_korean": "멤버 (SSR) 각성에 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_43",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Description_47",
       "_japanese": "メンバーピースまたはスナップを変換すると獲得することができるアイテム",
       "_english": "An item obtained by converting Member Pieces or Snapshots.",
@@ -36783,6 +38399,30 @@
       "_traditionalChinese": "[君臨樂園的女神]Oblivionis / 豐川祥子覺醒時使用的道具",
       "_simplifiedChinese": "用于[君临乐园的女神]Oblivionis / 丰川祥子觉醒的道具",
       "_korean": "[낙원에 군림한 여신]오블리비오니스 / 토가와 사키코 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000061",
+      "_japanese": "[ハート・リブート]千石 ユノの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Yuno Sengoku \"Heart Reboot\"",
+      "_traditionalChinese": "[Heart・Reboot]千石由乃覺醒時使用的道具",
+      "_simplifiedChinese": "用于[Heart・Reboot]千石由乃觉醒的道具",
+      "_korean": "[하트 리부트]센고쿠 유노 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000062",
+      "_japanese": "[きゅーと・ふろーと]宮永 ののかの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Nonoka Miyanaga \"Floating Cutie\"",
+      "_traditionalChinese": "[Cute・Float]宮永野乃花覺醒時使用的道具",
+      "_simplifiedChinese": "用于[Cute・Float]宫永野乃花觉醒的道具",
+      "_korean": "[큐트 플로트]미야나가 노노카 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000063",
+      "_japanese": "[ナイト・フライト]峰月 律の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Ritsu Minetsuki \"Night Flight\"",
+      "_traditionalChinese": "[Night・Flight]峰月律覺醒時使用的道具",
+      "_simplifiedChinese": "用于[Night・Flight]峰月律觉醒的道具",
+      "_korean": "[나이트 플라이트]미네츠키 리츠 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10010069",
@@ -37873,6 +39513,30 @@
       "_korean": "멤버 조각 ([낙원에 군림한 여신] 오블리비오니스 / 토가와 사키코)"
     },
     {
+      "_id": "Item_Name_10000061",
+      "_japanese": "メンバーピース([ハート・リブート]千石 ユノ)",
+      "_english": "Member Piece (Yuno Sengoku \"Heart Reboot\")",
+      "_traditionalChinese": "團員星輝（[Heart・Reboot]千石由乃）",
+      "_simplifiedChinese": "成员星辉（[Heart・Reboot]千石由乃）",
+      "_korean": "멤버 조각 ([하트 리부트] 센고쿠 유노)"
+    },
+    {
+      "_id": "Item_Name_10000062",
+      "_japanese": "メンバーピース([きゅーと・ふろーと]宮永 ののか)",
+      "_english": "Member Piece (Nonoka Miyanaga \"Floating Cutie\")",
+      "_traditionalChinese": "團員星輝（[Cute・Float]宮永野乃花）",
+      "_simplifiedChinese": "成员星辉（[Cute・Float]宫永野乃花）",
+      "_korean": "멤버 조각 ([큐트 플로트] 미야나가 노노카)"
+    },
+    {
+      "_id": "Item_Name_10000063",
+      "_japanese": "メンバーピース([ナイト・フライト]峰月 律)",
+      "_english": "Member Piece (Ritsu Minetsuki \"Night Flight\")",
+      "_traditionalChinese": "團員星輝（[Night・Flight]峰月律）",
+      "_simplifiedChinese": "成员星辉（[Night・Flight]峰月律）",
+      "_korean": "멤버 조각 ([나이트 플라이트] 미네츠키 리츠)"
+    },
+    {
       "_id": "Item_Name_10010069",
       "_japanese": "メンバーピース( [メンバータイプ種別・コンボボーナスUP]高松 燈)",
       "_english": "Member Piece (Tomori Takamatsu [Member Type Category Combo Bonus UP])",
@@ -38961,6 +40625,30 @@
       "_korean": "멤버 조각 10000060"
     },
     {
+      "_id": "Item_Phonetic_Name_10000061",
+      "_japanese": "めんばーぴーす10000061",
+      "_english": "Member Piece 10000061",
+      "_traditionalChinese": "團員星輝10000061",
+      "_simplifiedChinese": "成员星辉10000061",
+      "_korean": "멤버 조각 10000061"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000062",
+      "_japanese": "めんばーぴーす10000062",
+      "_english": "Member Piece 10000062",
+      "_traditionalChinese": "團員星輝10000062",
+      "_simplifiedChinese": "成员星辉10000062",
+      "_korean": "멤버 조각 10000062"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000063",
+      "_japanese": "めんばーぴーす10000063",
+      "_english": "Member Piece 10000063",
+      "_traditionalChinese": "團員星輝10000063",
+      "_simplifiedChinese": "成员星辉10000063",
+      "_korean": "멤버 조각 10000063"
+    },
+    {
       "_id": "Item_Phonetic_Name_10010069",
       "_japanese": "めんばーぴーす10010069",
       "_english": "Member Piece 10010069",
@@ -39889,6 +41577,14 @@
       "_korean": "멤버 조각 (SSR)"
     },
     {
+      "_id": "Item_Name_43",
+      "_japanese": "イベントバッジ(紺碧)",
+      "_english": "Event Badge (Azure)",
+      "_traditionalChinese": "活動獎章（紺碧）",
+      "_simplifiedChinese": "活动徽章（绀碧）",
+      "_korean": "이벤트 배지 (블루)"
+    },
+    {
       "_id": "Item_Name_47",
       "_japanese": "星のシール",
       "_english": "Star Sticker",
@@ -39965,14 +41661,14 @@
       "_japanese": "リリース記念！SSRピースチケット",
       "_english": "Launch Celebration! SSR Piece Ticket",
       "_traditionalChinese": "開服紀念！SSR星輝兌換券",
-      "_simplifiedChinese": "开服纪念！SSR星辉券",
+      "_simplifiedChinese": "开服纪念！SSR星辉交换券",
       "_korean": "오픈 기념! SSR 조각 티켓"
     },
     {
       "_id": "Item_Name_61",
       "_japanese": "millsage 1st Single「鳴らす」シリアルコード特典交換チケット",
       "_english": "millsage 1st Single \"鳴らす\" Bonus Serial Code Exchange Ticket",
-      "_traditionalChinese": "millsage 1st Single《鳴響》序號特典兌換券",
+      "_traditionalChinese": "millsage 1st Single《鳴らす》序號特典兌換券",
       "_simplifiedChinese": "millsage 1st Single「鳴らす」兑换码特典交换券",
       "_korean": "millsage 1st Single 「울리다」 교환 코드 혜택 교환 티켓"
     },
@@ -39980,7 +41676,7 @@
       "_id": "Item_Name_62",
       "_japanese": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」シリアルコード特典交換チケット",
       "_english": "Mugendai MewType 5th Single \"Our Survival\" Bonus Serial Code Exchange Ticket",
-      "_traditionalChinese": "夢限大MewType 5th Single《これはぼくたちの生存のあらすじ》序號特典兌換券",
+      "_traditionalChinese": "夢限大MewType 5th Single《這是我們的生存梗概》序號特典兌換券",
       "_simplifiedChinese": "梦限大MewType 5th Single「这是我们的生存梗概」兑换码特典交换券",
       "_korean": "무겐다이 뮤타입 5th Single 「이것은 우리들이 살아남는 줄거리」 교환 코드 혜택 교환 티켓"
     },
@@ -39988,7 +41684,7 @@
       "_id": "Item_Name_63",
       "_japanese": "一家Dumb Rock! 1st Single「ピースフル・ピーシーズ！」シリアルコード特典交換チケット",
       "_english": "Ikka Dumb Rock! 1st Single \"Peaceful Pieces!\" Bonus Serial Code Exchange Ticket",
-      "_traditionalChinese": "一家Dumb Rock! 1st Single《ピースフル・ピーシーズ！》序號特典兌換券",
+      "_traditionalChinese": "一家Dumb Rock! 1st Single《Peaceful Pieces!》序號特典兌換券",
       "_simplifiedChinese": "一家Dumb Rock! 1st Single「Peaceful Pieces!」兑换码特典交换券",
       "_korean": "일가 Dumb Rock! 1st Single 「Peaceful Pieces!」 교환 코드 혜택 교환 티켓"
     },
@@ -40311,6 +42007,14 @@
       "_traditionalChinese": "團員星輝（SSR）",
       "_simplifiedChinese": "成员星辉（SSR）",
       "_korean": "멤버 조각 (SSR)"
+    },
+    {
+      "_id": "Item_Phonetic_Name_43",
+      "_japanese": "イベントバッジ(紺碧)",
+      "_english": "Event Badge (Azure)",
+      "_traditionalChinese": "活動獎章（紺碧）",
+      "_simplifiedChinese": "活动徽章（绀碧）",
+      "_korean": "이벤트 배지 (블루)"
     },
     {
       "_id": "Item_Phonetic_Name_47",
@@ -51753,6 +53457,14 @@
       "_korean": "스타트 대시 로그인 보상"
     },
     {
+      "_id": "LoginBonus_Name_3",
+      "_japanese": "夢限大みゅーたいぷ 5th Single、millsage ＆ 一家Dumb Rock! 1st Single発売記念プレゼント！",
+      "_english": "Mugendai MewType 5th Single & millsage and Ikka Dumb Rock! 1st Single Release Celebration Gift!",
+      "_traditionalChinese": "夢限大MewType 5th Single、millsage＆一家Dumb Rock! 1st Single發售紀念禮物！",
+      "_simplifiedChinese": "梦限大MewType 5th Single、millsage ＆ 一家Dumb Rock! 1st Single发售纪念礼物！",
+      "_korean": "무겐다이 뮤타입 5th Single, millsage & 일가 Dumb Rock! 1st Single발매 기념 선물!"
+    },
+    {
       "_id": "LoginBonus_Name_100006",
       "_japanese": "[test]プレミアムログインボーナス",
       "_english": "[test] Premium Login Bonus",
@@ -52449,6 +54161,14 @@
       "_korean": "호시마치 스이세이"
     },
     {
+      "_id": "Lyricist_Name_100109",
+      "_japanese": "ケンモチヒデフミ",
+      "_english": "Kenmochi Hidefumi",
+      "_traditionalChinese": "ケンモチヒデフミ",
+      "_simplifiedChinese": "ケンモチヒデフミ",
+      "_korean": "Kenmochi Hidefumi"
+    },
+    {
       "_id": "Lyricist_Name_100110",
       "_japanese": "Aira",
       "_english": "Aira",
@@ -52535,6 +54255,22 @@
       "_traditionalChinese": "敬請欣賞Ave Mujica的\r\n完美世界",
       "_simplifiedChinese": "请尽情欣赏吧，\r\n完美的Ave Mujica世界",
       "_korean": "완벽한 Ave Mujica의 세계를,\r\n감상하시라"
+    },
+    {
+      "_id": "MemberGachaVoice_61",
+      "_japanese": "やりたい放題でもいいんじゃない？",
+      "_english": "Isn't it okay to just do whatever you want?",
+      "_traditionalChinese": "為所欲為不也挺好的嗎？",
+      "_simplifiedChinese": "随心所欲一点不也挺好吗？",
+      "_korean": "마음대로 해도 괜찮지 않아?"
+    },
+    {
+      "_id": "MemberGachaVoice_62",
+      "_japanese": "ばーじょんあ～～～～～っぷ！",
+      "_english": "Version uuuuuup!",
+      "_traditionalChinese": "版本升～～～～～級！",
+      "_simplifiedChinese": "版本升～～～～～级！",
+      "_korean": "버전 업~~~~~!"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -53015,6 +54751,30 @@
       "_traditionalChinese": "君臨樂園的女神",
       "_simplifiedChinese": "君临乐园的女神",
       "_korean": "낙원에 군림한 여신"
+    },
+    {
+      "_id": "MemberSubtitle_61",
+      "_japanese": "ハート・リブート",
+      "_english": "Heart Reboot",
+      "_traditionalChinese": "Heart・Reboot",
+      "_simplifiedChinese": "Heart・Reboot",
+      "_korean": "하트 리부트"
+    },
+    {
+      "_id": "MemberSubtitle_62",
+      "_japanese": "きゅーと・ふろーと",
+      "_english": "Floating Cutie",
+      "_traditionalChinese": "Cute・Float",
+      "_simplifiedChinese": "Cute・Float",
+      "_korean": "큐트 플로트"
+    },
+    {
+      "_id": "MemberSubtitle_63",
+      "_japanese": "ナイト・フライト",
+      "_english": "Night Flight",
+      "_traditionalChinese": "Night・Flight",
+      "_simplifiedChinese": "Night・Flight",
+      "_korean": "나이트 플라이트"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -54755,7 +56515,7 @@
     {
       "_id": "Music_Tilte_100033",
       "_japanese": "Symbol I : △",
-      "_english": "Music_Tilte_33",
+      "_english": "Symbol I : △",
       "_traditionalChinese": "Symbol I : △",
       "_simplifiedChinese": "Symbol I : △",
       "_korean": "Symbol I : △"
@@ -54852,7 +56612,7 @@
       "_id": "Music_Tilte_100047",
       "_japanese": "ファタール",
       "_english": "Fatal",
-      "_traditionalChinese": "Fatal",
+      "_traditionalChinese": "ファタール",
       "_simplifiedChinese": "ファタール",
       "_korean": "파탈"
     },
@@ -55060,7 +56820,7 @@
       "_id": "Music_Tilte_100082",
       "_japanese": "ピースフル・ピーシーズ！",
       "_english": "Peaceful Pieces!",
-      "_traditionalChinese": "ピースフル・ピーシーズ！",
+      "_traditionalChinese": "Peaceful Pieces!",
       "_simplifiedChinese": "Peaceful Pieces!",
       "_korean": "Peaceful Pieces!"
     },
@@ -55124,7 +56884,7 @@
       "_id": "Music_Tilte_100094",
       "_japanese": "TearJerker",
       "_english": "TearJerker",
-      "_traditionalChinese": "Tearjerker",
+      "_traditionalChinese": "TearJerker",
       "_simplifiedChinese": "TearJerker",
       "_korean": "TearJerker"
     },
@@ -55172,7 +56932,7 @@
       "_id": "Music_Tilte_100105",
       "_japanese": "ホワイトノイズ",
       "_english": "White Noise",
-      "_traditionalChinese": "White Noise",
+      "_traditionalChinese": "ホワイトノイズ",
       "_simplifiedChinese": "ホワイトノイズ",
       "_korean": "White Noise"
     },
@@ -55199,6 +56959,14 @@
       "_traditionalChinese": "Stellar Stellar",
       "_simplifiedChinese": "Stellar Stellar",
       "_korean": "Stellar Stellar"
+    },
+    {
+      "_id": "Music_Tilte_100109",
+      "_japanese": "夢我夢中",
+      "_english": "mugamuchu",
+      "_traditionalChinese": "夢我夢中",
+      "_simplifiedChinese": "夢我夢中",
+      "_korean": "mugamuchu"
     },
     {
       "_id": "Music_Tilte_100110",
@@ -55921,6 +57689,14 @@
       "_korean": "Stellar Stellar"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100109",
+      "_japanese": "むがむちゅう",
+      "_english": "mugamuchu",
+      "_traditionalChinese": "むがむちゅう",
+      "_simplifiedChinese": "夢我夢中",
+      "_korean": "mugamuchu"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100110",
       "_japanese": "かーねーしょんのさくひに",
       "_english": "かーねーしょんのさくひに",
@@ -56252,7 +58028,7 @@
       "_id": "Music_Ruby_Tilte_100047",
       "_japanese": "ファタール",
       "_english": "Fatal",
-      "_traditionalChinese": "Fatal",
+      "_traditionalChinese": "ファタール",
       "_simplifiedChinese": "ファタール",
       "_korean": "파탈"
     },
@@ -56460,7 +58236,7 @@
       "_id": "Music_Ruby_Tilte_100082",
       "_japanese": "ピースフル・ピーシーズ！",
       "_english": "Peaceful Pieces!",
-      "_traditionalChinese": "ピースフル・ピーシーズ！",
+      "_traditionalChinese": "Peaceful Pieces!",
       "_simplifiedChinese": "Peaceful Pieces!",
       "_korean": "Peaceful Pieces!"
     },
@@ -56524,7 +58300,7 @@
       "_id": "Music_Ruby_Tilte_100094",
       "_japanese": "TearJerker",
       "_english": "TearJerker",
-      "_traditionalChinese": "Tearjerker",
+      "_traditionalChinese": "TearJerker",
       "_simplifiedChinese": "TearJerker",
       "_korean": "TearJerker"
     },
@@ -56572,7 +58348,7 @@
       "_id": "Music_Ruby_Tilte_100105",
       "_japanese": "ホワイトノイズ",
       "_english": "White Noise",
-      "_traditionalChinese": "White Noise",
+      "_traditionalChinese": "ホワイトノイズ",
       "_simplifiedChinese": "ホワイトノイズ",
       "_korean": "White Noise"
     },
@@ -56599,6 +58375,14 @@
       "_traditionalChinese": "Stellar Stellar",
       "_simplifiedChinese": "Stellar Stellar",
       "_korean": "Stellar Stellar"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100109",
+      "_japanese": "夢我夢中",
+      "_english": "mugamuchu",
+      "_traditionalChinese": "夢我夢中",
+      "_simplifiedChinese": "夢我夢中",
+      "_korean": "mugamuchu"
     },
     {
       "_id": "Music_Ruby_Tilte_100110",
@@ -57233,6 +59017,30 @@
       "_korean": "이번 달 Discord에서 누적 15일 출석 완료 보상입니다."
     },
     {
+      "_id": "Present_bili_mail_1000000018",
+      "_japanese": "",
+      "_english": "An Apology from the Global Operations Team",
+      "_traditionalChinese": "國際服營運團隊致歉",
+      "_simplifiedChinese": "来自国际服运营团队的致歉",
+      "_korean": "글로벌 서버 운영팀의 사과"
+    },
+    {
+      "_id": "Present_bili_mail_1000000019",
+      "_japanese": "",
+      "_english": "Version Update Compensation",
+      "_traditionalChinese": "版本更新補償",
+      "_simplifiedChinese": "版本更新补偿",
+      "_korean": "버전 업데이트 보상"
+    },
+    {
+      "_id": "Present_bili_mail_1000000020",
+      "_japanese": "",
+      "_english": "Emergency Maintenance Compensation",
+      "_traditionalChinese": "緊急維護補償",
+      "_simplifiedChinese": "紧急维护补偿",
+      "_korean": "긴급 점검 보상 "
+    },
+    {
       "_id": "ui_season_pass_title",
       "_japanese": "ミッションパス",
       "_english": "Mission Pass",
@@ -57439,6 +59247,14 @@
       "_traditionalChinese": "說明",
       "_simplifiedChinese": "说明",
       "_korean": "설명"
+    },
+    {
+      "_id": "Season_Pass_Description_Season_Pass_Name_2",
+      "_japanese": "アイの奔流　AtoZプレミアムミッションパスが解放されます。",
+      "_english": "Unlock Love Rush A to Z Premium Mission Pass.",
+      "_traditionalChinese": "解鎖愛的奔流 AtoZ Premium任務通行證。",
+      "_simplifiedChinese": "解锁爱的奔流 AtoZ高级任务通行证。",
+      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스가 해방됩니다."
     },
     {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
@@ -57761,6 +59577,14 @@
       "_korean": "오픈 기념! 시즌 미션 패스"
     },
     {
+      "_id": "Season_Pass_Name_2",
+      "_japanese": "アイの奔流　AtoZミッションパス",
+      "_english": "Love Rush A to Z Mission Pass",
+      "_traditionalChinese": "愛的奔流 AtoZ任務通行證",
+      "_simplifiedChinese": "爱的奔流 AtoZ任务通行证",
+      "_korean": "사랑의 격류 AtoZ 미션 패스"
+    },
+    {
       "_id": "ui_selectserver_title",
       "_japanese": "サーバー選択",
       "_english": "Select Server",
@@ -57985,6 +59809,14 @@
       "_korean": "아워 노트 패스 ~프리미엄~"
     },
     {
+      "_id": "Shop_Name_20",
+      "_japanese": "アイの奔流　AtoZプレミアムミッションパス",
+      "_english": "Love Rush A to Z Premium Mission Pass",
+      "_traditionalChinese": "愛的奔流 AtoZ Premium任務通行證",
+      "_simplifiedChinese": "爱的奔流 AtoZ高级任务通行证",
+      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스"
+    },
+    {
       "_id": "Shop_Name_1000000101",
       "_japanese": "スター×120",
       "_english": "Star×120",
@@ -58115,10 +59947,10 @@
     {
       "_id": "Shop_Name_1000000117",
       "_japanese": "アイの奔流　AtoZプレミアムミッションパス",
-      "_english": "Event Premium Mission Pass",
-      "_traditionalChinese": "活動專屬Premium任務通行證",
-      "_simplifiedChinese": "活动专属高级任务通行证",
-      "_korean": "이벤트 전용 프리미엄 미션 패스"
+      "_english": "Love Rush A to Z Premium Mission Pass",
+      "_traditionalChinese": "愛的奔流 AtoZ Premium任務通行證",
+      "_simplifiedChinese": "爱的奔流 AtoZ 高级任务通行证",
+      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스"
     },
     {
       "_id": "Shop_Name_1000000118",
@@ -58151,6 +59983,14 @@
       "_traditionalChinese": "夢限大Mew Type主題 聊天室裝扮禮包",
       "_simplifiedChinese": "梦限大Mew Type主题 聊天室装扮礼包",
       "_korean": "무겐다이 뮤타입 채팅방 테마 패키지"
+    },
+    {
+      "_id": "Shop_Name_1000000122",
+      "_japanese": "",
+      "_english": "Floral Whispers Chat Deco Pack",
+      "_traditionalChinese": "綺花幽語 聊天室裝扮禮包",
+      "_simplifiedChinese": "绮花幽语 聊天室装扮礼包",
+      "_korean": "꽃의 속삭임 채팅방 꾸미기 패키지"
     },
     {
       "_id": "Shop_Description_2",
@@ -58271,6 +60111,14 @@
       "_traditionalChinese": "可購買「交織的樂章通行證～Premium～」與付費星鑽2400個。\r\n<color=#ff4d4d>（不可與其他交織的樂章通行證同時使用）</color>",
       "_simplifiedChinese": "可购买「交织的乐章通行证～Premium～」和2400个付费星钻。\r\n<color=#ff4d4d>（不可与其他交织的乐章通行证同时使用）</color>",
       "_korean": "「아워 노트 패스 ~프리미엄~」과 유료 스타 2400개를 구매할 수 있습니다.\r\n<color=#ff4d4d>(다른 아워 노트 패스와 중복 사용 불가)</color>"
+    },
+    {
+      "_id": "Shop_Description_20",
+      "_japanese": "ミッションパスのプレミアムパスを購入できます。",
+      "_english": "Includes the Premium Pass for the Mission Pass.",
+      "_traditionalChinese": "可購買任務通行證的Premium通行證。",
+      "_simplifiedChinese": "可购买任务通行证的高级通行证。",
+      "_korean": "미션 패스의 프리미엄 패스를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1000000101",
@@ -58403,10 +60251,10 @@
     {
       "_id": "Shop_Description_1000000117",
       "_japanese": "ミッションパスのプレミアムパスを購入できます。",
-      "_english": "Event Premium Mission Pass + 960 Paid Stars.",
-      "_traditionalChinese": "可購買活動專屬Premium任務通行證與付費星鑽960個。",
-      "_simplifiedChinese": "可购买活动专属高级任务通行证和付费星钻960个。",
-      "_korean": "미션 패스 중 프리미엄 미션 패스와 유료 스타 960개를 구매할 수 있습니다."
+      "_english": "Event Premium Mission Pass + 320 Paid Stars.",
+      "_traditionalChinese": "可購買活動專屬Premium任務通行證與付費星鑽320個。",
+      "_simplifiedChinese": "可购买活动专属高级任务通行证和付费星钻320个。",
+      "_korean": "미션 패스 중 프리미엄 미션 패스와 유료 스타 320개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1000000118",
@@ -58439,6 +60287,14 @@
       "_traditionalChinese": "可購買聊天室主題×1、聊天室對話氣泡×1、聊天室頭像框×1。",
       "_simplifiedChinese": "可购买聊天室主题x1、聊天室气泡x1、聊天室头像框x1。",
       "_korean": "구매 시 채팅방 테마, 말풍선, 프레임 각각 1개씩 획득할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000122",
+      "_japanese": "",
+      "_english": "Includes Chat Deco + 120 Paid Stars.",
+      "_traditionalChinese": "可購買聊天室對話氣泡×1、聊天室頭像框×1、付費星鑽×120。",
+      "_simplifiedChinese": "可购买聊天室气泡x1、聊天室头像框x1、付费星钻x120。",
+      "_korean": "채팅방 말풍선, 프레임 각각 1개, 유료 스타 120개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_70000001",
@@ -60753,6 +62609,14 @@
       "_korean": "일할 시간이야. 일할 시간, 일할 시간"
     },
     {
+      "_id": "Stamp_Name_74",
+      "_japanese": "アイの奔流 AtoZ 報酬スタンプ",
+      "_english": "Love Rush  A to Z  reward stamp",
+      "_traditionalChinese": "愛的奔流 AtoZ 報酬貼圖",
+      "_simplifiedChinese": "爱的奔流 AtoZ 奖励表情",
+      "_korean": "사랑의 격류  AtoZ 보상스탬프"
+    },
+    {
       "_id": "Stamp_Name_1000000001",
       "_japanese": "",
       "_english": "ABRACADABRA",
@@ -60828,7 +62692,7 @@
       "_id": "Story_Chapter_Description_2",
       "_japanese": "CRYCHIC解散後、祥子は過酷な運命に抗うように、\r\n新しく『Ave Mujica』を結成。史上最速で武道館公演を果たすが、\r\n彼女たちの歯車は大きく狂い始める――",
       "_english": "After CRYCHIC disbanded, as if resisting her harsh fate, Sakiko formed a new band called \"Ave Mujica.\" The girls achieved the fastest Budokan performance in history, but the gears of their fate started to go seriously off track...",
-      "_traditionalChinese": "CRYCHIC解散後，祥子為了對抗殘酷的命運，\r\n組成了新樂團「Ave Mujica」。儘管以史上最快的速度登上武道館舞台，\r\n她們的齒輪卻開始出現巨大的偏差──",
+      "_traditionalChinese": "CRYCHIC解散後，祥子為了對抗殘酷的命運，\r\n組成了新樂團「Ave Mujica」。\r\n儘管以史上最快的速度登上武道館舞台，\r\n她們的齒輪卻開始出現巨大的偏差──",
       "_simplifiedChinese": "CRYCHIC解散后，祥子仿佛要反抗残酷的命运一般，\r\n重新组建了『Ave Mujica』。她们以史上最快的速度登上了武道馆的舞台，但她们的齿轮却开始发生巨大的错位——",
       "_korean": "CRYCHIC 해체 후, 사키코는 가혹한 운명에 발버둥 치듯\r\n새롭게 「Ave Mujica」를 결성한다.\r\n역대 최단기간에 무도관 공연을 이뤄내지만,\r\n그녀들의 톱니바퀴는 걷잡을 수 없이 어긋나기 시작하는데......"
     },
@@ -60844,7 +62708,7 @@
       "_id": "Story_Chapter_Description_4",
       "_japanese": "過去のトラウマから音楽に恐怖を抱いていた蛍。彼女を\r\n救ったのは、沢海奏多という天才だった。ある日、奏多のバンドの\r\nライブに足を運んだ蛍は、そこで思わぬ事実を聞かされて――",
       "_english": "Hotaru harbored a fear of music due to past trauma.\r\nHer savior was a genius named Kanata Sawami.\r\nOne day, when Hotaru went to Kanata's BAND LIVE show, she was told an unexpected fact...",
-      "_traditionalChinese": "螢曾因為過去的創傷而對音樂心懷畏懼，是名為「澤海奏多」的天才拯救了她。\r\n某天，螢前往參加奏多所屬樂團的演唱會，\r\n卻在那裡聽見了意想不到的事實──",
+      "_traditionalChinese": "螢曾因為過去的創傷而對音樂心懷畏懼，\r\n是名為「澤海奏多」的天才拯救了她。\r\n某天，螢前往參加奏多所屬樂團的演唱會，\r\n卻在那裡聽見了意想不到的事實──",
       "_simplifiedChinese": "因为过去的心理创伤而对音乐怀有恐惧的萤。拯救她的\r\n是一位名叫泽海奏多的天才。某天，萤前去观看奏多乐队的演出，\r\n却在那里听到了意想不到的事实——",
       "_korean": "과거의 트라우마로 음악에 대한 극심한 공포를 안고 살던 호타루.\r\n그런 그녀를 구원해 준 사람은 사와미 카나타라는 천재였다.\r\n어느 날, 카나타 밴드의 공연 무대를 찾아간 호타루는\r\n그곳에서 전혀 예상치 못한 진실과 마주하게 되는데......"
     },
@@ -60852,9 +62716,17 @@
       "_id": "Story_Chapter_Description_5",
       "_japanese": "とある理由から、学生寮への入居を決めた心玖。だがそこで\r\n待っていたのは、謎のファミリー理論を掲げる蕾叶だった。\r\n拒絶する心玖をよそに、騒がしい共同生活が始まってしまい――",
       "_english": "For reasons she keeps to herself, Miku decides to move into the student dormitory. But waiting there is Raika, a girl who swears by a peculiar theory she calls \"family.\" Miku wants none of it. Even so, whether she likes it or not, a loud and chaotic life under one roof has already begun...",
-      "_traditionalChinese": "因為某個理由，心玖決定搬進學生宿舍。然而在那裡等著她的，\r\n卻是主張著一套神祕Family理論的蕾葉。\r\n熱鬧非凡的同居生活就這樣不顧心玖的抗拒，拉開了序幕──",
+      "_traditionalChinese": "因為某個理由，心玖決定搬進學生宿舍。然而在那裡等著她的，\r\n卻是主張著一套神祕Family理論的蕾葉。\r\n熱鬧非凡的集體生活就這樣不顧心玖的抗拒，拉開了序幕──",
       "_simplifiedChinese": "出于某种原因，决定搬进学生宿舍的心玖。但等在那里的，\r\n却是高举着神秘Family理论的蕾叶。\r\n不顾心玖的拒绝，喧闹的共同生活就这样开始了——",
       "_korean": "남모를 사정으로 학생 기숙사에 들어가기로 한 미쿠. 하지만 그곳에서\r\n그녀를 기다리고 있던 건 정체불명의 패밀리 이론을 내세우는 라이카였다.\r\n미쿠의 거부에도 아랑곳없이, 소란스러운 두 사람의 기숙사 생활이\r\n시작되고 마는데......"
+    },
+    {
+      "_id": "Story_Chapter_Description_6",
+      "_japanese": "早速全国ツアーへ向けて動き出した夢限大みゅーたいぷ。\r\n看板曲を引っ提げて、いざ！　――といきたいところだが、\r\nユノの作曲は進捗が思わしくなく……？                ",
+      "_english": "Mugendai MewType has quickly started making moves toward a nationwide tour.\r\nWith their signature song in hand, it's time to go! That's how they'd like it to play out, but...\r\nYuno's composition isn't coming along well...?                ",
+      "_traditionalChinese": "夢限大MewType立刻開始為全國巡演展開行動。\r\n帶著主題曲準備出發──原本是想這麼做的，\r\n但由乃的作曲進度似乎不太理想……？                ",
+      "_simplifiedChinese": "梦限大MewType马不停蹄地开始为全国巡演展开行动。\r\n本想带上主打歌就此出发——话虽如此，\r\n但由乃的作曲进度却似乎不太乐观……？                ",
+      "_korean": "본격적으로 전국 투어 준비에 나선 무겐다이 뮤타입.\r\n대표곡을 내걸고 출발! ......하고 싶었지만\r\n유노의 작곡 진도가 영 나가지 않는데......?                "
     },
     {
       "_id": "Story_Chapter_Name_1",
@@ -60895,6 +62767,14 @@
       "_traditionalChinese": "THAT KIND 愛",
       "_simplifiedChinese": "THAT KIND 爱",
       "_korean": "THAT KIND 愛"
+    },
+    {
+      "_id": "Story_Chapter_Name_6",
+      "_japanese": "アイの奔流　AtoZ",
+      "_english": "Love Rush A to Z",
+      "_traditionalChinese": "愛的奔流 AtoZ",
+      "_simplifiedChinese": "爱的奔流 AtoZ",
+      "_korean": "사랑의 격류 AtoZ"
     },
     {
       "_id": "Story_Episode_Description_101",
@@ -61308,7 +63188,7 @@
       "_id": "Story_Episode_Description_224",
       "_japanese": "ううん。MyGO!!!!!のみんなには迷惑かけちゃったし、\r\n何か奢らせてよ",
       "_english": "No. I caused trouble for everyone in MyGO!!!!!,\r\nso please let me treat you to something.",
-      "_traditionalChinese": "別這麼說。畢竟我給MyGO!!!!!的各位添了不少麻煩，\r\n就讓我請個客吧。",
+      "_traditionalChinese": "別這麼說。畢竟我給MyGO!!!!!的各位\r\n添了不少麻煩，就讓我請個客吧。",
       "_simplifiedChinese": "没事。而且我也给MyGO!!!!!的各位添了麻烦，\r\n就让我请客吧",
       "_korean": "아니야. MyGO!!!!! 멤버들한테 폐도 끼쳤고,\r\n뭐라도 사게 해줘"
     },
@@ -61967,6 +63847,78 @@
       "_traditionalChinese": "我自己也很驚訝。\r\n沒想到竟然有這麼多我不知道的事情。",
       "_simplifiedChinese": "我自己也很惊讶。\r\n没想到我不懂的事情竟如此之多",
       "_korean": "나도 놀랐어.\r\n이렇게 모르는 것투성이일 줄은 생각도 못 했지"
+    },
+    {
+      "_id": "Story_Episode_Description_601",
+      "_japanese": "そう、全国ツアーの看板曲！",
+      "_english": "That's right, the flagship song for the nationwide tour!",
+      "_traditionalChinese": "是啊，全國巡演的主題曲！",
+      "_simplifiedChinese": "没错，全国巡演的招牌曲！",
+      "_korean": "응, 전국 투어의 타이틀 곡!"
+    },
+    {
+      "_id": "Story_Episode_Description_602",
+      "_japanese": "（ゆめみたらしい曲、ねえ）",
+      "_english": "(A song that feels like YMMT, huh.)",
+      "_traditionalChinese": "（充滿夢限大風格的歌啊……）",
+      "_simplifiedChinese": "（有梦限大风格的曲子，是吗）",
+      "_korean": "(유메미타다운 곡이라)"
+    },
+    {
+      "_id": "Story_Episode_Description_603",
+      "_japanese": "（一体何が引っかかって……）",
+      "_english": "(What exactly is bothering me...?)",
+      "_traditionalChinese": "（究竟是什麼讓我耿耿於壞……）",
+      "_simplifiedChinese": "（到底是什么让我这么在意……）",
+      "_korean": "(대체 뭐가 마음에 걸려서......)"
+    },
+    {
+      "_id": "Story_Episode_Description_604",
+      "_japanese": "これ！　食玩のマジるる指人形です！",
+      "_english": "This! It's a candy toy Magilulu Finger Puppet!",
+      "_traditionalChinese": "這個！這是食玩的《魔法露露》手指偶！",
+      "_simplifiedChinese": "这个！是食玩《魔法露露》手指人偶！",
+      "_korean": "이거요! 식완으로 나온 매지루루 손가락 인형이에요!"
+    },
+    {
+      "_id": "Story_Episode_Description_605",
+      "_japanese": "『お世話になっております。\r\n夢限大みゅーたいぷ、千石ユノです』",
+      "_english": "\"Thank you for your continued support.\r\nThis is Yuno Sengoku of Mugendai MewType.\"",
+      "_traditionalChinese": "「您好，承蒙您一直以來的照顧。\r\n我是夢限大MewType的千石由乃。」",
+      "_simplifiedChinese": "『承蒙关照。\r\n我是梦限大MewType的千石由乃』",
+      "_korean": "「수고 많으십니다.\r\n무겐다이 뮤타입의 센고쿠 유노입니다」"
+    },
+    {
+      "_id": "Story_Episode_Description_606",
+      "_japanese": "かっこよかったんですっ！",
+      "_english": "So cool!",
+      "_traditionalChinese": "帥氣！",
+      "_simplifiedChinese": "帅气！",
+      "_korean": "멋있었단 말이에요!"
+    },
+    {
+      "_id": "Story_Episode_Description_607",
+      "_japanese": "うん、なんていうか――愛！！",
+      "_english": "Yeah, how should I put it... Love!!",
+      "_traditionalChinese": "嗯，該怎麼說呢──是愛！",
+      "_simplifiedChinese": "嗯，该怎么说呢——是爱！！",
+      "_korean": "응, 뭐랄까...... 사랑!!"
+    },
+    {
+      "_id": "Story_Episode_Description_608",
+      "_japanese": "マジるる指人形、開封の儀ッ！！",
+      "_english": "The Magilulu finger puppet opening ceremony!!",
+      "_traditionalChinese": "《魔法露露》手指偶，開封儀式！！",
+      "_simplifiedChinese": "《魔法露露》手指人偶，开箱仪式！！",
+      "_korean": "매지루루 손가락 인형, 대망의 언박싱!!"
+    },
+    {
+      "_id": "Story_Episode_Description_609",
+      "_japanese": "あたしたち、バンドでしょ",
+      "_english": "We're a band, you know.",
+      "_traditionalChinese": "我們是同個樂團的吧？",
+      "_simplifiedChinese": "我们，是一支乐队吧",
+      "_korean": "우리 밴드잖아"
     },
     {
       "_id": "Story_Episode_Description_1",
@@ -63105,6 +65057,30 @@
       "_korean": "토모리 & 오블리비오니스 & 아라레 & 호타루 & 라이카"
     },
     {
+      "_id": "Snap_Name_Arale_Nonoka_Ritsu_Miyako",
+      "_japanese": "あられ&ののか&律&都子",
+      "_english": "Arale & Nonoka & Ritsu & Miyako",
+      "_traditionalChinese": "阿拉蕾&野乃花&律&都子",
+      "_simplifiedChinese": "阿拉蕾&野乃花&律&都子",
+      "_korean": "아라레 & 노노카 & 리츠 & 미야코"
+    },
+    {
+      "_id": "Snap_Name_Miyako_Ritsu",
+      "_japanese": "都子＆律",
+      "_english": "Miyako & Ritsu",
+      "_traditionalChinese": "都子&律",
+      "_simplifiedChinese": "都子＆律",
+      "_korean": "미야코 & 리츠"
+    },
+    {
+      "_id": "Snap_Name_Ritsu_Miyako",
+      "_japanese": "律&都子",
+      "_english": "Ritsu & Miyako",
+      "_traditionalChinese": "律&都子",
+      "_simplifiedChinese": "律&都子",
+      "_korean": "리츠 & 미야코"
+    },
+    {
       "_id": "Snap_Name_MygoMujica",
       "_japanese": "MyGO!!!!!＆Mujica",
       "_english": "MyGO!!!!! & Mujica",
@@ -63292,7 +65268,7 @@
       "_id": "SupportDiary_48",
       "_japanese": "ひ、人が多すぎる……！\r\nこんな真っ昼間の都会の駅前に自主休学中のよわよわ\r\n引きこもり大学生が来てしまってすみません～～！\r\nあああ心臓がバクバクして破裂しちゃう～～……！\r\n呼吸も、苦しい……っ！\r\n\r\nはっ！　なんだか見られてる気が……！\r\nどうしようどうしようどうしようどうしよう～～……！\r\nこのままじゃ、電柱の後ろに隠れてる\r\n不気味な幽霊だと思われちゃう～～～！\r\n\r\nみなさんも　あんなにがんばってたんだから\r\nわ、私も、心玖さんのために……やらなきゃ……！\r\n\r\n『鬼しぐ』を……！！\r\n轟堂くんを……！！\r\n呼び覚ますんだ～～っ！！\r\n\r\n愛冥仁愚～～～っ！！！！！",
       "_english": "T-Too many people...!\r\nI'm so sorry a frail, shut-in college student on voluntary leave\r\ndared to show up at a bustling city station in broad daylight~~!\r\nAaaah, my heart is pounding so fast it's gonna explode...!\r\nI-I can't breathe...!\r\n\r\n*Gasp*! I feel like people are staring at me...!\r\nWhat do I do, what do I do, what do I do, what do I do...?!\r\nAt this rate, they're gonna think I'm some creepy ghost\r\nhiding behind a telephone pole~~~!\r\n\r\nBut everyone else worked so hard...\r\nS-So I have to do this, too... for Miku-san...!\r\n\r\n\"Onishigu\"...!!\r\nGodo-kun...!!\r\nI have to awaken him~~!!\r\n\r\nAmazing~~~!!!!!",
-      "_traditionalChinese": "人、人也太多了吧……！\r\n像我這種自主休學中又超軟弱的家裡蹲大學生，\r\n居然在大白天跑來都市的車站前，真是不好意思～～！\r\n啊啊啊心臟撲通撲通狂跳快要炸開了～～！\r\n連呼吸……也好痛苦……！\r\n\r\n呃！總覺得好像有人在盯著我看……！\r\n怎麼辦怎麼辦怎麼辦怎麼辦～～！\r\n再這樣下去，我一定會被當成\r\n躲在電線桿後面的詭異幽靈的～～～！\r\n\r\n既然大家都那麼努力了，\r\n我、我也要……為了心玖同學……鼓起勇氣才行……！\r\n\r\n我得把《鬼時雨》……！！\r\n把轟堂……！\r\n徹底喚醒才行～～！！\r\n\r\n愛冥仁愚～～～！！！！！",
+      "_traditionalChinese": "人、人也太多了吧……！\r\n像我這種自主休學中又超軟弱的家裡蹲大學生，\r\n居然在大白天跑來都市的車站前，真是不好意思～～！\r\n啊啊啊心臟撲通撲通狂跳快要炸開了～～！\r\n連呼吸……也好痛苦……！\r\n\r\n呃！總覺得好像有人在盯著我看……！\r\n怎麼辦怎麼辦怎麼辦怎麼辦～～！\r\n再這樣下去，我一定會被當成\r\n躲在電線桿後面的詭異幽靈的～～～！\r\n\r\n既然大家都那麼努力了，\r\n我、我也要……為了心玖同學……鼓起勇氣才行……！\r\n\r\n我得把《鬼時雨》……！！\r\n把轟堂君……！\r\n徹底喚醒才行～～！！\r\n\r\n愛冥仁愚～～～！！！！！",
       "_simplifiedChinese": "人、人太多了……！\r\n大白天的城市车站前，居然跑来了一个自主休学中弱小无助的\r\n家里蹲大学生，真是对不起～～！\r\n啊啊啊心脏扑通扑通的快要炸开啦～～！\r\n呼吸也，好困难……！\r\n\r\n哈！　总觉得有人在看我……！\r\n怎么办怎么办……怎么办怎么办～～！\r\n再这样下去，我会被当成躲在电线杆后面\r\n阴森可怖的幽灵啦～～～！\r\n\r\n大家明明也都　那么努力了\r\n我、我也，为了心玖同学……必须要上才行……！\r\n\r\n我要将《鬼时雨》……！！\r\n将轰堂……！！\r\n唤醒啊～～！！\r\n\r\n爱冥仁愚（Amazing）～～～！！！！！",
       "_korean": "사, 사람이 너무 많아......!\r\n이런 대낮의 도심역 앞에 자진 휴학 중인 나약한\r\n히키코모리 대학생이 와버려서 죄송합니다~~!\r\n아아아 심장이 쿵쾅거려서 터져버릴 것 같아~~!\r\n숨쉬기도, 힘들어...... 윽!\r\n\r\n헉! 왠지 다들 쳐다보는 기분이......!\r\n어쩌지 어쩌지~~!\r\n이대로면, 전봇대 뒤에 숨어 있는\r\n섬뜩한 유령으로 보일 거야~~~!\r\n\r\n다들 그렇게 열심히 했으니까\r\n나, 나도 미쿠 씨를 위해...... 해내야 해......!\r\n\r\n「오니시구」를......!!\r\n고도 군을......!!\r\n일깨우는 거야~~!!\r\n\r\n어메이징~~~!!!!!"
     },
@@ -63388,9 +65364,33 @@
       "_id": "SupportDiary_60",
       "_japanese": "ああもう　みんなめちゃくちゃ\r\n全っ然揃ってない\r\n\r\n蕾叶は飛び跳ねすぎ\r\nちゃんと弾きなさいっての\r\nチェリのドラムうるさ\r\nまあ　あんたはこれくらい目立ってる方がいいか\r\n蓬咲さんは逃げたいの我慢してるんだろうなー\r\nいっぱいいっぱいな音してる\r\n寧月は涼しい顔でピアノ弾いてるし\r\nまったく　怖いもの知らずなんだから\r\n\r\nほんっと何やってんだろ\r\n\r\n指が止まらない　こんなんじゃ足りない\r\n　もっと　もっと鳴らしたい\r\n世界で一番はた迷惑で　バカみたいにあったかい音",
       "_english": "Ugh, jeez, everyone's a total mess.\r\nWe're completely out of sync.\r\n\r\nRaika is jumping around way too much.\r\nPlay your instrument properly, seriously!\r\nCherie's drums are so loud.\r\nWell, I guess it's better for you to stand out this much.\r\nYomogi-san is probably trying so hard not to run away~\r\nYou can hear how overwhelmed she is in her sound.\r\nAnd Shizuku is just playing the piano with that cool look on her face.\r\nHonestly, she's completely fearless.\r\n\r\nSeriously, what are we even doing?\r\n\r\nMy fingers won't stop. This isn't enough.\r\nI want to play more... I want to make it ring out even more.\r\nThe most annoying, ridiculously warm sound in the whole world.",
-      "_traditionalChinese": "啊啊真是的，大家全都亂成一團，\r\n拍子根本就沒有對齊。\r\n\r\n蕾葉妳跳得太誇張了，\r\n給我好好彈啦。\r\n千梨的鼓聲吵死了。\r\n算了，妳還是這麼顯眼會比較好。\r\n蓬咲同學大概是在忍耐逃跑的衝動吧……\r\n她的貝斯聲聽起來已經到極限了。\r\n寧月倒是一臉若無其事地在彈琴，\r\n受不了，真是不知'天高地厚。\r\n\r\n我們到底在搞什麼啊。\r\n\r\n手指停不下來，光是這種程度根本不夠。\r\n我想演奏更多更多──\r\n這世上最給人添麻煩又溫暖得不像話的樂音。",
+      "_traditionalChinese": "啊啊真是的，大家全都亂成一團，\r\n拍子根本就沒有對齊。\r\n\r\n蕾葉妳跳得太誇張了，\r\n給我好好彈啦。\r\n千梨的鼓聲吵死了。\r\n算了，妳還是這麼顯眼會比較好。\r\n蓬咲同學大概是在忍耐逃跑的衝動吧……\r\n她的貝斯聲聽起來已經到極限了。\r\n寧月倒是一臉若無其事地在彈琴，\r\n受不了，真是不知天高地厚。\r\n\r\n我們到底在搞什麼啊。\r\n\r\n手指停不下來，光是這種程度根本不夠。\r\n我想演奏更多更多──\r\n這世上最給人添麻煩又溫暖得不像話的樂音。",
       "_simplifiedChinese": "啊真是的　大家都乱七八糟的\r\n完完全全没合上拍\r\n\r\n蕾叶跳得也太欢了\r\n都说了给我好好弹啊\r\n千梨的鼓声好吵\r\n算了　你还是这么显眼比较好吧\r\n蓬咲同学是在拼命忍耐逃跑的冲动吧\r\n弹出来的声音听着都快到极限了\r\n宁月还一脸若无其事地弹着钢琴\r\n真是的　完全不知道害怕为何物\r\n\r\n我究竟在干什么啊\r\n\r\n手指停不下来　这样还不够\r\n　想奏响更多　更多\r\n全世界最招人烦　却又像傻瓜一样温暖的音色",
       "_korean": "아 정말 다들 뒤죽박죽이야\r\n전혀 안 맞잖아\r\n\r\n라이카는 너무 뛰어다니잖아\r\n제대로 연주하라고 진짜\r\n체리의 드럼은 시끄럽고\r\n뭐, 너는 이 정도로 눈에 띄는 게 나을지도\r\n요모기 씨는 도망치고 싶은 거 참고 있겠지\r\n소리가 아주 벅차 보여\r\n시즈쿠는 태연한 얼굴로 피아노를 치고 있고\r\n정말, 겁이 뭔지 모르는구나\r\n\r\n진짜 뭐 하는 건지\r\n\r\n손가락이 멈추지 않아. 이 정도로는 부족해\r\n더, 더 울려 퍼지게 하고 싶어\r\n세상에서 제일 불편스럽고, 바보같이 따뜻한 소리를"
+    },
+    {
+      "_id": "SupportDiary_62",
+      "_japanese": "かっこいいだの、ビッグラブだの\r\n照れ臭いことをまっすぐに\r\nキラキラの目で、あいつらは言ってくる\r\n\r\nなんだかちょっと懐かしい\r\nそうだよね\r\nバンドって、こんな感じだった\r\n\r\n音楽を仕事にするのに慣れてきて\r\n望まれたものは、作れるようになったけど\r\n今回はなんか、それじゃ嫌かも\r\n\r\n胸の奥で鼓動が鳴ってる\r\n体がいつもより、ほんのちょっとだけ軽い\r\nひんやりしているはずのこいつも\r\n今は少し、熱く感じる",
+      "_english": "Cool, Big Love,\r\nthey say such embarrassing things so directly,\r\nwith sparkling eyes.\r\n\r\nSomehow, it feels a little nostalgic.\r\nThat's right.\r\nThis is what a band felt like.\r\n\r\nI've gotten used to making music as a job,\r\nand I've learned to create what's expected of me.\r\nBut this time, somehow, that might not be enough.\r\n\r\nDeep in my chest, my heartbeat is pounding.\r\nMy body feels just a little lighter than usual.\r\nEven this thing, which should be cold,\r\nfeels a little warm right now.",
+      "_traditionalChinese": "什麼好帥氣、超愛的，\r\n那種聽了會讓人很難以為情的話，\r\n那群傢伙卻能用閃亮亮的眼神，坦率地說出口。\r\n\r\n沒來由地有點懷念。\r\n是啊，所謂的「玩樂團」\r\n本來就是這種感覺。\r\n\r\n漸漸習慣把音樂當成工作後，\r\n雖然變得能做出他人所期望的作品，\r\n但這一次，總覺得光是那樣有點不太甘心。\r\n\r\n內心深處劇烈地躁動著，\r\n身體也比平時感覺輕盈了那麼一點點。\r\n本該冷冰冰的這傢伙，\r\n現在也有點溫度了。",
+      "_simplifiedChinese": "什么好帅啊、Big Love之类的\r\n那群家伙两眼放光\r\n毫不掩饰地把这些让人害羞的话说出口\r\n\r\n总觉得有点怀念\r\n也是啊\r\n乐队，就是这种感觉\r\n\r\n我已经习惯把音乐当成工作\r\n只要是对方想要的东西，我也能顺手做出来\r\n但唯独这次，总觉得那样没意思\r\n\r\n胸腔深处在悸动\r\n身体比平时，稍微轻盈了一点点\r\n本该冷冰冰的这家伙\r\n现在摸起来，也觉得有些发烫",
+      "_korean": "멋있다느니, 빅 러브라느니\r\n오글거리는 말도 진심으로\r\n눈을 반짝이며, 애들은 내게 말한다\r\n\r\n왠지 조금 그립네\r\n그래\r\n밴드란 게, 이런 느낌이었지\r\n\r\n음악을 직업으로 삼는 것에 익숙해져서\r\n남들이 원하는 건 척척 만들어낼 수 있게 됐지만\r\n이번엔 왠지 그러기 싫을지도\r\n\r\n가슴속에서 심장이 뛰어\r\n몸이 평소보다, 아주 조금 가벼워\r\n늘 차갑던 이 녀석도\r\n지금은 조금 뜨겁게 느껴져"
+    },
+    {
+      "_id": "SupportDiary_63",
+      "_japanese": "ユノさんちゃん、こちらをどうぞ！\r\n\r\nあっ、これは劇場版にて初めて出てきたオブリークニー\r\nレイズバーションでして、見てくださいここのお腹のあ\r\nたり！　ちょ〜っとわかりにくいかもなんですけど、マ\r\nジアームストロングのお腹のところが、ほら！　ムキっ\r\nて！　ムキってなってるんですよ！　これは映画の中で\r\n強敵・カネスキヤーネンと戦ったときに、マジアームス\r\nトロングもマジハムスプリングも一度負けちゃうんです\r\nけど、そこからこのままじゃダメだ！　って特訓パート\r\nに入るんです！　二人はカネスキヤーネンのパワーの前\r\nになすすべもなく〜って感じだったので、じゃあどんな\r\n攻撃にも負けない強いボディを手に入れようってことに\r\nなって！　そこで編み出したのが、この！　オブリーク\r\nニーレイズなんですよ！　これはお腹の横のところを鍛\r\nえるトレーニングなんですけど、そのおかげでもう一度\r\n戦った時にはもう全然ムキムキで！　ほんと〜に二人が\r\nかっこよくってですね〜！　……え？\r\n\r\n長くてよくわかんない？　そ、そんな〜〜〜！",
+      "_english": "Yuno-san-chan, take a look at this!\r\n\r\nOh, this is the Oblique Knee Raise that first appeared in the movie version,\r\nand look here at the stomach area!\r\nIt might be a little hard to tell,\r\nbut Magi Armstrong's stomach area, look!\r\nIt's flexing! It's flexing!\r\nIn the movie, when they fought the strong enemy Kanesukiyānen,\r\nMagi Armstrong and Magi Ham Spring both lose once,\r\nbut after that, they decided this can't go on and entered a training arc!\r\nFaced with Kanesukiyānen's power,\r\nthe two were completely helpless~\r\nSo they said, \"Then let's get a strong body that won't lose to any attack, no matter what!\"\r\nAnd so! What they came up with was this! Oblique Knee Raise!\r\nThis is a training that works the sides of the abdomen, and thanks to that,\r\nthe second time they fought, they were totally ripped!\r\nReally, the two were so cool~! Huh...?\r\n\r\nToo long and I don't really get it? W-What, no way~~~!",
+      "_traditionalChinese": "由乃同學醬，請看這個！\r\n\r\n啊，這個是在劇場版首次登場的側提膝版本，\r\n請看這裡肚子的地方！雖然可能會有～點不太明顯，\r\n但魔法阿姆斯壯肚子的地方，妳看！鼓起來了！\r\n肌肉線條超級結實的喔！\r\n在電影裡，和強敵卡尼斯基亞涅戰鬥時，\r\n魔法阿姆斯壯和魔法哈姆彈簧雖然一度落敗，\r\n但他們馬上進行了「這樣下去不行！」的特訓橋段！\r\n兩人當時在卡尼斯基亞涅的力量前\r\n完全束手無策～所以決定要鍛鍊出\r\n無論面對什麼攻擊都絕對不會輸的堅強體格！\r\n而在那個時候創造出來的就是這個！\r\n側提膝啊！雖然這是鍛鍊側邊腹部的訓練動作，\r\n但也多虧了它，再次對戰時兩人的身材已經變得超級健壯！\r\n他們兩個真～的超級帥氣呢～！\r\n\r\n咦……？我講太長了聽不太懂？怎、怎麼這樣～～～！",
+      "_simplifiedChinese": "小由乃同学，请看这个！\r\n\r\n啊，这是剧场版里首次登场的侧腹卷腹版本，你\r\n快看它肚子这一块！虽然有～点难看出来，但是\r\n魔法阿姆斯特朗肚子这里，你看！梆硬的！肌肉\r\n都隆起来了哦！剧情里他们跟强敌・爱财如命星\r\n人对战的时候，魔法阿姆斯特朗和魔法汉姆斯普\r\n林一开始都被打败了，但他们觉得这样下去绝对\r\n不行！然后就进入了特训环节！两个人在爱财如\r\n命星人的力量面前根本毫无还手之力～所以就决\r\n定，我们要得到无论承受什么攻击都不会输的强\r\n壮肉体！！就在那时他们悟出来的，就是这招！\r\n侧腹卷腹！这本来是锻炼侧腹肌肉的动作，但多\r\n亏了它，当他们再次挑战的时候，肌肉已经完全\r\n大爆炸了！那两个人真是～的帅呆了呀～！\r\n……诶？\r\n\r\n太长了听不懂？怎、怎么会这样～～～！",
+      "_korean": "유노짱 씨, 이것 좀 보세요!\r\n\r\n앗, 이건 극장판에서 처음 등장했던 오블리크 니\r\n레이즈 버전인데요, 보세요, 여기 배 쪽\r\n부분! 조금 알아보기 힘들 수도 있는데, 매\r\n지 암스트롱의 배 쪽이, 자, 보세요! 빡!\r\n하고! 빡! 갈라져 있다고요! 이건 영화에서\r\n강적 카네스키야넨이랑 싸울 때, 매지 암스\r\n트롱도 매지 햄스프링도 한 번 져버리거든요\r\n근데 거기서 이대론 안 돼! 하고 특훈 파트\r\n에 들어가거든요! 두 사람은 카네스키야넨의 파워 앞\r\n에 속수무책 이런 느낌이었으니까, 그럼 어떤\r\n공격에도 지지 않을 튼튼한 몸을 만들자! 이렇게\r\n돼서! 거기서 탄생한 게 바로 이! 오블리크\r\n니 레이즈라고요! 이건 옆구리를 단련하는\r\n트레이닝인데, 그 덕분에 다시 한번\r\n싸울 땐 완전 근육 빵빵해져서! 진~짜 두 사람이\r\n엄청 멋있단 말이에요~! ...... 네?\r\n\r\n너무 길어서 무슨 소린지 모르겠다고요? 그, 그럴 수가~~~!"
+    },
+    {
+      "_id": "SupportDiary_64",
+      "_japanese": "ドーナツとは、摩訶不思議である\r\n\r\n常に締め切りに追われる日々\r\n疲れた脳は糖分を欲する\r\nそれでも右手のペンを手放せない時\r\n空いた左手にジャストフィット\r\n\r\n美しい円形\r\nその真ん中にぽっかりと空いた穴\r\n\r\nまるでそこに吸い込まれるように\r\n気が付けば私の手には\r\n美味しい丸が、収まっているのだ",
+      "_english": "Donuts are utterly mysterious.\r\n\r\nIn days constantly chased by deadlines,\r\nmy tired brain craves sugar.\r\nEven so, when I can't let go of the pen in my right hand,\r\nit fits just right in my free left hand.\r\n\r\nA beautiful circle,\r\nwith a hole wide open in the middle.\r\n\r\nAs if drawn into it,\r\nbefore I know it, in my hand,\r\na delicious circle has come to rest.",
+      "_traditionalChinese": "甜甜圈這東西，真是不可思議。\r\n\r\n在總是被截稿日追著跑的日子裡，\r\n疲憊的大腦渴望著糖分。\r\n即便如此，右手放不下畫筆的時候，\r\n它卻能完美貼合在空著的左手中。\r\n\r\n美麗的圓形，\r\n以及正中央那大大敞開的空洞。\r\n\r\n靈魂彷彿會被吸入其中。\r\n回過神來，那美味的圓圈，\r\n早已落入了我的掌心。",
+      "_simplifiedChinese": "甜甜圈，真是一种不可思议的食物\r\n\r\n在经常被截稿日追着跑的日子里\r\n疲惫的大脑叫嚣着渴求糖分\r\n然而右手的画笔却无法停歇\r\n此时，它便完美填补了空闲的左手\r\n\r\n那美丽的圆弧\r\n与正中间空无一物的孔洞\r\n\r\n仿佛带着某种吸力\r\n等回过神来，我的手里\r\n已然握住了这份美味的圆环",
+      "_korean": "도넛이란, 참으로 기상천외한 존재다\r\n\r\n매일같이 마감에 쫓기는 나날\r\n지친 뇌는 당분을 갈구한다\r\n그럼에도 오른손의 펜을 놓을 수 없을 때\r\n남은 왼손에 착 감긴다\r\n\r\n아름다운 원형\r\n그 한가운데 뻥 뚫린 구멍\r\n\r\n마치 그곳으로 빨려 들어가듯\r\n정신을 차려보면 내 손엔\r\n맛있는 동그라미가, 들려 있다"
     },
     {
       "_id": "SupportDiary_9905",
@@ -64911,6 +66911,30 @@
       "_traditionalChinese": "事前預約KV",
       "_simplifiedChinese": "预注册KV",
       "_korean": "사전예약 KV"
+    },
+    {
+      "_id": "SupportSubtitle_62",
+      "_japanese": "青く燃える心",
+      "_english": "Heart Ablaze in Blue",
+      "_traditionalChinese": "蒼藍熾心",
+      "_simplifiedChinese": "苍蓝焰心",
+      "_korean": "푸르게 타오르는 마음"
+    },
+    {
+      "_id": "SupportSubtitle_63",
+      "_japanese": "マジカルフィジカル・エール！",
+      "_english": "Magical Physical Cheer!",
+      "_traditionalChinese": "魔法物理·應援！",
+      "_simplifiedChinese": "魔法露露・应援！",
+      "_korean": "매지컬 피지컬 파이팅!"
+    },
+    {
+      "_id": "SupportSubtitle_64",
+      "_japanese": "まあるい休息",
+      "_english": "A Round & Sweet Break",
+      "_traditionalChinese": "圓滾滾的休息時刻",
+      "_simplifiedChinese": "圆圆小憩",
+      "_korean": "포근한 휴식"
     },
     {
       "_id": "SupportSubtitle_70",
@@ -76052,7 +78076,7 @@
       "_id": "ui_maintenance_wait",
       "_japanese": "メンテナンス終了まで、今しばらくお待ちください。",
       "_english": "For the latest server opening time, please check official announcements. \\nDuring maintenance, [Menu] > [Download All] is unavailable. It will be available after launch.",
-      "_traditionalChinese": "開服時間根據實際準備情況進行調整，請以官方公告及實際開放時間為準。\\n維護期間，【選單】＞【一鍵下載】功能暫時無法使用。該功能將於正式開服後開放。",
+      "_traditionalChinese": "在維護結束前還請耐心等候。",
       "_simplifiedChinese": "开服时间可能根据实际准备情况进行调整，请以官方公告及实际开放时间为准。\\n维护期间，【菜单】＞【一键下载】功能暂不可用。该功能将在正式开服后开放。",
       "_korean": "오픈 시간은 진행 상황에 따라 변경될 수 있으니\r\n자세한 사항은 공지를 확인해 주시기 바랍니다.\\n점검 기간동안 [메뉴] - [일괄 다운로드] 기능은 사용할 수 없으며\r\n정식 오픈 후 사용 가능한 점 안내해 드립니다."
     },
@@ -80391,6 +82415,14 @@
       "_traditionalChinese": "月",
       "_simplifiedChinese": "月",
       "_korean": "월"
+    },
+    {
+      "_id": "ui_shop_birthdate_unselected_mark",
+      "_japanese": "-",
+      "_english": "-",
+      "_traditionalChinese": "-",
+      "_simplifiedChinese": "-",
+      "_korean": "-"
     },
     {
       "_id": "unit_day",
