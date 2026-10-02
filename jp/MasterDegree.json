@@ -3446,6 +3446,17 @@
       "_orderNum": 10000108,
       "_startAt": "",
       "_endAt": ""
+    },
+    {
+      "_id": 10000110,
+      "_nameTextId": "Degree_Name_10000110",
+      "_descriptionTextId": "Degree_Description_10000110",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "Image/Jacket/jkt_001_100112",
+      "_orderNum": 10000110,
+      "_startAt": "",
+      "_endAt": ""
     }
   ]
 }

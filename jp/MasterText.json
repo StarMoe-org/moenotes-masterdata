@@ -9593,6 +9593,14 @@
       "_korean": ""
     },
     {
+      "_id": "Arranger_Name_100112",
+      "_japanese": "植木建象、神田ジョン（from PENGUIN RESEARCH）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "AutoPostPresent_1",
       "_japanese": "事前登録10万人達成のプレゼントです。",
       "_english": "",
@@ -20113,6 +20121,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100112",
+      "_japanese": "カンザキイオリ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Content_Name_1",
       "_japanese": "スタジオ練習",
       "_english": "",
@@ -23481,6 +23497,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_10000110",
+      "_japanese": "「過去を喰らう」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_10000001",
       "_japanese": "[ステッカー]迷星叫ジャケット",
       "_english": "",
@@ -24155,6 +24179,14 @@
     {
       "_id": "Degree_Name_10000108",
       "_japanese": "[ステッカー]カーネーションの咲く日にジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_10000110",
+      "_japanese": "[ステッカー]過去を喰らうジャケット",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -25675,6 +25707,14 @@
     {
       "_id": "Item_Source_Name_3",
       "_japanese": "保管庫",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Source_Name_4",
+      "_japanese": "スタジオ練習",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -30658,7 +30698,7 @@
     },
     {
       "_id": "ui_hc_history_present_detail_30",
-      "_japanese": "アワーノーツパスデイリー特典",
+      "_japanese": "アワーノーツパス特典",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -45873,6 +45913,14 @@
       "_korean": ""
     },
     {
+      "_id": "Lyricist_Name_100112",
+      "_japanese": "カンザキイオリ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "MemberGachaVoice_51",
       "_japanese": "私の……心の叫び……！",
       "_english": "",
@@ -48665,6 +48713,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100112",
+      "_japanese": "過去を喰らう",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Category_1",
       "_japanese": "オリジナル",
       "_english": "Original",
@@ -49385,6 +49441,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100112",
+      "_japanese": "かこをくらう",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Ruby_Tilte_100001",
       "_japanese": "<r=まよいうた>迷星叫</r>",
       "_english": "Music_Tilte_1",
@@ -50059,6 +50123,14 @@
     {
       "_id": "Music_Ruby_Tilte_100110",
       "_japanese": "カーネーションの咲く日に",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100112",
+      "_japanese": "過去を喰らう",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

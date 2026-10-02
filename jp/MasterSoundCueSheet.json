@@ -605,6 +605,10 @@
       "_cueSheetName": "M_SeishunComplex"
     },
     {
+      "_id": 1300000000112,
+      "_cueSheetName": "M_KakoWoKurau"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -943,6 +947,10 @@
     {
       "_id": 1400000000041,
       "_cueSheetName": "A_ZankokunaTenshinoThesis_short"
+    },
+    {
+      "_id": 1400000000112,
+      "_cueSheetName": "M_Kakowokurau_short"
     },
     {
       "_id": 2301001000001,

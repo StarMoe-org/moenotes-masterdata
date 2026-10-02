@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.300/52355a9de56a475f691b10ef58acba58",
+    "version": "1.0.0.310/6a32df715350f3cfd706bbc7f4f4a36d",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -268,13 +268,13 @@
         },
         {
             "name": "MasterDegree.bin",
-            "hash": "66875825f35fc1f91459657c97c3742299ce85214130041038b7f0f750472dbd",
+            "hash": "61ae335db70503712bf9070519f4cb1b9a6ddd3f79893e5d979f4538cb75316b",
             "size": 5856
         },
         {
             "name": "MasterDisplayTarget.bin",
-            "hash": "18012bcb98ff818b622f7504422fde6c009ab468175be55795ccfbdaaf1d9f08",
-            "size": 256
+            "hash": "6e4a5c3a2ec999927770fa0c7340e6da24c1c43da76d5c14b0e9aa26f9d11bf2",
+            "size": 320
         },
         {
             "name": "MasterDownload.bin",
@@ -338,7 +338,7 @@
         },
         {
             "name": "MasterExchangeProduct.bin",
-            "hash": "d396a427baee38b4860c0f36096778d04e40d262a9f497a1ef5bb6135f3fa196",
+            "hash": "6f2c755a10dd71a562e0fc9b4cf3fabdf06fc18c2c18ef13be70a708948c7640",
             "size": 2624
         },
         {
@@ -463,7 +463,7 @@
         },
         {
             "name": "MasterHomeBanner.bin",
-            "hash": "4932732b471bdbf9e5c40ce216d398b2af23bdfb45c32fb73e1c83911b6972bf",
+            "hash": "6b12df22499b7cb76af0dc93aa95434b4017cc36014e9bcdc82ace2752a0cdc0",
             "size": 512
         },
         {
@@ -648,8 +648,8 @@
         },
         {
             "name": "MasterLiveMusic.bin",
-            "hash": "5c5ef03bc21a39ac117bdb948fc162f624fbf623916becfc7c7923334c1bd79d",
-            "size": 7552
+            "hash": "01be3406ac76e5b31ed47e754c8211cc18f40dc9bb76dc646121224c9a9000a9",
+            "size": 7648
         },
         {
             "name": "MasterLiveMusicAnotherVocal.bin",
@@ -688,13 +688,13 @@
         },
         {
             "name": "MasterLiveMusicReleaseEffect.bin",
-            "hash": "40a0bbc57ef12c2c9d04cbd37cc2dc777d85d950d6862677f07281d921430de9",
-            "size": 288
+            "hash": "32d67fa56b29526b5cddbfc55aef9bfdf6b79b2d31dcdb0f90487d16223371c9",
+            "size": 320
         },
         {
             "name": "MasterLiveMusicScore.bin",
-            "hash": "66fcca8d9a411d924ba34dd394127754ef142eaa3d33bbad297118fa47445374",
-            "size": 4224
+            "hash": "b86a023a765c871121de4bfd0078f48ead0254adc590f13e3ed85b5eec329294",
+            "size": 4256
         },
         {
             "name": "MasterLiveMusicScoreReward.bin",
@@ -853,13 +853,13 @@
         },
         {
             "name": "MasterMission.bin",
-            "hash": "af38ebc1eabfb6cfb5c78920ae9286bbdf84d09b940a164aa5febd5f6a7c481f",
+            "hash": "feac2f14b532f6ededdad9cb3c2b047f858f43e5dd29685f11eebc3bf708fac3",
             "size": 7264
         },
         {
             "name": "MasterMissionReward.bin",
-            "hash": "058e76b6891d61a1bc1a15ec1eb4e0b089b9b80c7be82574790a5022ef723b77",
-            "size": 2656
+            "hash": "ae1ad82bfcffdfc221f92f34cd68c8137133b34ca10506a5284c42ed94b3d0b4",
+            "size": 2688
         },
         {
             "name": "MasterMonthlyPass.bin",
@@ -1058,13 +1058,13 @@
         },
         {
             "name": "MasterSound.bin",
-            "hash": "669da61a5f0e492bbcfa6e90337ada4390b7669ab0ba2c28508788e2ab3130c8",
-            "size": 30432
+            "hash": "f1f778c507e5bce955f345d0ffe054b9d1b81e5b3c41457e475c44e4fc3d614b",
+            "size": 30496
         },
         {
             "name": "MasterSoundCueSheet.bin",
-            "hash": "cf42ac00003a9d45a039446f775f8dc0fad9ecbc2484802f3b77d4b1206262a7",
-            "size": 3392
+            "hash": "e69276ddb8ca31d578bde9f958f0cb3de36d9a6b8fa79581df9f9f26d978bbf0",
+            "size": 3424
         },
         {
             "name": "MasterStamp.bin",
@@ -1143,8 +1143,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "b5311d5206939730cad55d1bca3b7dc596a63102c66528c2f51fc7ab5b4baa51",
-            "size": 232032
+            "hash": "fcd59c509f8557c9745e29c935ad2faca89dab297d590b209570cc3efe05dacf",
+            "size": 232192
         },
         {
             "name": "MasterTitle.bin",
