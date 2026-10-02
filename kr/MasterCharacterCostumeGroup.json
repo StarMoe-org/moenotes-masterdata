@@ -1,0 +1,764 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_characterID": 1,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 2,
+      "_characterID": 1,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 3,
+      "_characterID": 1,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/1/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 4,
+      "_characterID": 2,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 5,
+      "_characterID": 2,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 6,
+      "_characterID": 2,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/2/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 7,
+      "_characterID": 3,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 8,
+      "_characterID": 3,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 9,
+      "_characterID": 3,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/3/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 10,
+      "_characterID": 4,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 11,
+      "_characterID": 4,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 12,
+      "_characterID": 4,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/4/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 13,
+      "_characterID": 5,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 14,
+      "_characterID": 5,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 15,
+      "_characterID": 5,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/5/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 16,
+      "_characterID": 6,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 17,
+      "_characterID": 6,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 18,
+      "_characterID": 6,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/6/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 19,
+      "_characterID": 7,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 20,
+      "_characterID": 7,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 21,
+      "_characterID": 7,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/7/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 22,
+      "_characterID": 8,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 23,
+      "_characterID": 8,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 24,
+      "_characterID": 8,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/8/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 25,
+      "_characterID": 9,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 26,
+      "_characterID": 9,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 27,
+      "_characterID": 9,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/9/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 28,
+      "_characterID": 10,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 29,
+      "_characterID": 10,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 30,
+      "_characterID": 10,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/10/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 31,
+      "_characterID": 11,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 32,
+      "_characterID": 11,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 33,
+      "_characterID": 11,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/11/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 34,
+      "_characterID": 12,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 35,
+      "_characterID": 12,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 36,
+      "_characterID": 12,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/12/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 37,
+      "_characterID": 13,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 38,
+      "_characterID": 13,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 39,
+      "_characterID": 13,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/13/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 40,
+      "_characterID": 14,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 41,
+      "_characterID": 14,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 42,
+      "_characterID": 14,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/14/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 43,
+      "_characterID": 15,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 44,
+      "_characterID": 15,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 45,
+      "_characterID": 15,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/15/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 46,
+      "_characterID": 16,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 47,
+      "_characterID": 16,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 48,
+      "_characterID": 16,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/16/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 49,
+      "_characterID": 17,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 50,
+      "_characterID": 17,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 51,
+      "_characterID": 17,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/17/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 52,
+      "_characterID": 18,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 53,
+      "_characterID": 18,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 54,
+      "_characterID": 18,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/18/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 55,
+      "_characterID": 19,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 56,
+      "_characterID": 19,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 57,
+      "_characterID": 19,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/19/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 58,
+      "_characterID": 20,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 59,
+      "_characterID": 20,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 60,
+      "_characterID": 20,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/20/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 61,
+      "_characterID": 21,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 62,
+      "_characterID": 21,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 63,
+      "_characterID": 21,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/21/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 64,
+      "_characterID": 22,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 65,
+      "_characterID": 22,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 66,
+      "_characterID": 22,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/22/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 67,
+      "_characterID": 23,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 68,
+      "_characterID": 23,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 69,
+      "_characterID": 23,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/23/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 70,
+      "_characterID": 24,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 71,
+      "_characterID": 24,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 72,
+      "_characterID": 24,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/24/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 73,
+      "_characterID": 25,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 74,
+      "_characterID": 25,
+      "_costumeNameTextId": "",
+      "_iconPath": "",
+      "_isInitial": true,
+      "_isChangeable": false,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 75,
+      "_characterID": 25,
+      "_costumeNameTextId": "Costume_Name_Default",
+      "_iconPath": "Character/costume/25/icon_costume_default _01",
+      "_isInitial": true,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 0,
+      "_startAt": ""
+    },
+    {
+      "_id": 76,
+      "_characterID": 22,
+      "_costumeNameTextId": "Costume_Name_Birthday_2627",
+      "_iconPath": "Character/costume/22/icon_costume_berthday _2726",
+      "_isInitial": false,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 64,
+      "_startAt": "2026/10/04 0:00:00"
+    }
+  ]
+}

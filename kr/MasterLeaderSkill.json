@@ -349,6 +349,12 @@
       "_skillIconID": 16
     },
     {
+      "_id": 59,
+      "_nameTextID": "Leader_Skill_Name_59",
+      "_descriptionTextFormatID": "Leader_Skill_Name_Description_59",
+      "_skillIconID": 16
+    },
+    {
       "_id": 90001,
       "_nameTextID": "Leader_Skill_Name_90001",
       "_descriptionTextFormatID": "Leader_Skill_Name_Description_90001",

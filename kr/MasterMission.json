@@ -12629,38 +12629,6 @@
       "_endAt": ""
     },
     {
-      "_id": 950000105,
-      "_missionCategory": 9,
-      "_descriptionTextId": "Mission_Description_LiveClearMusic",
-      "_missionType": 81,
-      "_useTypeGrouping": false,
-      "_initialValue": 0,
-      "_achievementCount": 100,
-      "_value": 0,
-      "_bandRank": 0,
-      "_cardType": 0,
-      "_notesJudgement": 0,
-      "_musicDifficulty": 0,
-      "_scoreRank": 0,
-      "_missionLiveChapterId": 0,
-      "_missionLiveStageId": 0,
-      "_priority": 1,
-      "_exchangeId": 0,
-      "_characterId": 0,
-      "_bandId": 0,
-      "_musicId": 100107,
-      "_arenaRankId": 0,
-      "_memberCardId": 0,
-      "_supportCardId": 0,
-      "_storyChapterId": 0,
-      "_episodeId": 0,
-      "_missionRewardIds": [
-        950000105
-      ],
-      "_startAt": "2026/09/24 0:00:00",
-      "_endAt": "2027/09/23 0:00:00"
-    },
-    {
       "_id": 950000106,
       "_missionCategory": 9,
       "_descriptionTextId": "Mission_Description_LiveClearMusic",
@@ -12752,6 +12720,38 @@
       "_episodeId": 0,
       "_missionRewardIds": [
         950000108
+      ],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 950000110,
+      "_missionCategory": 9,
+      "_descriptionTextId": "Mission_Description_LiveClearMusic",
+      "_missionType": 81,
+      "_useTypeGrouping": false,
+      "_initialValue": 0,
+      "_achievementCount": 100,
+      "_value": 0,
+      "_bandRank": 0,
+      "_cardType": 0,
+      "_notesJudgement": 0,
+      "_musicDifficulty": 0,
+      "_scoreRank": 0,
+      "_missionLiveChapterId": 0,
+      "_missionLiveStageId": 0,
+      "_priority": 1,
+      "_exchangeId": 0,
+      "_characterId": 0,
+      "_bandId": 0,
+      "_musicId": 100112,
+      "_arenaRankId": 0,
+      "_memberCardId": 0,
+      "_supportCardId": 0,
+      "_storyChapterId": 0,
+      "_episodeId": 0,
+      "_missionRewardIds": [
+        950000110
       ],
       "_startAt": "",
       "_endAt": ""
