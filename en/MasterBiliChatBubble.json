@@ -8,7 +8,8 @@
       "_skinDescTextId": "ChatBubbleDesc_1",
       "_isInitialOwnership": true,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
-      "_releaseConditionTextId": "ChatBubbleRelease_1"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     },
     {
       "_id": 2,
@@ -18,7 +19,8 @@
       "_skinDescTextId": "ChatBubbleDesc_2",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
-      "_releaseConditionTextId": "ChatBubbleRelease_2"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     },
     {
       "_id": 3,
@@ -28,7 +30,8 @@
       "_skinDescTextId": "ChatBubbleDesc_3",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
-      "_releaseConditionTextId": "ChatBubbleRelease_3"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     },
     {
       "_id": 4,
@@ -38,7 +41,8 @@
       "_skinDescTextId": "ChatBubbleDesc_4",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
-      "_releaseConditionTextId": "ChatBubbleRelease_4"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     },
     {
       "_id": 1006,
@@ -48,7 +52,8 @@
       "_skinDescTextId": "ChatBubbleDesc_1006",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
-      "_releaseConditionTextId": "ChatBubbleRelease_1006"
+      "_startAt": "2026/09/28 12:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     }
   ]
 }

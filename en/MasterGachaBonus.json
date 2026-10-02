@@ -1,3 +1,16 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_bonusDrawTiming": 1,
+      "_requiredGachaDrawCount": 1,
+      "_bonusDrawCount": 1
+    },
+    {
+      "_id": 2,
+      "_bonusDrawTiming": 1,
+      "_requiredGachaDrawCount": 1,
+      "_bonusDrawCount": 1
+    }
+  ]
 }

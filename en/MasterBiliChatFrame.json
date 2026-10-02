@@ -7,7 +7,8 @@
       "_skinDescTextId": "ChatFrameDesc_1",
       "_isInitialOwnership": true,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_1"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     },
     {
       "_id": 2,
@@ -16,7 +17,8 @@
       "_skinDescTextId": "ChatFrameDesc_2",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_2"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:01"
     },
     {
       "_id": 3,
@@ -25,7 +27,8 @@
       "_skinDescTextId": "ChatFrameDesc_3",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_3"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:02"
     },
     {
       "_id": 4,
@@ -34,7 +37,8 @@
       "_skinDescTextId": "ChatFrameDesc_4",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_4"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:03"
     },
     {
       "_id": 1001,
@@ -43,7 +47,8 @@
       "_skinDescTextId": "ChatFrameDesc_1001",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_67"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:04"
     },
     {
       "_id": 1003,
@@ -52,7 +57,8 @@
       "_skinDescTextId": "ChatFrameDesc_1003",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_67"
+      "_startAt": "2026/06/01 00:00:00",
+      "_endAt": "2046/07/01 00:00:05"
     },
     {
       "_id": 1006,
@@ -61,7 +67,8 @@
       "_skinDescTextId": "ChatFrameDesc_1006",
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
-      "_releaseConditionTextId": "ChatFrameRelease_1006"
+      "_startAt": "2026/09/28 12:00:00",
+      "_endAt": "2046/07/01 00:00:07"
     }
   ]
 }

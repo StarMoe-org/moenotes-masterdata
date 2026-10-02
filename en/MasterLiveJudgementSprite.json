@@ -24,6 +24,11 @@
       "_id": 5,
       "_noteSimulateJudgement": 1,
       "_spriteName": "judgment_miss"
+    },
+    {
+      "_id": 6,
+      "_noteSimulateJudgement": 6,
+      "_spriteName": "judgment_just"
     }
   ]
 }

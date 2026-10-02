@@ -1,0 +1,52 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_textId": "ui_hc_history_reason_present"
+    },
+    {
+      "_id": 2,
+      "_textId": "ui_hc_history_reason_shop_purchase"
+    },
+    {
+      "_id": 3,
+      "_textId": "ui_hc_history_reason_monthly_pass"
+    },
+    {
+      "_id": 4,
+      "_textId": "ui_hc_history_reason_event_box_gacha"
+    },
+    {
+      "_id": 5,
+      "_textId": "ui_hc_history_reason_story"
+    },
+    {
+      "_id": 7,
+      "_textId": "ui_hc_history_reason_admin"
+    },
+    {
+      "_id": 9,
+      "_textId": "ui_hc_history_reason_friendship_story"
+    },
+    {
+      "_id": 11,
+      "_textId": "ui_hc_history_reason_shop"
+    },
+    {
+      "_id": 12,
+      "_textId": "ui_hc_history_reason_gacha"
+    },
+    {
+      "_id": 13,
+      "_textId": "ui_hc_history_reason_live_boost"
+    },
+    {
+      "_id": 14,
+      "_textId": "ui_hc_history_reason_vip_rank_pack"
+    },
+    {
+      "_id": 15,
+      "_textId": "ui_hc_history_reason_season_pass"
+    }
+  ]
+}

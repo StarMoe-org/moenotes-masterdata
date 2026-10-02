@@ -593,6 +593,10 @@
       "_cueSheetName": "I_KeepOnRiddim"
     },
     {
+      "_id": 1300000000107,
+      "_cueSheetName": "A_Abracadabra"
+    },
+    {
       "_id": 1300000000108,
       "_cueSheetName": "Mi_StellarStellar"
     },
@@ -605,8 +609,8 @@
       "_cueSheetName": "M_SeishunComplex"
     },
     {
-      "_id": 1300000000107,
-      "_cueSheetName": "A_Abracadabra"
+      "_id": 1300000000112,
+      "_cueSheetName": "M_KakoWoKurau"
     },
     {
       "_id": 1400000000001,
@@ -951,6 +955,10 @@
     {
       "_id": 1400000000041,
       "_cueSheetName": "A_ZankokunaTenshinoThesis_short"
+    },
+    {
+      "_id": 1400000000112,
+      "_cueSheetName": "M_Kakowokurau_short"
     },
     {
       "_id": 2301001000001,
@@ -1411,6 +1419,10 @@
     {
       "_id": 3202011000062,
       "_cueSheetName": "VoiceGacha_11_00062"
+    },
+    {
+      "_id": 3202022000064,
+      "_cueSheetName": "VoiceGacha_22_00064"
     },
     {
       "_id": 2100000000001,

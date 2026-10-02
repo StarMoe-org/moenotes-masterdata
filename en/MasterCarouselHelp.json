@@ -175,6 +175,17 @@
       "_shouldShowOnFirstVisit": true,
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": ""
+    },
+    {
+      "_id": 20,
+      "_helpCategoryId": 220,
+      "_displayName": "CostumeChange",
+      "_titleTextId": "Help_Carousel_Title_20",
+      "_suffix": "",
+      "_pageCount": 2,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
     }
   ]
 }
