@@ -8130,6 +8130,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000107,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000107,
+      "_cueName": "A_Abracadabra",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1300000000108,
       "_category": 0,
       "_soundCueSheetID": 1300000000108,
@@ -8163,10 +8174,10 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 1300000000107,
+      "_id": 1300000000112,
       "_category": 0,
-      "_soundCueSheetID": 1300000000107,
-      "_cueName": "A_Abracadabra",
+      "_soundCueSheetID": 1300000000112,
+      "_cueName": "M_KakoWoKurau",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": true,
       "_isRandomPitch": false,
@@ -9113,6 +9124,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000041,
       "_cueName": "A_ZankokunaTenshinoThesis_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000112,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000112,
+      "_cueName": "M_Kakowokurau_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -26306,6 +26328,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201022000001,
       "_cueName": "Growth_Miku_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3202202000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202022000064,
+      "_cueName": "Member_Miku_Gacha_064",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,

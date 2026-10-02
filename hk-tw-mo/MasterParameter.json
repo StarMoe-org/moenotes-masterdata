@@ -338,12 +338,17 @@
     {
       "_id": "client_version_recommended",
       "_type": "String",
-      "_value": "1.0.1"
+      "_value": "1.0.2"
     },
     {
       "_id": "client_version_required",
       "_type": "String",
-      "_value": "1.0.1"
+      "_value": "1.0.2"
+    },
+    {
+      "_id": "client_version_download_url",
+      "_type": "String",
+      "_value": "https://pkg.biligame.com/games/BanGDreamOurNotes_1.0.2_2026_09_29_22_17_32_317606.apk"
     },
     {
       "_id": "monthly_pass_add_purchase_threshold",

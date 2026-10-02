@@ -1,3 +1,20 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_gachaBonusId": 1,
+      "_bonusPrizeType": 1,
+      "_bonusPrizeId": 64,
+      "_bonusPrizeCount": 5,
+      "_weight": 1
+    },
+    {
+      "_id": 2,
+      "_gachaBonusId": 2,
+      "_bonusPrizeType": 1,
+      "_bonusPrizeId": 64,
+      "_bonusPrizeCount": 50,
+      "_weight": 1
+    }
+  ]
 }

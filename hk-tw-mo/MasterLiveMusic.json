@@ -5355,6 +5355,67 @@
       "_comboNormalLiveMusicRewardID": 7,
       "_comboHardLiveMusicRewardID": 8,
       "_comboExpertLiveMusicRewardID": 9
+    },
+    {
+      "_id": 100112,
+      "_phoneticTextID": "Music_Phonetic_Tilte_100112",
+      "_rubyTitleTextID": "Music_Ruby_Tilte_100112",
+      "_sortOrder": 10120112,
+      "_titleTextID": "Music_Tilte_100112",
+      "_bandIDs": [
+        1
+      ],
+      "_bandNameTextID": "",
+      "_vocalCharacterIDs": [
+        1
+      ],
+      "_musicType": 5,
+      "_musicCategories": [
+        2
+      ],
+      "_bestMusicTagIDs": [
+        1
+      ],
+      "_musicSoundID": 1300000000112,
+      "_jingleSoundID": 1400000000112,
+      "_easyID": 10011200,
+      "_normalID": 10011201,
+      "_hardID": 10011202,
+      "_expertID": 10011203,
+      "_liveScoreRankGroup": 1100112,
+      "_defaultUnlock": false,
+      "_unlockConditionID": 0,
+      "_liveMusicPenLightColorID": 101,
+      "_startAt": "2026/10/03 15:00:00",
+      "_lyricistTextID": "Lyricist_Name_100112",
+      "_composerTextID": "Composer_Name_100112",
+      "_arrangerTextID": "Arranger_Name_100112",
+      "_jacketAssetName": "jkt_001_100112",
+      "_musicVideoIDs": [],
+      "_vjVideoPattern": 2,
+      "_anotherVocalIDs": [],
+      "_scoreRankRewardGroup": 1,
+      "_comboRewardGroup": 1,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_gekisouCallSe": 1,
+      "_backgroundCameraType": 1,
+      "_musicLightColorIDNormal": 2,
+      "_musicLightColorIDChorus": 2,
+      "_lazerLightMotionNormal": 3,
+      "_lazerLightMotionChorus": 3,
+      "_stageLightMotionNormal": 3,
+      "_stageLightMotionChorus": 3,
+      "_scoreCLiveMusicRewardID": 1,
+      "_scoreBLiveMusicRewardID": 2,
+      "_scoreALiveMusicRewardID": 3,
+      "_scoreSLiveMusicRewardID": 4,
+      "_scoreSSLiveMusicRewardID": 5,
+      "_comboEasyLiveMusicRewardID": 6,
+      "_comboNormalLiveMusicRewardID": 7,
+      "_comboHardLiveMusicRewardID": 8,
+      "_comboExpertLiveMusicRewardID": 9
     }
   ]
 }

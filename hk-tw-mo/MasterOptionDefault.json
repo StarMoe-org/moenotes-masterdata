@@ -190,13 +190,6 @@
       "_addedOptionVersion": 1
     },
     {
-      "_id": 1115,
-      "_presetId": 1,
-      "_optionItemType": 119,
-      "_valueString": "2",
-      "_addedOptionVersion": 1
-    },
-    {
       "_id": 1027,
       "_presetId": 1,
       "_optionItemType": 200,
@@ -813,6 +806,13 @@
       "_addedOptionVersion": 1
     },
     {
+      "_id": 1115,
+      "_presetId": 1,
+      "_optionItemType": 119,
+      "_valueString": "2",
+      "_addedOptionVersion": 1
+    },
+    {
       "_id": 2000,
       "_presetId": 2,
       "_optionItemType": 1,
@@ -999,13 +999,6 @@
       "_presetId": 2,
       "_optionItemType": 118,
       "_valueString": "0",
-      "_addedOptionVersion": 1
-    },
-    {
-      "_id": 2115,
-      "_presetId": 2,
-      "_optionItemType": 119,
-      "_valueString": "2",
       "_addedOptionVersion": 1
     },
     {
@@ -1614,7 +1607,7 @@
       "_id": 2113,
       "_presetId": 2,
       "_optionItemType": 603,
-      "_valueString": "TRUE",
+      "_valueString": "FALSE",
       "_addedOptionVersion": 1
     },
     {
@@ -1622,6 +1615,13 @@
       "_presetId": 2,
       "_optionItemType": 604,
       "_valueString": "TRUE",
+      "_addedOptionVersion": 1
+    },
+    {
+      "_id": 2115,
+      "_presetId": 2,
+      "_optionItemType": 119,
+      "_valueString": "1",
       "_addedOptionVersion": 1
     },
     {
@@ -1811,13 +1811,6 @@
       "_presetId": 3,
       "_optionItemType": 118,
       "_valueString": "0",
-      "_addedOptionVersion": 1
-    },
-    {
-      "_id": 3115,
-      "_presetId": 3,
-      "_optionItemType": 119,
-      "_valueString": "2",
       "_addedOptionVersion": 1
     },
     {
@@ -2426,7 +2419,7 @@
       "_id": 3113,
       "_presetId": 3,
       "_optionItemType": 603,
-      "_valueString": "TRUE",
+      "_valueString": "FALSE",
       "_addedOptionVersion": 1
     },
     {
@@ -2434,6 +2427,13 @@
       "_presetId": 3,
       "_optionItemType": 604,
       "_valueString": "TRUE",
+      "_addedOptionVersion": 1
+    },
+    {
+      "_id": 3115,
+      "_presetId": 3,
+      "_optionItemType": 119,
+      "_valueString": "2",
       "_addedOptionVersion": 1
     }
   ]
