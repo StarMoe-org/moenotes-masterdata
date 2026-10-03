@@ -11121,6 +11121,22 @@
       "_korean": ""
     },
     {
+      "_id": "Campaign_Description_LiveRewardDrop01Nonenull",
+      "_japanese": "ライブ報酬獲得時に、追加アイテムを別枠で獲得できる",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Campaign_Name_LiveRewardDrop",
+      "_japanese": "ライブ報酬追加ドロップ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Help_Carousel_Title_1",
       "_japanese": "メンバー",
       "_english": "",
@@ -22393,6 +22409,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_203",
+      "_japanese": "心玖バースデーピック交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_204",
       "_japanese": "リリース記念！MyGO!!!!!ピックアップガチャの交換所で獲得",
       "_english": "",
@@ -25665,6 +25689,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_203",
+      "_japanese": "[ステッカー]馬橋心玖 Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_204",
       "_japanese": "[ステッカー]リリース記念！MyGO!!!!!ピックアップガチャ",
       "_english": "",
@@ -25955,6 +25987,22 @@
     {
       "_id": "Exchange_Name_17",
       "_japanese": "アワーノーツガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_18",
+      "_japanese": "馬橋心玖 Happy Birthday 26-27 ガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_19",
+      "_japanese": "心玖バースデーピック交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27201,6 +27249,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_11",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -27819,6 +27875,14 @@
     {
       "_id": "Gacha_Name_10",
       "_japanese": "ワタシが主役のサイバーナイトガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_11",
+      "_japanese": "馬橋心玖 Happy Birthday 26-27ガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -33569,6 +33633,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_64",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\n※一部のガチャは対象外",
       "_english": "",
@@ -34217,6 +34289,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000064",
+      "_japanese": "[Happy Birthday 26-27]馬橋 心玖の覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -34715,6 +34795,14 @@
     {
       "_id": "Item_Name_10000063",
       "_japanese": "メンバーピース([ナイト・フライト]峰月 律)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000064",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]馬橋 心玖)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -35225,6 +35313,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_10000064",
+      "_japanese": "めんばーぴーす10000064",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "",
@@ -35665,6 +35761,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_64",
+      "_japanese": "心玖バースデーピック",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_1",
       "_japanese": "すたー",
       "_english": "",
@@ -36099,6 +36203,14 @@
     {
       "_id": "Item_Phonetic_Name_63",
       "_japanese": "いっかだんらんふぁーすとしんぐるぴーすふるぴーしーずとくてんこうかんちけっと",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_64",
+      "_japanese": "みくばーすでーぴっく",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -36563,6 +36675,14 @@
     {
       "_id": "Leader_Skill_Name_Description_58",
       "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_59",
+      "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紫苑のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -38323,6 +38443,14 @@
     {
       "_id": "Leader_Skill_Name_58",
       "_japanese": "一家Dumb Rock!&撃奏スキル【LUCK】パフォーマンスUP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_59",
+      "_japanese": "一家Dumb Rock!&紫苑パフォーマンスUP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -46017,6 +46145,14 @@
       "_korean": ""
     },
     {
+      "_id": "MemberGachaVoice_64",
+      "_japanese": "……ありがと♪",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "MemberSubtitle_1",
       "_japanese": "今、ここにいる",
       "_english": "",
@@ -46515,6 +46651,14 @@
     {
       "_id": "MemberSubtitle_63",
       "_japanese": "ナイト・フライト",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_64",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53801,6 +53945,14 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Chapter_Description_33",
+      "_japanese": "Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Story_Chapter_Name_1",
       "_japanese": "迷い星、叫び重ねて",
       "_english": "",
@@ -53843,6 +53995,14 @@
     {
       "_id": "Story_Chapter_Name_6",
       "_japanese": "アイの奔流　AtoZ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Chapter_Name_33",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -54987,6 +55147,14 @@
     {
       "_id": "Story_Episode_Description_609",
       "_japanese": "あたしたち、バンドでしょ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_3301",
+      "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -71393,14 +71561,6 @@
       "_korean": ""
     },
     {
-      "_id": "ui_shop_birthdate_unselected_mark",
-      "_japanese": "-",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "unit_day",
       "_japanese": "日",
       "_english": "days",
@@ -73707,14 +73867,6 @@
     {
       "_id": "ui_arena_support_item_setting_dialog_message",
       "_japanese": "使用するサポートアイテムを選択してください。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "ui_arena_support_item_setting_dialog_owned_item_label",
-      "_japanese": "所持サポートアイテム",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -76521,6 +76673,14 @@
       "_korean": ""
     },
     {
+      "_id": "ui_shop_birthdate_unselected_mark",
+      "_japanese": "-",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_shop_birthdate_notes",
       "_japanese": "※生年月は後から変更することはできません。\n※年齢は誕生月の1日に1歳加算されます。\n未成年の方は法定代理人(両親等)の同意が必要です。",
       "_english": "",
@@ -76579,14 +76739,6 @@
     {
       "_id": "ui_shop_star_usage_note",
       "_japanese": "※無償スターから先に使用し、\n有償スターは購入順に使用されます。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "ui_hc_history_description",
-      "_japanese": "・過去30日分のスター履歴（獲得・消費）を確認できます。\n・31日以上前の履歴については、サポートまでお問い合わせください。\n※プレゼントボックス内のスターは、受け取り完了時に履歴へ反映されます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

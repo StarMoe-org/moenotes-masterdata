@@ -1763,6 +1763,34 @@
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
       "_startAt": "2026-09-30 18:00:00"
+    },
+    {
+      "_id": 64,
+      "_assetID": 64,
+      "_nameTextID": "Character_Name_Miku",
+      "_subtitleTextID": "MemberSubtitle_64",
+      "_characterID": 22,
+      "_rarity": 20,
+      "_cardType": 5,
+      "_bestMusicTagIDs": [
+        5
+      ],
+      "_performancePowerMax": 30179,
+      "_technicPowerMax": 23214,
+      "_visualPowerMax": 23214,
+      "_memberCardLevelGroup": 4,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 20,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000064,
+      "_leaderSkillID": 59,
+      "_liveSkillID": 8,
+      "_gekisouSkillID": 22,
+      "_liveSkillLevelResourceGroup": 4,
+      "_gekisouSkillLevelResourceGroup": 8,
+      "_gachaVoiceTextId": "MemberGachaVoice_64",
+      "_gachaVoiceSoundId": 3202202000001,
+      "_startAt": "2026-10-04 0:00:00"
     }
   ]
 }

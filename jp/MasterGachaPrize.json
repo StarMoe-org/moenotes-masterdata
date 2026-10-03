@@ -2003,6 +2003,18 @@
       "_pickUpFixedRate": 0,
       "_startAt": "null",
       "_endAt": "null"
+    },
+    {
+      "_id": 198,
+      "_groupId": 15,
+      "_resourceType": 2,
+      "_resourceId": 64,
+      "_amount": 1,
+      "_pickUpType": 2,
+      "_pickUpAddedRate": 0,
+      "_pickUpFixedRate": 0,
+      "_startAt": "null",
+      "_endAt": "null"
     }
   ]
 }

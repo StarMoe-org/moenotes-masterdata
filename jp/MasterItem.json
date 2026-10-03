@@ -864,6 +864,21 @@
       "_endAt": ""
     },
     {
+      "_id": 64,
+      "_nameTextId": "Item_Name_64",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Item/event/birthday_pick_miku",
+      "_phoneticNameTextId": "Item_Phonetic_Name_64",
+      "_descriptionTextId": "Item_Description_64",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 71,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": "2026/10/09 23:59:59"
+    },
+    {
       "_id": 20000001,
       "_nameTextId": "Item_Name_20000001",
       "_inventoryDisplayGroup": 3,
@@ -2194,6 +2209,21 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 10000063,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000064,
+      "_nameTextId": "Item_Name_10000064",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000064",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000064",
+      "_descriptionTextId": "Item_Description_10000064",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000064,
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": ""

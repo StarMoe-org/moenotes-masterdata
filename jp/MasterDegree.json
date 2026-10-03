@@ -2155,6 +2155,19 @@
       "_endAt": ""
     },
     {
+      "_id": 203,
+      "_nameTextId": "Degree_Name_203",
+      "_descriptionTextId": "Degree_Description_203",
+      "_degreeType": 1,
+      "_characterIds": [
+        22
+      ],
+      "_imagePath": "Image/Degree/Bd/degree_bd_2627_22",
+      "_orderNum": 203,
+      "_startAt": "2026/10/04 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 204,
       "_nameTextId": "Degree_Name_204",
       "_descriptionTextId": "Degree_Description_204",
