@@ -338,12 +338,12 @@
     {
       "_id": "client_version_recommended",
       "_type": "String",
-      "_value": "1.0.4"
+      "_value": "1.0.5"
     },
     {
       "_id": "client_version_required",
       "_type": "String",
-      "_value": "1.0.4"
+      "_value": "1.0.5"
     },
     {
       "_id": "monthly_pass_add_purchase_threshold",
