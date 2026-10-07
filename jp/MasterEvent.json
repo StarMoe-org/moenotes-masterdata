@@ -5,7 +5,7 @@
       "_nameTextId": "Event_Name_0001",
       "_startAt": "2026/09/30 18:00:00",
       "_endAt": "2026/10/08 20:59:59",
-      "_displayEndAt": "2026/10/10 20:59:59",
+      "_displayEndAt": "2026/10/12 14:59:59",
       "_eventType": 1,
       "_storyChapterId": 6,
       "_eventItemId": 43,
@@ -16,11 +16,13 @@
       "_liveEventPointGroup": 1,
       "_challengeLiveEventRewardGroup": 2,
       "_challengeLiveEventPointGroup": 1,
+      "_gekisouLiveRankingEventPointGroup": 1,
+      "_gekisouLiveRankingEventRewardGroup": 1,
       "_musicId": 100109,
       "_imageAsset": "",
       "_logoAsset": "01/Logo/event_logo_01_0001",
       "_backgroundAsset": "01/Top/event_top_01_0001",
-      "_bannerAsset": "Banner_1",
+      "_bannerAsset": "01/Banner/event_banner_00001",
       "_carouselHelpId": 0
     }
   ]

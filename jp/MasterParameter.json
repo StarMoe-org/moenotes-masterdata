@@ -373,7 +373,7 @@
     {
       "_id": "event_ranking_aggregation_time",
       "_type": "Int32",
-      "_value": "600"
+      "_value": "64800"
     },
     {
       "_id": "same_degree_max_count",

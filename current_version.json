@@ -67,7 +67,7 @@
       }
     },
     "jp": {
-      "version": "1.0.0.375/39a2a7c763b67ff91e7e052bc400c96d",
+      "version": "1.0.0.375/270731b5241b3d9a0b79e2030b535ce6",
       "resource_version": "1.0.0.375",
       "resource_hash": "36cc89acd8eca81962e1995d1d77b5d1",
       "resource_version_source": "x-asset-version",
@@ -77,10 +77,10 @@
         "cdn_root": "https://static.bang-dream-on.jp",
         "source": "version_response_headers"
       },
-      "verified_at": "2026-10-06T08:40:14.839629+00:00",
+      "verified_at": "2026-10-07T09:17:17.847012+00:00",
       "table_count": 238,
       "record_count": 42753,
-      "manifest_sha256": "11c70efe9db8cf21e410efccd72a33f1f20285be8fe57976563048a63cdd59bd",
+      "manifest_sha256": "8aefd4af123dd3fca0deb5a9541d33965dc0407ac8dbbd9379303ef1e9720f5c",
       "snapshot_path": "jp",
       "data_path": "jp",
       "assets": {

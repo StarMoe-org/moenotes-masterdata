@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.375/39a2a7c763b67ff91e7e052bc400c96d",
+    "version": "1.0.0.375/270731b5241b3d9a0b79e2030b535ce6",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -283,8 +283,8 @@
         },
         {
             "name": "MasterEvent.bin",
-            "hash": "8aad222553133ad2d0319908ef8ef588f338b7699d5a09218523a42c2e8e075a",
-            "size": 416
+            "hash": "ac98a2f0f44aa55cc685d0cd8aeef31916f891de793e262a06fb6c548c7bc33f",
+            "size": 448
         },
         {
             "name": "MasterEventAchievementLoopReward.bin",
@@ -923,7 +923,7 @@
         },
         {
             "name": "MasterParameter.bin",
-            "hash": "d8601cf65ff7026a7a6409730a6b09f34ab301ba445f9b5c03db6318d7370007",
+            "hash": "547ed7d9dab9667916eeff17c39151ed6957013a49b2fe7986db287d2d452ef2",
             "size": 1312
         },
         {
