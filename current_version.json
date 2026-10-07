@@ -10,7 +10,7 @@
       "manifest_sha256": "4d9219ed7557f362187453402bbee3c6557776d17a2439271ddc6c43901faa58",
       "snapshot_path": "hk-tw-mo",
       "data_path": "hk-tw-mo",
-      "client_version": "1.0.2",
+      "client_version": "1.0.3",
       "server": {
         "ageIconSpriteName": "taiwan_game_rating",
         "apiServerRoot": "https://l12-prod-hk-all-gs-sirius.gamerfusiontech.com|https://l14-prod-hk-all-gs-sirius.gamerfusiontech.com",
