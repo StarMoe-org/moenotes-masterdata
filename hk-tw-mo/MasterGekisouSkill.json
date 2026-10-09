@@ -351,6 +351,38 @@
       "_skillDisplayCategories": [
         2
       ]
+    },
+    {
+      "_id": 23,
+      "_nameTextID": "Gekisou_Skill_Name_23",
+      "_descriptionTextFormatID": "Gekisou_Skill_Description_23",
+      "_skillIconID": 15,
+      "_gekisouMissionType": 1,
+      "_skillCategories": [
+        2
+      ],
+      "_displaySkillCategories": [
+        2
+      ],
+      "_skillDisplayCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 24,
+      "_nameTextID": "Gekisou_Skill_Name_24",
+      "_descriptionTextFormatID": "Gekisou_Skill_Description_24",
+      "_skillIconID": 13,
+      "_gekisouMissionType": 3,
+      "_skillCategories": [
+        2
+      ],
+      "_displaySkillCategories": [
+        2
+      ],
+      "_skillDisplayCategories": [
+        2
+      ]
     }
   ]
 }

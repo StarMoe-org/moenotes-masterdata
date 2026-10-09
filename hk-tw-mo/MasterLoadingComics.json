@@ -270,8 +270,8 @@
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "",
-      "_releaseStoryChapterId": 0,
-      "_releaseStoryEpisodeId": 0
+      "_releaseStoryChapterId": 5,
+      "_releaseStoryEpisodeId": 20
     },
     {
       "_id": 22,
@@ -322,8 +322,8 @@
       "_order": 10,
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "",
-      "_releaseStoryChapterId": 0,
-      "_releaseStoryEpisodeId": 0
+      "_releaseStoryChapterId": 5,
+      "_releaseStoryEpisodeId": 20
     }
   ]
 }

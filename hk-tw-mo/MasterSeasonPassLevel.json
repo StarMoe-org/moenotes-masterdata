@@ -239,6 +239,66 @@
       "_group": 2,
       "_level": 15,
       "_point": 1400
+    },
+    {
+      "_id": 41,
+      "_group": 3,
+      "_level": 1,
+      "_point": 0
+    },
+    {
+      "_id": 42,
+      "_group": 3,
+      "_level": 2,
+      "_point": 100
+    },
+    {
+      "_id": 43,
+      "_group": 3,
+      "_level": 3,
+      "_point": 200
+    },
+    {
+      "_id": 44,
+      "_group": 3,
+      "_level": 4,
+      "_point": 300
+    },
+    {
+      "_id": 45,
+      "_group": 3,
+      "_level": 5,
+      "_point": 400
+    },
+    {
+      "_id": 46,
+      "_group": 3,
+      "_level": 6,
+      "_point": 500
+    },
+    {
+      "_id": 47,
+      "_group": 3,
+      "_level": 7,
+      "_point": 600
+    },
+    {
+      "_id": 48,
+      "_group": 3,
+      "_level": 8,
+      "_point": 700
+    },
+    {
+      "_id": 49,
+      "_group": 3,
+      "_level": 9,
+      "_point": 800
+    },
+    {
+      "_id": 50,
+      "_group": 3,
+      "_level": 10,
+      "_point": 900
     }
   ]
 }

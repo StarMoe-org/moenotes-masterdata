@@ -45,6 +45,17 @@
       "_endAt": "2046/07/01 00:00:00"
     },
     {
+      "_id": 5,
+      "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Millsage",
+      "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Millsage",
+      "_skinNameTextId": "ChatBubbleName_5",
+      "_skinDescTextId": "ChatBubbleDesc_5",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconBubble",
+      "_startAt": "2026/10/09 12:00:00",
+      "_endAt": "2046/07/01 00:00:00"
+    },
+    {
       "_id": 1006,
       "_assetName": "BiliUI/BiliChatAtlas/ChatBubbleSkinAtlas_Wol",
       "_textAssetName": "BiliUI/BiliChatBubbleText/ChatBubbleText_Wol",
