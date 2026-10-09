@@ -32158,7 +32158,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_17",
@@ -32166,7 +32166,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_18",
@@ -32174,7 +32174,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_19",
@@ -32182,7 +32182,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_20",
@@ -32190,7 +32190,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_21",
@@ -32198,7 +32198,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_22",
@@ -32206,7 +32206,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_23",
@@ -32214,7 +32214,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_24",
@@ -32222,7 +32222,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_25",
@@ -32230,7 +32230,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_26",
@@ -32238,7 +32238,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_27",
@@ -32246,7 +32246,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_28",
@@ -32254,7 +32254,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_29",
@@ -32262,7 +32262,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_30",
@@ -32270,7 +32270,7 @@
       "_english": "During COMBO GEKISO, for every {effects[0].cCon.values[0]} GEKISO COMBOs,\r\nScore <color=#66FF8C>+{effects[0].value/100:F2}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F2}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F2}% each time</color>.",
       "_traditionalChinese": "在COMBO激奏中，\r\n每達到{effects[0].cCon.values[0]}次激奏COMBO，\r\n分數<color=#66FF8C>{effects[0].value/100:F2}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F2}%</color>UP",
       "_simplifiedChinese": "在COMBO激奏中，每达成{effects[0].cCon.values[0]}次激奏COMBO\r\n得分提升<color=#66FF8C>{effects[0].value/100:F2}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F2}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F2}%</color>",
-      "_korean": "COMBO 격주 중 격주 COMBO {effects[0]. cCon. values [0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
+      "_korean": "COMBO 격주 중 격주 COMBO {effects[0].cCon.values[0]}회마다 \r\n스코어 <color=#66FF8C>{effects[0].value/100:F2}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F2}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F2}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_31",
@@ -77219,7 +77219,7 @@
     {
       "_id": "ui_exchange_item_list_exchange_end_at_format",
       "_japanese": "yyyy/MM/dd HH:mmまで",
-      "_english": "Until yyyy/MM/dd HH:mm",
+      "_english": "'Until' yyyy/MM/dd HH:mm",
       "_traditionalChinese": "yyyy/MM/dd HH:mm為止",
       "_simplifiedChinese": "截止至yyyy/MM/dd HH:mm",
       "_korean": "yyyy/MM/dd HH:mm까지"
