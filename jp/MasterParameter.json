@@ -18,7 +18,7 @@
     {
       "_id": "live_boost_daily_ad_limit",
       "_type": "Int32",
-      "_value": "1"
+      "_value": "2"
     },
     {
       "_id": "consume_all_live_boost_count",
@@ -368,7 +368,7 @@
     {
       "_id": "initial_challenge_point",
       "_type": "Int32",
-      "_value": "200"
+      "_value": "400"
     },
     {
       "_id": "event_ranking_aggregation_time",

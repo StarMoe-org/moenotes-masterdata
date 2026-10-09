@@ -609,6 +609,10 @@
       "_cueSheetName": "M_KakoWoKurau"
     },
     {
+      "_id": 1300000000111,
+      "_cueSheetName": "Mi_Odddice"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -951,6 +955,10 @@
     {
       "_id": 1400000000112,
       "_cueSheetName": "M_Kakowokurau_short"
+    },
+    {
+      "_id": 1400000000111,
+      "_cueSheetName": "Mi_OddDice_short"
     },
     {
       "_id": 2301001000001,
@@ -1365,6 +1373,26 @@
       "_cueSheetName": "VoiceLive_25"
     },
     {
+      "_id": 3400000000011,
+      "_cueSheetName": "VoiceRealLive_11"
+    },
+    {
+      "_id": 3400000000012,
+      "_cueSheetName": "VoiceRealLive_12"
+    },
+    {
+      "_id": 3400000000013,
+      "_cueSheetName": "VoiceRealLive_13"
+    },
+    {
+      "_id": 3400000000014,
+      "_cueSheetName": "VoiceRealLive_14"
+    },
+    {
+      "_id": 3400000000015,
+      "_cueSheetName": "VoiceRealLive_15"
+    },
+    {
       "_id": 3202001000051,
       "_cueSheetName": "VoiceGacha_01_00051"
     },
@@ -1415,6 +1443,14 @@
     {
       "_id": 3202022000064,
       "_cueSheetName": "VoiceGacha_22_00064"
+    },
+    {
+      "_id": 3202018000065,
+      "_cueSheetName": "VoiceGacha_18_00065"
+    },
+    {
+      "_id": 3202017000066,
+      "_cueSheetName": "VoiceGacha_17_00066"
     },
     {
       "_id": 2100000000001,

@@ -30,6 +30,10 @@
         160
       ],
       "_priority": 1,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -63,6 +67,10 @@
         156
       ],
       "_priority": 2,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -96,6 +104,10 @@
         40
       ],
       "_priority": 3,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -130,6 +142,10 @@
         40
       ],
       "_priority": 4,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -163,6 +179,10 @@
         158
       ],
       "_priority": 5,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -196,6 +216,10 @@
         30
       ],
       "_priority": 6,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -229,6 +253,10 @@
         6
       ],
       "_priority": 7,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -262,6 +290,10 @@
         6
       ],
       "_priority": 8,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -295,6 +327,10 @@
         6
       ],
       "_priority": 9,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -328,6 +364,10 @@
         6
       ],
       "_priority": 10,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -361,6 +401,10 @@
         6
       ],
       "_priority": 11,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -394,6 +438,10 @@
         160
       ],
       "_priority": 12,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -427,6 +475,10 @@
         156
       ],
       "_priority": 13,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -462,6 +514,10 @@
         71
       ],
       "_priority": 14,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -497,6 +553,10 @@
         72
       ],
       "_priority": 15,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -532,6 +592,10 @@
         73
       ],
       "_priority": 16,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -567,6 +631,10 @@
         74
       ],
       "_priority": 17,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -602,6 +670,10 @@
         75
       ],
       "_priority": 18,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -635,6 +707,10 @@
         33
       ],
       "_priority": 19,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -668,6 +744,10 @@
         42
       ],
       "_priority": 20,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -701,6 +781,10 @@
         6
       ],
       "_priority": 21,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -734,6 +818,10 @@
         6
       ],
       "_priority": 22,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -767,6 +855,10 @@
         6
       ],
       "_priority": 23,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -800,6 +892,10 @@
         6
       ],
       "_priority": 24,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -833,6 +929,10 @@
         6
       ],
       "_priority": 25,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -866,6 +966,10 @@
         160
       ],
       "_priority": 26,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -899,6 +1003,10 @@
         156
       ],
       "_priority": 27,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -935,6 +1043,10 @@
         96
       ],
       "_priority": 28,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -971,6 +1083,10 @@
         97
       ],
       "_priority": 29,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1007,6 +1123,10 @@
         98
       ],
       "_priority": 30,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1043,6 +1163,10 @@
         99
       ],
       "_priority": 31,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1079,6 +1203,10 @@
         100
       ],
       "_priority": 32,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1112,6 +1240,10 @@
         34
       ],
       "_priority": 33,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1145,6 +1277,10 @@
         43
       ],
       "_priority": 34,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1178,6 +1314,10 @@
         6
       ],
       "_priority": 35,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1211,6 +1351,10 @@
         6
       ],
       "_priority": 36,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1244,6 +1388,10 @@
         6
       ],
       "_priority": 37,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1277,6 +1425,10 @@
         6
       ],
       "_priority": 38,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1310,6 +1462,10 @@
         6
       ],
       "_priority": 39,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1343,6 +1499,10 @@
         160
       ],
       "_priority": 40,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1376,6 +1536,10 @@
         156
       ],
       "_priority": 41,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1410,6 +1574,10 @@
         114
       ],
       "_priority": 42,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1444,6 +1612,10 @@
         122
       ],
       "_priority": 43,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1477,6 +1649,10 @@
         6
       ],
       "_priority": 44,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1510,6 +1686,10 @@
         44
       ],
       "_priority": 45,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1543,6 +1723,10 @@
         6
       ],
       "_priority": 46,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1576,6 +1760,10 @@
         6
       ],
       "_priority": 47,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1609,6 +1797,10 @@
         6
       ],
       "_priority": 48,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1642,6 +1834,10 @@
         6
       ],
       "_priority": 49,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1675,6 +1871,10 @@
         159
       ],
       "_priority": 50,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1708,6 +1908,10 @@
         156
       ],
       "_priority": 51,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1742,6 +1946,10 @@
         116
       ],
       "_priority": 52,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1776,6 +1984,10 @@
         124
       ],
       "_priority": 53,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1809,6 +2021,10 @@
         6
       ],
       "_priority": 54,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1842,6 +2058,10 @@
         46
       ],
       "_priority": 55,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1875,6 +2095,10 @@
         6
       ],
       "_priority": 56,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1908,6 +2132,10 @@
         6
       ],
       "_priority": 57,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1941,6 +2169,10 @@
         6
       ],
       "_priority": 58,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -1974,6 +2206,10 @@
         6
       ],
       "_priority": 59,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2007,6 +2243,10 @@
         159
       ],
       "_priority": 60,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2040,6 +2280,10 @@
         156
       ],
       "_priority": 61,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2073,6 +2317,10 @@
         159
       ],
       "_priority": 62,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2106,6 +2354,10 @@
         6
       ],
       "_priority": 63,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2139,6 +2391,10 @@
         6
       ],
       "_priority": 64,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2172,6 +2428,10 @@
         6
       ],
       "_priority": 65,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2205,6 +2465,10 @@
         6
       ],
       "_priority": 66,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2238,6 +2502,10 @@
         6
       ],
       "_priority": 67,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2271,6 +2539,10 @@
         156
       ],
       "_priority": 68,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2304,6 +2576,10 @@
         159
       ],
       "_priority": 69,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2337,6 +2613,10 @@
         6
       ],
       "_priority": 70,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2370,6 +2650,10 @@
         6
       ],
       "_priority": 71,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2403,6 +2687,10 @@
         6
       ],
       "_priority": 72,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2436,6 +2724,10 @@
         6
       ],
       "_priority": 73,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2469,6 +2761,10 @@
         6
       ],
       "_priority": 74,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2502,6 +2798,10 @@
         6
       ],
       "_priority": 75,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     },
@@ -2535,6 +2835,10 @@
         6
       ],
       "_priority": 76,
+      "_gachaId": 0,
+      "_eventId": 0,
+      "_loginTimeStartAt": "null",
+      "_loginTimeEndAt": "null",
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": "null"
     }

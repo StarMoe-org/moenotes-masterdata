@@ -44,6 +44,21 @@
       "_backgroundImageAsset": "LoginBonus/Background/white",
       "_talkIds": [],
       "_priority": 3
+    },
+    {
+      "_id": 4,
+      "_nameTextID": "LoginBonus_Name_4",
+      "_isLoop": false,
+      "_isComeback": false,
+      "_isPremium": false,
+      "_dayOfWeek": 0,
+      "_startAt": "2026/10/11 21:00:00",
+      "_endAt": "2026/10/18 20:59:59",
+      "_sheetType": 2,
+      "_sheetImageAsset": "LoginBonus/Sprite/loginbonus_00004",
+      "_backgroundImageAsset": "LoginBonus/Background/pink",
+      "_talkIds": [],
+      "_priority": 4
     }
   ]
 }

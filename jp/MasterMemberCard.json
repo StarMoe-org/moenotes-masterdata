@@ -1543,7 +1543,7 @@
     {
       "_id": 56,
       "_assetID": 56,
-      "_nameTextID": "Character_Name_Doloris_Uika",
+      "_nameTextID": "Character_Live_Name_Doloris",
       "_subtitleTextID": "MemberSubtitle_56",
       "_characterID": 6,
       "_rarity": 4,
@@ -1571,7 +1571,7 @@
     {
       "_id": 57,
       "_assetID": 57,
-      "_nameTextID": "Character_Name_Mortis_Mutsumi",
+      "_nameTextID": "Character_Live_Name_Mortis",
       "_subtitleTextID": "MemberSubtitle_57",
       "_characterID": 7,
       "_rarity": 4,
@@ -1599,7 +1599,7 @@
     {
       "_id": 58,
       "_assetID": 58,
-      "_nameTextID": "Character_Name_Timoris_Umiri",
+      "_nameTextID": "Character_Live_Name_Timoris",
       "_subtitleTextID": "MemberSubtitle_58",
       "_characterID": 8,
       "_rarity": 4,
@@ -1627,7 +1627,7 @@
     {
       "_id": 59,
       "_assetID": 59,
-      "_nameTextID": "Character_Name_Amoris_Nyamu",
+      "_nameTextID": "Character_Live_Name_Amoris",
       "_subtitleTextID": "MemberSubtitle_59",
       "_characterID": 9,
       "_rarity": 4,
@@ -1655,7 +1655,7 @@
     {
       "_id": 60,
       "_assetID": 60,
-      "_nameTextID": "Character_Name_Oblivionis_Sakiko",
+      "_nameTextID": "Character_Live_Name_Oblivionis",
       "_subtitleTextID": "MemberSubtitle_60",
       "_characterID": 10,
       "_rarity": 4,
@@ -1791,6 +1791,90 @@
       "_gachaVoiceTextId": "MemberGachaVoice_64",
       "_gachaVoiceSoundId": 3202202000001,
       "_startAt": "2026-10-04 0:00:00"
+    },
+    {
+      "_id": 65,
+      "_assetID": 65,
+      "_nameTextID": "Character_Name_Nagi",
+      "_subtitleTextID": "MemberSubtitle_65",
+      "_characterID": 18,
+      "_rarity": 4,
+      "_cardType": 1,
+      "_bestMusicTagIDs": [
+        4
+      ],
+      "_performancePowerMax": 29798,
+      "_technicPowerMax": 31604,
+      "_visualPowerMax": 39730,
+      "_memberCardLevelGroup": 3,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 11,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000065,
+      "_leaderSkillID": 55,
+      "_liveSkillID": 3,
+      "_gekisouSkillID": 6,
+      "_liveSkillLevelResourceGroup": 3,
+      "_gekisouSkillLevelResourceGroup": 7,
+      "_gachaVoiceTextId": "MemberGachaVoice_65",
+      "_gachaVoiceSoundId": 3201802000001,
+      "_startAt": "2026-10-09 15:00:00"
+    },
+    {
+      "_id": 66,
+      "_assetID": 66,
+      "_nameTextID": "Character_Name_Natsume",
+      "_subtitleTextID": "MemberSubtitle_66",
+      "_characterID": 17,
+      "_rarity": 4,
+      "_cardType": 1,
+      "_bestMusicTagIDs": [
+        4
+      ],
+      "_performancePowerMax": 30232,
+      "_technicPowerMax": 41029,
+      "_visualPowerMax": 29871,
+      "_memberCardLevelGroup": 3,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 11,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000066,
+      "_leaderSkillID": 56,
+      "_liveSkillID": 5,
+      "_gekisouSkillID": 13,
+      "_liveSkillLevelResourceGroup": 3,
+      "_gekisouSkillLevelResourceGroup": 7,
+      "_gachaVoiceTextId": "MemberGachaVoice_66",
+      "_gachaVoiceSoundId": 3201702000001,
+      "_startAt": "2026-10-09 15:00:00"
+    },
+    {
+      "_id": 67,
+      "_assetID": 67,
+      "_nameTextID": "Character_Name_Houka",
+      "_subtitleTextID": "MemberSubtitle_67",
+      "_characterID": 20,
+      "_rarity": 3,
+      "_cardType": 1,
+      "_bestMusicTagIDs": [
+        4
+      ],
+      "_performancePowerMax": 20193,
+      "_technicPowerMax": 16433,
+      "_visualPowerMax": 15457,
+      "_memberCardLevelGroup": 2,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 6,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000067,
+      "_leaderSkillID": 36,
+      "_liveSkillID": 2,
+      "_gekisouSkillID": 5,
+      "_liveSkillLevelResourceGroup": 2,
+      "_gekisouSkillLevelResourceGroup": 6,
+      "_gachaVoiceTextId": "",
+      "_gachaVoiceSoundId": 0,
+      "_startAt": "2026-10-09 15:00:00"
     }
   ]
 }

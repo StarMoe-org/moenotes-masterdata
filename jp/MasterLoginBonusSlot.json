@@ -241,6 +241,28 @@
       "_resourceCount": 150,
       "_isDecorated": false,
       "_thumbnailAsset": ""
+    },
+    {
+      "_id": 23,
+      "_loginBonusID": 4,
+      "_sheetNo": 1,
+      "_slotNo": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 50,
+      "_isDecorated": false,
+      "_thumbnailAsset": ""
+    },
+    {
+      "_id": 24,
+      "_loginBonusID": 4,
+      "_sheetNo": 1,
+      "_slotNo": 1,
+      "_resourceType": 17,
+      "_resourceId": 208,
+      "_resourceCount": 1,
+      "_isDecorated": false,
+      "_thumbnailAsset": ""
     }
   ]
 }
