@@ -1,5 +1,5 @@
 {
-    "version": "3cf4870f2c70d67432fe444b4dee743a",
+    "version": "b64b05ec9d46e8fc36b061db7e843624",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1023,7 +1023,7 @@
         },
         {
             "name": "MasterShop.bin",
-            "hash": "68992ad61136c9fe36483a6a07c439b5136b1bc4f399f4ecda85a15da03dbef0",
+            "hash": "c7b1384407f408f294f1eb2a46c2c458745552ef5c5dc44fbad8afd465ba216b",
             "size": 2816
         },
         {
@@ -1168,7 +1168,7 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "764a95568fe3c8835cca8736e032870afdc4a39d2a2bc94dc657341890d75bc7",
+            "hash": "ad45ce95cf279a8fe91d33be049d9781da471ae4d13826b022a255b2be8afcd5",
             "size": 883072
         },
         {
