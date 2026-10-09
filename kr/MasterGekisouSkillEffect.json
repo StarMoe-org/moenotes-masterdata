@@ -2735,25 +2735,6 @@
       "_effectExecuteLimitCount": 0,
       "_effectExecuteLimitResetConditionGroup": 0,
       "_icon": ""
-    },
-    {
-      "_id": 145,
-      "_gekisouSkillID": 22,
-      "_level": 5,
-      "_skillTriggerConditionGroup": 260,
-      "_skillTriggerType": 2,
-      "_skillConditionGroup": 0,
-      "_skillReleaseConditionGroup": 258,
-      "_skillTargetIDs": [],
-      "_skillEffectType": 3004,
-      "_activationTimeSecond": 0.0,
-      "_effectValue": 2000,
-      "_maxEffectValue": 0,
-      "_effectLimitCount": 0,
-      "_skillCumulativeConditionID": 0,
-      "_effectExecuteLimitCount": 0,
-      "_effectExecuteLimitResetConditionGroup": 0,
-      "_icon": ""
     }
   ]
 }

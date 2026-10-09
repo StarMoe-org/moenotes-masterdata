@@ -991,6 +991,20 @@
       "_endAt": ""
     },
     {
+      "_id": 75,
+      "_nameTextId": "Stamp_Name_75",
+      "_stampCategory": 3,
+      "_priority": 75,
+      "_characterIds": [
+        18
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_nagi_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/10/09 12:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 1000000001,
       "_nameTextId": "Stamp_Name_1000000001",
       "_stampCategory": 2,

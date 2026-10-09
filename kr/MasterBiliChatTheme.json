@@ -47,6 +47,18 @@
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
       "_startAt": "2026/06/01 00:00:00",
       "_endAt": "2046/07/01 00:00:00"
+    },
+    {
+      "_id": 5,
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_Millsage",
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/Millsage",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_Millsage",
+      "_skinNameTextId": "ChatThemeName_5",
+      "_skinDescTextId": "ChatThemeDesc_5",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_startAt": "2026/10/09 12:00:00",
+      "_endAt": "2046/07/01 00:00:00"
     }
   ]
 }
