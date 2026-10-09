@@ -1,5 +1,5 @@
 {
-    "version": "fce6c7a9b6c35c2c0ac1131d48317871",
+    "version": "e9ffa239066dce37bfec2b6c768ed67e",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1023,8 +1023,8 @@
         },
         {
             "name": "MasterShop.bin",
-            "hash": "3fb120fa45f672c794f5df86913c8a5f7cc2ae1129663745420b90693e82c41e",
-            "size": 2816
+            "hash": "636eb33e3c7629e8f48d3c50f2559bebce52a53a308f52b14ba69ed66c26dbb6",
+            "size": 2848
         },
         {
             "name": "MasterShopBiliPay.bin",
@@ -1168,7 +1168,7 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "764a95568fe3c8835cca8736e032870afdc4a39d2a2bc94dc657341890d75bc7",
+            "hash": "ad45ce95cf279a8fe91d33be049d9781da471ae4d13826b022a255b2be8afcd5",
             "size": 883072
         },
         {
