@@ -1094,6 +1094,193 @@
       "_gekisouSupportSkillExecTiming": 1,
       "_gekisouMissionType": 2,
       "_displaySkillCategories": []
+    },
+    {
+      "_id": 1004,
+      "_nameTextID": "Gekisou_Support_Skill_Name_1",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_1",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 2010,
+      "_nameTextID": "Gekisou_Support_Skill_Name_2",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_2",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 3015,
+      "_nameTextID": "Gekisou_Support_Skill_Name_3",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_3",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 5025,
+      "_nameTextID": "Gekisou_Support_Skill_Name_5",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_5",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 13062,
+      "_nameTextID": "Gekisou_Support_Skill_Name_13",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_13",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 17009,
+      "_nameTextID": "Gekisou_Support_Skill_Name_17",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_17",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 1,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 19019,
+      "_nameTextID": "Gekisou_Support_Skill_Name_19",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_19",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 1,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 24067,
+      "_nameTextID": "Gekisou_Support_Skill_Name_24",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_24",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 1,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 29065,
+      "_nameTextID": "Gekisou_Support_Skill_Name_29",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_29",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 1,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 31002,
+      "_nameTextID": "Gekisou_Support_Skill_Name_31",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_31",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 33014,
+      "_nameTextID": "Gekisou_Support_Skill_Name_33",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_33",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 34020,
+      "_nameTextID": "Gekisou_Support_Skill_Name_34",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_34",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 35024,
+      "_nameTextID": "Gekisou_Support_Skill_Name_35",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_35",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 36030,
+      "_nameTextID": "Gekisou_Support_Skill_Name_36",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_36",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 40047,
+      "_nameTextID": "Gekisou_Support_Skill_Name_40",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_40",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 47032,
+      "_nameTextID": "Gekisou_Support_Skill_Name_47",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_47",
+      "_skillIconID": 11,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        3
+      ]
+    },
+    {
+      "_id": 76029,
+      "_nameTextID": "Gekisou_Support_Skill_Name_76",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_76",
+      "_skillIconID": 11,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 3,
+      "_displaySkillCategories": [
+        3
+      ]
     }
   ]
 }

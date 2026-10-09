@@ -510,6 +510,284 @@
       "_descriptionTextFormatID": "Support_Skill_Description_73",
       "_skillIconID": 14,
       "_displaySkillCategories": []
+    },
+    {
+      "_id": 1002,
+      "_nameTextID": "Support_Skill_Name_1",
+      "_descriptionTextFormatID": "Support_Skill_Description_1",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 1003,
+      "_nameTextID": "Support_Skill_Name_1",
+      "_descriptionTextFormatID": "Support_Skill_Description_1",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 1004,
+      "_nameTextID": "Support_Skill_Name_1",
+      "_descriptionTextFormatID": "Support_Skill_Description_1",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 1005,
+      "_nameTextID": "Support_Skill_Name_1",
+      "_descriptionTextFormatID": "Support_Skill_Description_1",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 2007,
+      "_nameTextID": "Support_Skill_Name_2",
+      "_descriptionTextFormatID": "Support_Skill_Description_2",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 2008,
+      "_nameTextID": "Support_Skill_Name_2",
+      "_descriptionTextFormatID": "Support_Skill_Description_2",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 2009,
+      "_nameTextID": "Support_Skill_Name_2",
+      "_descriptionTextFormatID": "Support_Skill_Description_2",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 2010,
+      "_nameTextID": "Support_Skill_Name_2",
+      "_descriptionTextFormatID": "Support_Skill_Description_2",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 3012,
+      "_nameTextID": "Support_Skill_Name_3",
+      "_descriptionTextFormatID": "Support_Skill_Description_3",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 3013,
+      "_nameTextID": "Support_Skill_Name_3",
+      "_descriptionTextFormatID": "Support_Skill_Description_3",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 3014,
+      "_nameTextID": "Support_Skill_Name_3",
+      "_descriptionTextFormatID": "Support_Skill_Description_3",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 3015,
+      "_nameTextID": "Support_Skill_Name_3",
+      "_descriptionTextFormatID": "Support_Skill_Description_3",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 4017,
+      "_nameTextID": "Support_Skill_Name_4",
+      "_descriptionTextFormatID": "Support_Skill_Description_4",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 4018,
+      "_nameTextID": "Support_Skill_Name_4",
+      "_descriptionTextFormatID": "Support_Skill_Description_4",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 4019,
+      "_nameTextID": "Support_Skill_Name_4",
+      "_descriptionTextFormatID": "Support_Skill_Description_4",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 4020,
+      "_nameTextID": "Support_Skill_Name_4",
+      "_descriptionTextFormatID": "Support_Skill_Description_4",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 5022,
+      "_nameTextID": "Support_Skill_Name_5",
+      "_descriptionTextFormatID": "Support_Skill_Description_5",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 5023,
+      "_nameTextID": "Support_Skill_Name_5",
+      "_descriptionTextFormatID": "Support_Skill_Description_5",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 5024,
+      "_nameTextID": "Support_Skill_Name_5",
+      "_descriptionTextFormatID": "Support_Skill_Description_5",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 5025,
+      "_nameTextID": "Support_Skill_Name_5",
+      "_descriptionTextFormatID": "Support_Skill_Description_5",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 6030,
+      "_nameTextID": "Support_Skill_Name_6",
+      "_descriptionTextFormatID": "Support_Skill_Description_6",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 7034,
+      "_nameTextID": "Support_Skill_Name_7",
+      "_descriptionTextFormatID": "Support_Skill_Description_7",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 8040,
+      "_nameTextID": "Support_Skill_Name_8",
+      "_descriptionTextFormatID": "Support_Skill_Description_8",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 9045,
+      "_nameTextID": "Support_Skill_Name_9",
+      "_descriptionTextFormatID": "Support_Skill_Description_9",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 9067,
+      "_nameTextID": "Support_Skill_Name_9",
+      "_descriptionTextFormatID": "Support_Skill_Description_9",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 10047,
+      "_nameTextID": "Support_Skill_Name_10",
+      "_descriptionTextFormatID": "Support_Skill_Description_10",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 13056,
+      "_nameTextID": "Support_Skill_Name_13",
+      "_descriptionTextFormatID": "Support_Skill_Description_13",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 13062,
+      "_nameTextID": "Support_Skill_Name_13",
+      "_descriptionTextFormatID": "Support_Skill_Description_13",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 14065,
+      "_nameTextID": "Support_Skill_Name_14",
+      "_descriptionTextFormatID": "Support_Skill_Description_14",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 32032,
+      "_nameTextID": "Support_Skill_Name_32",
+      "_descriptionTextFormatID": "Support_Skill_Description_32",
+      "_skillIconID": 10,
+      "_displaySkillCategories": [
+        3
+      ]
+    },
+    {
+      "_id": 33064,
+      "_nameTextID": "Support_Skill_Name_33",
+      "_descriptionTextFormatID": "Support_Skill_Description_33",
+      "_skillIconID": 10,
+      "_displaySkillCategories": [
+        3
+      ]
+    },
+    {
+      "_id": 51029,
+      "_nameTextID": "Support_Skill_Name_51",
+      "_descriptionTextFormatID": "Support_Skill_Description_51",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 53038,
+      "_nameTextID": "Support_Skill_Name_53",
+      "_descriptionTextFormatID": "Support_Skill_Description_53",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 54044,
+      "_nameTextID": "Support_Skill_Name_54",
+      "_descriptionTextFormatID": "Support_Skill_Description_54",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 55050,
+      "_nameTextID": "Support_Skill_Name_55",
+      "_descriptionTextFormatID": "Support_Skill_Description_55",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 71068,
+      "_nameTextID": "Support_Skill_Name_71",
+      "_descriptionTextFormatID": "Support_Skill_Description_71",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 71070,
+      "_nameTextID": "Support_Skill_Name_71",
+      "_descriptionTextFormatID": "Support_Skill_Description_71",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 72070,
+      "_nameTextID": "Support_Skill_Name_72",
+      "_descriptionTextFormatID": "Support_Skill_Description_72",
+      "_skillIconID": 10,
+      "_displaySkillCategories": []
     }
   ]
 }

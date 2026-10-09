@@ -8,6 +8,15 @@
       "_rewardIds": [
         121
       ]
+    },
+    {
+      "_id": 2,
+      "_eventId": 2,
+      "_loopStartEventPoint": 2000000,
+      "_loopEventPoint": 1000000,
+      "_rewardIds": [
+        120
+      ]
     }
   ]
 }

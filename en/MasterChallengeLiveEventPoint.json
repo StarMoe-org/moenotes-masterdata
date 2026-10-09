@@ -35,6 +35,42 @@
       "_group": 1,
       "_scoreRank": 7,
       "_value": 5000
+    },
+    {
+      "_id": 7,
+      "_group": 2,
+      "_scoreRank": 2,
+      "_value": 1500
+    },
+    {
+      "_id": 8,
+      "_group": 2,
+      "_scoreRank": 3,
+      "_value": 2000
+    },
+    {
+      "_id": 9,
+      "_group": 2,
+      "_scoreRank": 4,
+      "_value": 2750
+    },
+    {
+      "_id": 10,
+      "_group": 2,
+      "_scoreRank": 5,
+      "_value": 3500
+    },
+    {
+      "_id": 11,
+      "_group": 2,
+      "_scoreRank": 6,
+      "_value": 4500
+    },
+    {
+      "_id": 12,
+      "_group": 2,
+      "_scoreRank": 7,
+      "_value": 5500
     }
   ]
 }

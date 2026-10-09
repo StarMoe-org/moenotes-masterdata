@@ -18,7 +18,7 @@
     {
       "_id": "live_boost_daily_ad_limit",
       "_type": "Int32",
-      "_value": "1"
+      "_value": "2"
     },
     {
       "_id": "consume_all_live_boost_count",
@@ -278,7 +278,7 @@
     {
       "_id": "customer_support_mail_address",
       "_type": "String",
-      "_value": "support_ournotes@bushimo.jp"
+      "_value": "ournotes.global.cs@biligames.com"
     },
     {
       "_id": "support_card_diary_default_sound_id",
@@ -338,17 +338,17 @@
     {
       "_id": "client_version_recommended",
       "_type": "String",
-      "_value": "1.0.2"
+      "_value": "1.0.3"
     },
     {
       "_id": "client_version_required",
       "_type": "String",
-      "_value": "1.0.2"
+      "_value": "1.0.3"
     },
     {
       "_id": "client_version_download_url",
       "_type": "String",
-      "_value": "https://pkg.biligame.com/games/BanGDreamOurNotes_1.0.2_2026_09_29_22_17_32_317606.apk"
+      "_value": "https://pkg.biligame.com/games/BanGDreamOurNotes_1.0.3_2026_10_02_22_46_55_745429.apk"
     },
     {
       "_id": "monthly_pass_add_purchase_threshold",
@@ -373,7 +373,7 @@
     {
       "_id": "initial_challenge_point",
       "_type": "Int32",
-      "_value": "200"
+      "_value": "400"
     },
     {
       "_id": "event_ranking_aggregation_time",

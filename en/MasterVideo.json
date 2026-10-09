@@ -751,6 +751,16 @@
       "_displayNameTextId": ""
     },
     {
+      "_id": 4302100070,
+      "_assetName": "live/MV/music_mv_004_100070",
+      "_autoStop": false,
+      "_width": 1920,
+      "_height": 1080,
+      "_hasAudio": false,
+      "_overrideShaderName": "Sirius/Live/LiveSofdecPrimeYuv",
+      "_displayNameTextId": ""
+    },
+    {
       "_id": 4302100071,
       "_assetName": "live/MV/music_mv_004_100071",
       "_autoStop": false,
@@ -1103,6 +1113,16 @@
     {
       "_id": 1000000010,
       "_assetName": "HomeLanding/Gacha/home_gacha_00010",
+      "_autoStop": false,
+      "_width": 1920,
+      "_height": 1440,
+      "_hasAudio": false,
+      "_overrideShaderName": "",
+      "_displayNameTextId": ""
+    },
+    {
+      "_id": 1000000012,
+      "_assetName": "HomeLanding/Gacha/home_gacha_00012",
       "_autoStop": false,
       "_width": 1920,
       "_height": 1440,
