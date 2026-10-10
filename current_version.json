@@ -25,8 +25,8 @@
     },
     "en": {
       "version": "6e394cf8d4da8bd37a24b91e363c5734",
-      "resource_version": "1.0.0.400",
-      "verified_at": "2026-10-09T12:22:16.275932+00:00",
+      "resource_version": "1.0.1.401.e6d3b8c1",
+      "verified_at": "2026-10-10T10:57:17.900125+00:00",
       "table_count": 243,
       "record_count": 44634,
       "manifest_sha256": "dcadd26e3d95ef34ddc3129fe28241a068d801979bcfda1275a04e5638ad60a7",
