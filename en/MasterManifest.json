@@ -1,5 +1,5 @@
 {
-    "version": "6e394cf8d4da8bd37a24b91e363c5734",
+    "version": "5231229bc1bea13c15e8c304c9533e13",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -118,18 +118,18 @@
         },
         {
             "name": "MasterBiliAnimeStillSubTitle.bin",
-            "hash": "f081f4453b5e404cc0d4a3f2e722b64109d78c39b3efd17dd822970cf2dcb53a",
-            "size": 2496
+            "hash": "8cb02b75526e2b736cacf4f4cdf4c947cd9b0c2e6838971e4973451f4857369c",
+            "size": 2528
         },
         {
             "name": "MasterBiliChatBubble.bin",
-            "hash": "5d0911ee8020b04255322fb58b7f2c194ed949b52eb511e58f36750626da70d0",
+            "hash": "1ff2c2746d34112873cd7392f4488a86c2e08b0905a448d3c205a692292e7b24",
             "size": 480
         },
         {
             "name": "MasterBiliChatFrame.bin",
-            "hash": "5a9302d8499288826a31188b0870a221cc6dc067ce421f0412725ca8b1deea00",
-            "size": 448
+            "hash": "7737abe89405d1f28a1b9f113f49101f1725913fda1bdf2940bf29704c652606",
+            "size": 480
         },
         {
             "name": "MasterBiliChatReport.bin",
@@ -138,8 +138,8 @@
         },
         {
             "name": "MasterBiliChatTheme.bin",
-            "hash": "a6bf31a40201c941b242fc53511421dc50adaf0d030294d11afc894dfa08b6ca",
-            "size": 480
+            "hash": "4f4c9aceaeee731f29df8f331887186b4ce7c7179e982bff60f6a040d5447299",
+            "size": 512
         },
         {
             "name": "MasterBiliChatTopic.bin",
@@ -523,8 +523,8 @@
         },
         {
             "name": "MasterLimitedMission.bin",
-            "hash": "73bbdf0a22697a9dd04669d07bd7fd32ee88dd842401212dba0e68813f9b06b2",
-            "size": 2464
+            "hash": "256301b148a4714e3c49e34b5a3e2bc17dbf312b0844a34b03de90ff8f05d36d",
+            "size": 2656
         },
         {
             "name": "MasterLimitedMissionGroup.bin",
@@ -963,7 +963,7 @@
         },
         {
             "name": "MasterPresentType.bin",
-            "hash": "3c1a768088644df2b3fc313267550232ed6610576ee7bb9899adb5b8aeff5a6c",
+            "hash": "54f77a5285b0a2b7b914416f00c41e28d3a2a4135cb43d99368c382aee230a14",
             "size": 800
         },
         {
@@ -1083,12 +1083,12 @@
         },
         {
             "name": "MasterSound.bin",
-            "hash": "84420c441a0d2e8109548517c43a3beeafb20a6d7acbd8380af0aab95bd959f9",
+            "hash": "23f5d79f2bd4074f866b091c7600fd54361741f2d56c7ab3a988e6f6092007ba",
             "size": 31040
         },
         {
             "name": "MasterSoundCueSheet.bin",
-            "hash": "8c6bd9294d5abf635e4587cd3d00683922d3d72699d88e3bd71c4d26aa5d1a2e",
+            "hash": "f0f9ac41b379efd79255ed4219ddb21f883bf7bb2aab8608cf2fe29e167ab3f7",
             "size": 3552
         },
         {
@@ -1163,13 +1163,13 @@
         },
         {
             "name": "MasterTalk.bin",
-            "hash": "5dcc8fe9dae2903171a2929c587e6d784fcb3d35d0c8270b61eef826d511235e",
+            "hash": "adbaa1936630510efeda3cf6bd60fbe10c0c301a0586de568f4d851df1235e84",
             "size": 10816
         },
         {
             "name": "MasterText.bin",
-            "hash": "ad45ce95cf279a8fe91d33be049d9781da471ae4d13826b022a255b2be8afcd5",
-            "size": 883072
+            "hash": "d3e53b9fc1d6165a2eadbc36b3ecdd6ffaa2fc38e09e9da0258403b364bcfd9d",
+            "size": 886336
         },
         {
             "name": "MasterTitle.bin",

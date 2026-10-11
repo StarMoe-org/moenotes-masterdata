@@ -25259,10 +25259,10 @@
     {
       "_id": "Degree_Description_208",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 特別ログインボーナスで獲得",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Obtained via the BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus.",
+      "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 特別登入獎勵獲得",
+      "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 特别登录奖励获得",
+      "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상으로 획득"
     },
     {
       "_id": "Degree_Description_209",
@@ -39226,11 +39226,11 @@
     },
     {
       "_id": "Item_Name_68",
-      "_japanese": "<size=32>[DIMENSIONAL OVERLAP]夢限大みゅーたいぷ</size>",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_japanese": "<size=30>[DIMENSIONAL OVERLAP]夢限大みゅーたいぷ</size>",
+      "_english": "<size=30>[DIMENSIONAL OVERLAP] Mugendai MewType</size>",
+      "_traditionalChinese": "<size=30>[DIMENSIONAL OVERLAP]夢限大MewType</size>",
+      "_simplifiedChinese": "<size=30>[DIMENSIONAL OVERLAP]梦限大MewType</size>",
+      "_korean": "<size=30>[DIMENSIONAL OVERLAP] 무겐다이 뮤타입</size>"
     },
     {
       "_id": "Item_Phonetic_Name_1",
@@ -48867,10 +48867,10 @@
     {
       "_id": "LoginBonus_Name_4",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 特別ログインボーナス",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus",
+      "_traditionalChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 特別登入獎勵",
+      "_simplifiedChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 特别登录奖励",
+      "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상"
     },
     {
       "_id": "LoginBonus_Name_1000000001",
@@ -54803,10 +54803,10 @@
     {
       "_id": "Season_Pass_Description_Season_Pass_Name_4",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 ミッションパスが解放されます。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Unlock BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Mission Pass.",
+      "_traditionalChinese": "開放BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 任務通行證。",
+      "_simplifiedChinese": "解锁BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 任务通行证。",
+      "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 개최 기념 미션 패스가 해제됩니다."
     },
     {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
@@ -55147,10 +55147,10 @@
     {
       "_id": "Season_Pass_Name_4",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 ミッションパス",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Mission Pass",
+      "_traditionalChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 任務通行證",
+      "_simplifiedChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 任务通行证",
+      "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 개최 기념 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -55931,10 +55931,10 @@
     {
       "_id": "Shop_Description_1000000123",
       "_japanese": "",
-      "_english": "Concert Premium Mission Pass+760 Paid Stars.",
-      "_traditionalChinese": "可購買線下演出紀念Premium任務通行證與付費星鑽760個。",
-      "_simplifiedChinese": "可购买线下演出纪念高级任务通行证与付费星钻760个。",
-      "_korean": "오프라인 라이브 프리미엄 미션 패스와 유료 스타 760개를 구매할 수 있습니다."
+      "_english": "BanG Dream! 13th☆LIVE “DIMENSIONAL OVERLAP” Celebration Mission Pass+760 Paid Stars.",
+      "_traditionalChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念任務通行證與付費星鑽760個。",
+      "_simplifiedChinese": "可购买BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念任务通行证与付费星钻760个。",
+      "_korean": "뱅드림! 13th☆LIVE「DIMENSIONAL OVERLAP」개최 기념 미션 패스와 유료 스타 760개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1000000124",
@@ -60099,7 +60099,7 @@
     {
       "_id": "SupportDiary_42",
       "_japanese": "あたしが今まで、音楽で負けた相手は一人だけ\r\nムカつくくらいメチャクチャで\r\n美学もへったくれもないやつなのに\r\nそいつと一緒に弾いたら\r\nどこまでも高く、飛べる気がしてた\r\n\r\nなのに、勝手にいなくなって\r\n本当に最後まで、メチャクチャなやつ\r\n\r\nそんなあいつの、弟子とか何とか言われたって\r\nどれだけピアノが上手くたって\r\nあいつの代わりになんて、なりはしない\r\nあたしの隣に立てるのは、あいつだけよ\r\n\r\n……だからまあ、百歩譲って？\r\nあたしの足元くらいになら、いさせてあげてもいいわ！\r\nあたしが負けたんじゃなくて、折れてあげたの\r\nガキンチョをいじめるなんて、クールじゃないでしょ？",
-      "_english": "The only person who's ever beaten me in music is just one\r\nso annoyingly chaotic,\r\nwith no sense of aesthetics whatsoever,\r\nand yet when I played with them,\r\nI felt like I could soar higher and higher, endlessly.\r\n\r\nBut then they just up and vanished on me.\r\nSeriously, a complete mess of a person to the very end.\r\n\r\nAnd even if people call me their disciple or whatever,\r\nno matter how good I get at piano,\r\nI could never take their place.\r\nThe only one who can stand beside me is them.\r\n\r\nSo... fine, I'll cut you some\r\nslack?\r\nI'll let you stay at my feet, at least!\r\nIt's not that I lost—I just chose to give in.\r\nBullying a little brat isn't cool, right?",
+      "_english": "There's only one person who's ever beaten me when it comes to music.\r\nThey were such an infuriating mess,\r\nwith no sense of style whatsoever.\r\nAnd yet, whenever I played with them,\r\nI felt like I could fly as high as I wanted.\r\n\r\nBut then they just went and disappeared on me.\r\nSeriously... they were a complete mess right to the very end.\r\n\r\nEven if you're supposed to be their disciple or whatever,\r\nno matter how good you are at the piano,\r\nyou'll never be able to take their place.\r\nThey're the only one who can stand beside me.\r\n\r\n...So, fine. If I really have to make one concession?\r\nI suppose I can let you stay at my feet!\r\nIt's not like I lost. I just gave in.\r\nPicking on a little kid wouldn't be very cool, would it?",
       "_traditionalChinese": "到目前為止，在音樂上贏過我的只有那個人。\r\n明明就亂七八糟到令人火大，\r\n根本談不上什麼美學，\r\n可是只要跟那傢伙一起演奏，\r\n我就覺得自己能飛得無比高遠。\r\n\r\n結果呢，那傢伙卻擅自消失不見，\r\n真是個從頭到尾都任性得一塌糊塗的傢伙。\r\n\r\n就算有人說自己是那傢伙的徒弟還是什麼，\r\n就算她的鋼琴彈得再好，\r\n終究無法代替那傢伙。\r\n能站在我身邊的，只有那傢伙而已。\r\n\r\n……總之，我就退個一百步吧。\r\n如果只是我的腳邊，我能勉為其難留個位置給妳！\r\n並不是因為我輸了，而是我主動退讓給妳的。\r\n畢竟欺負小鬼頭這種事，一點也不帥氣嘛。",
       "_simplifiedChinese": "至今为止，在音乐上能赢过我的，只有那家伙一人\r\n明明是个毫无美学可言\r\n乱七八糟到让人火大的家伙\r\n可只要和那家伙一起演奏\r\n我就会产生一种……仿佛能无尽高飞的错觉\r\n\r\n结果呢，她却自顾自地离世了\r\n真是个从头到尾都乱七八糟的家伙\r\n\r\n所以，就算别人说什么你是那家伙的徒弟\r\n就算你钢琴弹得再怎么好\r\n你也绝对无法代替那家伙\r\n有资格站在我身边的，只有那家伙一人\r\n\r\n……所以嘛，退一百步来说？\r\n让你稍微待在我的脚边，也不是不行！\r\n这可不是我输了，只是我大度让步了而已\r\n毕竟欺负一个小屁孩，也太不酷了，对吧？",
       "_korean": "내가 지금까지 음악으로 진 상대는 딱 한 명뿐이야\r\n짜증 날 정도로 엉망진창에\r\n미학이고 뭐고 없는 녀석이었지만\r\n그 녀석과 함께 연주하면\r\n어디까지든 높이 날아오를 수 있을 것 같았어\r\n\r\n그런데 멋대로 사라져 버리고\r\n정말 끝까지 엉망진창인 녀석\r\n\r\n그런 녀석의 제자라느니 뭐라느니 해봤자\r\n아무리 피아노를 잘 친다 해도\r\n그 녀석을 대신할 수는 없어\r\n내 옆에 설 수 있는 건, 그 녀석뿐이야\r\n\r\n……그러니까 뭐, 백번 양보해서?\r\n내 발밑 정도에 있는 건 허락해 줄게!\r\n내가 진 게 아니라, 한 수 굽혀준 거야\r\n꼬맹이를 괴롭히는 건 쿨하지 않잖아?"
@@ -60298,11 +60298,11 @@
     },
     {
       "_id": "SupportDiary_68",
-      "_japanese": "",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_japanese": "夢限大みゅーたいぷ\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n東京ガーデンシアター\r\n2026/10/11(日)\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
+      "_english": "Mugendai MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\nTokyo Garden Theater\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
+      "_traditionalChinese": "夢限大MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n東京花園劇場\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
+      "_simplifiedChinese": "梦限大MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n东京花园剧场\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
+      "_korean": "무겐다이 뮤타입\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n도쿄 가든 시어터\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動"
     },
     {
       "_id": "SupportSubtitle_1",
@@ -77755,10 +77755,10 @@
     {
       "_id": "ui_friend_msg_have_become_friends",
       "_japanese": "フレンドが成立しました。",
-      "_english": "Have become friends",
-      "_traditionalChinese": "已成為好友。",
-      "_simplifiedChinese": "已成为好友。",
-      "_korean": "친구가 되었습니다."
+      "_english": "Already Friend",
+      "_traditionalChinese": "對方已是您的好友",
+      "_simplifiedChinese": "对方已是您的好友",
+      "_korean": "이미 친구입니다."
     },
     {
       "_id": "ui_friend_msg_request_was_withdrawn",
@@ -78115,10 +78115,10 @@
     {
       "_id": "ui_friend_invitation_share_dialog_share_text_format",
       "_japanese": "バンドリ！アワーノーツを始めよう！\r\n招待コード：{0}\r\n\r\nhttps://ournotes.go.link/eMuQY",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Start Playing BanG Dream! Our Notes!\r\nInvite Code: {0}\r\n\r\nhttps://ournotes.go.link/eMuQY",
+      "_traditionalChinese": "開始遊玩《BanG Dream! 交織的樂章》吧！\r\n邀請碼：{0}\r\n\r\nhttps://ournotes.go.link/eMuQY",
+      "_simplifiedChinese": "一起来玩BanG Dream! 交织的乐章吧！\r\n邀请码：{0}\r\n\r\nhttps://ournotes.go.link/eMuQY",
+      "_korean": "뱅드림! 아워 노트를 시작해보자!\r\n초대 코드: {0}\r\n\r\nhttps://ournotes.go.link/eMuQY"
     },
     {
       "_id": "ui_friend_invitation_share_dialog_share_text_tag",
@@ -81139,10 +81139,10 @@
     {
       "_id": "ui_shop_stcl_text",
       "_japanese": "特定商取引法に基づく表示\r\n\r\n■販売事業者の名称、代表者、所在地、電話番号\r\n名称：株式会社ブシロード\r\n所在地：〒164-0011　東京都中野区中央1-38-1\r\n代表者：代表取締役社長　根本 雄貴\r\n電話番号：03-5348-0852\r\n※アプリケーション「バンドリ！アワーノーツ」（以下「本アプリ」といいます。）に関するお問い合わせは、以下「お問い合わせ先」記載のお問い合わせフォームからご利用いただけますようお願い申し上げます。\r\n\r\n■お問い合わせ先\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■販売価格\r\n対象となるデジタルコンテンツ（以下「コンテンツ」といいます。）ごとに、購入手続の際に表示される金額（消費税等込みの金額となります。）\r\n\r\n■商品代金以外の必要料金\r\n・パケット通信料等の端末の利用にともなう通信費用\r\n\r\n■代金の支払時期、方法\r\n(1)支払時期\r\nコンテンツ提供前\r\n(2)支払方法\r\nApp Store, Google Play経由でのアプリ内課金がご利用いただけます。また、スター以外のアイテムの場合、スターでのお支払いのみがご利用いただける場合がございます。支払方法の詳細については各コンテンツの購入手続の際に表示されます。\r\n\r\n■申込期間\r\nコンテンツに申込期間の制限がある場合、購入手続の際に表示されます。\r\n\r\n■商品の提供時期\r\n購入手続完了後、すぐにご利用いただけます。\r\n\r\n■商品提供後の返品・交換について\r\n・返品や交換はお受けできませんので、あらかじめご了承ください。\r\n\r\n■動作環境\r\n本アプリが動作する端末が必要です。動作環境は本アプリの公式サイト（https://bang-dream-on.bushimo.jp/）や、本アプリをダウンロードしたストア等のページにてご確認ください。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Disclosure Based on the Act on Specified Commercial Transactions\r\n\r\n■Name, Representative, Address, and Telephone Number of the Seller\r\nName: Bushiroad Inc.\r\nAddress: 1-38-1 Chuo, Nakano-ku, Tokyo 164-0011, Japan\r\nRepresentative: Yuki Nemoto, President and Representative Director\r\nTelephone Number: +81-3-5348-0852\r\n*For inquiries regarding the application \"BanG Dream! Our Notes\" (hereinafter referred to as \"the App\"), please use the inquiry form listed under \"Contact Information\" below.\r\n\r\n■Contact Information\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■Sales Price\r\nThe price displayed at the time of purchase for each applicable digital content (hereinafter \"Content\"). The displayed price includes consumption tax and other applicable taxes.\r\n\r\n■Fees Other Than the Product Price\r\n- Communication charges such as packet data fees incurred through the use of your device.\r\n\r\n■Payment Due Date and Payment Methods\r\n(1) Payment Due Date\r\nBefore the Content is provided.\r\n(2) Payment Methods\r\nIn-app purchases via the App Store or Google Play are available. Additionally, for items other than Stars, payment may be accepted exclusively in Stars. Further details on payment methods are displayed during the purchase process for each Content.\r\n\r\n■Offer Period\r\nIf the Content is subject to a limited offer period, such period will be displayed during the purchase process.\r\n\r\n■Provision of the Product\r\nThe Content becomes available immediately upon completion of the purchase process.\r\n\r\n■Returns and Exchanges\r\nPlease note that returns and exchanges are not accepted.\r\n\r\n■Operating Environment\r\nA device capable of running the App is required. For the system requirements and operating environment, please refer to the App's official website (https://bang-dream-on.bushimo.jp/) or the store page from which the App was downloaded.",
+      "_traditionalChinese": "依據特定商業交易法之標示\r\n\r\n■販售業者之名稱、代表人、所在地、電話號碼\r\n名稱：武士道股份有限公司\r\n所在地：〒164-0011　東京都中野區中央1-38-1\r\n代表人：董事長兼總經理　根本 雄貴\r\n電話號碼：03-5348-0852\r\n※應用程式《BanG Dream! 交織的樂章》（以下稱「本應用程式」）的相關諮詢，請利用下方「諮詢窗口」所記載的諮詢表單。\r\n\r\n■諮詢窗口\r\nhttps://bang-dream-on.bushimo.jp/contact\r\n\r\n■販售價格\r\n依各項數位內容（以下稱「內容」）於購買流程中所顯示之金額為準（含消費稅等相關費用）。\r\n\r\n■商品價格以外之必要費用\r\n·數據傳輸費用等因使用裝置所產生的通訊費用。\r\n\r\n■費用之支付時間與方式\r\n(1) 支付時間\r\n提供內容前。\r\n(2) 支付方式\r\n可透過App Store或Google Play於應用程式內儲值購買。此外，購買星鑽以外的道具時，部份情況下僅能使用星鑽購買。支付方式的詳情將於各項內容的購買流程中顯示。\r\n\r\n■申請期間\r\n若內容設有申請期間限制，將於購買流程中顯示。\r\n\r\n■商品之提供時間\r\n完成購買程序後，即可立即使用。\r\n\r\n■提供商品後之退貨與換貨\r\n·不接受退貨及換貨，敬請見諒。\r\n\r\n■推薦環境\r\n須使用可執行本應用程式的裝置。推薦環境請至本應用程式官方網站（https://bang-dream-on.bushimo.jp/），或下載本應用程式之商店頁面進行確認。",
+      "_simplifiedChinese": "基于《特定商业交易法》的公示\r\n\r\n■销售方名称、法定代表人、所在地、电话号码\r\n名称：株式会社Bushiroad\r\n所在地：〒164-0011　东京都中野区中央1-38-1\r\n法定代表人：代表董事总裁　根本 雄貴\r\n电话号码：03-5348-0852\r\n※关于应用程序「BanG Dream! 交织的乐章」（以下简称「本应用」）的咨询，请使用下方「联系方式」中记载的咨询表单。\r\n\r\n■联系方式\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■销售价格\r\n各项数字内容（以下简称「内容」）的销售价格会在购买结算时显示（金额含消费税等）。\r\n\r\n■商品价款以外的必要费用\r\n・使用设备所产生的通信费用（如流量费等）\r\n\r\n■货款的支付时间与方法\r\n(1)支付时间\r\n提供内容前\r\n(2)支付方法\r\n支持通过App Store、Google Play进行应用内支付。此外，购买星钻以外的道具时，可能仅支持使用星钻支付。支付方式的详情将在购买各项内容时显示。\r\n\r\n■购买期限\r\n若内容存在购买期限的限制，将在购买结算时显示。\r\n\r\n■商品的交付时间\r\n购买完成后即可立即使用。\r\n\r\n■关于商品交付后的退换货\r\n・原则上不接受退货或换货，敬请谅解。\r\n\r\n■运行环境\r\n需要能够运行本应用的设备。运行环境请在本应用官方网站（https://bdon.biligames.com/）或下载本应用的应用商店等页面中确认。",
+      "_korean": "특정상거래법에 따른 표시\r\n\r\n■판매 사업자의 명칭, 대표자, 소재지, 전화번호\r\n명칭: BUSHIROAD GAMES\r\n소재지: 우편번호 164-0011 도쿄도 나카노구 중앙 1-38-1\r\n대표자: 대표이사 사장 네모토 유키\r\n전화번호: 03-5348-0852\r\n※앱 「뱅드림! 아워 노트」(이하 「본 앱」이라 합니다.)와 관련된 문의는 아래 「문의하기」에 기재된 문의 양식을 이용해 주시길 부탁드립니다.\r\n\r\n■문의\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■판매 가격\r\n대상이 되는 디지털 콘텐츠(이하 「콘텐츠」라 합니다.)마다 구매 절차 시 표시되는 금액(소비세 등이 포함된 금액입니다.)\r\n\r\n■상품 대금 이외의 필요 요금\r\n・패킷 통신료 등 기기 이용에 따른 통신 비용\r\n\r\n■대금의 결제 시기, 방법\r\n(1)결제 시기\r\n콘텐츠 제공 전\r\n(2)결제 방법\r\nApp Store, Google Play를 통한 앱 내 결제를 이용하실 수 있습니다. 또한 스타 외의 아이템일 경우, 스타로 결제하는 방법만 이용 가능할 수도 있습니다. 결제 방법에 대한 자세한 내용은 각 콘텐츠의 구매 절차 시 표시됩니다.\r\n\r\n■신청 기간\r\n콘텐츠에 신청 기간 제한이 있을 경우 구매 절차 시 표시됩니다.\r\n\r\n■상품의 제공 시기\r\n구매 절차 완료 후 즉시 이용하실 수 있습니다.\r\n\r\n■상품 제공 후의 반품・교환에 대해\r\n・반품 및 교환은 불가하오니 미리 양해 부탁드립니다.\r\n\r\n■권장 사양\r\n본 앱이 구동되는 기기가 필요합니다. 권장 사양은 본 앱의 공식 사이트(https://bang-dream-on.bushimo.jp/) 또는 본 앱을 다운로드한 스토어 등의 페이지에서 확인해 주세요."
     },
     {
       "_id": "ui_shop_section_product_contents",

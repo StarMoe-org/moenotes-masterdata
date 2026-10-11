@@ -225,8 +225,8 @@
     {
       "_id": 1000000002,
       "_expireDays": 90,
-      "_titleTextId": "Present_bili_mail_reward1",
-      "_historyTextId": "Present_bili_mail_reward1"
+      "_titleTextId": "Present_bili_mail_reward3",
+      "_historyTextId": "Present_bili_mail_reward3"
     },
     {
       "_id": 1000000003,
@@ -237,8 +237,8 @@
     {
       "_id": 1000000004,
       "_expireDays": 90,
-      "_titleTextId": "Present_bili_mail_reward3",
-      "_historyTextId": "Present_bili_mail_reward3"
+      "_titleTextId": "Present_bili_mail_reward1",
+      "_historyTextId": "Present_bili_mail_reward1"
     },
     {
       "_id": 1000000005,

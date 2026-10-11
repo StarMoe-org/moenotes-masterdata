@@ -8,7 +8,8 @@
       "_isInitialOwnership": true,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:00"
+      "_endAt": "2046/07/01 00:00:00",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 2,
@@ -18,7 +19,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:01"
+      "_endAt": "2046/07/01 00:00:01",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 3,
@@ -28,7 +30,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:02"
+      "_endAt": "2046/07/01 00:00:02",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 4,
@@ -38,7 +41,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:03"
+      "_endAt": "2046/07/01 00:00:03",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 5,
@@ -48,7 +52,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/10/09 12:00:00",
-      "_endAt": "2046/07/01 00:00:03"
+      "_endAt": "2046/07/01 00:00:03",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 1001,
@@ -58,7 +63,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:04"
+      "_endAt": "2046/07/01 00:00:04",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 1003,
@@ -68,7 +74,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/06/01 00:00:00",
-      "_endAt": "2046/07/01 00:00:05"
+      "_endAt": "2046/07/01 00:00:05",
+      "_isShowWhenLocked": true
     },
     {
       "_id": 1006,
@@ -78,7 +85,8 @@
       "_isInitialOwnership": false,
       "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconFrame",
       "_startAt": "2026/09/28 12:00:00",
-      "_endAt": "2046/07/01 00:00:07"
+      "_endAt": "2046/07/01 00:00:07",
+      "_isShowWhenLocked": true
     }
   ]
 }
