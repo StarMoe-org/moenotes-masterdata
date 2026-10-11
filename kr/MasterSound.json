@@ -8174,10 +8174,10 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 1300000000111,
+      "_id": 1300000000112,
       "_category": 0,
-      "_soundCueSheetID": 1300000000111,
-      "_cueName": "Mi_Odddice",
+      "_soundCueSheetID": 1300000000112,
+      "_cueName": "M_KakoWoKurau",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": true,
       "_isRandomPitch": false,
@@ -8185,10 +8185,10 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 1300000000112,
+      "_id": 1300000000111,
       "_category": 0,
-      "_soundCueSheetID": 1300000000112,
-      "_cueName": "M_KakoWoKurau",
+      "_soundCueSheetID": 1300000000111,
+      "_cueName": "Mi_Odddice",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": true,
       "_isRandomPitch": false,
@@ -9142,10 +9142,10 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 1400000000111,
+      "_id": 1400000000112,
       "_category": 0,
-      "_soundCueSheetID": 1400000000111,
-      "_cueName": "Mi_OddDice_short",
+      "_soundCueSheetID": 1400000000112,
+      "_cueName": "M_Kakowokurau_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -9153,10 +9153,10 @@
       "_maxPitch": 0.0
     },
     {
-      "_id": 1400000000112,
+      "_id": 1400000000111,
       "_category": 0,
-      "_soundCueSheetID": 1400000000112,
-      "_cueName": "M_Kakowokurau_short",
+      "_soundCueSheetID": 1400000000111,
+      "_cueName": "Mi_OddDice_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
