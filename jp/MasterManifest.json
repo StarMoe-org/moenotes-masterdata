@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.400/db0b401a75162fa28df83fe6de387cad",
+    "version": "1.0.0.400/fbae8561f22546738d244f55d70a9160",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -433,8 +433,8 @@
         },
         {
             "name": "MasterGekisouSkillEffect.bin",
-            "hash": "37b3869a421544ad8a01585f1d940fb4870ec797d877d5f0cddba4fb27f090c2",
-            "size": 2208
+            "hash": "56fbc3c2e93359537554f54f40f88bdb602c4e21250f3e1c594531ca6bc1dc17",
+            "size": 2240
         },
         {
             "name": "MasterGekisouSupportSkill.bin",
