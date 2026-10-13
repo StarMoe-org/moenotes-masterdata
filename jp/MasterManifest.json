@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.400/fbae8561f22546738d244f55d70a9160",
+    "version": "1.0.0.500/5cfd0bf1ba4b4e1850f2ad1a22c43994",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1108,7 +1108,7 @@
         },
         {
             "name": "MasterSupportCard.bin",
-            "hash": "e84d25c9cf8624ba4775ae09ec93f313d740aed523080a4d0218b050b22efc48",
+            "hash": "414aa3cd9b509471d906c00d3e5dd5769f26b300f5b5d8571a1db8f3e0085360",
             "size": 3008
         },
         {
@@ -1143,8 +1143,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "4ecc098f29cc65e9f16ab883c85eab8b329c0893b0c6c790fab8c6144cb05e46",
-            "size": 235328
+            "hash": "8bc67afcfee83614fdeeeb8ab4695731404aa737843cfc5b5fd8518226f6347d",
+            "size": 235680
         },
         {
             "name": "MasterTitle.bin",
