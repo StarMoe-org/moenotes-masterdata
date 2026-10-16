@@ -2,12 +2,12 @@
   "schema_version": 1,
   "regions": {
     "hk-tw-mo": {
-      "version": "e85baf9fb58be66a435eeb97ead996d4",
-      "resource_version": "1.0.1.500.a3f7b2e9",
-      "verified_at": "2026-10-11T11:56:15.953081+00:00",
+      "version": "0f92cda0cbc21355ae4547fbbcbb19ce",
+      "resource_version": "1.0.1.600.7c4e9a2b",
+      "verified_at": "2026-10-16T05:41:25.359074+00:00",
       "table_count": 243,
-      "record_count": 44637,
-      "manifest_sha256": "2e4a62e70ce428713e45806e4b142b1c51e513f471a5e90c4785cb46ad6d646d",
+      "record_count": 44785,
+      "manifest_sha256": "dad3671ac3317e7f701f1e2ddd1ab32002722ed43c11804edb6c8ba511c4e091",
       "snapshot_path": "hk-tw-mo",
       "data_path": "hk-tw-mo",
       "client_version": "1.0.3",
