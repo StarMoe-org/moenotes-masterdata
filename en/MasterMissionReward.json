@@ -1849,6 +1849,42 @@
       "_resourceCount": 1
     },
     {
+      "_id": 313,
+      "_resourceType": 1,
+      "_resourceId": 70,
+      "_resourceCount": 1
+    },
+    {
+      "_id": 314,
+      "_resourceType": 1,
+      "_resourceId": 6,
+      "_resourceCount": 62500
+    },
+    {
+      "_id": 315,
+      "_resourceType": 1,
+      "_resourceId": 24,
+      "_resourceCount": 15
+    },
+    {
+      "_id": 316,
+      "_resourceType": 1,
+      "_resourceId": 25,
+      "_resourceCount": 15
+    },
+    {
+      "_id": 317,
+      "_resourceType": 1,
+      "_resourceId": 22,
+      "_resourceCount": 5
+    },
+    {
+      "_id": 318,
+      "_resourceType": 1,
+      "_resourceId": 23,
+      "_resourceCount": 5
+    },
+    {
       "_id": 1000000001,
       "_resourceType": 3,
       "_resourceId": 70,
@@ -2428,6 +2464,12 @@
       "_id": 950000110,
       "_resourceType": 17,
       "_resourceId": 10000110,
+      "_resourceCount": 1
+    },
+    {
+      "_id": 950000111,
+      "_resourceType": 17,
+      "_resourceId": 10000111,
       "_resourceCount": 1
     }
   ]

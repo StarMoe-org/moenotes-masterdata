@@ -788,6 +788,20 @@
       "_descriptionTextFormatID": "Support_Skill_Description_72",
       "_skillIconID": 10,
       "_displaySkillCategories": []
+    },
+    {
+      "_id": 71069,
+      "_nameTextID": "Support_Skill_Name_71",
+      "_descriptionTextFormatID": "Support_Skill_Description_71",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 73069,
+      "_nameTextID": "Support_Skill_Name_73",
+      "_descriptionTextFormatID": "Support_Skill_Description_73",
+      "_skillIconID": 14,
+      "_displaySkillCategories": []
     }
   ]
 }

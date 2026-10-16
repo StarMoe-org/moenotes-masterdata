@@ -24,12 +24,12 @@
       }
     },
     "en": {
-      "version": "5231229bc1bea13c15e8c304c9533e13",
-      "resource_version": "1.0.1.500.a3f7b2e9",
-      "verified_at": "2026-10-11T11:54:17.286264+00:00",
+      "version": "737af3326540daa2e2f7c44e55a92262",
+      "resource_version": "1.0.1.600.7c4e9a2b",
+      "verified_at": "2026-10-16T05:40:26.800477+00:00",
       "table_count": 243,
-      "record_count": 44634,
-      "manifest_sha256": "559ed404e7990ec435197fb4fb201a91ccb96f344065d9d0f0bd278ef9527496",
+      "record_count": 44782,
+      "manifest_sha256": "9f6d88b2de7102c5e1095a105fc949b427f71024f230fd573d30996e358d918b",
       "snapshot_path": "en",
       "data_path": "en",
       "client_version": "1.0.3",

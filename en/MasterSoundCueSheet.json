@@ -617,6 +617,10 @@
       "_cueSheetName": "Mi_Odddice"
     },
     {
+      "_id": 1300000000113,
+      "_cueSheetName": "A_KamiNoNawo"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -967,6 +971,10 @@
     {
       "_id": 1400000000111,
       "_cueSheetName": "Mi_OddDice_short"
+    },
+    {
+      "_id": 1400000000113,
+      "_cueSheetName": "A_KamiNoNawo_short"
     },
     {
       "_id": 2301001000001,

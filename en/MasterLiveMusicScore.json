@@ -2463,6 +2463,34 @@
       "_musicScoreLevel": 25,
       "_musicScoreDisplayLevel": 25.5,
       "_fullComboCount": 1144
+    },
+    {
+      "_id": 10011300,
+      "_musicScoreTextFileName": "0113/0113_00",
+      "_musicScoreLevel": 6,
+      "_musicScoreDisplayLevel": 6.0,
+      "_fullComboCount": 336
+    },
+    {
+      "_id": 10011301,
+      "_musicScoreTextFileName": "0113/0113_01",
+      "_musicScoreLevel": 11,
+      "_musicScoreDisplayLevel": 11.0,
+      "_fullComboCount": 449
+    },
+    {
+      "_id": 10011302,
+      "_musicScoreTextFileName": "0113/0113_02",
+      "_musicScoreLevel": 18,
+      "_musicScoreDisplayLevel": 18.0,
+      "_fullComboCount": 651
+    },
+    {
+      "_id": 10011303,
+      "_musicScoreTextFileName": "0113/0113_03",
+      "_musicScoreLevel": 26,
+      "_musicScoreDisplayLevel": 26.5,
+      "_fullComboCount": 846
     }
   ]
 }

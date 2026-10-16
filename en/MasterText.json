@@ -171,7 +171,7 @@
     {
       "_id": "ui_upper_limit",
       "_japanese": "これ以上、上げられません。",
-      "_english": "I can't raise it any more.",
+      "_english": "You have reached the level limit",
       "_traditionalChinese": "無法繼續提升。",
       "_simplifiedChinese": "无法继续增加。",
       "_korean": "더 이상 올릴 수 없습니다."
@@ -187,7 +187,7 @@
     {
       "_id": "ui_feature_awakening",
       "_japanese": "覚醒",
-      "_english": "Awak",
+      "_english": "Awaken",
       "_traditionalChinese": "覺醒",
       "_simplifiedChinese": "觉醒",
       "_korean": "각성"
@@ -8421,80 +8421,80 @@
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_937",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_938",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_939",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_940",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_941",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_942",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_943",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_944",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_945",
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Chapter_Title_946",
@@ -9675,7 +9675,7 @@
     {
       "_id": "Arranger_Name_100111",
       "_japanese": "アザミ",
-      "_english": "azami",
+      "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
       "_korean": "아자미"
@@ -9687,6 +9687,14 @@
       "_traditionalChinese": "植木建象、神田ジョン(from PENGUIN RESEARCH)",
       "_simplifiedChinese": "植木建象、神田ジョン（from PENGUIN RESEARCH）",
       "_korean": "우에키 켄조, 칸다 John(from PENGUIN RESEARCH)"
+    },
+    {
+      "_id": "Arranger_Name_100113",
+      "_japanese": "Diggy-MO’",
+      "_english": "Diggy-MO’",
+      "_traditionalChinese": "Diggy-MO’",
+      "_simplifiedChinese": "Diggy-MO’",
+      "_korean": "Diggy-MO’"
     },
     {
       "_id": "AutoPostPresent_1",
@@ -19133,8 +19141,8 @@
       "_japanese": "みんな、アイスでお祝いしよー！",
       "_english": "Let's celebrate with ice cream, everyone!",
       "_traditionalChinese": "各位，用冰品一起慶功吧～！",
-      "_simplifiedChinese": "大家去吃冰淇淋庆祝吧——！",
-      "_korean": "얘들아, 아이스크림으로 축하하자!"
+      "_simplifiedChinese": "大家去吃棒棒冰庆祝吧——！",
+      "_korean": "얘들아, 아이스바로 축하하자!"
     },
     {
       "_id": "CharacterVoice_331",
@@ -20532,24 +20540,24 @@
       "_id": "ChatThemeDesc_5",
       "_japanese": "",
       "_english": "Obtained by purchasing the millsage Chat Room Theme Pack.",
-      "_traditionalChinese": "購買millsage主題聊天室裝扮禮包後獲得。",
-      "_simplifiedChinese": "购买millsage主题聊天室装扮礼包后获取。",
+      "_traditionalChinese": "購買millsage聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买millsage聊天室主题礼包后获取。",
       "_korean": "millsage 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
       "_id": "ChatBubbleDesc_5",
       "_japanese": "",
       "_english": "Obtained by purchasing the millsage Chat Room Theme Pack.",
-      "_traditionalChinese": "購買millsage主題聊天室裝扮禮包後獲得。",
-      "_simplifiedChinese": "购买millsage主题聊天室装扮礼包后获取。",
+      "_traditionalChinese": "購買millsage聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买millsage聊天室主题礼包后获取。",
       "_korean": "millsage 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
       "_id": "ChatFrameDesc_5",
       "_japanese": "",
       "_english": "Obtained by purchasing the millsage Chat Room Theme Pack.",
-      "_traditionalChinese": "購買millsage主題聊天室裝扮禮包後獲得。",
-      "_simplifiedChinese": "购买millsage主题聊天室装扮礼包后获取。",
+      "_traditionalChinese": "購買millsage聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买millsage聊天室主题礼包后获取。",
       "_korean": "millsage 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
@@ -22939,7 +22947,7 @@
     {
       "_id": "Composer_Name_100111",
       "_japanese": "アザミ",
-      "_english": "azami",
+      "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
       "_korean": "아자미"
@@ -22951,6 +22959,14 @@
       "_traditionalChinese": "カンザキイオリ",
       "_simplifiedChinese": "カンザキイオリ  ",
       "_korean": "칸자키 이오리"
+    },
+    {
+      "_id": "Composer_Name_100113",
+      "_japanese": "Diggy-MO’, hisakuni(SUPA LOVE)",
+      "_english": "Diggy-MO’, hisakuni (SUPA LOVE)",
+      "_traditionalChinese": "Diggy-MO’、hisakuni(SUPA LOVE)",
+      "_simplifiedChinese": "Diggy-MO’, hisakuni(SUPA LOVE)",
+      "_korean": "Diggy-MO’, hisakuni(SUPA LOVE)"
     },
     {
       "_id": "Content_Name_1",
@@ -25259,10 +25275,10 @@
     {
       "_id": "Degree_Description_208",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 特別ログインボーナスで獲得",
-      "_english": "Obtained via the BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus.",
-      "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 特別登入獎勵獲得",
-      "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 特别登录奖励获得",
-      "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상으로 획득"
+      "_english": "Obtained via BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Login",
+      "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」登入獎勵獲得",
+      "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」登入奖励获得",
+      "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 로그인으로 획득"
     },
     {
       "_id": "Degree_Description_209",
@@ -25271,6 +25287,54 @@
       "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」特典序號獲得",
       "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」特典兑换码获得",
       "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 혜택 교환 코드로 획득"
+    },
+    {
+      "_id": "Degree_Description_210",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 特別ログインボーナスで獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Special Login Bonus",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念特別登入獎勵獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念特别登录奖励获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 특별 로그인 보상에서 획득"
+    },
+    {
+      "_id": "Degree_Description_257",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Exchange Shop",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念兌換所獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念交换所获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_258",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Exchange Shop",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念兌換所獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念交换所获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_259",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Exchange Shop",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念兌換所獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念交换所获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_260",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Exchange Shop",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念兌換所獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念交换所获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_261",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "Obtained from the [BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Exchange Shop",
+      "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念兌換所獲得",
+      "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念交换所获得",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 교환소에서 획득"
     },
     {
       "_id": "Degree_Description_20000001",
@@ -26777,6 +26841,14 @@
       "_korean": "「과거를 집어삼키다」 100회 클리어 시 획득"
     },
     {
+      "_id": "Degree_Description_10000111",
+      "_japanese": "「神の名を」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"God's Blood\" 100 times.",
+      "_traditionalChinese": "通關「God's Blood」100次即獲得",
+      "_simplifiedChinese": "完成「God's Blood」100次时获得",
+      "_korean": "「신의 이름을」 100회 클리어 시 획득"
+    },
+    {
       "_id": "Degree_Name_10000001",
       "_japanese": "[ステッカー]迷星叫ジャケット",
       "_english": "[Sticker] Mayoiuta Jacket",
@@ -27479,6 +27551,14 @@
       "_traditionalChinese": "[貼紙]過去を喰らう封面",
       "_simplifiedChinese": "[贴纸]過去を喰らう封面",
       "_korean": "[스티커] 과거를 집어삼키다 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000111",
+      "_japanese": "[ステッカー]神の名をジャケット",
+      "_english": "[Sticker] God's Blood Jacket",
+      "_traditionalChinese": "[貼紙]God's Blood封面",
+      "_simplifiedChinese": "[贴纸]God's Blood封面",
+      "_korean": "[스티커] 신의 이름을 재킷"
     },
     {
       "_id": "Degree_Name_1",
@@ -29009,6 +29089,54 @@
       "_korean": "[스티커] DIMENSIONAL OVERLAP(한정)"
     },
     {
+      "_id": "Degree_Name_210",
+      "_japanese": "[ステッカー]prima aurora",
+      "_english": "[Sticker] prima aurora",
+      "_traditionalChinese": "[貼紙]prima aurora",
+      "_simplifiedChinese": "[贴纸]prima aurora",
+      "_korean": "[스티커]prima aurora"
+    },
+    {
+      "_id": "Degree_Name_257",
+      "_japanese": "[ステッカー]三角 初華 映画私服ver.",
+      "_english": "[Sticker] Uika Misumi - Movie Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]三角初華 劇場版便服ver.",
+      "_simplifiedChinese": "[贴纸]三角初华 剧场版日常服装ver.",
+      "_korean": "[스티커]미스미 우이카 영화 사복ver."
+    },
+    {
+      "_id": "Degree_Name_258",
+      "_japanese": "[ステッカー]若葉 睦 映画私服ver.",
+      "_english": "[Sticker] Mutsumi Wakaba - Movie Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]若葉睦 劇場版便服ver.",
+      "_simplifiedChinese": "[贴纸]若叶睦 剧场版日常服装ver.",
+      "_korean": "[스티커]와카바 무츠미 영화 사복ver."
+    },
+    {
+      "_id": "Degree_Name_259",
+      "_japanese": "[ステッカー]八幡 海鈴 映画私服ver.",
+      "_english": "[Sticker] Umiri Yahata - Movie Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]八幡海鈴 劇場版便服ver.",
+      "_simplifiedChinese": "[贴纸]八幡海铃 剧场版日常服装ver.",
+      "_korean": "[스티커]야하타 우미리 영화 사복ver."
+    },
+    {
+      "_id": "Degree_Name_260",
+      "_japanese": "[ステッカー]祐天寺 にゃむ 映画私服ver.",
+      "_english": "[Sticker] Nyamu Yūtenji - Movie Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]祐天寺若麥 劇場版便服ver.",
+      "_simplifiedChinese": "[贴纸]祐天寺若麦 剧场版日常服装ver.",
+      "_korean": "[스티커]유텐지 냐무 영화 사복ver."
+    },
+    {
+      "_id": "Degree_Name_261",
+      "_japanese": "[ステッカー]豊川 祥子 映画私服ver.",
+      "_english": "[Sticker] Sakiko Togawa - Movie Casual Outfit ver.",
+      "_traditionalChinese": "[貼紙]豐川祥子 劇場版便服ver.",
+      "_simplifiedChinese": "[贴纸]丰川祥子 剧场版日常服装ver.",
+      "_korean": "[스티커]토가와 사키코 영화 사복ver."
+    },
+    {
       "_id": "Item_Source_Name_1",
       "_japanese": "タイトル",
       "_english": "Title",
@@ -29302,7 +29430,7 @@
       "_english": "Miku Birthday Pick Exchange Shop",
       "_traditionalChinese": "心玖生日撥片兌換所",
       "_simplifiedChinese": "心玖生日拨片交换所",
-      "_korean": "미쿠 생일 기념 피크"
+      "_korean": "미쿠 생일 기념 피크 교환소"
     },
     {
       "_id": "Exchange_Name_20",
@@ -29319,6 +29447,22 @@
       "_traditionalChinese": "光之所至，伊始之時 轉蛋兌換所",
       "_simplifiedChinese": "光之所至，伊始之时招募交换所",
       "_korean": "스며드는 빛, 시작의 순간 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_22",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ交換所",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration: Ave Mujica Pick Up Gacha Exchange Shop",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 Ave Mujica Pick Up轉蛋兌換所",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 Ave Mujica Pick Up招募交换所",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica픽업 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_23",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換所",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Sticker Exchange Shop",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 貼紙兌換所",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 贴纸交换所",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 스티커 교환소"
     },
     {
       "_id": "exchange_title",
@@ -30038,7 +30182,7 @@
       "_english": "With [T.G.W CARD], you can earn [T.G.W CARD Pts] through the following methods, and based on your rank, you will receive permanent benefits, rewards, special features, and other privileges.\r\nAdditionally, upon reaching each rank, you will be able to purchase [T.G.W CARD Packs] and access the \"T.G.W CARD Catalog Shop,\" where the lineup of items changes based on your rank.\r\n\r\n■ How to obtain \"T.G.W CARD Pts\"\r\n- Consume Stars (paid/free)\r\n- Claim once per day for free (Consecutive claims increase the number of Pts earned.)",
       "_traditionalChinese": "【T.G.W CARD】可透過以下方法獲得【T.G.W CARD pt】，並享有依等級提供的永久特典、報酬及開放特殊功能等福利。\r\n此外，達到各等級時，還可購買【T.G.W CARD禮包】，以及使用商品陣容會根據等級變更的「T.G.W CARD專享商品目錄」。\r\n\r\n■【T.G.W CARD pt】獲得方法\r\n·消耗星鑽（付費／免費）\r\n·每天可免費領取一次（獲得pt會隨著連續領取次數增加）",
       "_simplifiedChinese": "【T.G.W CARD】可通过以下方法获得【T.G.W CARD pt】，并根据等级享受永久特典、奖励及特别功能解锁等福利。\r\n此外，在达到各等级时，还可购买【T.G.W CARD等级礼包】，以及使用商品阵容会随等级变化的「T.G.W CARD专享商品目录」。\r\n\r\n■「T.G.W CARD pt」获得方法\r\n・消耗星钻（付费/免费）\r\n・每日1次免费领取（连续领取天数越多，获得的pt越多）",
-      "_korean": "[T.G.W 카드]는 다음 방법으로 [T.G.W 카드 pt]를 획득하여, 랭크에 따른 영구적인 혜택과 보상, 특별한 기능 해제 등을 누릴 수 있는 시스템입니다.\r\n또한 각 랭크 도달 시, [T.G.W 카드 랭크 패키지] 구매 및 랭크에 따라 라인업이 변경되는 「T.G.W 카드 상점」도 이용하실 수 있게 됩니다.\r\n\r\n■「T.G.W 카드 pt」 획득 방법\r\n· 스타(유료/무료) 소모\r\n· 1일 1회 무료 수령(연속으로 수령할수록 획득 pt가 증가합니다)"
+      "_korean": "[T.G.W 카드]는 다음 방법으로 [T.G.W 카드 pt]를 획득하여, 랭크에 따른 영구적인 혜택과 보상, 특별한 기능 해제 등을 누릴 수 있는 시스템입니다.\r\n또한 각 랭크 도달 시, [T.G.W 카드 패키지] 구매 및 랭크에 따라 라인업이 변경되는 「T.G.W 카드 상점」도 이용하실 수 있게 됩니다.\r\n\r\n■「T.G.W 카드 pt」 획득 방법\r\n· 스타(유료/무료) 소모\r\n· 1일 1회 무료 수령(연속으로 수령할수록 획득 pt가 증가합니다)"
     },
     {
       "_id": "Faq_Detail_30",
@@ -30566,10 +30710,18 @@
       "_english": "Gacha with R or Higher Members or Snapshots\r\n\r\n. Each time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\r\n (1 pull: 5 pcs / 10 pulls: 50 pcs)\r\n *The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\r\n *The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\r\n\r\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\r\n（抽1次：5個／抽10次：50個）\r\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\r\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
       "_simplifiedChinese": "可获得R以上成员或是留影的招募\r\n\r\n每次进行招募，都可额外获得道具「生日拨片」。\r\n（抽1次：5个／抽10次：50个）\r\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\r\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
-      "_korean": "R 이상의 멤버 또는 스냅을 획득할 수 있는 뽑기\r\n\r\n본 뽑기를 이용할 때마다, 보너스 아이템 「버스데이 픽」을 획득할 수 있습니다.\r\n（1회 뽑기: 5개／10회 뽑기: 50개）\r\n※본 뽑기에서 획득할 수 있는 「버스데이 픽」은 이벤트 교환소의 「버스데이 픽 교환소」에서 이용할 수 있습니다.\r\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
+      "_korean": "R 이상의 멤버 또는 스냅을 획득할 수 있는 뽑기\r\n\r\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\r\n(1회 뽑기: 5개／10회 뽑기: 50개)\r\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\r\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
     },
     {
       "_id": "Gacha_Description_12",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
+      "_id": "Gacha_Description_13",
       "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
       "_english": "Gacha with R or Higher Members or Snapshots",
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
@@ -31215,6 +31367,14 @@
       "_traditionalChinese": "光之所至，伊始之時轉蛋",
       "_simplifiedChinese": "光之所至，伊始之时招募",
       "_korean": "스며드는 빛, 시작의 순간 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_13",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration: Ave Mujica Pick Up Gacha",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 Ave Mujica Pick Up轉蛋",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念Ave Mujica Pick Up招募",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica 픽업 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -32038,7 +32198,7 @@
       "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\r\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
       "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\r\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
       "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\r\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_2",
@@ -32046,7 +32206,7 @@
       "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\r\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
       "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\r\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
       "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\r\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_3",
@@ -32054,7 +32214,7 @@
       "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\r\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
       "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\r\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
       "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\r\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_4",
@@ -32062,7 +32222,7 @@
       "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\r\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
       "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\r\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
       "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\r\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_5",
@@ -32070,7 +32230,7 @@
       "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST HIT(s),\r\nScore <color=#66FF8C>+{effects[0].value/100:F0}% each time</color> (max <color=#66FF8C>+{effects[0].maxValue/100:F0}%</color>).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\nScore <color=#66FF8C>+{effects[1].value/100:F0}% each time</color>.",
       "_traditionalChinese": "在JUST激奏中，每達到{effects[0].cCon.values[0]}次JUST判定，\r\n分數<color=#66FF8C>{effects[0].value/100:F0}%</color>UP（最多<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n分數則<color=#66FF8C>{effects[1].value/100:F0}%</color>UP",
       "_simplifiedChinese": "JUST激奏期间，每达成{effects[0].cCon.values[0]}次JUST判定\r\n得分提升<color=#66FF8C>{effects[0].value/100:F0}%</color>（最高<color=#66FF8C>{effects[0].maxValue/100:F0}%</color>）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n则得分提升<color=#66FF8C>{effects[1].value/100:F0}%</color>",
-      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F0}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
+      "_korean": "JUST 격주 중 JUST 판정 {effects[0].cCon.values[0]}회마다\r\n스코어 <color=#66FF8C>{effects[0].value/100:F0}%씩</color> UP(최대 <color=#66FF8C>{effects[0].maxValue/100:F1}%</color>)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n스코어 <color=#66FF8C>{effects[1].value/100:F0}%씩</color> UP"
     },
     {
       "_id": "Gekisou_Support_Description_6",
@@ -34638,7 +34798,7 @@
       "_english": "High Score Rating is a value calculated for each Band by adding up the \"Song Rating\" corresponding to each Song Type.\r\nBased on the Rating you reach, you can earn rewards, and it also affects matchmaking in GEKISO LIVE.\r\n\r\nHigh Score Rating can be recorded and updated in GEKISO LIVE as well, but it is recorded using the \"FREE LIVE\" score, excluding any score increases that occur during GEKISO Sections.",
       "_traditionalChinese": "關於最高分評級，是指各樂團依據不同樂曲屬性所對應的「樂曲評級」加總後的數值。\r\n不僅可根據達到的評級獲得獎勵，還會影響在激奏演出時的配對。\r\n\r\n雖然在激奏演出也會紀錄與更新最高分評級，但會扣除激奏區間的分數提升結果，僅以「自由演出」時的分數進行紀錄。",
       "_simplifiedChinese": "最高分评级是将各乐队按乐曲属性对应的「乐曲评分」相加后得出的总值。\r\n到达相应评级后，可获得奖励，同时也会影响激奏演出的匹配等。\r\n\r\n在激奏演出中也可以记录和更新最高分评级，但计算时会扣除激奏区间的得分加成，以相当于「自由演出」时的得分进行记录。",
-      "_korean": "하이 스코어 레이팅이란, 각 밴드별로 곡 타입에 따른 「곡 레이팅」을 합산한 수치입니다.\r\n달성한 레이팅에 따라 보상을 획득하거나 격주 라이브의 매칭 등에 영향을 줍니다.\r\n\r\n격주 라이브에서도 하이스코어 레이팅을 기록하거나 갱신할 수 있으나, 격주 구간의 스코어 상승 결과를 제외한 「프리 라이브」 기준의 스코어로 기록됩니다."
+      "_korean": "하이 스코어 레이팅이란, 각 밴드별로 곡 타입마다 가장 높은 「곡 레이팅」을 합산한 수치입니다.\r\n달성한 레이팅에 따라 보상을 획득하거나 격주 라이브의 매칭 등에 영향을 줍니다.\r\n\r\n격주 라이브에서도 하이스코어 레이팅을 기록하거나 갱신할 수 있으나, 격주 구간의 스코어 상승 결과를 제외한 「프리 라이브」 기준의 스코어로 기록됩니다."
     },
     {
       "_id": "Help_SubCategory_Description_90008",
@@ -34651,10 +34811,10 @@
     {
       "_id": "Help_SubCategory_Description_90009",
       "_japanese": "楽曲には、以下のステータスが設定されています。\r\n\r\n>>>楽曲難易度\r\n譜面（ノーツの配置）の難しさを示す指標です。\r\n（難しい順）EXPERT ＞ HARD ＞ NORMAL ＞ EASY\r\n\r\n>>>楽曲Lv\r\n楽曲の難易度をさらに細かく数値化したものです。\r\n同じ楽曲難易度でも、この「楽曲Lv」の数値が高いほど高難易度になります。\r\n\r\n>>>楽曲タイプ\r\nメンバーと同様に5種類のタイプがあります。\r\n編成メンバーと楽曲のタイプが一致すると、ボーナス効果が発生します。\r\n\r\n>>>楽曲タグ\r\n楽曲に紐づく楽曲タグを示す情報です。\r\nメンバーに設定された「得意楽曲」の楽曲タグと一致していると、ボーナス効果が発生します。\r\n\r\n>>>スコアランク\r\n獲得スコアに応じた評価ランクです。\r\n（高い順）SS ＞ S ＞ A ＞ B ＞ C ＞ D\r\n各ランクの達成に必要なスコアは楽曲ごとに異なり、それぞれのランクを初めて獲得した際に報酬が付与されます。",
-      "_english": "Songs have the following details.\r\n\r\n>>>Difficulty\r\nIndicates the difficulty of the chart (or the placement of Notes).\r\n(From hardest to easiest) EXPERT > HARD > NORMAL > EASY\r\n\r\n>>>Song Lv.\r\nA more detailed numerical value for song difficulty.\r\nEven for songs with the same Difficulty, a higher Song Lv. means the song is more difficult.\r\n\r\n>>>Song Type\r\nLike Members, songs have one of five Types.\r\nWhen the Type of a Member in your formation matches the song's Type, a bonus effect will activate.\r\n*For songs with the \"ALL\" Type, bonus effects will activate for all Members.\r\n\r\n>>>Song Tag\r\nIndicates the Song Tag linked to the song.\r\nIf it matches the Song Tag of a Member's Favorite Song, a bonus effect will activate.\r\n\r\n>>>Score Rank\r\nAn evaluation rank based on the score earned.\r\n(From highest to lowest) SS > S > A > B > C > D\r\nThe score required to achieve each rank differs by song. Rewards are granted the first time you achieve each rank.",
+      "_english": "Songs have the following details.\r\n\r\n>>>Difficulty\r\nIndicates the difficulty of the chart (or the placement of Notes).\r\n(From hardest to easiest) EXPERT > HARD > NORMAL > EASY\r\n\r\n>>>Song Lv.\r\nA more detailed numerical value for song difficulty.\r\nEven for songs with the same Difficulty, a higher Song Lv. means the song is more difficult.\r\n\r\n>>>Song Type\r\nLike Members, songs have one of five Types.\r\nWhen the Type of a Member in your formation matches the song's Type, a bonus effect will activate.\r\n\r\n>>>Song Tag\r\nIndicates the Song Tag linked to the song.\r\nIf it matches the Song Tag of a Member's Favorite Song, a bonus effect will activate.\r\n\r\n>>>Score Rank\r\nAn evaluation rank based on the score earned.\r\n(From highest to lowest) SS > S > A > B > C > D\r\nThe score required to achieve each rank differs by song. Rewards are granted the first time you achieve each rank.",
       "_traditionalChinese": "樂曲皆設有以下項目。\r\n\r\n>>>樂曲難度\r\n表示譜面（節奏圖示配置）難度的指標。\r\n（由難到易）EXPERT ＞ HARD ＞ NORMAL ＞ EASY\r\n\r\n>>>樂曲Lv\r\n將樂曲難度進一步細分並數值化的指標。\r\n即使是相同難度，「樂曲Lv」的數值越高，難度也會越高。\r\n\r\n>>>樂曲屬性\r\n與團員同樣分為5種屬性。\r\n當編組團員與樂曲屬性一致時，將會觸發加成效果。\r\n※如果為「ALL」屬性的樂曲，所有團員皆可觸發加成效果。\r\n\r\n>>>樂曲標籤\r\n表示該樂曲設定的樂曲標籤資訊。\r\n若與團員設定的「拿手樂曲」樂曲標籤一致時，將會觸發加成效果。\r\n\r\n>>>分數等級\r\n根據獲得分數所對應的評價等級。\r\n（由高到低）SS ＞ S ＞ A ＞ B ＞ C ＞ D\r\n達到各等級的所需分數因樂曲而異，首次達成各等級時會獲得報酬。",
-      "_simplifiedChinese": "每首乐曲均设有以下信息：\r\n\r\n>>>乐曲难度\r\n表示谱面（节奏图示的配置）困难程度的指标。\r\n（从难到易）EXPERT ＞ HARD ＞ NORMAL ＞ EASY\r\n\r\n>>>乐曲Lv\r\n将乐曲难度进一步细化后的具体数值。\r\n即使乐曲难度相同，「乐曲Lv」数值越高，实际难度也越大。\r\n\r\n>>>乐曲属性\r\n与成员相同，共有5种属性。\r\n如果编队成员与乐曲的属性一致，就会触发加成效果。\r\n※在「ALL」属性的乐曲中，所有成员都会触发加成效果。\r\n\r\n>>>乐曲标签\r\n表示与该乐曲绑定的乐曲标签信息。\r\n如果与成员设定的「擅长乐曲」的乐曲标签一致，就会触发加成效果。\r\n\r\n>>>得分评级\r\n根据最终得分而定的评价等级。\r\n（从高到低）SS ＞ S ＞ A ＞ B ＞ C ＞ D\r\n达成各个评级所需的得分因乐曲而异，首次达到对应评级时将发放奖励。",
-      "_korean": "곡에는 다음과 같은 정보가 설정되어 있습니다.\r\n\r\n>>>곡 난이도\r\n채보(노트의 배치) 난이도를 나타내는 지표입니다.\r\n(어려운 순)·EXPERT>HARD>NORMAL>EASY\r\n\r\n>>>곡Lv\r\n곡 난이도를 더 자세하게 수치로 나타낸 것입니다.\r\n같은 난이도라도 「곡Lv」 수치가 높을수록 난이도가 더 높아집니다.\r\n\r\n>>>곡 타입\r\n멤버와 마찬가지로 5종류의 타입이 있습니다.\r\n편성 멤버와 곡의 타입이 일치하면 보너스 효과가 발생합니다.\r\n※「ALL」 타입 곡에서는 모든 멤버에게 보너스 효과가 발생합니다\r\n\r\n>>>곡 태그\r\n곡에 연결된 곡 태그를 나타내는 정보입니다.\r\n멤버에게 설정된 「특기 곡」의 곡 태그와 일치하면 보너스 효과가 발생합니다.\r\n\r\n>>>스코어 랭크\r\n획득 스코어에 따라 매겨진 평가 랭크입니다.\r\n(높은 순)SS>S>A>B>C>D\r\n각 랭크 달성에 필요한 스코어는 곡마다 다르며, 각 랭크를 처음 달성했을 때 보상이 지급됩니다."
+      "_simplifiedChinese": "每首乐曲均设有以下信息：\r\n\r\n>>>乐曲难度\r\n表示谱面（节奏图示的配置）困难程度的指标。\r\n（从难到易）EXPERT ＞ HARD ＞ NORMAL ＞ EASY\r\n\r\n>>>乐曲Lv\r\n将乐曲难度进一步细化后的具体数值。\r\n即使乐曲难度相同，「乐曲Lv」数值越高，实际难度也越大。\r\n\r\n>>>乐曲属性\r\n与成员相同，共有5种属性。\r\n如果编队成员与乐曲的属性一致，就会触发加成效果。\r\n\r\n>>>乐曲标签\r\n表示与该乐曲绑定的乐曲标签信息。\r\n如果与成员设定的「擅长乐曲」的乐曲标签一致，就会触发加成效果。\r\n\r\n>>>得分评级\r\n根据最终得分而定的评价等级。\r\n（从高到低）SS ＞ S ＞ A ＞ B ＞ C ＞ D\r\n达成各个评级所需的得分因乐曲而异，首次达到对应评级时将发放奖励。",
+      "_korean": "곡에는 다음과 같은 정보가 설정되어 있습니다.\r\n\r\n>>>곡 난이도\r\n채보(노트의 배치) 난이도를 나타내는 지표입니다.\r\n(어려운 순)·EXPERT>HARD>NORMAL>EASY\r\n\r\n>>>곡Lv\r\n곡 난이도를 더 자세하게 수치로 나타낸 것입니다.\r\n같은 난이도라도 「곡Lv」 수치가 높을수록 난이도가 더 높아집니다.\r\n\r\n>>>곡 타입\r\n멤버와 마찬가지로 5종류의 타입이 있습니다.\r\n편성 멤버와 곡의 타입이 일치하면 보너스 효과가 발생합니다.\r\n\r\n>>>곡 태그\r\n곡에 연결된 곡 태그를 나타내는 정보입니다.\r\n멤버에게 설정된 「특기 곡」의 곡 태그와 일치하면 보너스 효과가 발생합니다.\r\n\r\n>>>스코어 랭크\r\n획득 스코어에 따라 매겨진 평가 랭크입니다.\r\n(높은 순)SS>S>A>B>C>D\r\n각 랭크 달성에 필요한 스코어는 곡마다 다르며, 각 랭크를 처음 달성했을 때 보상이 지급됩니다."
     },
     {
       "_id": "Help_SubCategory_Description_90010",
@@ -37017,6 +37177,14 @@
       "_korean": "[DIMENSIONAL OVERLAP] 무겐다이 뮤타입"
     },
     {
+      "_id": "Item_Description_70",
+      "_japanese": "交換所で任意のステッカーと交換することができるチケット",
+      "_english": "A ticket that can be exchanged for any Sticker at the Exchange Shop.",
+      "_traditionalChinese": "可在兌換所兌換任意貼紙的票券",
+      "_simplifiedChinese": "用于在交换所交换任意贴纸的交换券",
+      "_korean": "교환소에서 임의의 스티커와 교환할 수 있는 티켓"
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\r\n※一部のガチャは対象外",
       "_english": "A ticket used to draw from the Event Gacha.\r\n※Certain Gachas are excluded.",
@@ -37667,7 +37835,7 @@
     {
       "_id": "Item_Description_10000064",
       "_japanese": "[Happy Birthday 26-27]馬橋 心玖の覚醒に使用するアイテム",
-      "_english": "An item used to AWAKEN Miku Mabashi [Happy Birthday 26-27]",
+      "_english": "An item used to Awaken Miku Mahashi [Happy Birthday 26-27]",
       "_traditionalChinese": "[Happy Birthday 26-27]馬橋心玖覺醒時使用的道具",
       "_simplifiedChinese": "[Happy Birthday 26-27]用于马桥心玖觉醒的道具",
       "_korean": "[Happy Birthday 26-27] 마하시 미쿠 각성에 사용하는 아이템"
@@ -39233,6 +39401,14 @@
       "_korean": "<size=30>[DIMENSIONAL OVERLAP] 무겐다이 뮤타입</size>"
     },
     {
+      "_id": "Item_Name_70",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換チケット",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Sticker Exchange Ticket",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 貼紙兌換券",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 贴纸交换券",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 스티커 교환 티켓"
+    },
+    {
       "_id": "Item_Phonetic_Name_1",
       "_japanese": "すたー",
       "_english": "Star",
@@ -39695,6 +39871,14 @@
       "_traditionalChinese": "[DIMENSIONAL OVERLAP]夢限大MewType",
       "_simplifiedChinese": "[DIMENSIONAL OVERLAP]梦限大MewType",
       "_korean": "[DIMENSIONAL OVERLAP] 무겐다이 뮤타입"
+    },
+    {
+      "_id": "Item_Phonetic_Name_70",
+      "_japanese": "えいがばんどりあべむじかぷりまあうろーら",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Leader_Skill_Name_Description_1",
@@ -43255,6 +43439,14 @@
       "_traditionalChinese": "新手任務",
       "_simplifiedChinese": "新手任务",
       "_korean": "초보자 미션"
+    },
+    {
+      "_id": "LimitedMissionName_2",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 限定ミッション",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Limited Mission",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 限定任務",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 限定任务",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 한정 미션"
     },
     {
       "_id": "LimitedMissionName_1000000001",
@@ -48873,6 +49065,14 @@
       "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상"
     },
     {
+      "_id": "LoginBonus_Name_5",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 特別ログインボーナス",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Special Login Bonus",
+      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念特別登入獎勵",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念特别登录奖励",
+      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 특별 로그인 보상"
+    },
+    {
       "_id": "LoginBonus_Name_1000000001",
       "_japanese": "\"Abracadabra\" Release Celebration Login Bonus!",
       "_english": "\"Abracadabra\" Release Celebration Login Bonus!",
@@ -49571,7 +49771,7 @@
     {
       "_id": "Lyricist_Name_100111",
       "_japanese": "アザミ",
-      "_english": "azami",
+      "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
       "_korean": "아자미"
@@ -49583,6 +49783,14 @@
       "_traditionalChinese": "カンザキイオリ",
       "_simplifiedChinese": "カンザキイオリ  ",
       "_korean": "칸자키 이오리"
+    },
+    {
+      "_id": "Lyricist_Name_100113",
+      "_japanese": "Diggy-MO’",
+      "_english": "Diggy-MO’",
+      "_traditionalChinese": "Diggy-MO’",
+      "_simplifiedChinese": "Diggy-MO’",
+      "_korean": "Diggy-MO'"
     },
     {
       "_id": "MemberGachaVoice_51",
@@ -51186,11 +51394,11 @@
     },
     {
       "_id": "Mission_Description_GekisouScoreRank",
-      "_japanese": "みんなでライブにて、任意の楽曲でスコアランク{ScoreRank}を出そう",
-      "_english": "In Multi LIVE, achieve an {ScoreRank} Score Rank on any song",
-      "_traditionalChinese": "在「多人」演出中，於任意樂曲達成分數等級{ScoreRank}",
-      "_simplifiedChinese": "在多人演出中，任意乐曲达成得分评级{ScoreRank}",
-      "_korean": "멀티 플레이에서 임의의 곡으로 스코어 랭크 {ScoreRank}을(를) 받기"
+      "_japanese": "みんなでライブにて、任意の楽曲でスコアランク{ScoreRank}以上を出そう",
+      "_english": "In Multi Live, achieve Score Rank {ScoreRank} or higher on any song",
+      "_traditionalChinese": "在「多人」演出中，於任意樂曲達成分數等級{ScoreRank}以上",
+      "_simplifiedChinese": "在多人演出中，任意乐曲达成得分评级{ScoreRank}以上",
+      "_korean": "멀티 플레이에서 임의의 곡으로 스코어 랭크 {ScoreRank} 이상 달성하기"
     },
     {
       "_id": "Mission_Description_GekisouScoreRankBand",
@@ -52457,6 +52665,14 @@
       "_korean": "과거를 집어삼키다"
     },
     {
+      "_id": "Music_Tilte_100113",
+      "_japanese": "神の名を",
+      "_english": "God's Blood",
+      "_traditionalChinese": "God's Blood",
+      "_simplifiedChinese": "God's Blood",
+      "_korean": "신의 이름을"
+    },
+    {
       "_id": "Music_Category_1",
       "_japanese": "オリジナル",
       "_english": "Original",
@@ -53201,6 +53417,14 @@
       "_korean": "과거를 집어삼키다"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100113",
+      "_japanese": "かみのなを",
+      "_english": "God's Blood",
+      "_traditionalChinese": "かみのなを",
+      "_simplifiedChinese": "God's Blood",
+      "_korean": "신의 이름을"
+    },
+    {
       "_id": "Music_Ruby_Tilte_100001",
       "_japanese": "<r=まよいうた>迷星叫</r>",
       "_english": "<r=まよいうた>Mayoiuta</r>",
@@ -53905,6 +54129,14 @@
       "_korean": "과거를 집어삼키다"
     },
     {
+      "_id": "Music_Ruby_Tilte_100113",
+      "_japanese": "神の名を",
+      "_english": "God's Blood",
+      "_traditionalChinese": "神の名を",
+      "_simplifiedChinese": "God's Blood",
+      "_korean": "신의 이름을"
+    },
+    {
       "_id": "Option_Preset_Default_Name_1",
       "_japanese": "デフォルト",
       "_english": "Default",
@@ -54409,6 +54641,14 @@
       "_korean": "상점 구매 시 보너스입니다."
     },
     {
+      "_id": "Present_38",
+      "_japanese": "イベントストーリー読了案内に関する補てんです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Present_bili_survey",
       "_japanese": "アンケートにご回答いただきありがとうございます！",
       "_english": "Thank you for completing the survey!",
@@ -54790,7 +55030,7 @@
       "_english": "Unlock Love Rush A to Z Premium Mission Pass.",
       "_traditionalChinese": "開放愛的奔流 AtoZ Premium任務通行證。",
       "_simplifiedChinese": "解锁爱的奔流 AtoZ高级任务通行证。",
-      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스가 해방됩니다."
+      "_korean": "사랑의 격류 AtoZ 프리미엄 미션 패스가 해제됩니다."
     },
     {
       "_id": "Season_Pass_Description_Season_Pass_Name_3",
@@ -55588,8 +55828,8 @@
       "_id": "Shop_Name_1000000124",
       "_japanese": "",
       "_english": "millsage Chat Room Theme Pack",
-      "_traditionalChinese": "millsage主題聊天室裝扮禮包",
-      "_simplifiedChinese": "millsage主题聊天室装扮礼包",
+      "_traditionalChinese": "millsage聊天室主題禮包",
+      "_simplifiedChinese": "millsage聊天室主题礼包",
       "_korean": "millsage 채팅방 테마 패키지"
     },
     {
@@ -57637,8 +57877,8 @@
       "_japanese": "アイスはみんなで",
       "_english": "Ice Cream for Everyone",
       "_traditionalChinese": "冰要大家一起分享",
-      "_simplifiedChinese": "大家一起吃冰淇淋",
-      "_korean": "아이스크림은 다 함께"
+      "_simplifiedChinese": "大家一起吃棒棒冰",
+      "_korean": "아이스바는 다 함께"
     },
     {
       "_id": "Spot_Name_50005",
@@ -58349,7 +58589,7 @@
       "_japanese": "過去のトラウマから音楽に恐怖を抱いていた蛍。彼女を\r\n救ったのは、沢海奏多という天才だった。ある日、奏多のバンドの\r\nライブに足を運んだ蛍は、そこで思わぬ事実を聞かされて――",
       "_english": "Hotaru harbored a fear of music due to past trauma.\r\nHer savior was a genius named Kanata Sawami.\r\nOne day, when Hotaru went to Kanata's BAND LIVE show, she was told an unexpected fact...",
       "_traditionalChinese": "螢曾因為過去的創傷而對音樂心懷畏懼，\r\n是名為「澤海奏多」的天才拯救了她。\r\n某天，螢前往參加奏多所屬樂團的演唱會，\r\n卻在那裡聽見了意想不到的事實──",
-      "_simplifiedChinese": "millsage重新启程。然而，只有凪愁眉不展。\r\n在心头萦绕不去的，是昔日的憧憬，与鞋子摩擦地板的回响。\r\n明明早就将这一切的一切，全都锁好、深藏起来了才对。        ",
+      "_simplifiedChinese": "因为过去的心理创伤而对音乐怀有恐惧的萤。拯救她的\r\n是一位名叫泽海奏多的天才。某天，萤前去观看奏多乐队的演出，\r\n却在那里听到了意想不到的事实——",
       "_korean": "과거의 트라우마로 음악에 대한 극심한 공포를 안고 살던 호타루.\r\n그런 그녀를 구원해 준 사람은 사와미 카나타라는 천재였다.\r\n어느 날, 카나타 밴드의 공연 무대를 찾아간 호타루는\r\n그곳에서 전혀 예상치 못한 진실과 마주하게 되는데......"
     },
     {
@@ -60094,7 +60334,7 @@
       "_english": "All of it was a first for me\r\n\r\nThe sound hitting me from the huge speakers,\r\nlistening together to someone perform at a distance where our shoulders almost touched\r\nEverything, everything was new to me!\r\n\r\nAt first, it was a little dark,\r\nand since I came alone, I was nervous,\r\nbut once the live started, all of that blew away in an instant!\r\nThe sparkling lights, the wonderful music,\r\nand above all, the happy crowd!\r\nIt's not as scary as I thought... no\r\n\r\nLives are fun!",
       "_traditionalChinese": "那一切，對我來說全是第一次。\r\n\r\n從巨大揚聲器迎面傳來的聲音，\r\n或是在快要碰觸到彼此肩膀的距離下，和大家一起聆聽的演奏，\r\n無論哪個，都是我未曾體驗過的世界！\r\n\r\n剛開始店裡有點昏暗，\r\n加上我又是獨自過來，所以有點緊張。\r\n可是當演出開始後，所有的不安在瞬間都煙消雲散了！\r\n閃閃發亮的燈光、美妙的音樂，\r\n更重要的是，看起來非常開心的觀眾們！\r\n\r\n這裡比想像的還不可怕……不對……\r\n所謂的演唱會，真的超開心！",
       "_simplifiedChinese": "这一切，对我来说都是头一次呢\r\n\r\n无论是巨大音箱里直击身体的声浪\r\n还是在肩挨着肩的距离下，与大家一同聆听某人的演奏\r\n全都是、全都是我未曾见过的光景！\r\n\r\n刚开始因为光线昏暗\r\n加上又是一个人来，所以还有些紧张\r\n可演出一开场，那种心情瞬间就被吹得无影无踪！\r\n绚丽闪耀的灯光、美妙动人的音乐\r\n还有最重要的是，乐在其中的观众们！\r\n\r\n没有想象的那么可怕……不对\r\n应该说演出，真的好开心！",
-      "_korean": "그 모든 게, 나에게는 처음이라서\r\n\r\n커다란 스피커에서 심장을 쾅쾅 울리는 소리도,\r\n어깨가 맞닿을 만큼 가까운 거리에서 누군가의 연주를 함께 듣는 것도,\r\n진짜 하나부터 열까지 모르는 것투성이!\r\n\r\n처음엔 좀 어두컴컴한 데다\r\n혼자라서 엄청 긴장하기도 했지만,\r\n공연이 시작되니 순식간에 싹 사라져 버렸어!\r\n반짝이는 조명과 멋진 음악,\r\n그리고 무엇보다 즐거워 보이는 관객들!\r\n\r\n생각보다 안 무서웠어…… 아니,\r\n공연은 정말 즐거워!"
+      "_korean": "그 모든 게, 나에게는 처음이라서\r\n\r\n커다란 스피커에서 심장을 쾅쾅 울리는 소리도,\r\n어깨가 맞닿을 만큼 가까운 거리에서 누군가의 연주를 함께 듣는 것도,\r\n진짜 하나부터 열까지 모르는 것투성이!\r\n\r\n처음엔 좀 어두컴컴한 데다\r\n혼자라서 엄청 긴장하기도 했지만,\r\n공연이 시작되니 순식간에 싹 사라져 버렸어!\r\n반짝이는 조명과 멋진 음악,\r\n그리고 무엇보다 즐거워 보이는 관객들!\r\n\r\n생각보다 안 무서웠어...... 아니,\r\n공연은 정말 즐거워!"
     },
     {
       "_id": "SupportDiary_42",
@@ -60102,7 +60342,7 @@
       "_english": "There's only one person who's ever beaten me when it comes to music.\r\nThey were such an infuriating mess,\r\nwith no sense of style whatsoever.\r\nAnd yet, whenever I played with them,\r\nI felt like I could fly as high as I wanted.\r\n\r\nBut then they just went and disappeared on me.\r\nSeriously... they were a complete mess right to the very end.\r\n\r\nEven if you're supposed to be their disciple or whatever,\r\nno matter how good you are at the piano,\r\nyou'll never be able to take their place.\r\nThey're the only one who can stand beside me.\r\n\r\n...So, fine. If I really have to make one concession?\r\nI suppose I can let you stay at my feet!\r\nIt's not like I lost. I just gave in.\r\nPicking on a little kid wouldn't be very cool, would it?",
       "_traditionalChinese": "到目前為止，在音樂上贏過我的只有那個人。\r\n明明就亂七八糟到令人火大，\r\n根本談不上什麼美學，\r\n可是只要跟那傢伙一起演奏，\r\n我就覺得自己能飛得無比高遠。\r\n\r\n結果呢，那傢伙卻擅自消失不見，\r\n真是個從頭到尾都任性得一塌糊塗的傢伙。\r\n\r\n就算有人說自己是那傢伙的徒弟還是什麼，\r\n就算她的鋼琴彈得再好，\r\n終究無法代替那傢伙。\r\n能站在我身邊的，只有那傢伙而已。\r\n\r\n……總之，我就退個一百步吧。\r\n如果只是我的腳邊，我能勉為其難留個位置給妳！\r\n並不是因為我輸了，而是我主動退讓給妳的。\r\n畢竟欺負小鬼頭這種事，一點也不帥氣嘛。",
       "_simplifiedChinese": "至今为止，在音乐上能赢过我的，只有那家伙一人\r\n明明是个毫无美学可言\r\n乱七八糟到让人火大的家伙\r\n可只要和那家伙一起演奏\r\n我就会产生一种……仿佛能无尽高飞的错觉\r\n\r\n结果呢，她却自顾自地离世了\r\n真是个从头到尾都乱七八糟的家伙\r\n\r\n所以，就算别人说什么你是那家伙的徒弟\r\n就算你钢琴弹得再怎么好\r\n你也绝对无法代替那家伙\r\n有资格站在我身边的，只有那家伙一人\r\n\r\n……所以嘛，退一百步来说？\r\n让你稍微待在我的脚边，也不是不行！\r\n这可不是我输了，只是我大度让步了而已\r\n毕竟欺负一个小屁孩，也太不酷了，对吧？",
-      "_korean": "내가 지금까지 음악으로 진 상대는 딱 한 명뿐이야\r\n짜증 날 정도로 엉망진창에\r\n미학이고 뭐고 없는 녀석이었지만\r\n그 녀석과 함께 연주하면\r\n어디까지든 높이 날아오를 수 있을 것 같았어\r\n\r\n그런데 멋대로 사라져 버리고\r\n정말 끝까지 엉망진창인 녀석\r\n\r\n그런 녀석의 제자라느니 뭐라느니 해봤자\r\n아무리 피아노를 잘 친다 해도\r\n그 녀석을 대신할 수는 없어\r\n내 옆에 설 수 있는 건, 그 녀석뿐이야\r\n\r\n……그러니까 뭐, 백번 양보해서?\r\n내 발밑 정도에 있는 건 허락해 줄게!\r\n내가 진 게 아니라, 한 수 굽혀준 거야\r\n꼬맹이를 괴롭히는 건 쿨하지 않잖아?"
+      "_korean": "내가 지금까지 음악으로 진 상대는 딱 한 명뿐이야\r\n짜증 날 정도로 엉망진창에\r\n미학이고 뭐고 없는 녀석이었지만\r\n그 녀석과 함께 연주하면\r\n어디까지든 높이 날아오를 수 있을 것 같았어\r\n\r\n그런데 멋대로 사라져 버리고\r\n정말 끝까지 엉망진창인 녀석\r\n\r\n그런 녀석의 제자라느니 뭐라느니 해봤자\r\n아무리 피아노를 잘 친다 해도\r\n그 녀석을 대신할 수는 없어\r\n내 옆에 설 수 있는 건, 그 녀석뿐이야\r\n\r\n......그러니까 뭐, 백번 양보해서?\r\n내 발밑 정도에 있는 건 허락해 줄게!\r\n내가 진 게 아니라, 한 수 굽혀준 거야\r\n꼬맹이를 괴롭히는 건 쿨하지 않잖아?"
     },
     {
       "_id": "SupportDiary_43",
@@ -60298,11 +60538,19 @@
     },
     {
       "_id": "SupportDiary_68",
-      "_japanese": "夢限大みゅーたいぷ\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n東京ガーデンシアター\r\n2026/10/11(日)\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
-      "_english": "Mugendai MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\nTokyo Garden Theater\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
-      "_traditionalChinese": "夢限大MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n東京花園劇場\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
-      "_simplifiedChinese": "梦限大MewType\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n东京花园剧场\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動",
-      "_korean": "무겐다이 뮤타입\r\nBanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」\r\n도쿄 가든 시어터\r\n2026/10/11\r\n\r\n1. TearJerker\r\n2. 超惑星Xへの旅\r\n3. 夢現妄想世界\r\n4. チューニング\r\n5. 真夜中遊園地\r\n6. LET'Sあちあちトレーニング！\r\n7. in my words\r\n8. どんがらがっしゃん\r\n9. みゅーたんとミュータント\r\n10. YMMT DJ MIX SET\r\n- †animaるパーティ†開催中†\r\n- エンプティパペット\r\n- 限界現実サバイブ天使\r\n- ビッグマウス\r\n11. コハク\r\n12. コミュ着火Fire!\r\n13. うちゅうのふしぎ\r\n14. これはぼくたちの生存のあらすじ\r\n15. 愛は衝動"
+      "_japanese": "夢限大みゅーたいぷ\r\nBanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ\r\n「DIMENSIONAL OVERLAP」\r\n2026/10/11(日) 東京ガーデンシアター\r\n\r\nM1 TearJerker\r\nM2 超惑星Xへの旅\r\nM3 夢現妄想世界\r\nM4 チューニング\r\nM5 真夜中遊園地\r\nM6 LET'Sあちあちトレーニング！\r\nM7 in my words\r\nM8 どんがらがっしゃん\r\nM9 みゅーたんとミュータント\r\nM10(1) †animaるパーティ†開催中†\r\nM10(2) エンプティパペット\r\nM10(3) 限界現実サバイブ天使\r\nM10(4) ビッグマウス\r\nM11 コハク\r\nM12 コミュ着火Fire!\r\n\r\nEN1 うちゅうのふしぎ\r\nEN2 これはぼくたちの生存のあらすじ\r\nEN3 愛は衝動",
+      "_english": "Mugendai MewType\r\nBanG Dream! 13th☆LIVE DAY2 : Mugendai MewType\r\n「DIMENSIONAL OVERLAP」\r\n2026/10/11 Tokyo Garden Theater\r\n\r\n\r\nM1 TearJerker\r\nM2 超惑星Xへの旅\r\nM3 夢現妄想世界\r\nM4 チューニング\r\nM5 真夜中遊園地\r\nM6 LET'Sあちあちトレーニング！\r\nM7 in my words\r\nM8 どんがらがっしゃん\r\nM9 みゅーたんとミュータント\r\nM10(1) †animaるパーティ†開催中†\r\nM10(2) エンプティパペット\r\nM10(3) 限界現実サバイブ天使\r\nM10(4) ビッグマウス\r\nM11 コハク\r\nM12 コミュ着火Fire!\r\n\r\nEN1 うちゅうのふしぎ\r\nEN2 これはぼくたちの生存のあらすじ\r\nEN3 愛は衝動",
+      "_traditionalChinese": "夢限大MewType\r\nBanG Dream! 13th☆LIVE DAY2 :夢限大MewType\r\n「DIMENSIONAL OVERLAP」\r\n2026/10/11 東京花園劇場\r\n\r\n\r\nM1 TearJerker\r\nM2 超惑星Xへの旅\r\nM3 夢現妄想世界\r\nM4 チューニング\r\nM5 真夜中遊園地\r\nM6 LET'Sあちあちトレーニング！\r\nM7 in my words\r\nM8 どんがらがっしゃん\r\nM9 みゅーたんとミュータント\r\nM10(1) †animaるパーティ†開催中†\r\nM10(2) エンプティパペット\r\nM10(3) 限界現実サバイブ天使\r\nM10(4) ビッグマウス\r\nM11 コハク\r\nM12 コミュ着火Fire!\r\n\r\nEN1 うちゅうのふしぎ\r\nEN2 これはぼくたちの生存のあらすじ\r\nEN3 愛は衝動",
+      "_simplifiedChinese": "梦限大MewType\r\nBanG Dream! 13th☆LIVE DAY2 :梦限大MewType\r\n「DIMENSIONAL OVERLAP」\r\n2026/10/11 东京花园剧场\r\n\r\n\r\nM1 TearJerker\r\nM2 超惑星Xへの旅\r\nM3 夢現妄想世界\r\nM4 チューニング\r\nM5 真夜中遊園地\r\nM6 LET'Sあちあちトレーニング！\r\nM7 in my words\r\nM8 どんがらがっしゃん\r\nM9 みゅーたんとミュータント\r\nM10(1) †animaるパーティ†開催中†\r\nM10(2) エンプティパペット\r\nM10(3) 限界現実サバイブ天使\r\nM10(4) ビッグマウス\r\nM11 コハク\r\nM12 コミュ着火Fire!\r\n\r\nEN1 うちゅうのふしぎ\r\nEN2 これはぼくたちの生存のあらすじ\r\nEN3 愛は衝動",
+      "_korean": "무겐다이 뮤타입\r\nBanG Dream! 13th☆LIVE DAY2 :무겐다이 뮤타입\r\n「DIMENSIONAL OVERLAP」\r\n2026/10/11 도쿄 가든 시어터\r\n\r\n\r\nM1 TearJerker\r\nM2 超惑星Xへの旅\r\nM3 夢現妄想世界\r\nM4 チューニング\r\nM5 真夜中遊園地\r\nM6 LET'Sあちあちトレーニング！\r\nM7 in my words\r\nM8 どんがらがっしゃん\r\nM9 みゅーたんとミュータント\r\nM10(1) †animaるパーティ†開催中†\r\nM10(2) エンプティパペット\r\nM10(3) 限界現実サバイブ天使\r\nM10(4) ビッグマウス\r\nM11 コハク\r\nM12 コミュ着火Fire!\r\n\r\nEN1 うちゅうのふしぎ\r\nEN2 これはぼくたちの生存のあらすじ\r\nEN3 愛は衝動"
+    },
+    {
+      "_id": "SupportDiary_69",
+      "_japanese": "Ave Mujicaの世界をより堪能していただける\r\n特別なマスカレードを開催する運びとなりました\r\n甘美なひとときを心ゆくまでお楽しみください",
+      "_english": "To immerse you more deeply in the world of Ave Mujica,\r\nwe are pleased to present a special masquerade.\r\nLose yourself in this exquisite moment to your heart's content.",
+      "_traditionalChinese": "為了讓各位更加盡情領略Ave Mujica的世界，\r\n我們決定舉辦一場特別的假面舞會。\r\n還請盡情享受這段甘美的時光。",
+      "_simplifiedChinese": "为让诸位能更加沉浸于Ave Mujica的世界，\r\n特此举办一场特别的假面舞会。\r\n愿您尽情享受这甘美的时光。",
+      "_korean": "Ave Mujica의 세계를 더욱 깊이 만끽하실 수 있도록\r\n특별한 매스커레이드를 개최하게 되었습니다.\r\n감미로운 순간을 마음껏 즐겨 주시기 바랍니다."
     },
     {
       "_id": "SupportSubtitle_1",
@@ -60847,6 +61095,14 @@
       "_traditionalChinese": "DIMENSIONAL OVERLAP",
       "_simplifiedChinese": "DIMENSIONAL OVERLAP",
       "_korean": "DIMENSIONAL OVERLAP"
+    },
+    {
+      "_id": "SupportSubtitle_69",
+      "_japanese": "prima aurora",
+      "_english": "prima aurora",
+      "_traditionalChinese": "prima aurora",
+      "_simplifiedChinese": "prima aurora",
+      "_korean": "prima aurora"
     },
     {
       "_id": "SupportSubtitle_70",
@@ -65013,8 +65269,8 @@
       "_japanese": "アイス持ってきたよ〜！　今日はどれにする？",
       "_english": "I brought ice cream~! Which one are you picking today?",
       "_traditionalChinese": "我帶冰棒過來了喔～！今天要選哪一種？",
-      "_simplifiedChinese": "我拿冰淇淋来了哦～！今天吃哪种？",
-      "_korean": "아이스크림 사 왔어~! 오늘은 어떤 거 먹을래?"
+      "_simplifiedChinese": "我拿棒棒冰来了哦～！今天吃哪种？",
+      "_korean": "아이스바 사 왔어~! 오늘은 어떤 거 먹을래?"
     },
     {
       "_id": "Talk_Text_423",
@@ -65054,7 +65310,7 @@
       "_english": "Cherie~! Come split an ice pop with me!",
       "_traditionalChinese": "千梨～！跟我一起分棒棒冰吧！",
       "_simplifiedChinese": "千梨～！和我一起分吃棒棒冰吧！",
-      "_korean": "체리~! 나랑 아이스크림 반씩 나눠 먹자!"
+      "_korean": "체리~! 나랑 아이스바 반씩 나눠 먹자!"
     },
     {
       "_id": "Talk_Text_428",
@@ -65302,7 +65558,7 @@
       "_english": "An orchid arrived for Shizuku's birthday... Maybe from her nanny?",
       "_traditionalChinese": "我收到了要幫寧月慶生的蝴蝶蘭……會是管家婆婆嗎？",
       "_simplifiedChinese": "宁月的生日收到了蝴蝶兰……是管家婆婆送的吧",
-      "_korean": "시즈쿠 생일을 축하한다고 호접란이 왔어...... 하녀인가"
+      "_korean": "시즈쿠 생일을 축하한다고 호접란이 왔어...... 유모인가"
     },
     {
       "_id": "Talk_Text_463",

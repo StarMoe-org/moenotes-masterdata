@@ -1477,7 +1477,7 @@
       "_supportSkillId02": 0,
       "_gekisouSupportSkillId01": 53,
       "_gekisouSupportSkillId02": 0,
-      "_startAt": "2026-09-30 15:00:00"
+      "_startAt": "2026-09-30 18:00:00"
     },
     {
       "_id": 64,
@@ -1548,7 +1548,7 @@
       "_supportSkillId02": 0,
       "_gekisouSupportSkillId01": 64,
       "_gekisouSupportSkillId02": 0,
-      "_startAt": "2026-10-09 12:00:00"
+      "_startAt": "2026-10-09 15:00:00"
     },
     {
       "_id": 67,
@@ -1579,7 +1579,7 @@
       "_nameTextID": "Snap_Name_yumemita",
       "_descriptionTextID": "SupportSubtitle_68",
       "_diaryTextID": "SupportDiary_68",
-      "_diarySoundId": 0,
+      "_diarySoundId": 1200000000008,
       "_characterIDs": [
         11,
         12,
@@ -1599,6 +1599,33 @@
       "_gekisouSupportSkillId01": 0,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-10-11 21:00:00"
+    },
+    {
+      "_id": 69,
+      "_assetID": 69,
+      "_nameTextID": "Snap_Name_mujica",
+      "_descriptionTextID": "SupportSubtitle_69",
+      "_diaryTextID": "SupportDiary_69",
+      "_diarySoundId": 1200000000009,
+      "_characterIDs": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "_rarity": 10,
+      "_cardType": 5,
+      "_performancePowerMax": 1400,
+      "_technicPowerMax": 1200,
+      "_visualPowerMax": 1300,
+      "_supportCardLevelGroup": 5,
+      "_supportCardRankGroup": 5,
+      "_supportSkillId01": 71069,
+      "_supportSkillId02": 73069,
+      "_gekisouSupportSkillId01": 0,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-16 15:00:00"
     },
     {
       "_id": 70,
