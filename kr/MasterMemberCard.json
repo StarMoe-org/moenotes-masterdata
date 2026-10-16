@@ -1706,7 +1706,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_61",
       "_gachaVoiceSoundId": 3201502000001,
-      "_startAt": "2026-09-30 15:00:00"
+      "_startAt": "2026-09-30 18:00:00"
     },
     {
       "_id": 62,
@@ -1734,7 +1734,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_62",
       "_gachaVoiceSoundId": 3201202000001,
-      "_startAt": "2026-09-30 15:00:00"
+      "_startAt": "2026-09-30 18:00:00"
     },
     {
       "_id": 63,
@@ -1762,7 +1762,7 @@
       "_gekisouSkillLevelResourceGroup": 6,
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
-      "_startAt": "2026-09-30 15:00:00"
+      "_startAt": "2026-09-30 18:00:00"
     },
     {
       "_id": 64,
@@ -1818,7 +1818,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_65",
       "_gachaVoiceSoundId": 3201802000001,
-      "_startAt": "2026-10-09 12:00:00"
+      "_startAt": "2026-10-09 15:00:00"
     },
     {
       "_id": 66,
@@ -1846,7 +1846,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_66",
       "_gachaVoiceSoundId": 3201702000001,
-      "_startAt": "2026-10-09 12:00:00"
+      "_startAt": "2026-10-09 15:00:00"
     },
     {
       "_id": 67,
@@ -1874,7 +1874,7 @@
       "_gekisouSkillLevelResourceGroup": 6,
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
-      "_startAt": "2026-10-09 12:00:00"
+      "_startAt": "2026-10-09 15:00:00"
     }
   ]
 }

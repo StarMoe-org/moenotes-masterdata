@@ -2197,7 +2197,7 @@
       "_characterIds": [],
       "_imagePath": "Image/Degree/Event/degree_gacha_00010",
       "_orderNum": 206,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2208,7 +2208,7 @@
       "_characterIds": [],
       "_imagePath": "Image/Degree/Event/degree_gacha_00012",
       "_orderNum": 207,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2234,6 +2234,82 @@
       "_endAt": ""
     },
     {
+      "_id": 210,
+      "_nameTextId": "Degree_Name_210",
+      "_descriptionTextId": "Degree_Description_210",
+      "_degreeType": 3,
+      "_characterIds": [],
+      "_imagePath": "Image/Degree/Media/mujica/degree_movie_01",
+      "_orderNum": 210,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 257,
+      "_nameTextId": "Degree_Name_257",
+      "_descriptionTextId": "Degree_Description_257",
+      "_degreeType": 1,
+      "_characterIds": [
+        6
+      ],
+      "_imagePath": "Image/Degree/Media/mujica/degree_single01_01_01",
+      "_orderNum": 257,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 258,
+      "_nameTextId": "Degree_Name_258",
+      "_descriptionTextId": "Degree_Description_258",
+      "_degreeType": 1,
+      "_characterIds": [
+        7
+      ],
+      "_imagePath": "Image/Degree/Media/mujica/degree_single01_01_02",
+      "_orderNum": 258,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 259,
+      "_nameTextId": "Degree_Name_259",
+      "_descriptionTextId": "Degree_Description_259",
+      "_degreeType": 1,
+      "_characterIds": [
+        8
+      ],
+      "_imagePath": "Image/Degree/Media/mujica/degree_single01_01_03",
+      "_orderNum": 259,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 260,
+      "_nameTextId": "Degree_Name_260",
+      "_descriptionTextId": "Degree_Description_260",
+      "_degreeType": 1,
+      "_characterIds": [
+        9
+      ],
+      "_imagePath": "Image/Degree/Media/mujica/degree_single01_01_04",
+      "_orderNum": 260,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 261,
+      "_nameTextId": "Degree_Name_261",
+      "_descriptionTextId": "Degree_Description_261",
+      "_degreeType": 1,
+      "_characterIds": [
+        10
+      ],
+      "_imagePath": "Image/Degree/Media/mujica/degree_single01_01_05",
+      "_orderNum": 261,
+      "_startAt": "2026/10/16 15:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 20000001,
       "_nameTextId": "Degree_Name_20000001",
       "_descriptionTextId": "Degree_Description_20000001",
@@ -2243,7 +2319,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_01",
       "_orderNum": 20000001,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2256,7 +2332,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_02",
       "_orderNum": 20000002,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2269,7 +2345,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_03",
       "_orderNum": 20000003,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2282,7 +2358,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_04",
       "_orderNum": 20000004,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2295,7 +2371,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_05",
       "_orderNum": 20000005,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2308,7 +2384,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_06",
       "_orderNum": 20000006,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2321,7 +2397,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_07",
       "_orderNum": 20000007,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2334,7 +2410,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100109_08",
       "_orderNum": 20000008,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2347,7 +2423,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_01",
       "_orderNum": 20000009,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2360,7 +2436,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_02",
       "_orderNum": 20000010,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2373,7 +2449,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_03",
       "_orderNum": 20000011,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2386,7 +2462,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_04",
       "_orderNum": 20000012,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2399,7 +2475,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_05",
       "_orderNum": 20000013,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2412,7 +2488,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_06",
       "_orderNum": 20000014,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2425,7 +2501,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_07",
       "_orderNum": 20000015,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2438,7 +2514,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100056_08",
       "_orderNum": 20000016,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2451,7 +2527,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_01",
       "_orderNum": 20000017,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2464,7 +2540,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_02",
       "_orderNum": 20000018,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2477,7 +2553,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_03",
       "_orderNum": 20000019,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2490,7 +2566,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_04",
       "_orderNum": 20000020,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2503,7 +2579,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_05",
       "_orderNum": 20000021,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2516,7 +2592,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_06",
       "_orderNum": 20000022,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2529,7 +2605,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_07",
       "_orderNum": 20000023,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2542,7 +2618,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_100063_08",
       "_orderNum": 20000024,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2555,7 +2631,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00001/degree_event_01_00001",
       "_orderNum": 20000025,
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -2568,7 +2644,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_01",
       "_orderNum": 20000026,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2581,7 +2657,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_02",
       "_orderNum": 20000027,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2594,7 +2670,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_03",
       "_orderNum": 20000028,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2607,7 +2683,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_04",
       "_orderNum": 20000029,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2620,7 +2696,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_05",
       "_orderNum": 20000030,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2633,7 +2709,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_06",
       "_orderNum": 20000031,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2646,7 +2722,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_07",
       "_orderNum": 20000032,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2659,7 +2735,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100111_08",
       "_orderNum": 20000033,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2672,7 +2748,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_01",
       "_orderNum": 20000034,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2685,7 +2761,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_02",
       "_orderNum": 20000035,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2698,7 +2774,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_03",
       "_orderNum": 20000036,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2711,7 +2787,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_04",
       "_orderNum": 20000037,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2724,7 +2800,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_05",
       "_orderNum": 20000038,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2737,7 +2813,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_06",
       "_orderNum": 20000039,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2750,7 +2826,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_07",
       "_orderNum": 20000040,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2763,7 +2839,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100110_08",
       "_orderNum": 20000041,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2776,7 +2852,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_01",
       "_orderNum": 20000042,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2789,7 +2865,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_02",
       "_orderNum": 20000043,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2802,7 +2878,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_03",
       "_orderNum": 20000044,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2815,7 +2891,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_04",
       "_orderNum": 20000045,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2828,7 +2904,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_05",
       "_orderNum": 20000046,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2841,7 +2917,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_06",
       "_orderNum": 20000047,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2854,7 +2930,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_07",
       "_orderNum": 20000048,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2867,7 +2943,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_100076_08",
       "_orderNum": 20000049,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -2880,7 +2956,7 @@
       ],
       "_imagePath": "Image/Degree/Event/01_00002/degree_event_01_00002",
       "_orderNum": 20000050,
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
       "_endAt": ""
     },
     {
@@ -3848,6 +3924,17 @@
       "_characterIds": [],
       "_imagePath": "Image/Jacket/jkt_001_100112",
       "_orderNum": 10000110,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000111,
+      "_nameTextId": "Degree_Name_10000111",
+      "_descriptionTextId": "Degree_Description_10000111",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "Image/Jacket/jkt_002_100113",
+      "_orderNum": 10000111,
       "_startAt": "",
       "_endAt": ""
     }

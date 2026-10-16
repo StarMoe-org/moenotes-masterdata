@@ -8196,6 +8196,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000113,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000113,
+      "_cueName": "A_KamiNoNawo",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1400000000001,
       "_category": 0,
       "_soundCueSheetID": 1400000000001,
@@ -9157,6 +9168,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000111,
       "_cueName": "Mi_OddDice_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000113,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000113,
+      "_cueName": "A_KamiNoNawo_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
