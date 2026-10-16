@@ -909,6 +909,21 @@
       "_endAt": ""
     },
     {
+      "_id": 70,
+      "_nameTextId": "Item_Name_70",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Item/ticket/item_icon_exchange_001",
+      "_phoneticNameTextId": "Item_Phonetic_Name_70",
+      "_descriptionTextId": "Item_Description_70",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 72,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": "2026/11/30 23:59:59"
+    },
+    {
       "_id": 20000001,
       "_nameTextId": "Item_Name_20000001",
       "_inventoryDisplayGroup": 3,

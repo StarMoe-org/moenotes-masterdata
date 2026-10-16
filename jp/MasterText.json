@@ -9681,6 +9681,14 @@
       "_korean": ""
     },
     {
+      "_id": "Arranger_Name_100113",
+      "_japanese": "Diggy-MO’",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "AutoPostPresent_1",
       "_japanese": "事前登録10万人達成のプレゼントです。",
       "_english": "",
@@ -10027,6 +10035,14 @@
     {
       "_id": "AutoPostPresent_44",
       "_japanese": "ライブサポートおよび撃奏サポート不具合のお詫び。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_45",
+      "_japanese": "メンテナンス協力のお礼です。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -20361,6 +20377,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100113",
+      "_japanese": "Diggy-MO’, hisakuni(SUPA LOVE)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Content_Name_1",
       "_japanese": "スタジオ練習",
       "_english": "",
@@ -22681,6 +22705,54 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_210",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 特別ログインボーナスで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_257",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_258",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_259",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_260",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_261",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "",
@@ -24177,6 +24249,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_10000111",
+      "_japanese": "「神の名を」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_10000001",
       "_japanese": "[ステッカー]迷星叫ジャケット",
       "_english": "",
@@ -24867,6 +24947,14 @@
     {
       "_id": "Degree_Name_10000110",
       "_japanese": "[ステッカー]過去を喰らうジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_10000111",
+      "_japanese": "[ステッカー]神の名をジャケット",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -26401,6 +26489,54 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_210",
+      "_japanese": "[ステッカー]prima aurora",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_257",
+      "_japanese": "[ステッカー]三角 初華 映画私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_258",
+      "_japanese": "[ステッカー]若葉 睦 映画私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_259",
+      "_japanese": "[ステッカー]八幡 海鈴 映画私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_260",
+      "_japanese": "[ステッカー]祐天寺 にゃむ 映画私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_261",
+      "_japanese": "[ステッカー]豊川 祥子 映画私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Source_Name_1",
       "_japanese": "タイトル",
       "_english": "",
@@ -26707,6 +26843,22 @@
     {
       "_id": "Exchange_Name_21",
       "_japanese": "差し込む光、始まりのときガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_22",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_23",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27969,6 +28121,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_13",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -28603,6 +28763,14 @@
     {
       "_id": "Gacha_Name_12",
       "_japanese": "差し込む光、始まりのときガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_13",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -34409,6 +34577,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_70",
+      "_japanese": "交換所で任意のステッカーと交換することができるチケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\n※一部のガチャは対象外",
       "_english": "",
@@ -36625,6 +36801,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_70",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換チケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_1",
       "_japanese": "すたー",
       "_english": "",
@@ -37083,6 +37267,14 @@
     {
       "_id": "Item_Phonetic_Name_68",
       "_japanese": "[DIMENSIONAL OVERLAP]夢限大みゅーたいぷ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_70",
+      "_japanese": "えいがばんどりあべむじかぷりまあうろーら",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -40643,6 +40835,14 @@
     {
       "_id": "LimitedMissionName_1",
       "_japanese": "初心者ミッション",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "LimitedMissionName_2",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 限定ミッション",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -46257,6 +46457,14 @@
       "_korean": ""
     },
     {
+      "_id": "LoginBonus_Name_5",
+      "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 特別ログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100001",
       "_japanese": "藤原優樹(SUPA LOVE)",
       "_english": "",
@@ -46947,6 +47155,14 @@
     {
       "_id": "Lyricist_Name_100112",
       "_japanese": "カンザキイオリ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Lyricist_Name_100113",
+      "_japanese": "Diggy-MO’",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -48554,7 +48770,7 @@
     },
     {
       "_id": "Mission_Description_GekisouScoreRank",
-      "_japanese": "みんなでライブにて、任意の楽曲でスコアランク{ScoreRank}を出そう",
+      "_japanese": "みんなでライブにて、任意の楽曲でスコアランク{ScoreRank}以上を出そう",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -49817,6 +50033,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100113",
+      "_japanese": "神の名を",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Category_1",
       "_japanese": "オリジナル",
       "_english": "Original",
@@ -50553,6 +50777,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100113",
+      "_japanese": "かみのなを",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Ruby_Tilte_100001",
       "_japanese": "<r=まよいうた>迷星叫</r>",
       "_english": "Music_Tilte_1",
@@ -51249,6 +51481,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Ruby_Tilte_100113",
+      "_japanese": "神の名を",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Option_Preset_Default_Name_1",
       "_japanese": "デフォルト",
       "_english": "",
@@ -51747,6 +51987,14 @@
     {
       "_id": "Present_36",
       "_japanese": "ショップ購入時のおまけです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_38",
+      "_japanese": "イベントストーリー読了案内に関する補てんです。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -56921,6 +57169,14 @@
       "_korean": ""
     },
     {
+      "_id": "SupportDiary_69",
+      "_japanese": "Ave Mujicaの世界をより堪能していただける\n特別なマスカレードを開催する運びとなりました\n甘美なひとときを心ゆくまでお楽しみください",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "SupportSubtitle_1",
       "_japanese": "人間になりたくて",
       "_english": "",
@@ -57459,6 +57715,14 @@
     {
       "_id": "SupportSubtitle_68",
       "_japanese": "DIMENSIONAL OVERLAP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_69",
+      "_japanese": "prima aurora",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
