@@ -1281,6 +1281,28 @@
       "_displaySkillCategories": [
         3
       ]
+    },
+    {
+      "_id": 45071,
+      "_nameTextID": "Gekisou_Support_Skill_Name_45",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_45",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
+    },
+    {
+      "_id": 40073,
+      "_nameTextID": "Gekisou_Support_Skill_Name_40",
+      "_descriptionTextFormatID": "Gekisou_Support_Description_40",
+      "_skillIconID": 7,
+      "_gekisouSupportSkillExecTiming": 1,
+      "_gekisouMissionType": 2,
+      "_displaySkillCategories": [
+        1
+      ]
     }
   ]
 }

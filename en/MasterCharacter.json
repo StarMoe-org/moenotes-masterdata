@@ -703,6 +703,34 @@
       "_favoriteFoodTextId": "Character_FavoriteFood_Shizuku",
       "_hobbyTextId": "Character_Hobby_Shizuku",
       "_isNonPlayable": false
+    },
+    {
+      "_id": 1001,
+      "_nameTextID": "Character_Name_Kanata",
+      "_shortNameTextID": "Character_Short_Name_Kanata",
+      "_enDisplayNameTextId": "Character_En_Name_Kanata",
+      "_enDisplayShortNameTextId": "Character_En_Short_Name_Kanata",
+      "_bandID": 4,
+      "_displayOrder": 6,
+      "_mainColorCode": "#FFFFFF",
+      "_subColorCode": "#FFFFFF",
+      "_instrumentTypes": [
+        2
+      ],
+      "_bandPart": "Key.",
+      "_birthdayMonth": 12,
+      "_birthdayDay": 15,
+      "_voiceActorTextId": "",
+      "_descriptionTextId": "",
+      "_catchCopyTextId": "",
+      "_bloodTypeTextId": "",
+      "_heightTextId": "",
+      "_constellationTextId": "",
+      "_schoolTextId": "",
+      "_schoolClassTextId": "",
+      "_favoriteFoodTextId": "",
+      "_hobbyTextId": "",
+      "_isNonPlayable": true
     }
   ]
 }

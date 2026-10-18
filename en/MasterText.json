@@ -8649,6 +8649,78 @@
       "_korean": "anesthetic"
     },
     {
+      "_id": "Chapter_Title_965",
+      "_japanese": "どの味が好き！？",
+      "_english": "What Flavor Do You Like!?",
+      "_traditionalChinese": "妳喜歡什麼口味的！？",
+      "_simplifiedChinese": "你喜欢哪种口味！？",
+      "_korean": "무슨 맛 좋아해!?"
+    },
+    {
+      "_id": "Chapter_Title_966",
+      "_japanese": "好きなものインタビュー！！",
+      "_english": "Favorite Things Interview!!",
+      "_traditionalChinese": "採訪喜歡的東西！！",
+      "_simplifiedChinese": "关于喜欢的采访！！",
+      "_korean": "좋아하는 것 인터뷰!!"
+    },
+    {
+      "_id": "Chapter_Title_967",
+      "_japanese": "はじめての電器屋さん！！",
+      "_english": "My First Trip to the Electronics Store!!",
+      "_traditionalChinese": "第一次去電器行！！",
+      "_simplifiedChinese": "第一次去电器店！！",
+      "_korean": "처음 가는 전자제품 매장!!"
+    },
+    {
+      "_id": "Chapter_Title_968",
+      "_japanese": "はじめての回転寿司！！",
+      "_english": "My First Conveyor Belt Sushi!!",
+      "_traditionalChinese": "第一次去迴轉壽司！！",
+      "_simplifiedChinese": "第一次吃回转寿司！！",
+      "_korean": "처음 가는 회전초밥집!!"
+    },
+    {
+      "_id": "Chapter_Title_969",
+      "_japanese": "はじめての……！？",
+      "_english": "My First...!?",
+      "_traditionalChinese": "第一次……！？",
+      "_simplifiedChinese": "第一次的……！？",
+      "_korean": "처음 해보는......!?"
+    },
+    {
+      "_id": "Chapter_Title_970",
+      "_japanese": "正解探し！！",
+      "_english": "Searching for the Right Answer!!",
+      "_traditionalChinese": "尋找正確答案！！",
+      "_simplifiedChinese": "寻找正确答案！！",
+      "_korean": "정답 찾기!!"
+    },
+    {
+      "_id": "Chapter_Title_971",
+      "_japanese": "今日はこの味！！",
+      "_english": "This Flavor Today!!",
+      "_traditionalChinese": "今天就選這個口味！！",
+      "_simplifiedChinese": "今天就选这个口味！！",
+      "_korean": "오늘은 이 맛으로!!"
+    },
+    {
+      "_id": "Chapter_Title_972",
+      "_japanese": "今日あったこと！！",
+      "_english": "What Happened Today!!",
+      "_traditionalChinese": "今天發生的事！！",
+      "_simplifiedChinese": "今天发生的事！！",
+      "_korean": "오늘 있었던 일!!"
+    },
+    {
+      "_id": "Chapter_Title_973",
+      "_japanese": "うるせー車内！！",
+      "_english": "So Loud in the Car!!",
+      "_traditionalChinese": "車上吵死了！！",
+      "_simplifiedChinese": "吵死人的车厢！！",
+      "_korean": "시끄러운 차 안!!"
+    },
+    {
       "_id": "Chapter_Title_1199",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -9678,7 +9750,7 @@
       "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
-      "_korean": "아자미"
+      "_korean": "Azami"
     },
     {
       "_id": "Arranger_Name_100112",
@@ -9695,6 +9767,14 @@
       "_traditionalChinese": "Diggy-MO’",
       "_simplifiedChinese": "Diggy-MO’",
       "_korean": "Diggy-MO’"
+    },
+    {
+      "_id": "Arranger_Name_100114",
+      "_japanese": "牧野太洋",
+      "_english": "牧野太洋",
+      "_traditionalChinese": "牧野太洋",
+      "_simplifiedChinese": "牧野太洋",
+      "_korean": "牧野太洋"
     },
     {
       "_id": "AutoPostPresent_1",
@@ -10047,6 +10127,22 @@
       "_traditionalChinese": "「演出支援」及「激奏支援」效果異常補償。",
       "_simplifiedChinese": "「演出支援」及「激奏支援」效果异常的补偿。",
       "_korean": "라이브 서포트 및 격주 서포트 효과 오류 보상입니다."
+    },
+    {
+      "_id": "AutoPostPresent_45",
+      "_japanese": "メンテナンス協力のお礼です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_46",
+      "_japanese": "メンテナンス及びアップデートご協力のお礼です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "AutoPostPresent_1000000001",
@@ -12274,27 +12370,27 @@
     },
     {
       "_id": "bili_chat_ad_muted_lv2",
-      "_japanese": "检测到重复发布广告性内容，禁言时间：{0}分钟。\r\n请注意规范发言，持续违规可能导致账号被封禁。",
-      "_english": "Repeated promotional content that violates the Operational Policy has been detected, Chat Mute Duration: {0} minutes.\r\nContinued violations may result in account suspension",
-      "_traditionalChinese": "因偵測到重複發布廣告性內容，禁言時間：{0} 分鐘。\r\n請注意規範發言，持續違規可能導致帳號被封鎖。",
-      "_simplifiedChinese": "检测到重复发布广告性内容，禁言时间：{0}分钟。\r\n请注意规范发言，持续违规可能导致账号被封禁。",
-      "_korean": "운영정책에 위배되는 광고성 내용이 반복적으로 확인되었습니다. 채팅 이용 제한: {0}분,\r\n위반 행위가 지속될 경우 계정이 정지될 수 있습니다."
+      "_japanese": "因检测到违反运营政策的广告性内容，聊天功能已被限制。\r\n禁言时间：{0}分钟",
+      "_english": "Chat access has been restricted due to the detection of promotional content that violates the operational policy.\r\nChat Mute Duration: {0} minutes",
+      "_traditionalChinese": "因偵測到違反營運政策的廣告性內容，聊天功能已被限制。\r\n禁言時間：{0} 分鐘 ",
+      "_simplifiedChinese": "因检测到违反运营政策的广告性内容，聊天功能已被限制。\r\n禁言时间：{0}分钟",
+      "_korean": "운영정책에 위배되는 광고성 내용이 확인되어 채팅 이용이 제한되었습니다.\r\n채팅 이용 제한: {0}분"
     },
     {
       "_id": "bili_chat_ad_muted_lv3",
-      "_japanese": "由于多次违规行为，您的账号已被封禁。",
-      "_english": "Due to repeated violations, your account has been suspended.",
-      "_traditionalChinese": "由於多次違規，您的帳號已被封鎖。",
-      "_simplifiedChinese": "由于多次违规行为，您的账号已被封禁。",
-      "_korean": "반복적인 규정 위반으로 계정이 정지되었습니다."
+      "_japanese": "因检测到违反运营政策的广告性内容，聊天功能已被限制。\r\n禁言时间：{0}分钟",
+      "_english": "Chat access has been restricted due to the detection of promotional content that violates the operational policy.\r\nChat Mute Duration: {0} minutes",
+      "_traditionalChinese": "因偵測到違反營運政策的廣告性內容，聊天功能已被限制。\r\n禁言時間：{0} 分鐘 ",
+      "_simplifiedChinese": "因检测到违反运营政策的广告性内容，聊天功能已被限制。\r\n禁言时间：{0}分钟",
+      "_korean": "운영정책에 위배되는 광고성 내용이 확인되어 채팅 이용이 제한되었습니다.\r\n채팅 이용 제한: {0}분"
     },
     {
       "_id": "bili_ad_muted_permanent",
-      "_japanese": "由于多次违规行为，您的账号已被封禁。",
-      "_english": "Due to repeated violations, your account has been suspended.",
-      "_traditionalChinese": "由於多次違規，您的帳號已被封鎖。",
-      "_simplifiedChinese": "由于多次违规行为，您的账号已被封禁。",
-      "_korean": "반복적인 규정 위반으로 계정이 정지되었습니다."
+      "_japanese": "因检测到多次违反运营政策的广告性内容，聊天功能已被永久限制。\r\n",
+      "_english": "Your chat privileges have been permanently restricted due to repeated posting of advertising content that violates our Operation Policy.\r\n",
+      "_traditionalChinese": "因偵測到多次違反營運政策的廣告性內容，聊天功能已被永久限制。\r\n",
+      "_simplifiedChinese": "因检测到多次违反运营政策的广告性内容，聊天功能已被永久限制。\r\n",
+      "_korean": "운영 정책을 위반하는 광고성 내용을 반복적으로 발송하여 \r\n채팅 기능이 영구적으로 제한되었습니다.\r\n"
     },
     {
       "_id": "bili_ban_account",
@@ -13527,6 +13623,14 @@
       "_traditionalChinese": "變更服裝",
       "_simplifiedChinese": "更换服装",
       "_korean": "의상 변경"
+    },
+    {
+      "_id": "Help_Carousel_Title_21",
+      "_japanese": "チャレンジイベント",
+      "_english": "Challenge Event",
+      "_traditionalChinese": "挑戰活動",
+      "_simplifiedChinese": "挑战活动",
+      "_korean": "챌린지 이벤트"
     },
     {
       "_id": "Character_Name_Tomori",
@@ -16195,7 +16299,7 @@
     {
       "_id": "Character_Hobby_Chieri",
       "_japanese": "ちえり連合の部下集め",
-      "_english": "Recruiting underlings for the Chieri Union",
+      "_english": "Recruiting subordinates for the Chieri Union",
       "_traditionalChinese": "打著千櫻梨聯盟旗號收部下",
       "_simplifiedChinese": "招募千樱梨联盟的部下",
       "_korean": "치에리 연합의 부하 모으기"
@@ -19139,7 +19243,7 @@
     {
       "_id": "CharacterVoice_330",
       "_japanese": "みんな、アイスでお祝いしよー！",
-      "_english": "Let's celebrate with ice cream, everyone!",
+      "_english": "Let's celebrate with Pockin'ice, everyone!",
       "_traditionalChinese": "各位，用冰品一起慶功吧～！",
       "_simplifiedChinese": "大家去吃棒棒冰庆祝吧——！",
       "_korean": "얘들아, 아이스바로 축하하자!"
@@ -20305,6 +20409,14 @@
       "_korean": "취소"
     },
     {
+      "_id": "ui_chatskin_goto_shop",
+      "_japanese": "Go Get It",
+      "_english": "Go Now",
+      "_traditionalChinese": "前往獲取",
+      "_simplifiedChinese": "前往获取",
+      "_korean": "획득하러 가기"
+    },
+    {
       "_id": "ui_chatskin_back",
       "_japanese": "Back",
       "_english": "Back",
@@ -20319,6 +20431,14 @@
       "_traditionalChinese": "外觀更換成功！",
       "_simplifiedChinese": "装扮更换成功!",
       "_korean": "변경사항이 저장되었습니다."
+    },
+    {
+      "_id": "ui_chatskin_goto_preview",
+      "_japanese": "Preview",
+      "_english": "Preview",
+      "_traditionalChinese": "預覽",
+      "_simplifiedChinese": "预览",
+      "_korean": "미리보기"
     },
     {
       "_id": "ChatThemeName_1",
@@ -20559,6 +20679,54 @@
       "_traditionalChinese": "購買millsage聊天室主題禮包後獲得。",
       "_simplifiedChinese": "购买millsage聊天室主题礼包后获取。",
       "_korean": "millsage 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatThemeName_6",
+      "_japanese": "",
+      "_english": "Street Jam",
+      "_traditionalChinese": "街頭即興",
+      "_simplifiedChinese": "街头即兴",
+      "_korean": "스트릿 세션"
+    },
+    {
+      "_id": "ChatBubbleName_6",
+      "_japanese": "",
+      "_english": "Make Some Noise!",
+      "_traditionalChinese": "爆音宣言",
+      "_simplifiedChinese": "爆音宣言",
+      "_korean": "스트릿 사운드"
+    },
+    {
+      "_id": "ChatFrameName_6",
+      "_japanese": "",
+      "_english": "Groove in Sync",
+      "_traditionalChinese": "躍動合拍",
+      "_simplifiedChinese": "跃动合拍",
+      "_korean": "스트릿 리듬"
+    },
+    {
+      "_id": "ChatThemeDesc_6",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ikka Dumb Rock! Chat Room Theme Pack.",
+      "_traditionalChinese": "購買一家Dumb Rock! 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买一家Dumb Rock! 聊天室主题礼包后获取。",
+      "_korean": "일가 Dumb Rock! 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatBubbleDesc_6",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ikka Dumb Rock! Chat Room Theme Pack.",
+      "_traditionalChinese": "購買一家Dumb Rock! 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买一家Dumb Rock! 聊天室主题礼包后获取。",
+      "_korean": "일가 Dumb Rock! 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatFrameDesc_6",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ikka Dumb Rock! Chat Room Theme Pack.",
+      "_traditionalChinese": "購買一家Dumb Rock! 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买一家Dumb Rock! 聊天室主题礼包后获取。",
+      "_korean": "일가 Dumb Rock! 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
       "_id": "chatskin_talk_example1",
@@ -22950,14 +23118,14 @@
       "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
-      "_korean": "아자미"
+      "_korean": "Azami"
     },
     {
       "_id": "Composer_Name_100112",
       "_japanese": "カンザキイオリ",
       "_english": "Iori Kanzaki",
       "_traditionalChinese": "カンザキイオリ",
-      "_simplifiedChinese": "カンザキイオリ  ",
+      "_simplifiedChinese": "カンザキイオリ",
       "_korean": "칸자키 이오리"
     },
     {
@@ -22967,6 +23135,14 @@
       "_traditionalChinese": "Diggy-MO’、hisakuni(SUPA LOVE)",
       "_simplifiedChinese": "Diggy-MO’, hisakuni(SUPA LOVE)",
       "_korean": "Diggy-MO’, hisakuni(SUPA LOVE)"
+    },
+    {
+      "_id": "Composer_Name_100114",
+      "_japanese": "牧野太洋",
+      "_english": "牧野太洋",
+      "_traditionalChinese": "牧野太洋",
+      "_simplifiedChinese": "牧野太洋",
+      "_korean": "牧野太洋"
     },
     {
       "_id": "Content_Name_1",
@@ -25275,10 +25451,10 @@
     {
       "_id": "Degree_Description_208",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 特別ログインボーナスで獲得",
-      "_english": "Obtained via BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Login",
-      "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」登入獎勵獲得",
-      "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」登入奖励获得",
-      "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 로그인으로 획득"
+      "_english": "Obtained via BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus.",
+      "_traditionalChinese": "透過BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 特別登入獎勵獲得",
+      "_simplifiedChinese": "通过BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 特别登录奖励获得",
+      "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상에서 획득"
     },
     {
       "_id": "Degree_Description_209",
@@ -25295,6 +25471,14 @@
       "_traditionalChinese": "透過劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念特別登入獎勵獲得",
       "_simplifiedChinese": "通过剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念特别登录奖励获得",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 특별 로그인 보상에서 획득"
+    },
+    {
+      "_id": "Degree_Description_256",
+      "_japanese": "ガチャ「はじめてを奏でる光彩讃歌」の交換所で獲得",
+      "_english": "Obtained from the Exchange Shop for the \"Prismatic Hymn of Our First Note\" Gacha.",
+      "_traditionalChinese": "透過轉蛋「奏響序章的光彩讚歌」的兌換所獲得",
+      "_simplifiedChinese": "通过招募「奏响序章的光彩赞歌」的交换所获得",
+      "_korean": "뽑기 「서막을 울리는 빛의 찬가」 교환소에서 획득"
     },
     {
       "_id": "Degree_Description_257",
@@ -25737,6 +25921,206 @@
       "_korean": "이벤트 「부탁해, 사이드 스로」 프리미엄 미션 패스 보상으로 획득"
     },
     {
+      "_id": "Degree_Description_20000051",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000052",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000053",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000054",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000055",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000056",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000057",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000058",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「アイライク・ユアライク」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"I like Your like.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「アイライク・ユアライク」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「アイライク・ユアライク」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「I like Your like」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000059",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000060",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000061",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000062",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000063",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000064",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000065",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000066",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「ジャイアント・キラー・チューン」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Giant Killer Tune.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「ジャイアント・キラー・チューン」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「ジャイアント・キラー・チューン」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Giant Killer Tune」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000067",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000068",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000069",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000070",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000071",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000072",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000073",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000074",
+      "_japanese": "イベント「Shake Your 魂, Baby!! 」「微笑みの爆弾」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Shake Your Soul, Baby!! \"Hohoemi no Bakudan.\"",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」，樂曲「微笑みの爆弾」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」，乐曲「微笑みの爆弾」分数排名奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 「Hohoemi no Bakudan」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000075",
+      "_japanese": "イベント「Shake Your 魂, Baby!!」 プレミアムミッションパス報酬で獲得",
+      "_english": "Obtained via the Premium Mission Pass Rewards for Shake Your Soul, Baby!!",
+      "_traditionalChinese": "透過活動「Shake Your 魂, Baby!!」Premium任務通行證報酬獲得",
+      "_simplifiedChinese": "通过活动「Shake Your 魂, Baby!!」高级任务通行证奖励获得",
+      "_korean": "이벤트 「Shake Your 영혼, Baby!!」 프리미엄 미션 패스 보상으로 획득"
+    },
+    {
       "_id": "Degree_Name_20000001",
       "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 1位",
       "_english": "[Sticker] Love Rush A to Z/mugamuchu 1st place",
@@ -25806,7 +26190,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 1st place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第1名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第1名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 1위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 1위"
     },
     {
       "_id": "Degree_Name_20000010",
@@ -25814,7 +26198,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 2nd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第2名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第2名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 2위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 2위"
     },
     {
       "_id": "Degree_Name_20000011",
@@ -25822,7 +26206,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 3rd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第3名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第3名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 3위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 3위"
     },
     {
       "_id": "Degree_Name_20000012",
@@ -25830,7 +26214,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP10",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP10"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10"
     },
     {
       "_id": "Degree_Name_20000013",
@@ -25838,7 +26222,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP100",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP100",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP100",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP100"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP100"
     },
     {
       "_id": "Degree_Name_20000014",
@@ -25846,7 +26230,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP1000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP1000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP1000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP1000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP1000"
     },
     {
       "_id": "Degree_Name_20000015",
@@ -25854,7 +26238,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP5000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP5000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP5000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP5000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP5000"
     },
     {
       "_id": "Degree_Name_20000016",
@@ -25862,7 +26246,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP10000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/이것은 우리들이 살아남는 줄거리 TOP10000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10000"
     },
     {
       "_id": "Degree_Name_20000017",
@@ -25870,7 +26254,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 1st place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第1名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第1名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 1위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 1위"
     },
     {
       "_id": "Degree_Name_20000018",
@@ -25878,7 +26262,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 2nd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第2名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第2名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 2위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 2위"
     },
     {
       "_id": "Degree_Name_20000019",
@@ -25886,7 +26270,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 3rd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第3名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第3名",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru 3위"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 3위"
     },
     {
       "_id": "Degree_Name_20000020",
@@ -25894,7 +26278,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP10",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP10"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP10"
     },
     {
       "_id": "Degree_Name_20000021",
@@ -25902,7 +26286,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP100",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP100",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP100",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP100"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP100"
     },
     {
       "_id": "Degree_Name_20000022",
@@ -25910,7 +26294,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP1000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP1000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP1000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP1000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP1000"
     },
     {
       "_id": "Degree_Name_20000023",
@@ -25918,7 +26302,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP5000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP5000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP5000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP5000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP5000"
     },
     {
       "_id": "Degree_Name_20000024",
@@ -25926,7 +26310,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP10000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10000",
-      "_korean": "[스티커]사랑의 격류  AtoZ/Orion wo Nazoru TOP10000"
+      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP10000"
     },
     {
       "_id": "Degree_Name_20000025",
@@ -25939,7 +26323,7 @@
     {
       "_id": "Degree_Name_20000026",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice 1位",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice 1st Place",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice 1st Place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice 第1名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice 第1名",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice 1위"
@@ -25947,7 +26331,7 @@
     {
       "_id": "Degree_Name_20000027",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice 2位",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice 2nd place",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice 2nd place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice 第2名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice 第2名",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice 2위"
@@ -25955,7 +26339,7 @@
     {
       "_id": "Degree_Name_20000028",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice 3位",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice 3rd Place",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice 3rd Place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice 第3名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice 第3名",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice 3위"
@@ -25963,7 +26347,7 @@
     {
       "_id": "Degree_Name_20000029",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice TOP10",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice TOP10",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice TOP10",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice TOP10",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice TOP10",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice TOP10"
@@ -25971,7 +26355,7 @@
     {
       "_id": "Degree_Name_20000030",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice TOP100",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice TOP100",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice TOP100",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice TOP100",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice TOP100",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice TOP100"
@@ -25979,7 +26363,7 @@
     {
       "_id": "Degree_Name_20000031",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice TOP1000",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice TOP1000",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice TOP1000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice TOP1000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice TOP1000",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice TOP1000"
@@ -25987,7 +26371,7 @@
     {
       "_id": "Degree_Name_20000032",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice TOP5000",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice TOP5000",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice TOP5000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice TOP5000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice TOP5000",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice TOP5000"
@@ -25995,7 +26379,7 @@
     {
       "_id": "Degree_Name_20000033",
       "_japanese": "[ステッカー]お願い、サイドスロー/Odd Dice TOP10000",
-      "_english": "[Sticker] Sidearm Upon the Water / Odd Dice TOP10000",
+      "_english": "[Sticker] Sidearm Upon the Water/Odd Dice TOP10000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/Odd Dice TOP10000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/Odd Dice TOP10000",
       "_korean": "[스티커] 부탁해, 사이드 스로/Odd Dice TOP10000"
@@ -26003,7 +26387,7 @@
     {
       "_id": "Degree_Name_20000034",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に 1位",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom 1st place",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom 1st place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に 第1名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に 第1名",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom 1위"
@@ -26011,7 +26395,7 @@
     {
       "_id": "Degree_Name_20000035",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に 2位",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom 2nd place",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom 2nd place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に 第2名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に 第2名",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom 2위"
@@ -26019,7 +26403,7 @@
     {
       "_id": "Degree_Name_20000036",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に 3位",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom 3rd place",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom 3rd place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に 第3名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に 第3名",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom 3위"
@@ -26027,7 +26411,7 @@
     {
       "_id": "Degree_Name_20000037",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に TOP10",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom TOP10",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom TOP10",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に TOP10",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に TOP10",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom TOP10"
@@ -26035,7 +26419,7 @@
     {
       "_id": "Degree_Name_20000038",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に TOP100",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom TOP100",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom TOP100",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に TOP100",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に TOP100",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom TOP100"
@@ -26043,7 +26427,7 @@
     {
       "_id": "Degree_Name_20000039",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に TOP1000",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom TOP1000",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom TOP1000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に TOP1000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に TOP1000",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom TOP1000"
@@ -26051,7 +26435,7 @@
     {
       "_id": "Degree_Name_20000040",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に TOP5000",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom TOP5000",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom TOP5000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に TOP5000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に TOP5000",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom TOP5000"
@@ -26059,7 +26443,7 @@
     {
       "_id": "Degree_Name_20000041",
       "_japanese": "[ステッカー]お願い、サイドスロー/カーネーションの咲く日に TOP10000",
-      "_english": "[Sticker] Sidearm Upon the Water / On the Day the Carnations Bloom TOP10000",
+      "_english": "[Sticker] Sidearm Upon the Water/On the Day the Carnations Bloom TOP10000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/カーネーションの咲く日に TOP10000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/カーネーションの咲く日に TOP10000",
       "_korean": "[스티커] 부탁해, 사이드 스로/On the Day the Carnations Bloom TOP10000"
@@ -26067,7 +26451,7 @@
     {
       "_id": "Degree_Name_20000042",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー 1位",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower 1st Place",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower 1st Place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー 第1名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー 第1名",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 1위"
@@ -26075,7 +26459,7 @@
     {
       "_id": "Degree_Name_20000043",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー 2位",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower 2nd Place",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower 2nd Place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー 第2名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー 第2名",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 2위"
@@ -26083,7 +26467,7 @@
     {
       "_id": "Degree_Name_20000044",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー 3位",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower 3rd place",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower 3rd place",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー 第3名",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー 第3名",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 3위"
@@ -26091,7 +26475,7 @@
     {
       "_id": "Degree_Name_20000045",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー TOP10",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower TOP10",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower TOP10",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー TOP10",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー TOP10",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 TOP10"
@@ -26099,7 +26483,7 @@
     {
       "_id": "Degree_Name_20000046",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー TOP100",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower TOP100",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower TOP100",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー TOP100",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー TOP100",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 TOP100"
@@ -26107,7 +26491,7 @@
     {
       "_id": "Degree_Name_20000047",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー TOP1000",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower TOP1000",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower TOP1000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー TOP1000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー TOP1000",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 TOP1000"
@@ -26115,7 +26499,7 @@
     {
       "_id": "Degree_Name_20000048",
       "_japanese": "[ステッカー]お願い、サイドスロー/ロウワー TOP5000",
-      "_english": "[Sticker] Sidearm Upon the Water / Lower TOP5000",
+      "_english": "[Sticker] Sidearm Upon the Water/Lower TOP5000",
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲/ロウワー TOP5000",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷/ロウワー TOP5000",
       "_korean": "[스티커] 부탁해, 사이드 스로/로워 TOP5000"
@@ -26135,6 +26519,206 @@
       "_traditionalChinese": "[貼紙]拜託了，傾心一擲",
       "_simplifiedChinese": "[贴纸]拜托了，倾心一掷",
       "_korean": "[스티커] 부탁해, 사이드 스로"
+    },
+    {
+      "_id": "Degree_Name_20000051",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク 1位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like 1st Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク 第1名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク 第1名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like 1위"
+    },
+    {
+      "_id": "Degree_Name_20000052",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク 2位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like 2nd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク 第2名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク 第2名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like 2위"
+    },
+    {
+      "_id": "Degree_Name_20000053",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク 3位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like 3rd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク 第3名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク 第3名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like 3위"
+    },
+    {
+      "_id": "Degree_Name_20000054",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like TOP10",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000055",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク TOP100",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like TOP100",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク TOP100",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク TOP100",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000056",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク TOP1000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like TOP1000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク TOP1000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク TOP1000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000057",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク TOP5000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like TOP5000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク TOP5000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク TOP5000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000058",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/I like Your like TOP10000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/アイライク・ユアライク TOP10000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/I like Your like TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000059",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 1位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune 1st Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第1名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第1名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune 1위"
+    },
+    {
+      "_id": "Degree_Name_20000060",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 2位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune 2nd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第2名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第2名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune 2위"
+    },
+    {
+      "_id": "Degree_Name_20000061",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 3位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune 3rd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第3名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン 第3名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune 3위"
+    },
+    {
+      "_id": "Degree_Name_20000062",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune TOP10",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000063",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP100",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune TOP100",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP100",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP100",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000064",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP1000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune TOP1000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP1000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP1000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000065",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP5000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune TOP5000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP5000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP5000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000066",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Giant Killer Tune TOP10000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/ジャイアント・キラー・チューン TOP10000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Giant Killer Tune TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000067",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 1位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan 1st Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 第1名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 第1名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan 1위"
+    },
+    {
+      "_id": "Degree_Name_20000068",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 2位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan 2nd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 第2名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 第2名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan 2위"
+    },
+    {
+      "_id": "Degree_Name_20000069",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 3位",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan 3rd Place",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 第3名",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 第3名",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan 3위"
+    },
+    {
+      "_id": "Degree_Name_20000070",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 TOP10",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan TOP10",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 TOP10",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 TOP10",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000071",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 TOP100",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan TOP100",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 TOP100",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 TOP100",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000072",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 TOP1000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan TOP1000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 TOP1000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 TOP1000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000073",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 TOP5000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan TOP5000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 TOP5000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 TOP5000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000074",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!/微笑みの爆弾 TOP10000",
+      "_english": "[Sticker] Shake Your Soul, Baby!!/Hohoemi no Bakudan TOP10000",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!/ 微笑みの爆弾 TOP10000",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!/微笑みの爆弾 TOP10000",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!/Hohoemi no Bakudan TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000075",
+      "_japanese": "[ステッカー]Shake Your 魂, Baby!!",
+      "_english": "[Sticker] Shake Your Soul, Baby!!",
+      "_traditionalChinese": "[貼紙]Shake Your 魂, Baby!!",
+      "_simplifiedChinese": "[贴纸]Shake Your 魂, Baby!!",
+      "_korean": "[스티커] Shake Your 영혼, Baby!!"
     },
     {
       "_id": "Degree_Description_10000001",
@@ -26659,10 +27243,10 @@
     {
       "_id": "Degree_Description_10000080",
       "_japanese": "「ジャイアント・キラー・チューン」を100回クリアで獲得",
-      "_english": "Obtained by clearing \"ジャイアント・キラー・チューン\" 100 times.",
+      "_english": "Obtained by clearing \"Giant Killer Tune\" 100 times.",
       "_traditionalChinese": "通關「ジャイアント・キラー・チューン」100次即獲得",
       "_simplifiedChinese": "完成「ジャイアント・キラー・チューン」100次时获得",
-      "_korean": "「ジャイアント・キラー・チューン」 100회 클리어 시 획득"
+      "_korean": "「Giant Killer Tune」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Description_10000081",
@@ -26847,6 +27431,14 @@
       "_traditionalChinese": "通關「God's Blood」100次即獲得",
       "_simplifiedChinese": "完成「God's Blood」100次时获得",
       "_korean": "「신의 이름을」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000112",
+      "_japanese": "「アイライク・ユアライク」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"I like Your like\" 100 times.",
+      "_traditionalChinese": "通關「アイライク・ユアライク」100次即獲得",
+      "_simplifiedChinese": "完成「アイライク・ユアライク」100次时获得",
+      "_korean": "「I like Your like」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Name_10000001",
@@ -27371,10 +27963,10 @@
     {
       "_id": "Degree_Name_10000080",
       "_japanese": "[ステッカー]ジャイアント・キラー・チューンジャケット",
-      "_english": "[Sticker] ジャイアント・キラーチューン Jacket",
+      "_english": "[Sticker] Giant Killer Tune Jacket",
       "_traditionalChinese": "[貼紙]ジャイアント・キラー・チューン封面",
       "_simplifiedChinese": "[贴纸]ジャイアント・キラー・チューン封面",
-      "_korean": "[스티커] ジャイアント・キラー・チューン 재킷"
+      "_korean": "[스티커] Giant Killer Tune 재킷"
     },
     {
       "_id": "Degree_Name_10000081",
@@ -27559,6 +28151,14 @@
       "_traditionalChinese": "[貼紙]God's Blood封面",
       "_simplifiedChinese": "[贴纸]God's Blood封面",
       "_korean": "[스티커] 신의 이름을 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000112",
+      "_japanese": "[ステッカー]アイライク・ユアライクジャケット",
+      "_english": "[Sticker] I like Your like Jacket",
+      "_traditionalChinese": "[貼紙]アイライク・ユアライク封面",
+      "_simplifiedChinese": "[贴纸]アイライク・ユアライク封面",
+      "_korean": "[스티커] I like Your like 재킷"
     },
     {
       "_id": "Degree_Name_1",
@@ -29097,6 +29697,14 @@
       "_korean": "[스티커]prima aurora"
     },
     {
+      "_id": "Degree_Name_256",
+      "_japanese": "[ステッカー]はじめてを奏でる光彩讃歌",
+      "_english": "[Sticker] Prismatic Hymn of Our First Note",
+      "_traditionalChinese": "[貼紙]奏響序章的光彩讚歌",
+      "_simplifiedChinese": "[贴纸]奏响序章的光彩赞歌",
+      "_korean": "[스티커] 서막을 울리는 빛의 찬가"
+    },
+    {
       "_id": "Degree_Name_257",
       "_japanese": "[ステッカー]三角 初華 映画私服ver.",
       "_english": "[Sticker] Uika Misumi - Movie Casual Outfit ver.",
@@ -29289,6 +29897,14 @@
       "_korean": "부탁해, 사이드 스로"
     },
     {
+      "_id": "Event_Name_0003",
+      "_japanese": "Shake Your 魂, Baby!!",
+      "_english": "Shake Your Soul, Baby!!",
+      "_traditionalChinese": "Shake Your 魂, Baby!!",
+      "_simplifiedChinese": "Shake Your 魂, Baby!!",
+      "_korean": "Shake Your 영혼, Baby!!"
+    },
+    {
       "_id": "Exchange_Name_1",
       "_japanese": "アイの奔流　AtoZ イベント交換所",
       "_english": "Love Rush A to Z Event Exchange Shop",
@@ -29438,7 +30054,7 @@
       "_english": "Sidearm Upon the Water Event Exchange Shop",
       "_traditionalChinese": "拜託了，傾心一擲 活動兌換所",
       "_simplifiedChinese": "拜托了， 倾心一掷 活动交换所",
-      "_korean": "부탁해,  사이드 스로 이벤트 교환소"
+      "_korean": "부탁해, 사이드 스로 이벤트 교환소"
     },
     {
       "_id": "Exchange_Name_21",
@@ -29451,7 +30067,7 @@
     {
       "_id": "Exchange_Name_22",
       "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ交換所",
-      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration: Ave Mujica Pick Up Gacha Exchange Shop",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration: Ave Mujica Pickup Gacha Exchange Shop",
       "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 Ave Mujica Pick Up轉蛋兌換所",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 Ave Mujica Pick Up招募交换所",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica픽업 뽑기 교환소"
@@ -29463,6 +30079,22 @@
       "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 貼紙兌換所",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 贴纸交换所",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 스티커 교환소"
+    },
+    {
+      "_id": "Exchange_Name_24",
+      "_japanese": "Shake Your 魂, Baby!! イベント交換所",
+      "_english": "Shake Your Soul, Baby!! Event Exchange Shop",
+      "_traditionalChinese": "Shake Your 魂, Baby!!活動兌換所",
+      "_simplifiedChinese": "Shake Your 魂, Baby!! 活动交换所",
+      "_korean": "Shake Your 영혼, Baby!! 이벤트 교환소"
+    },
+    {
+      "_id": "Exchange_Name_25",
+      "_japanese": "はじめてを奏でる光彩讃歌 ガチャ交換所",
+      "_english": "Prismatic Hymn of Our First Note Gacha Exchange Shop",
+      "_traditionalChinese": "奏響序章的光彩讚歌轉蛋兌換所",
+      "_simplifiedChinese": "奏响序章的光彩赞歌 招募交换所",
+      "_korean": "서막을 울리는 빛의 찬가 뽑기 교환소"
     },
     {
       "_id": "exchange_title",
@@ -30117,7 +30749,7 @@
       "_japanese": "ライブ中にプレイを放置するなど通常範囲とは異なるプレイは、迷惑行為として判定されます。\r\nまた、切断や不正行為も迷惑行為と判定されます。\r\n\r\n迷惑行為が繰り返されたり通報などで検知した際は、調査の上必要に応じた措置を実施する場合がございます。",
       "_english": "Any gameplay that deviates from normal behavior, such as leaving the game idle during a LIVE, is classified as disruptive behavior.\r\nAdditionally, disconnecting and cheating are also classified as disruptive behavior.\r\n\r\nIf disruptive behavior is repeated or detected through reports, we may conduct an investigation and take appropriate measures as necessary.",
       "_traditionalChinese": "在進行演出時放置不玩等偏離正常遊玩方式的行為，將被判定為不當行為。\r\n此外，中斷連線或作弊也會被判定為不當行為。\r\n\r\n若反覆進行不當行為，或透過玩家檢舉等方式偵測到不當行為，營運團隊將會在調查後採取必要措施。",
-      "_simplifiedChinese": "在演出中挂机等偏离正常范围的游玩方式，将被系统判定为违规行为。\r\n此外，恶意断线或使用作弊手段同样会被判定为违规行为。\r\n\r\n若反复出现违规行为，或经其他玩家举报且查实后，运营团队将在调查的基础上，视情节严重程度采取相应的处罚措施。",
+      "_simplifiedChinese": "在演出中挂机等偏离正常范围的游玩方式，将被系统判定为违规行为。\r\n此外，恶意断线或使用作弊行为同样会被判定为违规行为。\r\n\r\n若反复出现违规行为，或经其他玩家举报且查实后，运营团队将在调查的基础上，视情节严重程度采取相应的处罚措施。",
       "_korean": "라이브 중에 조작을 하지 않고 방치하는 등 일반적인 플레이 범위를 벗어나는 행동은 비매너 행위로 판정됩니다.\r\n또한, 접속 종료나 부정행위 역시 비매너 행위로 판정됩니다.\r\n\r\n반복적인 비매너 행위가 감지되거나 다른 플레이어의 신고가 접수될 경우, 조사 후 필요에 따라 조치를 취할 수 있습니다."
     },
     {
@@ -30707,7 +31339,7 @@
     {
       "_id": "Gacha_Description_11",
       "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\r\n\r\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\r\n（1回引く：5個／10回引く：50個）\r\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\r\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
-      "_english": "Gacha with R or Higher Members or Snapshots\r\n\r\n. Each time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\r\n (1 pull: 5 pcs / 10 pulls: 50 pcs)\r\n *The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\r\n *The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
+      "_english": "Gacha with R or Higher Members or Snapshots\r\n\r\nEach time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\r\n(pull 1 time: 5 pcs / pull 10 times: 50 pcs)\r\n*The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\r\n*The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\r\n\r\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\r\n（抽1次：5個／抽10次：50個）\r\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\r\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
       "_simplifiedChinese": "可获得R以上成员或是留影的招募\r\n\r\n每次进行招募，都可额外获得道具「生日拨片」。\r\n（抽1次：5个／抽10次：50个）\r\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\r\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
       "_korean": "R 이상의 멤버 또는 스냅을 획득할 수 있는 뽑기\r\n\r\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\r\n(1회 뽑기: 5개／10회 뽑기: 50개)\r\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\r\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
@@ -30722,6 +31354,14 @@
     },
     {
       "_id": "Gacha_Description_13",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
+      "_id": "Gacha_Description_14",
       "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
       "_english": "Gacha with R or Higher Members or Snapshots",
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
@@ -31371,10 +32011,18 @@
     {
       "_id": "Gacha_Name_13",
       "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 Ave Mujicaピックアップガチャ",
-      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration: Ave Mujica Pick Up Gacha",
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Ave Mujica Pickup Gacha",
       "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 Ave Mujica Pick Up轉蛋",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念Ave Mujica Pick Up招募",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica 픽업 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_14",
+      "_japanese": "はじめてを奏でる光彩讃歌ガチャ",
+      "_english": "Prismatic Hymn of Our First Note Gacha",
+      "_traditionalChinese": "奏響序章的光彩讚歌轉蛋",
+      "_simplifiedChinese": "奏响序章的光彩赞歌招募",
+      "_korean": "서막을 울리는 빛의 찬가 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -32954,83 +33602,83 @@
     },
     {
       "_id": "Gekisou_Support_Description_96",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_97",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_98",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_99",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_100",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_101",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_102",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_103",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_104",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Description_105",
-      "_japanese": "NO LUCKY当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
-      "_english": "When NO LUCKY is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
-      "_traditionalChinese": "NO LUCKY中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
-      "_simplifiedChinese": "触发NO LUCKY时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
-      "_korean": "NO LUCKY 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
+      "_japanese": "NO LUCK当選時、抽選ゲージ<color=#66FF8C>{effects[0].value/100:F1}%</color>獲得（1回まで）\r\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\r\n抽選ゲージ<color=#66FF8C>{effects[1].value/100:F1}%</color>獲得",
+      "_english": "When NO LUCK is drawn, gain <color=#66FF8C>{effects[0].value/100:F1}%</color> Trigger Gauge (up to 1 time).\r\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\r\ngain <color=#66FF8C>{effects[1].value/100:F1}%</color> Trigger Gauge.",
+      "_traditionalChinese": "NO LUCK中選時，累積<color=#66FF8C>{effects[0].value/100:F1}%</color>抽選量條（最多1次）\r\n若為「{effects[1].con[0][0].targets[0].name}」團員，\r\n則累積<color=#66FF8C>{effects[1].value/100:F1}%</color>抽選量條",
+      "_simplifiedChinese": "触发NO LUCK时，抽选条累积<color=#66FF8C>{effects[0].value/100:F1}%</color>（最多1次）\r\n若为「{effects[1].con[0][0].targets[0].name}」成员\r\n抽选条累积<color=#66FF8C>{effects[1].value/100:F1}%</color>",
+      "_korean": "NO LUCK 당첨 시, 추첨 게이지 <color=#66FF8C>{effects[0].value/100:F1}%</color> 획득(1회까지)\r\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\r\n추첨 게이지 <color=#66FF8C>{effects[1].value/100:F1}%</color> 획득"
     },
     {
       "_id": "Gekisou_Support_Skill_Name_1",
@@ -33892,8 +34540,8 @@
       "_id": "ui_hc_history_description",
       "_japanese": "・過去30日分のスター履歴（獲得・消費）を確認できます。\r\n・31日以上前の履歴については、サポートまでお問い合わせください。\r\n※プレゼントボックス内のスターは、受け取り完了時に履歴へ反映されます。",
       "_english": "- You can view your Star History (earned and spent) for the past 30 days.\r\n- For history from 31 days ago or earlier, please contact support.\r\n*Stars in the Gift Box will be reflected in your history once you have claimed them.",
-      "_traditionalChinese": "・可確認過去30天的星鑽紀錄（獲得/消耗）。\r\n・關於31天以前的紀錄，請透過客服支援進行確認。\r\n※禮物盒裡的星鑽，會在領取完成時反應至紀錄中。",
-      "_simplifiedChinese": "・可查看过去30天内的星钻记录（获得・消费）记录。\r\n如需查询31天前的记录，请联系帮助中心。\r\n※礼物盒中的星钻将在领取完成后计入记录。",
+      "_traditionalChinese": "・可確認過去30天的星鑽紀錄（獲得/消耗）。\r\n・關於31天以前的紀錄，請透過用戶中心進行確認。\r\n※禮物盒裡的星鑽，會在領取完成時反應至紀錄中。",
+      "_simplifiedChinese": "・可查看过去30天内的星钻记录（获取・消耗）。\r\n・如需查询31天前的记录，请联系帮助中心。\r\n※礼物盒中的星钻将在领取完成后计入记录。",
       "_korean": "・최근 30일간의 스타 기록(획득 및 소모)을 확인할 수 있습니다.\r\n・31일 이전의 기록에 대한 정보는 고객지원으로 문의해 주시기 바랍니다.\r\n※선물함의 스타는 수령 시 기록에 반영됩니다."
     },
     {
@@ -34222,7 +34870,7 @@
       "_english": "Group Rank Up Rewards",
       "_traditionalChinese": "社群等級提升報酬",
       "_simplifiedChinese": "社群等级提升奖励",
-      "_korean": "그룹 랭크 업 보상"
+      "_korean": "그룹 랭크업 보상"
     },
     {
       "_id": "ui_hc_history_present_detail_23",
@@ -37057,20 +37705,20 @@
       "_korean": "이벤트 교환소에서 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_45",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Description_47",
       "_japanese": "メンバーピースまたはスナップを変換すると獲得することができるアイテム",
       "_english": "An item obtained by converting Member Pieces or Snapshots.",
       "_traditionalChinese": "團員星輝或快照轉換後可獲得的道具",
       "_simplifiedChinese": "转化成员星辉或留影后可获得的道具",
       "_korean": "멤버 조각 또는 스냅을 변환하면 획득할 수 있는 아이템"
-    },
-    {
-      "_id": "Item_Description_48",
-      "_japanese": "撃奏アリーナ交換所で使用するアイテム",
-      "_english": "An item used at the GEKISO Arena Exchange Shop.",
-      "_traditionalChinese": "在激奏舞台兌換所使用的道具",
-      "_simplifiedChinese": "在激奏舞台交换所中使用的道具",
-      "_korean": "격주 아레나 교환소에서 사용하는 아이템"
     },
     {
       "_id": "Item_Description_49",
@@ -37770,43 +38418,43 @@
     },
     {
       "_id": "Item_Description_10000056",
-      "_japanese": "[刹那に想い響かせて]ドロリス / 三角 初華の覚醒に使用するアイテム",
-      "_english": "An item used to Awaken Doloris/Uika Misumi \"Fleeting Echo\"",
-      "_traditionalChinese": "[讓思念迴響於剎那間]Doloris / 三角初華覺醒時使用的道具",
-      "_simplifiedChinese": "用于[让思念响彻这瞬间]Doloris / 三角初华觉醒的道具",
-      "_korean": "[찰나에 마음을 울리며]돌로리스 / 미스미 우이카 각성에 사용하는 아이템"
+      "_japanese": "[刹那に想い響かせて]ドロリスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Doloris \"Fleeting Echo\"",
+      "_traditionalChinese": "[讓思念迴響於剎那間]Doloris覺醒時使用的道具",
+      "_simplifiedChinese": "用于[让思念响彻这瞬间]Doloris觉醒的道具",
+      "_korean": "[찰나에 마음을 울리며]돌로리스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000057",
-      "_japanese": "[指先で応えるメロディア]モーティス / 若葉 睦の覚醒に使用するアイテム",
-      "_english": "An item used to Awaken Mortis/Mutsumi Wakaba \"Answering Melody\"",
-      "_traditionalChinese": "[指尖回應的旋律]Mortis / 若葉睦覺醒時使用的道具",
-      "_simplifiedChinese": "用于[指尖回应的旋律]Mortis / 若叶睦觉醒的道具",
-      "_korean": "[손끝이 전하는 선율]모르티스 / 와카바 무츠미 각성에 사용하는 아이템"
+      "_japanese": "[指先で応えるメロディア]モーティスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Mortis \"Answering Melody\"",
+      "_traditionalChinese": "[指尖回應的旋律]Mortis覺醒時使用的道具",
+      "_simplifiedChinese": "用于[指尖回应的旋律]Mortis觉醒的道具",
+      "_korean": "[손끝이 전하는 선율]모르티스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000058",
-      "_japanese": "[背に纏う願い]ティモリス / 八幡 海鈴の覚醒に使用するアイテム",
-      "_english": "An item used to Awaken Timoris/Umiri Yahata \"Bearing Wishes\"",
-      "_traditionalChinese": "[背負在身的心願]Timoris / 八幡海鈴覺醒時使用的道具",
-      "_simplifiedChinese": "用于[缠绕在身的祈愿]Timoris / 八幡海铃觉醒的道具",
-      "_korean": "[짊어진 소망]티모리스 / 야하타 우미리 각성에 사용하는 아이템"
+      "_japanese": "[背に纏う願い]ティモリスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Timoris \"Bearing Wishes\"",
+      "_traditionalChinese": "[背負在身的心願]Timoris覺醒時使用的道具",
+      "_simplifiedChinese": "用于[缠绕在身的祈愿]Timoris觉醒的道具",
+      "_korean": "[짊어진 소망]티모리스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000059",
-      "_japanese": "[魅せる光のリズム]アモーリス / 祐天寺 にゃむの覚醒に使用するアイテム",
-      "_english": "An item used to Awaken Amoris/Nyamu Yūtenji \"Dazzling Rhythm\"",
-      "_traditionalChinese": "[魅惑的閃耀節奏]Amoris / 祐天寺若麥覺醒時使用的道具",
-      "_simplifiedChinese": "用于[魅惑的闪耀节奏]Amoris / 祐天寺若麦觉醒的道具",
-      "_korean": "[매혹의 빛과 리듬]아모리스 / 유텐지 냐무 각성에 사용하는 아이템"
+      "_japanese": "[魅せる光のリズム]アモーリスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Amoris \"Dazzling Rhythm\"",
+      "_traditionalChinese": "[魅惑的閃耀節奏]Amoris覺醒時使用的道具",
+      "_simplifiedChinese": "用于[魅惑的闪耀节奏]Amoris觉醒的道具",
+      "_korean": "[매혹의 빛과 리듬]아모리스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000060",
-      "_japanese": "[楽園に君臨せし女神]オブリビオニス / 豊川 祥子の覚醒に使用するアイテム",
-      "_english": "An item used to Awaken Oblivionis/Sakiko Togawa \"Goddess of Paradisus\"",
-      "_traditionalChinese": "[君臨樂園的女神]Oblivionis / 豐川祥子覺醒時使用的道具",
-      "_simplifiedChinese": "用于[君临乐园的女神]Oblivionis / 丰川祥子觉醒的道具",
-      "_korean": "[낙원에 군림한 여신]오블리비오니스 / 토가와 사키코 각성에 사용하는 아이템"
+      "_japanese": "[楽園に君臨せし女神]オブリビオニスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Oblivionis \"Goddess of Paradisus\"",
+      "_traditionalChinese": "[君臨樂園的女神]Oblivionis覺醒時使用的道具",
+      "_simplifiedChinese": "用于[君临乐园的女神]Oblivionis觉醒的道具",
+      "_korean": "[낙원에 군림한 여신]오블리비오니스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000061",
@@ -37863,6 +38511,30 @@
       "_traditionalChinese": "[微笑，隱於幽暗]和泉朋花覺醒時使用的道具",
       "_simplifiedChinese": "用于[微笑，隐于幽暗]和泉朋花觉醒的道具",
       "_korean": "[어둠 속에 피어난 미소]이즈미 호우카 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000068",
+      "_japanese": "[セレンディピタス・ジャーニー]四宮 寧月の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Shizuku Shinomiya \"Serendipitous Journey\"",
+      "_traditionalChinese": "[邂逅之旅]四宮寧月覺醒時使用的道具",
+      "_simplifiedChinese": "用于[邂逅之旅]四宫宁月觉醒的道具",
+      "_korean": "[세렌디피터스 저니]시노미야 시즈쿠 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000069",
+      "_japanese": "[ファースト・スパークル]須賀 蕾叶の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Raika Suga \"First Sparkle\"",
+      "_traditionalChinese": "[火花初綻]須賀蕾葉覺醒時使用的道具",
+      "_simplifiedChinese": "用于[火花初绽]须贺蕾叶觉醒的道具",
+      "_korean": "[퍼스트 스파클]스가 라이카 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000070",
+      "_japanese": "[イエロー・ブリーズ]馬橋 心玖の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Miku Mahashi \"Yellow Breeze\"",
+      "_traditionalChinese": "[金黃微風]馬橋心玖覺醒時使用的道具",
+      "_simplifiedChinese": "用于[金黄微风]马桥心玖觉醒的道具",
+      "_korean": "[옐로 브리즈]마하시 미쿠 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Name_10000001",
@@ -38306,43 +38978,43 @@
     },
     {
       "_id": "Item_Name_10000056",
-      "_japanese": "メンバーピース([刹那に想い響かせて]ドロリス / 三角 初華)",
-      "_english": "Member Piece (Doloris/Uika Misumi \"Fleeting Echo\")",
-      "_traditionalChinese": "團員星輝（[讓思念迴響於剎那間]Doloris / 三角初華）",
-      "_simplifiedChinese": "成员星辉（[让思念响彻这瞬间]Doloris / 三角初华）",
-      "_korean": "멤버 조각 ([찰나에 마음을 울리며] 돌로리스 / 미스미 우이카)"
+      "_japanese": "メンバーピース([刹那に想い響かせて]ドロリス)",
+      "_english": "Member Piece (Doloris \"Fleeting Echo\")",
+      "_traditionalChinese": "團員星輝（[讓思念迴響於剎那間]Doloris）",
+      "_simplifiedChinese": "成员星辉（[让思念响彻这瞬间]Doloris）",
+      "_korean": "멤버 조각 ([찰나에 마음을 울리며] 돌로리스)"
     },
     {
       "_id": "Item_Name_10000057",
-      "_japanese": "メンバーピース([指先で応えるメロディア]モーティス / 若葉 睦)",
-      "_english": "Member Piece (Mortis/Mutsumi Wakaba \"Answering Melody\")",
-      "_traditionalChinese": "團員星輝（[指尖回應的旋律]Mortis / 若葉睦）",
-      "_simplifiedChinese": "成员星辉（[指尖回应的旋律]Mortis / 若叶睦）",
-      "_korean": "멤버 조각 ([손끝이 전하는 선율] 모르티스 / 와카바 무츠미)"
+      "_japanese": "メンバーピース([指先で応えるメロディア]モーティス)",
+      "_english": "Member Piece (Mortis \"Answering Melody\")",
+      "_traditionalChinese": "團員星輝（[指尖回應的旋律]Mortis）",
+      "_simplifiedChinese": "成员星辉（[指尖回应的旋律]Mortis）",
+      "_korean": "멤버 조각 ([손끝이 전하는 선율] 모르티스)"
     },
     {
       "_id": "Item_Name_10000058",
-      "_japanese": "メンバーピース([背に纏う願い]ティモリス / 八幡 海鈴)",
-      "_english": "Member Piece (Timoris/Umiri Yahata \"Bearing Wishes\")",
-      "_traditionalChinese": "團員星輝（[背負在身的心願]Timoris / 八幡海鈴）",
-      "_simplifiedChinese": "成员星辉（[缠绕在身的祈愿]Timoris / 八幡海铃）",
-      "_korean": "멤버 조각 ([짊어진 소망] 티모리스 / 야하타 우미리)"
+      "_japanese": "メンバーピース([背に纏う願い]ティモリス)",
+      "_english": "Member Piece (Timoris \"Bearing Wishes\")",
+      "_traditionalChinese": "團員星輝（[背負在身的心願]Timoris）",
+      "_simplifiedChinese": "成员星辉（[缠绕在身的祈愿]Timoris）",
+      "_korean": "멤버 조각 ([짊어진 소망] 티모리스)"
     },
     {
       "_id": "Item_Name_10000059",
-      "_japanese": "メンバーピース([魅せる光のリズム]アモーリス / 祐天寺 にゃむ)",
-      "_english": "Member Piece (Amoris/Nyamu Yūtenji \"Dazzling Rhythm\")",
-      "_traditionalChinese": "團員星輝（[魅惑的閃耀節奏]Amoris / 祐天寺若麥）",
-      "_simplifiedChinese": "成员星辉（[魅惑的闪耀节奏]Amoris / 祐天寺若麦）",
-      "_korean": "멤버 조각 ([매혹의 빛과 리듬] 아모리스 / 유텐지 냐무)"
+      "_japanese": "メンバーピース([魅せる光のリズム]アモーリス)",
+      "_english": "Member Piece (Amoris \"Dazzling Rhythm\")",
+      "_traditionalChinese": "團員星輝（[魅惑的閃耀節奏]Amoris）",
+      "_simplifiedChinese": "成员星辉（[魅惑的闪耀节奏]Amoris）",
+      "_korean": "멤버 조각 ([매혹의 빛과 리듬] 아모리스)"
     },
     {
       "_id": "Item_Name_10000060",
-      "_japanese": "メンバーピース([楽園に君臨せし女神]オブリビオニス / 豊川 祥子)",
-      "_english": "Member Piece (Oblivionis/Sakiko Togawa \"Goddess of Paradisus\")",
-      "_traditionalChinese": "團員星輝（[君臨樂園的女神]Oblivionis / 豐川祥子）",
-      "_simplifiedChinese": "成员星辉（[君临乐园的女神]Oblivionis / 丰川祥子）",
-      "_korean": "멤버 조각 ([낙원에 군림한 여신] 오블리비오니스 / 토가와 사키코)"
+      "_japanese": "メンバーピース([楽園に君臨せし女神]オブリビオニス)",
+      "_english": "Member Piece (Oblivionis \"Goddess of Paradisus\")",
+      "_traditionalChinese": "團員星輝（[君臨樂園的女神]Oblivionis）",
+      "_simplifiedChinese": "成员星辉（[君临乐园的女神]Oblivionis）",
+      "_korean": "멤버 조각 ([낙원에 군림한 여신] 오블리비오니스)"
     },
     {
       "_id": "Item_Name_10000061",
@@ -38399,6 +39071,30 @@
       "_traditionalChinese": "團員星輝（[微笑，隱於幽暗]和泉朋花）",
       "_simplifiedChinese": "成员星辉（[微笑，隐于幽暗]和泉朋花）",
       "_korean": "멤버 조각 ([어둠 속에 피어난 미소] 이즈미 호우카)"
+    },
+    {
+      "_id": "Item_Name_10000068",
+      "_japanese": "メンバーピース([セレンディピタス・ジャーニー]四宮 寧月)",
+      "_english": "Member Piece (Shizuku Shinomiya \"Serendipitous Journey\")",
+      "_traditionalChinese": "團員星輝（[邂逅之旅]四宮寧月）",
+      "_simplifiedChinese": "成员星辉（[邂逅之旅]四宫宁月）",
+      "_korean": "멤버 조각 ([세렌디피터스 저니] 시노미야 시즈쿠)"
+    },
+    {
+      "_id": "Item_Name_10000069",
+      "_japanese": "メンバーピース([ファースト・スパークル]須賀 蕾叶)",
+      "_english": "Member Piece (Raika Suga \"First Sparkle\")",
+      "_traditionalChinese": "團員星輝（[火花初綻]須賀蕾葉）",
+      "_simplifiedChinese": "成员星辉（[火花初绽]须贺蕾叶）",
+      "_korean": "멤버 조각 ([퍼스트 스파클] 스가 라이카)"
+    },
+    {
+      "_id": "Item_Name_10000070",
+      "_japanese": "メンバーピース([イエロー・ブリーズ]馬橋 心玖)",
+      "_english": "Member Piece (Miku Mahashi \"Yellow Breeze\")",
+      "_traditionalChinese": "團員星輝（[金黃微風]馬橋心玖）",
+      "_simplifiedChinese": "成员星辉（[金黄微风]马桥心玖）",
+      "_korean": "멤버 조각 ([옐로 브리즈] 마하시 미쿠)"
     },
     {
       "_id": "Item_Phonetic_Name_10000001",
@@ -38937,6 +39633,30 @@
       "_korean": "멤버 조각 10000067"
     },
     {
+      "_id": "Item_Phonetic_Name_10000068",
+      "_japanese": "めんばーぴーす10000068",
+      "_english": "Member Piece 10000068",
+      "_traditionalChinese": "團員星輝10000068",
+      "_simplifiedChinese": "成员星辉10000068",
+      "_korean": "멤버 조각 10000068"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000069",
+      "_japanese": "めんばーぴーす10000069",
+      "_english": "Member Piece 10000069",
+      "_traditionalChinese": "團員星輝10000069",
+      "_simplifiedChinese": "成员星辉10000069",
+      "_korean": "멤버 조각 10000069"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000070",
+      "_japanese": "めんばーぴーす10000070",
+      "_english": "Member Piece 10000070",
+      "_traditionalChinese": "團員星輝10000070",
+      "_simplifiedChinese": "成员星辉10000070",
+      "_korean": "멤버 조각 10000070"
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "Star",
@@ -39237,7 +39957,7 @@
       "_japanese": "メンバーピース(R)",
       "_english": "Member Piece (R)",
       "_traditionalChinese": "團員星輝（R）",
-      "_simplifiedChinese": "成员星辉（R）",
+      "_simplifiedChinese": "成员星辉(R)",
       "_korean": "멤버 조각 (R)"
     },
     {
@@ -39245,7 +39965,7 @@
       "_japanese": "メンバーピース(SR)",
       "_english": "Member Piece (SR)",
       "_traditionalChinese": "團員星輝（SR）",
-      "_simplifiedChinese": "成员星辉（SR）",
+      "_simplifiedChinese": "成员星辉(SR)",
       "_korean": "멤버 조각 (SR)"
     },
     {
@@ -39253,7 +39973,7 @@
       "_japanese": "メンバーピース(SSR)",
       "_english": "Member Piece (SSR)",
       "_traditionalChinese": "團員星輝（SSR）",
-      "_simplifiedChinese": "成员星辉（SSR）",
+      "_simplifiedChinese": "成员星辉(SSR)",
       "_korean": "멤버 조각 (SSR)"
     },
     {
@@ -39261,7 +39981,7 @@
       "_japanese": "メンバーピース(BD)",
       "_english": "Member Piece (BD)",
       "_traditionalChinese": "團員星輝（BD）",
-      "_simplifiedChinese": "成员星辉（BD）",
+      "_simplifiedChinese": "成员星辉(BD)",
       "_korean": "멤버 조각 (BD)"
     },
     {
@@ -39281,20 +40001,20 @@
       "_korean": "이벤트 배지 (블루)"
     },
     {
+      "_id": "Item_Name_45",
+      "_japanese": "イベントバッジ(山吹)",
+      "_english": "Event Badge (Amber)",
+      "_traditionalChinese": "活動獎章（琉金）",
+      "_simplifiedChinese": "活动徽章（琉金）",
+      "_korean": "이벤트 배지 (옐로우)"
+    },
+    {
       "_id": "Item_Name_47",
       "_japanese": "星のシール",
       "_english": "Star Sticker",
       "_traditionalChinese": "星光貼紙",
       "_simplifiedChinese": "星星贴纸",
       "_korean": "별의 스티커"
-    },
-    {
-      "_id": "Item_Name_48",
-      "_japanese": "撃奏アリーナメダル",
-      "_english": "GEKISO Arena Medal",
-      "_traditionalChinese": "激奏舞台獎牌",
-      "_simplifiedChinese": "激奏舞台奖牌",
-      "_korean": "격주 아레나 메달"
     },
     {
       "_id": "Item_Name_49",
@@ -39709,7 +40429,7 @@
       "_japanese": "メンバーピース(R)",
       "_english": "Member Piece (R)",
       "_traditionalChinese": "團員星輝（R）",
-      "_simplifiedChinese": "成员星辉（R）",
+      "_simplifiedChinese": "成员星辉(R)",
       "_korean": "멤버 조각 (R)"
     },
     {
@@ -39717,7 +40437,7 @@
       "_japanese": "メンバーピース(SR)",
       "_english": "Member Piece (SR)",
       "_traditionalChinese": "團員星輝（SR）",
-      "_simplifiedChinese": "成员星辉（SR）",
+      "_simplifiedChinese": "成员星辉(SR)",
       "_korean": "멤버 조각 (SR)"
     },
     {
@@ -39725,7 +40445,7 @@
       "_japanese": "メンバーピース(SSR)",
       "_english": "Member Piece (SSR)",
       "_traditionalChinese": "團員星輝（SSR）",
-      "_simplifiedChinese": "成员星辉（SSR）",
+      "_simplifiedChinese": "成员星辉(SSR)",
       "_korean": "멤버 조각 (SSR)"
     },
     {
@@ -39733,7 +40453,7 @@
       "_japanese": "メンバーピース(BD)",
       "_english": "Member Piece (BD)",
       "_traditionalChinese": "團員星輝（BD）",
-      "_simplifiedChinese": "成员星辉（BD）",
+      "_simplifiedChinese": "成员星辉(BD)",
       "_korean": "멤버 조각 (BD)"
     },
     {
@@ -39753,20 +40473,20 @@
       "_korean": "이벤트 배지 (블루)"
     },
     {
+      "_id": "Item_Phonetic_Name_45",
+      "_japanese": "イベントバッジ(山吹)",
+      "_english": "Event Badge (Amber)",
+      "_traditionalChinese": "活動獎章（琉金）",
+      "_simplifiedChinese": "活动徽章（琉金）",
+      "_korean": "이벤트 배지 (옐로우)"
+    },
+    {
       "_id": "Item_Phonetic_Name_47",
       "_japanese": "ほしのしーる",
       "_english": "Star Sticker",
       "_traditionalChinese": "星光貼紙",
       "_simplifiedChinese": "星星贴纸",
       "_korean": "별의 스티커"
-    },
-    {
-      "_id": "Item_Phonetic_Name_48",
-      "_japanese": "撃奏アリーナメダル",
-      "_english": "GEKISO Arena Medal",
-      "_traditionalChinese": "激奏舞台獎牌",
-      "_simplifiedChinese": "激奏舞台奖牌",
-      "_korean": "격주 아레나 메달"
     },
     {
       "_id": "Item_Phonetic_Name_49",
@@ -39875,10 +40595,10 @@
     {
       "_id": "Item_Phonetic_Name_70",
       "_japanese": "えいがばんどりあべむじかぷりまあうろーら",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Movie \"BanG Dream! Ave Mujica prima aurora\"",
+      "_traditionalChinese": "えいがばんどりあべむじかぷりまあうろーら",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」",
+      "_korean": "영화 「BanG Dream! Ave Mujica prima aurora」"
     },
     {
       "_id": "Leader_Skill_Name_Description_1",
@@ -40347,7 +41067,7 @@
     {
       "_id": "Leader_Skill_Name_Description_59",
       "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紫苑のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
-      "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, andViolet's Member +{effects[1].value/100:F1}%",
+      "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Violet's Member +{effects[1].value/100:F1}%",
       "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的團員表演值{effects[1].value/100:F1}%UP",
       "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的成员表演值{effects[1].value/100:F1}%UP",
       "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스가<color=#66FF8C>{effects[0].value/100:F1}%UP</color> 또한 퍼플 멤버는 퍼포먼스가{effects[1].value/100:F1}%UP"
@@ -43443,10 +44163,10 @@
     {
       "_id": "LimitedMissionName_2",
       "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 限定ミッション",
-      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Limited Mission",
-      "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念 限定任務",
-      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念 限定任务",
-      "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 한정 미션"
+      "_english": "[BanG Dream! Ave Mujica prima aurora] Movie Release Celebration Limited-Time Mission",
+      "_traditionalChinese": "電影《BanG Dream! Ave Mujica prima aurora》上映紀念 限定任務",
+      "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」上映纪念 限定任务",
+      "_korean": "영화 「BanG Dream! Ave Mujica prima aurora」 공개 기념 한정 미션"
     },
     {
       "_id": "LimitedMissionName_1000000001",
@@ -47379,7 +48099,7 @@
     {
       "_id": "LiveCommonPair01_LiveCommonPair01_191",
       "_japanese": "ちえりの部下ならできます！",
-      "_english": "If you're Chieri's underling, you can do it!",
+      "_english": "If you're Chieri's subordinate, you can do it!",
       "_traditionalChinese": "如果是千櫻梨的部下就辦得到！",
       "_simplifiedChinese": "既然是千樱梨的部下，就一定能做到！",
       "_korean": "치에리의 부하라면 할 수 있어요!"
@@ -49059,7 +49779,7 @@
     {
       "_id": "LoginBonus_Name_4",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 特別ログインボーナス",
-      "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus",
+      "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Special Login Bonus.",
       "_traditionalChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 特別登入獎勵",
       "_simplifiedChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 特别登录奖励",
       "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 특별 로그인 보상"
@@ -49071,6 +49791,14 @@
       "_traditionalChinese": "劇場版「BanG Dream! Ave Mujica prima aurora」公開紀念特別登入獎勵",
       "_simplifiedChinese": "剧场版「BanG Dream! Ave Mujica prima aurora」公开纪念特别登录奖励",
       "_korean": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 특별 로그인 보상"
+    },
+    {
+      "_id": "LoginBonus_Name_6",
+      "_japanese": "Ave Mujica ミニAlbum「神の名を」発売記念プレゼント！",
+      "_english": "Ave Mujica Mini Album \"God's Blood\" Release Celebration Gift!",
+      "_traditionalChinese": "Ave Mujica迷你專輯《God's Blood》發售紀念禮物！",
+      "_simplifiedChinese": "Ave Mujica 迷你专辑「God's Blood」发售纪念礼物！",
+      "_korean": "Ave Mujica 미니 앨범 「신의 이름을」 발매 기념 선물!"
     },
     {
       "_id": "LoginBonus_Name_1000000001",
@@ -49774,14 +50502,14 @@
       "_english": "Azami",
       "_traditionalChinese": "アザミ",
       "_simplifiedChinese": "アザミ",
-      "_korean": "아자미"
+      "_korean": "Azami"
     },
     {
       "_id": "Lyricist_Name_100112",
       "_japanese": "カンザキイオリ",
       "_english": "Iori Kanzaki",
       "_traditionalChinese": "カンザキイオリ",
-      "_simplifiedChinese": "カンザキイオリ  ",
+      "_simplifiedChinese": "カンザキイオリ",
       "_korean": "칸자키 이오리"
     },
     {
@@ -49790,7 +50518,15 @@
       "_english": "Diggy-MO’",
       "_traditionalChinese": "Diggy-MO’",
       "_simplifiedChinese": "Diggy-MO’",
-      "_korean": "Diggy-MO'"
+      "_korean": "Diggy-MO’"
+    },
+    {
+      "_id": "Lyricist_Name_100114",
+      "_japanese": "牧野太洋",
+      "_english": "牧野太洋",
+      "_traditionalChinese": "牧野太洋",
+      "_simplifiedChinese": "牧野太洋",
+      "_korean": "牧野太洋"
     },
     {
       "_id": "MemberGachaVoice_51",
@@ -49911,6 +50647,22 @@
       "_traditionalChinese": "放馬過來吧，未來！",
       "_simplifiedChinese": "放马过来吧，未来！",
       "_korean": "덤벼봐, 미래!"
+    },
+    {
+      "_id": "MemberGachaVoice_68",
+      "_japanese": "今日はどんなものに出会えるのだろう",
+      "_english": "I wonder what I'll discover today.",
+      "_traditionalChinese": "今天會和什麼樣的事物邂逅呢？",
+      "_simplifiedChinese": "今天会遇到什么呢？",
+      "_korean": "오늘은 어떤 걸 만나게 될까?"
+    },
+    {
+      "_id": "MemberGachaVoice_69",
+      "_japanese": "新しいこと、１つずつ知っていこう！",
+      "_english": "Let's discover something new, one step at a time!",
+      "_traditionalChinese": "一步步地學習新事物吧！",
+      "_simplifiedChinese": "慢慢认识新事物吧！",
+      "_korean": "새로운 걸 하나씩 알아가자!"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -50447,6 +51199,30 @@
       "_traditionalChinese": "微笑，隱於幽暗",
       "_simplifiedChinese": "微笑，隐于幽暗",
       "_korean": "어둠 속에 피어난 미소"
+    },
+    {
+      "_id": "MemberSubtitle_68",
+      "_japanese": "セレンディピタス・ジャーニー",
+      "_english": "Serendipitous Journey",
+      "_traditionalChinese": "邂逅之旅",
+      "_simplifiedChinese": "邂逅之旅",
+      "_korean": "세렌디피터스 저니"
+    },
+    {
+      "_id": "MemberSubtitle_69",
+      "_japanese": "ファースト・スパークル",
+      "_english": "First Sparkle",
+      "_traditionalChinese": "火花初綻",
+      "_simplifiedChinese": "火花初绽",
+      "_korean": "퍼스트 스파클"
+    },
+    {
+      "_id": "MemberSubtitle_70",
+      "_japanese": "イエロー・ブリーズ",
+      "_english": "Yellow Breeze",
+      "_traditionalChinese": "金黃微風",
+      "_simplifiedChinese": "金黄微风",
+      "_korean": "옐로 브리즈"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -52483,10 +53259,10 @@
     {
       "_id": "Music_Tilte_100081",
       "_japanese": "ジャイアント・キラー・チューン",
-      "_english": "ジャイアント・キラー・チューン",
+      "_english": "Giant Killer Tune",
       "_traditionalChinese": "ジャイアント・キラー・チューン",
       "_simplifiedChinese": "ジャイアント・キラー・チューン",
-      "_korean": "ジャイアント・キラー・チューン"
+      "_korean": "Giant Killer Tune"
     },
     {
       "_id": "Music_Tilte_100082",
@@ -52671,6 +53447,14 @@
       "_traditionalChinese": "God's Blood",
       "_simplifiedChinese": "God's Blood",
       "_korean": "신의 이름을"
+    },
+    {
+      "_id": "Music_Tilte_100114",
+      "_japanese": "アイライク・ユアライク",
+      "_english": "I like Your like",
+      "_traditionalChinese": "アイライク・ユアライク",
+      "_simplifiedChinese": "アイライク・ユアライク",
+      "_korean": "I like Your like"
     },
     {
       "_id": "Music_Category_1",
@@ -53235,7 +54019,7 @@
     {
       "_id": "Music_Phonetic_Tilte_100081",
       "_japanese": "じゃいあんと・きらー・ちゅーん",
-      "_english": "じゃいあんと・きらー・ちゅーん",
+      "_english": "Giant Killer Tune",
       "_traditionalChinese": "じゃいあんと・きらー・ちゅーん",
       "_simplifiedChinese": "ジャイアント・キラー・チューン",
       "_korean": "ジャイアント・キラー・チューン"
@@ -53347,7 +54131,7 @@
     {
       "_id": "Music_Phonetic_Tilte_100104",
       "_japanese": "ほほえみのばくだん",
-      "_english": "ほほえみのばくだん",
+      "_english": "Hohoemi no Bakudan",
       "_traditionalChinese": "ほほえみのばくだん",
       "_simplifiedChinese": "ほほえみのばくだん",
       "_korean": "Hohoemi no Bakudan"
@@ -53423,6 +54207,14 @@
       "_traditionalChinese": "かみのなを",
       "_simplifiedChinese": "God's Blood",
       "_korean": "신의 이름을"
+    },
+    {
+      "_id": "Music_Phonetic_Tilte_100114",
+      "_japanese": "あいらいく・ゆあらいく",
+      "_english": "I like Your like",
+      "_traditionalChinese": "あいらいく・ゆあらいく",
+      "_simplifiedChinese": "あいらいく・ゆあらいく",
+      "_korean": "アイライク・ユアライク"
     },
     {
       "_id": "Music_Ruby_Tilte_100001",
@@ -53947,10 +54739,10 @@
     {
       "_id": "Music_Ruby_Tilte_100081",
       "_japanese": "ジャイアント・キラー・チューン",
-      "_english": "ジャイアント・キラー・チューン",
+      "_english": "Giant Killer Tune",
       "_traditionalChinese": "ジャイアント・キラー・チューン",
       "_simplifiedChinese": "ジャイアント・キラー・チューン",
-      "_korean": "ジャイアント・キラー・チューン"
+      "_korean": "Giant Killer Tune"
     },
     {
       "_id": "Music_Ruby_Tilte_100082",
@@ -54132,9 +54924,17 @@
       "_id": "Music_Ruby_Tilte_100113",
       "_japanese": "神の名を",
       "_english": "God's Blood",
-      "_traditionalChinese": "神の名を",
+      "_traditionalChinese": "God's Blood",
       "_simplifiedChinese": "God's Blood",
       "_korean": "신의 이름을"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100114",
+      "_japanese": "アイライク・ユアライク",
+      "_english": "I like Your like",
+      "_traditionalChinese": "アイライク・ユアライク",
+      "_simplifiedChinese": "アイライク・ユアライク",
+      "_korean": "I like Your like"
     },
     {
       "_id": "Option_Preset_Default_Name_1",
@@ -54162,35 +54962,35 @@
     },
     {
       "_id": "Player_Report_Description_1",
-      "_japanese": "自分への嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Me",
-      "_traditionalChinese": "對本人的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对自己的骚扰及攻击性言论",
-      "_korean": "본인 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "自分への嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Me",
+      "_traditionalChinese": "對本人的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对本人的骚扰及攻击行为",
+      "_korean": "본인 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "Player_Report_Description_2",
-      "_japanese": "他者への嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Others",
-      "_traditionalChinese": "對他人的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对他人的骚扰及攻击性言论",
-      "_korean": "타인 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "第三者への嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Third Parties",
+      "_traditionalChinese": "對第三人的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对他人的骚扰及攻击行为",
+      "_korean": "제3자 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "Player_Report_Description_3",
-      "_japanese": "キャラクター・ユニットへの嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Character/Unit",
-      "_traditionalChinese": "對角色或團體的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对角色・组合的骚扰及攻击性言论",
-      "_korean": "캐릭터 및 유닛 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "メンバー・バンドへの嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Members/Bands",
+      "_traditionalChinese": "對團員、樂團的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对成员・乐队的骚扰及攻击行为",
+      "_korean": "멤버 및 밴드 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "Player_Report_Description_4",
-      "_japanese": "わいせつ・性的な発言",
-      "_english": "Obscene/Sexual Remarks",
-      "_traditionalChinese": "猥褻或性暗示言論",
-      "_simplifiedChinese": "淫秽・色情言论",
-      "_korean": "음란 및 성적인 발언"
+      "_japanese": "わいせつ・性的な表現",
+      "_english": "Obscenity/Sexual Expression",
+      "_traditionalChinese": "猥褻或性暗示的表現",
+      "_simplifiedChinese": "淫秽・色情内容",
+      "_korean": "음란 및 성적인 표현"
     },
     {
       "_id": "Player_Report_Description_5",
@@ -54629,7 +55429,7 @@
       "_japanese": "ミッションパスの報酬です。",
       "_english": "This is the reward for Mission Pass.",
       "_traditionalChinese": "任務通行證報酬。",
-      "_simplifiedChinese": "任务通行证奖励。",
+      "_simplifiedChinese": "这是任务通行证奖励。",
       "_korean": "미션 패스 보상입니다."
     },
     {
@@ -54637,16 +55437,16 @@
       "_japanese": "ショップ購入時のおまけです。",
       "_english": "This is the bonus for Shop Purchase.",
       "_traditionalChinese": "商店購買的贈品。",
-      "_simplifiedChinese": "商店购买的赠品。",
+      "_simplifiedChinese": "这是商店购买的赠品。",
       "_korean": "상점 구매 시 보너스입니다."
     },
     {
       "_id": "Present_38",
       "_japanese": "イベントストーリー読了案内に関する補てんです。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Supplemental information regarding the Event Story completion notice.",
+      "_traditionalChinese": "活動故事閱讀完畢提示相關的補償。",
+      "_simplifiedChinese": "这是活动故事阅读完毕提示的补偿。",
+      "_korean": "이벤트 스토리 열람 완료 안내에 대한 보상입니다."
     },
     {
       "_id": "Present_bili_survey",
@@ -55035,7 +55835,7 @@
     {
       "_id": "Season_Pass_Description_Season_Pass_Name_3",
       "_japanese": "お願い、サイドスローミッションパスが解放されます。",
-      "_english": "Unlock Sidearm- Upon the Water Premium Mission Pass.",
+      "_english": "Unlock Sidearm Upon the Water Premium Mission Pass.",
       "_traditionalChinese": "開放拜託了，傾心一擲 Premium任務通行證。",
       "_simplifiedChinese": "解锁拜托了， 倾心一掷任务通行证。",
       "_korean": "부탁해, 사이드 스로 미션 패스가 해제됩니다."
@@ -55043,10 +55843,18 @@
     {
       "_id": "Season_Pass_Description_Season_Pass_Name_4",
       "_japanese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」開催記念 ミッションパスが解放されます。",
-      "_english": "Unlock BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Mission Pass.",
+      "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Mission Pass will be unlocked.",
       "_traditionalChinese": "開放BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 任務通行證。",
       "_simplifiedChinese": "解锁BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 任务通行证。",
       "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 개최 기념 미션 패스가 해제됩니다."
+    },
+    {
+      "_id": "Season_Pass_Description_Season_Pass_Name_5",
+      "_japanese": "Shake Your 魂, Baby!!ミッションパスが解放されます。",
+      "_english": "\"Shake Your Soul, Baby!!\" Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放Shake Your 魂, Baby!! Premium任務通行證。",
+      "_simplifiedChinese": "解锁Shake Your 魂, Baby!!任务通行证。",
+      "_korean": "Shake Your 영혼, Baby!! 미션 패스가 해제됩니다."
     },
     {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
@@ -55390,7 +56198,15 @@
       "_english": "BanG Dream! 13th☆LIVE \"DIMENSIONAL OVERLAP\" Celebration Mission Pass",
       "_traditionalChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」舉辦紀念 任務通行證",
       "_simplifiedChinese": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」举办纪念 任务通行证",
-      "_korean": "BanG Dream! 13th☆LIVE 「DIMENSIONAL OVERLAP」 개최 기념 미션 패스"
+      "_korean": "BanG Dream! 13th☆LIVE「DIMENSIONAL OVERLAP」 개최 기념 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_5",
+      "_japanese": "Shake Your 魂, Baby!!ミッションパス",
+      "_english": "Shake Your Soul, Baby!! Mission Pass",
+      "_traditionalChinese": "Shake Your 魂, Baby!! 任務通行證",
+      "_simplifiedChinese": "Shake Your 魂, Baby!!任务通行证",
+      "_korean": "Shake Your 영혼, Baby!! 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -55849,6 +56665,70 @@
       "_korean": "스타 뽑기 티켓×10"
     },
     {
+      "_id": "Shop_Name_1000000127",
+      "_japanese": "",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "Shake Your 魂, Baby!!高级任务通行证",
+      "_korean": ""
+    },
+    {
+      "_id": "Shop_Name_1000000128",
+      "_japanese": "",
+      "_english": "Ikka Dumb Rock! Chat Room Theme Pack",
+      "_traditionalChinese": "一家Dumb Rock! 聊天室主題禮包",
+      "_simplifiedChinese": "一家Dumb Rock! 聊天室主题礼包",
+      "_korean": "일가 Dumb Rock! 채팅방 테마 패키지"
+    },
+    {
+      "_id": "Shop_Name_1100000001",
+      "_japanese": "",
+      "_english": "Star×120 [MyCard]",
+      "_traditionalChinese": "星鑽×120 [MyCard]",
+      "_simplifiedChinese": "星钻×120 [MyCard]",
+      "_korean": "스타×120 [MyCard]"
+    },
+    {
+      "_id": "Shop_Name_1100000002",
+      "_japanese": "",
+      "_english": "Star×380 [MyCard]",
+      "_traditionalChinese": "星鑽×380 [MyCard]",
+      "_simplifiedChinese": "星钻×380 [MyCard]",
+      "_korean": "스타×380 [MyCard]"
+    },
+    {
+      "_id": "Shop_Name_1100000003",
+      "_japanese": "",
+      "_english": "Star×1260 [MyCard]",
+      "_traditionalChinese": "星鑽×1260 [MyCard]",
+      "_simplifiedChinese": "星钻×1260 [MyCard]",
+      "_korean": "스타×1260 [MyCard]"
+    },
+    {
+      "_id": "Shop_Name_1100000004",
+      "_japanese": "",
+      "_english": "Star×1880 [MyCard]",
+      "_traditionalChinese": "星鑽×1880 [MyCard]",
+      "_simplifiedChinese": "星钻×1880 [MyCard]",
+      "_korean": "스타×1880 [MyCard]"
+    },
+    {
+      "_id": "Shop_Name_1100000005",
+      "_japanese": "",
+      "_english": "Star×2760 [MyCard]",
+      "_traditionalChinese": "星鑽×2760 [MyCard]",
+      "_simplifiedChinese": "星钻×2760 [MyCard]",
+      "_korean": "스타×2760 [MyCard]"
+    },
+    {
+      "_id": "Shop_Name_1100000006",
+      "_japanese": "",
+      "_english": "Star×4100 [MyCard]",
+      "_traditionalChinese": "星鑽×4100 [MyCard]",
+      "_simplifiedChinese": "星钻×4100 [MyCard]",
+      "_korean": "스타×4100 [MyCard]"
+    },
+    {
       "_id": "Shop_Description_2",
       "_japanese": "スター120個(有償120個)を購入できます。",
       "_english": "Includes 120 Stars (120 Paid Stars).",
@@ -56123,10 +57003,10 @@
     {
       "_id": "Shop_Description_1000000117",
       "_japanese": "ミッションパスのプレミアムパスを購入できます。",
-      "_english": "Event Premium Mission Pass + 320 Paid Stars.",
-      "_traditionalChinese": "可購買活動專屬Premium任務通行證與付費星鑽320個。",
-      "_simplifiedChinese": "可购买活动专属高级任务通行证和付费星钻320个。",
-      "_korean": "미션 패스 중 프리미엄 미션 패스와 유료 스타 320개를 구매할 수 있습니다."
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
     },
     {
       "_id": "Shop_Description_1000000118",
@@ -56183,6 +57063,54 @@
       "_traditionalChinese": "可購買星鑽轉蛋券10張。",
       "_simplifiedChinese": "可购买星钻招募券10张。",
       "_korean": "스타 뽑기 티켓 10장을 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000001",
+      "_japanese": "",
+      "_english": "Includes 120 Stars (120 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽120個（含付費星鑽120個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻120个（含付费120个）及LIVE BOOST饮料1个",
+      "_korean": "스타 120개(유료 120개)와 부스트 드링크 1개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000002",
+      "_japanese": "",
+      "_english": "Includes 380 Stars (380 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽380個（付費380個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻380个（含付费380个）及LIVE BOOST饮料1个",
+      "_korean": "스타 380개(유료 380개)와 부스트 드링크 1개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000003",
+      "_japanese": "",
+      "_english": "Includes 1,260 Stars (1,260 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽1260個（付費1260個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻1260个（含付费1260个）及LIVE BOOST饮料1个",
+      "_korean": "스타 1260개(유료 1260개)와 부스트 드링크 1개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000004",
+      "_japanese": "",
+      "_english": "Includes 1,440 Stars (1,440 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽1880個（付費1880個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻1880个（含付费1880个）及LIVE BOOST饮料1个",
+      "_korean": "스타 1880개(유료 1880개)와 부스트 드링크 1개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000005",
+      "_japanese": "",
+      "_english": "Includes 2,760 Stars (2,760 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽2760個（付費2760個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻2760个（含付费2760个）及LIVE BOOST饮料1个",
+      "_korean": "스타 2760개(유료 2760개)와 부스트 드링크 1개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1100000006",
+      "_japanese": "",
+      "_english": "Includes 4,100 Stars (4,100 Paid Stars) + 1 BOOST DRINK.",
+      "_traditionalChinese": "可購買星鑽4100個（付費4100個）及LIVE BOOST飲料1個",
+      "_simplifiedChinese": "可购买星钻4100个（含付费4100个）及LIVE BOOST饮料1个",
+      "_korean": "스타 4100개(유료 4100개)와 부스트 드링크 1개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_70000001",
@@ -58497,6 +59425,14 @@
       "_korean": "부탁해, 사이드 스로 보상 스탬프"
     },
     {
+      "_id": "Stamp_Name_76",
+      "_japanese": "Shake Your 魂, Baby!! 報酬スタンプ",
+      "_english": "\"Shake Your Soul, Baby!!\" reward stamp",
+      "_traditionalChinese": "Shake Your 魂, Baby!! 報酬貼圖",
+      "_simplifiedChinese": "Shake Your 魂, Baby!! 奖励表情",
+      "_korean": "Shake Your 영혼, Baby!! 보상 스탬프"
+    },
+    {
       "_id": "Stamp_Name_1000000001",
       "_japanese": "",
       "_english": "ABRACADABRA",
@@ -58617,6 +59553,14 @@
       "_korean": "다시금 활기를 되찾은 millsage. 하지만 나기만은 홀로 어두운 표정이다.\r\n머릿속을 맴도는 것은 동경과 바닥을 스치는 신발 소리.\r\n그것은 전부 다 가슴속 깊이 묻어두었던 기억들이었다.                "
     },
     {
+      "_id": "Story_Chapter_Description_8",
+      "_japanese": "好きな色、好きな味、好きなもの。\r\nみんな当たり前に答えられることだが、寧月はいつも答えられない。\r\nこの問いの正解を探すため、寧月は蓬咲にある頼みごとをする。                ",
+      "_english": "Favorite colors, favorite flavors, favorite things.\r\nWhile everyone else can answer these questions without a second thought, Shizuku can't seem to find the answers.\r\nTo find her own answers, Shizuku asks Yomogi for a favor.",
+      "_traditionalChinese": "喜歡的顏色、喜歡的味道、喜歡的東西。\r\n這些大家都能理所當然回答的問題，寧月卻總是答不上來。\r\n為了尋找心中的答案，寧月向蓬咲提出了一個特別的請求。 \r\n",
+      "_simplifiedChinese": "喜欢的颜色、喜欢的味道、喜欢的东西。\r\n这些大家都能脱口而出的东西，宁月却总是回答不上来。\r\n为了寻找这个问题的正确答案，宁月拜托了蓬咲一件事。",
+      "_korean": "좋아하는 색, 좋아하는 맛, 좋아하는 것.\r\n누구나 당연하게 대답할 수 있는 질문이지만, 시즈쿠는 대답하지 못한다.\r\n이 질문의 답을 찾기 위해 시즈쿠는 요모기에게 한 가지 부탁을 하게 된다.        "
+    },
+    {
       "_id": "Story_Chapter_Description_33",
       "_japanese": "Happy Birthday 26-27",
       "_english": "Happy Birthday 26-27",
@@ -58679,6 +59623,14 @@
       "_traditionalChinese": "拜託了，傾心一擲",
       "_simplifiedChinese": "拜托了，倾心一掷",
       "_korean": "부탁해, 사이드 스로"
+    },
+    {
+      "_id": "Story_Chapter_Name_8",
+      "_japanese": "Shake Your 魂, Baby!!",
+      "_english": "Shake Your Soul, Baby!!",
+      "_traditionalChinese": "Shake Your 魂, Baby!!",
+      "_simplifiedChinese": "Shake Your 魂, Baby!!",
+      "_korean": "Shake Your 영혼, Baby!!"
     },
     {
       "_id": "Story_Chapter_Name_33",
@@ -59869,7 +60821,7 @@
       "_japanese": "（どうにかして、力になれないかな）",
       "_english": "(Isn't there some way I can help?)",
       "_traditionalChinese": "（我有沒有什麼辦法能幫上忙呢？）",
-      "_simplifiedChinese": "（哪怕一点也好，有什么我能帮上忙的吗）",
+      "_simplifiedChinese": "（哪怕一点也好，我能不能想点办法帮上她的忙呢）",
       "_korean": "(어떻게든 힘이 될 수 없을까)"
     },
     {
@@ -59901,8 +60853,80 @@
       "_japanese": "（すごいな、蛍は）",
       "_english": "(Hotaru really is amazing.)",
       "_traditionalChinese": "（螢真厲害呢。）",
-      "_simplifiedChinese": "萤好厉害啊",
+      "_simplifiedChinese": "（萤好厉害啊）",
       "_korean": "(호타루는 참, 대단하네)"
+    },
+    {
+      "_id": "Story_Episode_Description_801",
+      "_japanese": "……ひとつ、頼みがある",
+      "_english": "....I have one favor to ask.",
+      "_traditionalChinese": "……有件事想要拜託妳。",
+      "_simplifiedChinese": "……有件事，想拜托你",
+      "_korean": ".......너한테 부탁하고 싶은 게 하나 있어"
+    },
+    {
+      "_id": "Story_Episode_Description_802",
+      "_japanese": "【Q. あなたの好きなものは？】",
+      "_english": "[Q. What do you like?]",
+      "_traditionalChinese": "【Q. 妳喜歡的東西是什麼？】",
+      "_simplifiedChinese": "【Q. 你喜欢的东西是什么？】",
+      "_korean": "[Q. 당신이 좋아하는 것은?]"
+    },
+    {
+      "_id": "Story_Episode_Description_803",
+      "_japanese": "わかりました。街の電器屋魂、見せましょう！",
+      "_english": "I'll show you the spirit of a local electronics store!",
+      "_traditionalChinese": "我明白了，就讓各位看看社區電器行的精神！",
+      "_simplifiedChinese": "我明白了。就让你们见识见识本地电器店的灵魂！",
+      "_korean": "알겠습니다. 동네 전자제품 매장의 혼을 보여 드리죠!"
+    },
+    {
+      "_id": "Story_Episode_Description_804",
+      "_japanese": "？　この寿司は一体……",
+      "_english": "? What exactly is this sushi...?",
+      "_traditionalChinese": "？　這壽司究竟是……",
+      "_simplifiedChinese": "？这盘寿司究竟是……",
+      "_korean": "? 이 초밥은 대체......"
+    },
+    {
+      "_id": "Story_Episode_Description_805",
+      "_japanese": "『疑問の答えになるかはわかりませんが、\r\n何かの足しになれば幸いです』",
+      "_english": "\"I don't know if this will answer your question,\r\nbut I hope it's of some help.\"",
+      "_traditionalChinese": "「雖然不知道能不能解答妳的疑惑，\r\n但希望這多少能對妳有所幫助」",
+      "_simplifiedChinese": "『虽不知能否解答您的疑问，\r\n但倘若能对您有所助益，便是我的荣幸』",
+      "_korean": "「의문에 답이 될지는 모르겠습니다만,\r\n조금이나마 보탬이 되기를 바랍니다」"
+    },
+    {
+      "_id": "Story_Episode_Description_806",
+      "_japanese": "……正解が、わからないのだ",
+      "_english": "...Because I don't know the right answer.",
+      "_traditionalChinese": "……因為，我不知道什麼才是正確答案。",
+      "_simplifiedChinese": "……因为，我不知道什么是正确答案",
+      "_korean": "......정답을 모르겠거든"
+    },
+    {
+      "_id": "Story_Episode_Description_807",
+      "_japanese": "『好き』は探し中だ。\r\nでも……",
+      "_english": "I'm still searching for something I \"like.\"\r\nBut...",
+      "_traditionalChinese": "「喜歡」的東西還在尋找，\r\n但是……",
+      "_simplifiedChinese": "我还在寻找『喜欢』。\r\n不过……",
+      "_korean": "「좋아하는 것」은 아직 찾는 중이야.\r\n하지만......"
+    },
+    {
+      "_id": "Story_Episode_Description_808",
+      "_japanese": "聞いてもらって嬉しかったんじゃない？",
+      "_english": "Maybe you were happy that they listened?",
+      "_traditionalChinese": "應該是因為有人聽妳說，讓妳很開心吧？",
+      "_simplifiedChinese": "大概是因为当时有人听你分享，让你觉得很开心吧？",
+      "_korean": "엄마 아빠가 얘기 들어주셔서 기분 좋았던 거 아니야?"
+    },
+    {
+      "_id": "Story_Episode_Description_809",
+      "_japanese": "無理せず寝な。つーか寝て、お願い",
+      "_english": "Don't push yourselves, just sleep. I mean, please sleep.",
+      "_traditionalChinese": "不要勉強了睡吧，應該說，拜託妳們睡一下。",
+      "_simplifiedChinese": "别硬撑了，睡吧。不对，算我求你们快睡吧",
+      "_korean": "무리하지 말고 눈 좀 붙여. 아니, 제발 좀 자"
     },
     {
       "_id": "Story_Episode_Description_3301",
@@ -60207,6 +61231,14 @@
       "_traditionalChinese": "茉幌＆凪",
       "_simplifiedChinese": "茉幌&凪",
       "_korean": "마호로 & 나기"
+    },
+    {
+      "_id": "Snap_Name_Yomogi_Chieri_Shizuku",
+      "_japanese": "蓬咲&ちえり&寧月",
+      "_english": "Yomogi & Chieri & Shizuku",
+      "_traditionalChinese": "蓬咲＆千櫻梨＆寧月",
+      "_simplifiedChinese": "蓬咲&千樱梨&宁月",
+      "_korean": "요모기 & 치에리 & 시즈쿠"
     },
     {
       "_id": "SupportDiary_26",
@@ -60551,6 +61583,30 @@
       "_traditionalChinese": "為了讓各位更加盡情領略Ave Mujica的世界，\r\n我們決定舉辦一場特別的假面舞會。\r\n還請盡情享受這段甘美的時光。",
       "_simplifiedChinese": "为让诸位能更加沉浸于Ave Mujica的世界，\r\n特此举办一场特别的假面舞会。\r\n愿您尽情享受这甘美的时光。",
       "_korean": "Ave Mujica의 세계를 더욱 깊이 만끽하실 수 있도록\r\n특별한 매스커레이드를 개최하게 되었습니다.\r\n감미로운 순간을 마음껏 즐겨 주시기 바랍니다."
+    },
+    {
+      "_id": "SupportDiary_71",
+      "_japanese": "『好きなものを選んでいいって』\r\n\r\nくまさん、うさぎさん、ひつじさん\r\nぬいぐるみは　きっとふせいかい\r\nふしぎなかたちのパズル\r\nやってみたいけど　きっとふせいかい\r\n\r\nあ、とりさんかわいい\r\nクッキーのはこだ\r\nおかしはほとんど　ふせいかいだけど\r\nクッキーはおちゃのじかんにたべるから\r\n\r\nおかあさま　これはせいかいですか？\r\n……わかりました\r\n\r\nえほんはまえにも　せいかいだった\r\nおかあさま　これはどうですか？\r\n……では、これにします",
+      "_english": "\"You can choose whatever you like\"\r\n\r\nMr. Bear, Mr. Rabbit, Mr. Sheep\r\nPlush toys must be incorrect\r\nA puzzle with a strange shape\r\nI want to try it, but it must be incorrect\r\n\r\nAh, the bird is cute\r\nIt's a box of cookies\r\nMost sweets are incorrect, but\r\nBecause cookies are eaten at tea time\r\n\r\nMother, is this correct?\r\n...I understand\r\n\r\nPicture books were correct before, too\r\nMother, how about this?\r\n...Then, I'll go with this",
+      "_traditionalChinese": "「爸爸說可以選自己喜歡的東西喔。」\r\n\r\n熊熊、兔兔、羊羊。\r\n選玩偶一定不對。\r\n雖然很想玩奇怪形狀的拼圖，\r\n但一定也不對。\r\n\r\n啊，鳥鳥好可愛。\r\n是餅乾的盒子。\r\n選零食幾乎都不對，\r\n可是餅乾可以在喝茶的時候配著吃。\r\n\r\n媽媽，選這個是對的嗎？\r\n……我明白了。\r\n\r\n之前選圖畫書是對的。\r\n媽媽，是這個嗎？\r\n……那我要選這個。",
+      "_simplifiedChinese": "『说是可以选自己喜欢的』\r\n\r\n小熊、小兔、小羊\r\n选玩偶肯定是不对的\r\n形状奇怪的拼图\r\n好想玩玩看 但肯定也是不对的\r\n\r\n啊，小鸟好可爱\r\n是饼干盒\r\n虽说选零食基本都不对\r\n但饼干是要在喝茶时吃的\r\n\r\n母亲 选这个是对的吗？\r\n……我明白了\r\n\r\n以前选图画书就是对的\r\n母亲，那这个呢？\r\n……那，我就选这个了",
+      "_korean": "「좋아하는 걸 골라도 된다고 하셨어」\r\n\r\n곰돌이, 토끼, 양\r\n인형은 분명 오답일 거야\r\n신기한 모양의 퍼즐\r\n해보고 싶지만 분명 오답일 거야\r\n\r\n아, 귀여운 새다\r\n쿠키 상자구나\r\n과자는 대부분 오답이지만\r\n쿠키는 다과 시간에 먹으니까\r\n\r\n어머니, 이건 정답인가요?\r\n......알겠습니다\r\n\r\n그림책은 전에도 정답이었어\r\n어머니, 이건 어떤가요?\r\n......그럼, 이걸로 할게요"
+    },
+    {
+      "_id": "SupportDiary_72",
+      "_japanese": "ぜえっ、はあっ、ぜえっ、はあっ\r\n怖い、帰りたい、怖い、帰りたいっ！！\r\n人、多い！　目、怖い！\r\n心臓が、どんどん、速く、うるさくなって……！！\r\n\r\n『酸素』\r\n\r\nはあ〜〜〜……\r\n助かった　心臓が捩じ切れちゃうかと思った\r\n\r\n『１、２、１、２、１、２』\r\nあううっ、前に進むしかないんですか！？\r\n足腰もよわよわで\r\n心臓もボロボロになりかけてるのに！？\r\n\r\n『１、２、１、２』\r\nうう〜〜怖いのに、帰りたいのに〜〜！\r\n右ッ、左ッ、右ッ、左ッ\r\nぜえっ、はあっ、ぜえっ、はあっ",
+      "_english": "*Huff*... Haaah... *Huff*... Haaah\r\nScared, want to go home, scared, want to go home!!\r\nSo many people! Eyes are scary!\r\nMy heart is beating faster and faster, louder and louder...!!\r\n\r\n\"Oxygen\"\r\n\r\nHaahhh...\r\nThank goodness. I thought my heart was going to burst\r\n\r\n\"1, 2, 1, 2, 1, 2\"\r\nAhhh, do I have no choice but to move forward!?\r\nMy legs and hips are so weak\r\nand my heart is about to give out too!?\r\n\r\n\"1, 2, 1, 2\"\r\nUuuu... even though I'm scared, even though I want to go home...!\r\nRight, left, right, left\r\n*Huff*... Haaah... *Huff*... Haaah",
+      "_traditionalChinese": "呼、呼、呼、呼……\r\n好恐怖，想回家了……好恐怖，我想回家！！\r\n人好多！視線好恐怖！\r\n心臟不只越跳越快，還越跳越大聲……！！\r\n\r\n「氧氣。」\r\n\r\n呼……\r\n得救了，還以為心臟要爆炸了。\r\n\r\n「1、2、1、2、1、2。」\r\n啊嗚嗚，難道一定得往前走嗎！？\r\n我的腿和腰都超軟弱，\r\n心臟也快撐不下去了耶！？\r\n\r\n「1、2、1、2。」\r\n嗚嗚～～好恐怖，我想回家～～！\r\n右、左、右、左！\r\n呼、呼、呼、呼……",
+      "_simplifiedChinese": "呼，哈，呼，哈\r\n好可怕，想回家，好可怕，想回家！！\r\n人好多！视线好可怕！\r\n心跳越来越快，声音大得吵死人了……！！\r\n\r\n『氧气』\r\n\r\n哈～～～\r\n得救了，我还以为心脏要炸开了\r\n\r\n『1、2、1、2、1、2』\r\n啊呜呜，难道我只能往前走吗！？\r\n明明双腿都软绵绵的了\r\n心脏也都快撑不住了啊！？\r\n\r\n『1、2、1、2』\r\n呜呜～～明明很害怕，明明想回家～～！\r\n右，左，右，左\r\n呼，哈，呼，哈",
+      "_korean": "헉, 하아, 헉, 하아\r\n무서워, 집에 갈래, 무서워, 집에 갈래!!\r\n사람, 많아! 시선, 무서워!\r\n심장이, 점점, 빠르게, 시끄럽게 뛰어......!!\r\n\r\n「산소」\r\n\r\n하아~~~\r\n살았다 심장이 터져버리는 줄 알았네\r\n\r\n「1, 2, 1, 2, 1, 2」\r\n아으으, 앞으로 가는 수밖에 없나요!?\r\n다리도 후들후들거리고\r\n심장도 너덜너덜해지기 직전인데!?\r\n\r\n「1, 2, 1, 2」\r\n으으~~ 무서운데, 집에 가고 싶은데~~!\r\n오른발, 왼발, 오른발, 왼발\r\n헉, 하아, 헉, 하아"
+    },
+    {
+      "_id": "SupportDiary_73",
+      "_japanese": "ちえり連合の資金が\r\nたったの、これだけ……！\r\n部下のためにがんばってる　すご〜いちえりが\r\nたったの、３皿……！\r\n\r\n寧月は好きなもの探しをがんばって\r\n蓬咲も寧月の師匠としてがんばってるのに\r\nお腹いっぱい食べられないのは\r\nおかしいです\r\n\r\n何よりこのちえりが\r\n連合トップとして\r\n部下を連れてお寿司なんて\r\nちえりもすごくなったと思ったのに……\r\n\r\nこれじゃあ格好つかないじゃないですか〜〜〜！！",
+      "_english": "Chieri Union's funds are\r\nonly this much...!\r\nAmaaazing Chieri, who's working hard for her subordinates\r\nis at only three plates...!\r\n\r\nShizuku is working hard at searching for things she likes\r\nYomogi is also working hard as Shizuku's master, and yet\r\nthe fact that she can't eat her fill is\r\nstrange\r\n\r\nAbove all, this Chieri\r\nas the union leader\r\ntaking her subordinates out for sushi and such\r\nI thought Chieri had become amazing too, but...\r\n\r\nThis doesn't make her look cool at all, does it~~~!!",
+      "_traditionalChinese": "千櫻梨聯盟的資金\r\n居然只有這麼一點……！\r\n為了部下而努力的超～厲害千櫻梨\r\n只能買三盤壽司……！\r\n\r\n寧月努力尋找喜歡的東西，\r\n蓬咲也作為寧月的師父這麼努力，\r\n兩人卻沒辦法吃飽，\r\n這樣太奇怪了。\r\n\r\n最重要的是，\r\n千櫻梨身為聯盟首領\r\n帶著部下去吃壽司，\r\n還以為千櫻梨變得很厲害了……\r\n\r\n這種模樣可不帥氣啊～～～！！",
+      "_simplifiedChinese": "千樱梨联盟的资金\r\n居然只有这么一点……！\r\n为了部下努力拼搏，超～厉害的千樱梨\r\n居然只能吃3盘……！\r\n\r\n宁月在努力寻找自己喜欢的东西\r\n蓬咲也作为宁月的师傅在拼命\r\n却不能让大家尽情吃饱肚子\r\n这太不合理了\r\n\r\n更何况我千樱梨\r\n身为联盟头号人物\r\n带着部下去吃寿司\r\n本来还觉得自己也变厉害了……\r\n\r\n这样岂不是太没面子了嘛～～～！！",
+      "_korean": "치에리 연합의 자금이\r\n고작, 이것뿐이라니......!\r\n부하들을 위해 애쓰는 대단~한 치에리가\r\n겨우, 3접시......!\r\n\r\n시즈쿠는 좋아하는 걸 찾으려고 애쓰고 있고\r\n요모기도 시즈쿠의 스승으로서 열심히 하고 있는데\r\n배불리 먹지 못한다니\r\n말도 안 돼요\r\n\r\n무엇보다 이 치에리가\r\n연합 리더로서\r\n부하들을 데리고 초밥집 회식이라니\r\n치에리도 꽤 훌륭해졌구나 싶었는데......\r\n\r\n이래서야 폼이 안 나잖아요~~~!!"
     },
     {
       "_id": "SupportSubtitle_1",
@@ -61111,6 +62167,30 @@
       "_traditionalChinese": "Abracadabra",
       "_simplifiedChinese": "Abracadabra",
       "_korean": "Abracadabra"
+    },
+    {
+      "_id": "SupportSubtitle_71",
+      "_japanese": "『正解』を選べるまで",
+      "_english": "Until Finding the Right Answer",
+      "_traditionalChinese": "直到選出「正確答案」",
+      "_simplifiedChinese": "直到选择了「正确答案」",
+      "_korean": "정답을 선택할 수 있을 때까지"
+    },
+    {
+      "_id": "SupportSubtitle_72",
+      "_japanese": "酸素必須！よわよわ珍道中",
+      "_english": "Out of Oxygen! A Wobbly Adventure",
+      "_traditionalChinese": "氧氣必備！弱不禁風的奇旅",
+      "_simplifiedChinese": "氧气必备！弱不禁风的奇旅",
+      "_korean": "산소 필수! 나약한 인간의 좌충우돌 여행기"
+    },
+    {
+      "_id": "SupportSubtitle_73",
+      "_japanese": "１７７５円也",
+      "_english": "1,775 Yen",
+      "_traditionalChinese": "一共1775圓",
+      "_simplifiedChinese": "一共1775圆",
+      "_korean": "1,775엔이로다"
     },
     {
       "_id": "Support_Skill_Description_1",
@@ -63033,6 +64113,22 @@
       "_korean": "기왕 하는 거, 올해는 수제 초콜릿에 도전해 볼까"
     },
     {
+      "_id": "Talk_Text_120",
+      "_japanese": "忘れられないマスカレードにするから。楽しみにしてて",
+      "_english": "I'll make it a masquerade you'll never forget. Look forward to it.",
+      "_traditionalChinese": "我會讓大家永遠無法忘懷這場假面舞會。敬請期待吧。",
+      "_simplifiedChinese": "我会带来一场难忘的假面舞会的。敬请期待吧",
+      "_korean": "잊지 못할 매스커레이드로 만들 테니까. 기대해"
+    },
+    {
+      "_id": "Talk_Text_121",
+      "_japanese": "今日も全力で歌ってくるね",
+      "_english": "I'm gonna go sing my heart out again today, okay?",
+      "_traditionalChinese": "今天也會盡全力去唱歌。",
+      "_simplifiedChinese": "今天我也会全力去唱歌哦",
+      "_korean": "오늘도 진심을 다해 노래할게"
+    },
+    {
       "_id": "Talk_Text_122",
       "_japanese": "えっと……お祝い、ありがとう……",
       "_english": "Um... Thank you for celebrating my birthday...",
@@ -63177,6 +64273,22 @@
       "_korean": "초콜릿, 이렇게 많이는 못 먹어. 우미리, 이거 먹을래?"
     },
     {
+      "_id": "Talk_Text_141",
+      "_japanese": "今日は早く寝なさいって祥が言ってた",
+      "_english": "Saki told me to go to bed early today.",
+      "_traditionalChinese": "祥要我今天早點睡。",
+      "_simplifiedChinese": "祥叫我今天早点睡",
+      "_korean": "오늘은 일찍 자라고 사키가 그랬어"
+    },
+    {
+      "_id": "Talk_Text_142",
+      "_japanese": "みんなが望むものを……",
+      "_english": "What everyone wants...",
+      "_traditionalChinese": "大家所期望的事物……",
+      "_simplifiedChinese": "大家所期望的……",
+      "_korean": "모두가 바라는 것을......"
+    },
+    {
       "_id": "Talk_Text_143",
       "_japanese": "沢山のお祝いありがとう。応えられるようにがんばるね",
       "_english": "Thank you for all the birthday wishes. I'll do my best to live up to them.",
@@ -63319,6 +64431,22 @@
       "_traditionalChinese": "我已經列好下個月的回禮清單了。",
       "_simplifiedChinese": "下个月的回礼已经列好清单了",
       "_korean": "다음 달 답례품은 이미 리스트업을 마쳤어요"
+    },
+    {
+      "_id": "Talk_Text_162",
+      "_japanese": "準備は万全です。あとは最高の本番を迎えるだけ",
+      "_english": "Everything is ready. Now all that's left is to give our best performance.",
+      "_traditionalChinese": "準備萬無一失，只差迎接最棒的正式演出。",
+      "_simplifiedChinese": "万事俱备。接下来只等迎接最棒的演出了",
+      "_korean": "준비는 완벽해요. 이제 최고의 본 무대를 보여주는 일만 남았죠"
+    },
+    {
+      "_id": "Talk_Text_163",
+      "_japanese": "積み重ねてきた成果を、この舞台でお見せします",
+      "_english": "I'll show you the results of all our hard work on this stage.",
+      "_traditionalChinese": "我會在這個舞台，將累積的成果展現給大家看。",
+      "_simplifiedChinese": "至今积累的成果，将在这个舞台上展现给各位",
+      "_korean": "지금껏 쌓아온 모든 것을 이 무대에서 보여드리겠어요"
     },
     {
       "_id": "Talk_Text_164",
@@ -63473,6 +64601,22 @@
       "_korean": "초콜릿 준비 끝! 왠지 명절 선물 돌리는 기분이네~"
     },
     {
+      "_id": "Talk_Text_183",
+      "_japanese": "やるだけやった。あとは本番で出し切るだけ",
+      "_english": "We did all we could. Now we just gotta give it everything onstage.",
+      "_traditionalChinese": "該做的都做了，接著只要在正式演出時發揮全力就行了。",
+      "_simplifiedChinese": "该做的都做了。接下来只要在正式演出时全部发挥出来就行",
+      "_korean": "할 만큼 했어. 남은 건 본 무대에서 다 쏟아내는 것뿐!"
+    },
+    {
+      "_id": "Talk_Text_184",
+      "_japanese": "この熱気、マスカレードで返さなきゃね",
+      "_english": "We've gotta give this excitement back with masquerade, huh.",
+      "_traditionalChinese": "這份熱情，得用假面舞會來回報才行。",
+      "_simplifiedChinese": "这股狂热，得用假面舞会来回应才行呢",
+      "_korean": "이 열기는 매스커레이드로 보답해 줘야겠어"
+    },
+    {
       "_id": "Talk_Text_185",
       "_japanese": "ファンのみんなからいっぱいお祝いしてもらっちゃった",
       "_english": "I got so much birthday love from all my fans.",
@@ -63623,6 +64767,22 @@
       "_traditionalChinese": "我從同班同學那裡收到了色彩繽紛的友情巧克力。",
       "_simplifiedChinese": "从同班同学那里收到了五颜六色的友情巧克力呢",
       "_korean": "반 친구한테서 알록달록한 우정 초콜릿을 받았답니다"
+    },
+    {
+      "_id": "Talk_Text_204",
+      "_japanese": "明日はゲストを虜にする舞台をお届けしますわ",
+      "_english": "Tomorrow, we shall deliver a stage that captivates every guest.",
+      "_traditionalChinese": "明天，我們將帶來讓所有觀眾成為俘虜的舞台。",
+      "_simplifiedChinese": "明天我将献上能让所有观众着迷的舞台",
+      "_korean": "내일은 관객들을 매료시킬 무대를 선사하겠어요"
+    },
+    {
+      "_id": "Talk_Text_205",
+      "_japanese": "本日のマスカレード、すべてを懸けて挑みますわ",
+      "_english": "I shall take on today's masquerade with everything I have.",
+      "_traditionalChinese": "今天的假面舞會，我會賭上一切去挑戰。",
+      "_simplifiedChinese": "今日的假面舞会，我当赌上一切去迎战",
+      "_korean": "오늘의 매스커레이드는 제 모든 것을 걸고 임하겠어요"
     },
     {
       "_id": "Talk_Text_206",
@@ -65267,7 +66427,7 @@
     {
       "_id": "Talk_Text_422",
       "_japanese": "アイス持ってきたよ〜！　今日はどれにする？",
-      "_english": "I brought ice cream~! Which one are you picking today?",
+      "_english": "I brought Pockin'ice~! Which one are you picking today?",
       "_traditionalChinese": "我帶冰棒過來了喔～！今天要選哪一種？",
       "_simplifiedChinese": "我拿棒棒冰来了哦～！今天吃哪种？",
       "_korean": "아이스바 사 왔어~! 오늘은 어떤 거 먹을래?"
@@ -65307,7 +66467,7 @@
     {
       "_id": "Talk_Text_427",
       "_japanese": "チェリ〜！　私とアイス、ポッキンしよ！",
-      "_english": "Cherie~! Come split an ice pop with me!",
+      "_english": "Cherie~! Come split a Pockin'ice with me!",
       "_traditionalChinese": "千梨～！跟我一起分棒棒冰吧！",
       "_simplifiedChinese": "千梨～！和我一起分吃棒棒冰吧！",
       "_korean": "체리~! 나랑 아이스바 반씩 나눠 먹자!"
@@ -65899,7 +67059,7 @@
     {
       "_id": "Talk_Text_509",
       "_japanese": "商店街の方からいちごを貰った。これがお裾分け……！",
-      "_english": "Someone from the shopping district gave me strawberries. So this is sharing with neighbors...!",
+      "_english": "Someone from the shopping street gave me strawberries. So this is sharing with neighbors...!",
       "_traditionalChinese": "商店街的人給了我草莓。這就是「分享」……！",
       "_simplifiedChinese": "从商店街的人那里收到了草莓。这就是所谓的邻里分享吧……！",
       "_korean": "상가 분들께 딸기를 받았어. 이것이 바로 나눔이라는 것인가......!"
@@ -77882,19 +79042,19 @@
     },
     {
       "_id": "ui_report_violation_dialog_reason_harassment_at_me",
-      "_japanese": "自分への嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Me",
-      "_traditionalChinese": "對本人的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对自己的骚扰及攻击性言论",
-      "_korean": "본인 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "自分への嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Me",
+      "_traditionalChinese": "對本人的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对本人的骚扰及攻击行为",
+      "_korean": "본인 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "ui_report_violation_dialog_reason_harassment_at_character",
-      "_japanese": "キャラクター・ユニットへの嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Character/Unit",
-      "_traditionalChinese": "對角色或團體的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对角色・组合的骚扰及攻击性言论",
-      "_korean": "캐릭터 및 유닛 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "メンバー・バンドへの嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Members/Bands",
+      "_traditionalChinese": "對團員、樂團的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对成员・乐队的骚扰及攻击行为",
+      "_korean": "멤버 및 밴드 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "ui_report_violation_dialog_reason_misconduct",
@@ -77906,19 +79066,19 @@
     },
     {
       "_id": "ui_report_violation_dialog_reason_aggressive_remarks",
-      "_japanese": "他者への嫌がらせ・攻撃的な発言",
-      "_english": "Harassment/Aggressive Remarks Toward Others",
-      "_traditionalChinese": "對他人的騷擾、攻擊性言論",
-      "_simplifiedChinese": "针对他人的骚扰及攻击性言论",
-      "_korean": "타인 대상 괴롭힘 및 공격적 발언"
+      "_japanese": "第三者への嫌がらせ・攻撃的な行動",
+      "_english": "Harassment/Aggressive Behavior Toward Third Parties",
+      "_traditionalChinese": "對第三人的騷擾、具攻擊性行動",
+      "_simplifiedChinese": "针对他人的骚扰及攻击行为",
+      "_korean": "제3자 대상 괴롭힘 및 공격적 행위"
     },
     {
       "_id": "ui_report_violation_dialog_reason_sexual_remarks",
-      "_japanese": "わいせつ・性的な発言",
-      "_english": "Obscene/Sexual Remarks",
-      "_traditionalChinese": "猥褻或性暗示言論",
-      "_simplifiedChinese": "淫秽・色情言论",
-      "_korean": "음란 및 성적인 발언"
+      "_japanese": "わいせつ・性的な表現",
+      "_english": "Obscenity/Sexual Expression",
+      "_traditionalChinese": "猥褻或性暗示的表現",
+      "_simplifiedChinese": "淫秽・色情内容",
+      "_korean": "음란 및 성적인 표현"
     },
     {
       "_id": "ui_report_violation_dialog_reason_violation_of_service",
@@ -78243,7 +79403,7 @@
     {
       "_id": "cbt_close_body",
       "_japanese": "クローズドβテストにご参加いただき、\r\n誠にありがとうございました。\r\nいただいたご意見・ご感想をもとに、\r\n正式リリースに向けて開発を進めてまいります。\r\n\r\n今後の開発の参考とさせていただきますので、\r\n<u><color=#2CA5CE><link=\"https://questant.jp/q/1OFDELMB\">アンケート</link></color></u>より皆さまの声をお聞かせください。",
-      "_english": "Thank you very much\r\nfor participating in the closed beta test.\r\nWe will use your feedback and impressions\r\nto continue development toward the official release.\r\n\r\nTo help guide future development, please share your thoughts with us through the\r\n<u> <color=#2CA5CE><link=\"\"https://discord.gg/ournotes\"\">Official Discord</link></color></u>.",
+      "_english": "Thank you very much\r\nfor participating in the closed beta test.\r\nWe will use your feedback and impressions\r\nto continue development toward the official release.\r\n\r\nTo help guide future development, please share your thoughts with us through the\r\n<u> <color=#2CA5CE><link=\"https://discord.gg/ournotes\">Official Discord</link></color></u>.",
       "_traditionalChinese": "感謝您參與本次CBT。\r\n我們將根據各位提供的意見與感想，\r\n持續進行開發，並朝正式上架邁進。\r\n\r\n您的回饋將成為後續開發的重要參考，\r\n誠摯邀請您透過\r\n<u><color=#2CA5CE><link=\"https://questant.jp/q/1OFDELMB\">官方Discord</link></color></u>與我們分享您的意見。",
       "_simplifiedChinese": "感谢您参与本次封闭Beta测试，\r\n在此致以诚挚的谢意。\r\n我们将基于收集到的意见与反馈，\r\n进一步推进正式开服的开发工作。\r\n\r\n为了给今后的开发提供参考，\r\n恳请您通过<u><color=#2CA5CE><link=\"https://usersurvey.wjx.cn/vm/O8pWtqU.aspx\">调查问卷</link></color></u>分享您的宝贵建议。",
       "_korean": "CBT에 참여해 주셔서\r\n진심으로 감사드립니다.\r\n보내주신 의견과 소감을 바탕으로\r\n정식 출시를 위한 개발을 진행할 예정입니다.\r\n\r\n향후 개발에 참고할 수 있도록\r\n<u><color=#2CA5CE><link=\"\"\"\"https://discord.gg/ournotes\"\"\"\">공식 Discord</link></color></u>에 참여해 주시면 정말 감사하겠습니다."
@@ -81397,7 +82557,7 @@
       "_japanese": "特定商取引法に基づく表示\r\n\r\n■販売事業者の名称、代表者、所在地、電話番号\r\n名称：株式会社ブシロード\r\n所在地：〒164-0011　東京都中野区中央1-38-1\r\n代表者：代表取締役社長　根本 雄貴\r\n電話番号：03-5348-0852\r\n※アプリケーション「バンドリ！アワーノーツ」（以下「本アプリ」といいます。）に関するお問い合わせは、以下「お問い合わせ先」記載のお問い合わせフォームからご利用いただけますようお願い申し上げます。\r\n\r\n■お問い合わせ先\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■販売価格\r\n対象となるデジタルコンテンツ（以下「コンテンツ」といいます。）ごとに、購入手続の際に表示される金額（消費税等込みの金額となります。）\r\n\r\n■商品代金以外の必要料金\r\n・パケット通信料等の端末の利用にともなう通信費用\r\n\r\n■代金の支払時期、方法\r\n(1)支払時期\r\nコンテンツ提供前\r\n(2)支払方法\r\nApp Store, Google Play経由でのアプリ内課金がご利用いただけます。また、スター以外のアイテムの場合、スターでのお支払いのみがご利用いただける場合がございます。支払方法の詳細については各コンテンツの購入手続の際に表示されます。\r\n\r\n■申込期間\r\nコンテンツに申込期間の制限がある場合、購入手続の際に表示されます。\r\n\r\n■商品の提供時期\r\n購入手続完了後、すぐにご利用いただけます。\r\n\r\n■商品提供後の返品・交換について\r\n・返品や交換はお受けできませんので、あらかじめご了承ください。\r\n\r\n■動作環境\r\n本アプリが動作する端末が必要です。動作環境は本アプリの公式サイト（https://bang-dream-on.bushimo.jp/）や、本アプリをダウンロードしたストア等のページにてご確認ください。",
       "_english": "Disclosure Based on the Act on Specified Commercial Transactions\r\n\r\n■Name, Representative, Address, and Telephone Number of the Seller\r\nName: Bushiroad Inc.\r\nAddress: 1-38-1 Chuo, Nakano-ku, Tokyo 164-0011, Japan\r\nRepresentative: Yuki Nemoto, President and Representative Director\r\nTelephone Number: +81-3-5348-0852\r\n*For inquiries regarding the application \"BanG Dream! Our Notes\" (hereinafter referred to as \"the App\"), please use the inquiry form listed under \"Contact Information\" below.\r\n\r\n■Contact Information\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■Sales Price\r\nThe price displayed at the time of purchase for each applicable digital content (hereinafter \"Content\"). The displayed price includes consumption tax and other applicable taxes.\r\n\r\n■Fees Other Than the Product Price\r\n- Communication charges such as packet data fees incurred through the use of your device.\r\n\r\n■Payment Due Date and Payment Methods\r\n(1) Payment Due Date\r\nBefore the Content is provided.\r\n(2) Payment Methods\r\nIn-app purchases via the App Store or Google Play are available. Additionally, for items other than Stars, payment may be accepted exclusively in Stars. Further details on payment methods are displayed during the purchase process for each Content.\r\n\r\n■Offer Period\r\nIf the Content is subject to a limited offer period, such period will be displayed during the purchase process.\r\n\r\n■Provision of the Product\r\nThe Content becomes available immediately upon completion of the purchase process.\r\n\r\n■Returns and Exchanges\r\nPlease note that returns and exchanges are not accepted.\r\n\r\n■Operating Environment\r\nA device capable of running the App is required. For the system requirements and operating environment, please refer to the App's official website (https://bang-dream-on.bushimo.jp/) or the store page from which the App was downloaded.",
       "_traditionalChinese": "依據特定商業交易法之標示\r\n\r\n■販售業者之名稱、代表人、所在地、電話號碼\r\n名稱：武士道股份有限公司\r\n所在地：〒164-0011　東京都中野區中央1-38-1\r\n代表人：董事長兼總經理　根本 雄貴\r\n電話號碼：03-5348-0852\r\n※應用程式《BanG Dream! 交織的樂章》（以下稱「本應用程式」）的相關諮詢，請利用下方「諮詢窗口」所記載的諮詢表單。\r\n\r\n■諮詢窗口\r\nhttps://bang-dream-on.bushimo.jp/contact\r\n\r\n■販售價格\r\n依各項數位內容（以下稱「內容」）於購買流程中所顯示之金額為準（含消費稅等相關費用）。\r\n\r\n■商品價格以外之必要費用\r\n·數據傳輸費用等因使用裝置所產生的通訊費用。\r\n\r\n■費用之支付時間與方式\r\n(1) 支付時間\r\n提供內容前。\r\n(2) 支付方式\r\n可透過App Store或Google Play於應用程式內儲值購買。此外，購買星鑽以外的道具時，部份情況下僅能使用星鑽購買。支付方式的詳情將於各項內容的購買流程中顯示。\r\n\r\n■申請期間\r\n若內容設有申請期間限制，將於購買流程中顯示。\r\n\r\n■商品之提供時間\r\n完成購買程序後，即可立即使用。\r\n\r\n■提供商品後之退貨與換貨\r\n·不接受退貨及換貨，敬請見諒。\r\n\r\n■推薦環境\r\n須使用可執行本應用程式的裝置。推薦環境請至本應用程式官方網站（https://bang-dream-on.bushimo.jp/），或下載本應用程式之商店頁面進行確認。",
-      "_simplifiedChinese": "基于《特定商业交易法》的公示\r\n\r\n■销售方名称、法定代表人、所在地、电话号码\r\n名称：株式会社Bushiroad\r\n所在地：〒164-0011　东京都中野区中央1-38-1\r\n法定代表人：代表董事总裁　根本 雄貴\r\n电话号码：03-5348-0852\r\n※关于应用程序「BanG Dream! 交织的乐章」（以下简称「本应用」）的咨询，请使用下方「联系方式」中记载的咨询表单。\r\n\r\n■联系方式\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■销售价格\r\n各项数字内容（以下简称「内容」）的销售价格会在购买结算时显示（金额含消费税等）。\r\n\r\n■商品价款以外的必要费用\r\n・使用设备所产生的通信费用（如流量费等）\r\n\r\n■货款的支付时间与方法\r\n(1)支付时间\r\n提供内容前\r\n(2)支付方法\r\n支持通过App Store、Google Play进行应用内支付。此外，购买星钻以外的道具时，可能仅支持使用星钻支付。支付方式的详情将在购买各项内容时显示。\r\n\r\n■购买期限\r\n若内容存在购买期限的限制，将在购买结算时显示。\r\n\r\n■商品的交付时间\r\n购买完成后即可立即使用。\r\n\r\n■关于商品交付后的退换货\r\n・原则上不接受退货或换货，敬请谅解。\r\n\r\n■运行环境\r\n需要能够运行本应用的设备。运行环境请在本应用官方网站（https://bdon.biligames.com/）或下载本应用的应用商店等页面中确认。",
+      "_simplifiedChinese": "基于《特定商业交易法》的公示\r\n\r\n■销售方名称、法定代表人、所在地、电话号码\r\n名称：株式会社Bushiroad\r\n所在地：〒164-0011　东京都中野区中央1-38-1\r\n法定代表人：代表董事总裁　根本 雄贵\r\n电话号码：03-5348-0852\r\n※关于应用程序「BanG Dream! 交织的乐章」（以下简称「本应用」）的咨询，请使用下方「联系方式」中记载的咨询表单。\r\n\r\n■联系方式\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■销售价格\r\n各项数字内容（以下简称「内容」）的销售价格会在购买结算时显示（金额含消费税等）。\r\n\r\n■商品价款以外的必要费用\r\n・使用设备所产生的通信费用（如流量费等）\r\n\r\n■货款的支付时间与方法\r\n(1)支付时间\r\n提供内容前\r\n(2)支付方法\r\n支持通过App Store、Google Play进行应用内支付。此外，购买星钻以外的道具时，可能仅支持使用星钻支付。支付方式的详情将在购买各项内容时显示。\r\n\r\n■购买期限\r\n若内容存在购买期限的限制，将在购买结算时显示。\r\n\r\n■商品的交付时间\r\n购买完成后即可立即使用。\r\n\r\n■关于商品交付后的退换货\r\n・原则上不接受退货或换货，敬请谅解。\r\n\r\n■运行环境\r\n需要能够运行本应用的设备。运行环境请在本应用官方网站（https://bdon.biligames.com/）或下载本应用的应用商店等页面中确认。",
       "_korean": "특정상거래법에 따른 표시\r\n\r\n■판매 사업자의 명칭, 대표자, 소재지, 전화번호\r\n명칭: BUSHIROAD GAMES\r\n소재지: 우편번호 164-0011 도쿄도 나카노구 중앙 1-38-1\r\n대표자: 대표이사 사장 네모토 유키\r\n전화번호: 03-5348-0852\r\n※앱 「뱅드림! 아워 노트」(이하 「본 앱」이라 합니다.)와 관련된 문의는 아래 「문의하기」에 기재된 문의 양식을 이용해 주시길 부탁드립니다.\r\n\r\n■문의\r\nhttps://bang-dream-on.bushimo.jp/contact/\r\n\r\n■판매 가격\r\n대상이 되는 디지털 콘텐츠(이하 「콘텐츠」라 합니다.)마다 구매 절차 시 표시되는 금액(소비세 등이 포함된 금액입니다.)\r\n\r\n■상품 대금 이외의 필요 요금\r\n・패킷 통신료 등 기기 이용에 따른 통신 비용\r\n\r\n■대금의 결제 시기, 방법\r\n(1)결제 시기\r\n콘텐츠 제공 전\r\n(2)결제 방법\r\nApp Store, Google Play를 통한 앱 내 결제를 이용하실 수 있습니다. 또한 스타 외의 아이템일 경우, 스타로 결제하는 방법만 이용 가능할 수도 있습니다. 결제 방법에 대한 자세한 내용은 각 콘텐츠의 구매 절차 시 표시됩니다.\r\n\r\n■신청 기간\r\n콘텐츠에 신청 기간 제한이 있을 경우 구매 절차 시 표시됩니다.\r\n\r\n■상품의 제공 시기\r\n구매 절차 완료 후 즉시 이용하실 수 있습니다.\r\n\r\n■상품 제공 후의 반품・교환에 대해\r\n・반품 및 교환은 불가하오니 미리 양해 부탁드립니다.\r\n\r\n■권장 사양\r\n본 앱이 구동되는 기기가 필요합니다. 권장 사양은 본 앱의 공식 사이트(https://bang-dream-on.bushimo.jp/) 또는 본 앱을 다운로드한 스토어 등의 페이지에서 확인해 주세요."
     },
     {
@@ -84039,6 +85199,14 @@
       "_traditionalChinese": "JASRAC同意9014302056Y45112號\r\nJASRAC同意9014302057Y31015號",
       "_simplifiedChinese": "JASRAC授权第9014302056Y45112号\r\nJASRAC授权第9014302057Y31015号",
       "_korean": "JASRAC許諾9014302056Y45112号\r\nJASRAC許諾9014302057Y31015号"
+    },
+    {
+      "_id": "ui_skill_info_not_registered",
+      "_japanese": "対象のスキルを所持していません",
+      "_english": "No skill available.",
+      "_traditionalChinese": "未持有符合條件的技能。",
+      "_simplifiedChinese": "未持有对应技能",
+      "_korean": "대상 스킬을 보유하고 있지 않습니다"
     },
     {
       "_id": "ui_title_vip_top",

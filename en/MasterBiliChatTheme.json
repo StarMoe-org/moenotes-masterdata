@@ -64,6 +64,19 @@
       "_startAt": "2026/10/09 12:00:00",
       "_endAt": "2046/07/01 00:00:00",
       "_isShowWhenLocked": true
+    },
+    {
+      "_id": 6,
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_DumbRock",
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/DumbRock",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_DumbRock",
+      "_skinNameTextId": "ChatThemeName_6",
+      "_skinDescTextId": "ChatThemeDesc_6",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_startAt": "2026/10/18 11:00:00",
+      "_endAt": "2046/07/01 00:00:00",
+      "_isShowWhenLocked": true
     }
   ]
 }

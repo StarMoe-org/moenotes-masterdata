@@ -1653,6 +1653,77 @@
       "_gekisouSupportSkillId01": 0,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-09-24 0:00:00"
+    },
+    {
+      "_id": 71,
+      "_assetID": 71,
+      "_nameTextID": "Snap_Name_Shizuku",
+      "_descriptionTextID": "SupportSubtitle_71",
+      "_diaryTextID": "SupportDiary_71",
+      "_diarySoundId": 0,
+      "_characterIDs": [
+        25
+      ],
+      "_rarity": 4,
+      "_cardType": 4,
+      "_performancePowerMax": 4200,
+      "_technicPowerMax": 3000,
+      "_visualPowerMax": 3000,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 15071,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 45071,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-18 11:00:00"
+    },
+    {
+      "_id": 72,
+      "_assetID": 72,
+      "_nameTextID": "Snap_Name_Yomogi_Chieri_Shizuku",
+      "_descriptionTextID": "SupportSubtitle_72",
+      "_diaryTextID": "SupportDiary_72",
+      "_diarySoundId": 0,
+      "_characterIDs": [
+        23,
+        24,
+        25
+      ],
+      "_rarity": 4,
+      "_cardType": 4,
+      "_performancePowerMax": 3100,
+      "_technicPowerMax": 4100,
+      "_visualPowerMax": 3000,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 60072,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 105,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-18 11:00:00"
+    },
+    {
+      "_id": 73,
+      "_assetID": 73,
+      "_nameTextID": "Snap_Name_Chieri",
+      "_descriptionTextID": "SupportSubtitle_73",
+      "_diaryTextID": "SupportDiary_73",
+      "_diarySoundId": 0,
+      "_characterIDs": [
+        24
+      ],
+      "_rarity": 3,
+      "_cardType": 4,
+      "_performancePowerMax": 1500,
+      "_technicPowerMax": 1600,
+      "_visualPowerMax": 2000,
+      "_supportCardLevelGroup": 2,
+      "_supportCardRankGroup": 2,
+      "_supportSkillId01": 10073,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 40073,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-18 11:00:00"
     }
   ]
 }

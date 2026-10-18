@@ -23,6 +23,18 @@
       "_eventId": 2,
       "_resourceType": 3,
       "_resourceId": 67
+    },
+    {
+      "_id": 5,
+      "_eventId": 3,
+      "_resourceType": 2,
+      "_resourceId": 70
+    },
+    {
+      "_id": 6,
+      "_eventId": 3,
+      "_resourceType": 3,
+      "_resourceId": 73
     }
   ]
 }
