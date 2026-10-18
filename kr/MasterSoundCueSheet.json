@@ -621,6 +621,10 @@
       "_cueSheetName": "A_KamiNoNawo"
     },
     {
+      "_id": 1300000000114,
+      "_cueSheetName": "I_IlikeYourlike"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -975,6 +979,10 @@
     {
       "_id": 1400000000113,
       "_cueSheetName": "A_KamiNoNawo_short"
+    },
+    {
+      "_id": 1400000000114,
+      "_cueSheetName": "I_ILikeYourLike_short"
     },
     {
       "_id": 2301001000001,
@@ -1389,6 +1397,26 @@
       "_cueSheetName": "VoiceLive_25"
     },
     {
+      "_id": 3400000000006,
+      "_cueSheetName": "VoiceRealLive_06"
+    },
+    {
+      "_id": 3400000000007,
+      "_cueSheetName": "VoiceRealLive_07"
+    },
+    {
+      "_id": 3400000000008,
+      "_cueSheetName": "VoiceRealLive_08"
+    },
+    {
+      "_id": 3400000000009,
+      "_cueSheetName": "VoiceRealLive_09"
+    },
+    {
+      "_id": 3400000000010,
+      "_cueSheetName": "VoiceRealLive_10"
+    },
+    {
       "_id": 3400000000011,
       "_cueSheetName": "VoiceRealLive_11"
     },
@@ -1467,6 +1495,14 @@
     {
       "_id": 3202017000066,
       "_cueSheetName": "VoiceGacha_17_00066"
+    },
+    {
+      "_id": 3202025000068,
+      "_cueSheetName": "VoiceGacha_25_00068"
+    },
+    {
+      "_id": 3202021000069,
+      "_cueSheetName": "VoiceGacha_21_00069"
     },
     {
       "_id": 2100000000001,

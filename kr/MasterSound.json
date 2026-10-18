@@ -8207,6 +8207,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000114,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000114,
+      "_cueName": "I_IlikeYourlike",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1400000000001,
       "_category": 0,
       "_soundCueSheetID": 1400000000001,
@@ -9179,6 +9190,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000113,
       "_cueName": "A_KamiNoNawo_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000114,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000114,
+      "_cueName": "I_ILikeYourLike_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -14532,6 +14554,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200601000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000006,
+      "_cueName": "BandTop_Uika_RealLive_02",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200601000017,
       "_category": 2,
       "_soundCueSheetID": 3201006000001,
@@ -15071,6 +15104,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200601000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000006,
+      "_cueName": "BandTop_Uika_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200602000001,
       "_category": 2,
       "_soundCueSheetID": 3202006000056,
@@ -15229,6 +15273,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201007000001,
       "_cueName": "BandTop_Mutsumi_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200701000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000007,
+      "_cueName": "BandTop_Mutsumi_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -15764,6 +15819,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200701000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000007,
+      "_cueName": "BandTop_Mutsumi_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200702000001,
       "_category": 2,
       "_soundCueSheetID": 3202007000057,
@@ -15933,6 +15999,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201008000001,
       "_cueName": "BandTop_Umiri_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200801000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000008,
+      "_cueName": "BandTop_Umiri_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -16479,6 +16556,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200801000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000008,
+      "_cueName": "BandTop_Umiri_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200802000001,
       "_category": 2,
       "_soundCueSheetID": 3202008000058,
@@ -16648,6 +16736,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201009000001,
       "_cueName": "BandTop_Nyamu_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200901000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000009,
+      "_cueName": "BandTop_Nyamu_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -17194,6 +17293,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200901000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000009,
+      "_cueName": "BandTop_Nyamu_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200902000001,
       "_category": 2,
       "_soundCueSheetID": 3202009000059,
@@ -17363,6 +17473,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201010000001,
       "_cueName": "BandTop_Sakiko_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3201001000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000010,
+      "_cueName": "BandTop_Sakiko_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -17891,6 +18012,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201010000001,
       "_cueName": "Growth_Sakiko_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3201001000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000010,
+      "_cueName": "BandTop_Sakiko_RealLive_01",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -25807,6 +25939,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3202102000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202021000069,
+      "_cueName": "Member_Raika_Gacha_069",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3202201000001,
       "_category": 2,
       "_soundCueSheetID": 3201022000001,
@@ -28627,6 +28770,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201025000001,
       "_cueName": "Growth_Shizuku_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3202502000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202025000068,
+      "_cueName": "Member_Shizuku_Gacha_068",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,

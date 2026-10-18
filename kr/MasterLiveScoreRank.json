@@ -3779,6 +3779,48 @@
       "_liveScoreRank": 7,
       "_requiredScore": 7619261,
       "_battleLiveRequiredScore": 17235169
+    },
+    {
+      "_id": 667,
+      "_group": 1100114,
+      "_liveScoreRank": 2,
+      "_requiredScore": 0,
+      "_battleLiveRequiredScore": 0
+    },
+    {
+      "_id": 668,
+      "_group": 1100114,
+      "_liveScoreRank": 3,
+      "_requiredScore": 636748,
+      "_battleLiveRequiredScore": 1249908
+    },
+    {
+      "_id": 669,
+      "_group": 1100114,
+      "_liveScoreRank": 4,
+      "_requiredScore": 2106418,
+      "_battleLiveRequiredScore": 4432000
+    },
+    {
+      "_id": 670,
+      "_group": 1100114,
+      "_liveScoreRank": 5,
+      "_requiredScore": 4779672,
+      "_battleLiveRequiredScore": 11645193
+    },
+    {
+      "_id": 671,
+      "_group": 1100114,
+      "_liveScoreRank": 6,
+      "_requiredScore": 6702363,
+      "_battleLiveRequiredScore": 15779984
+    },
+    {
+      "_id": 672,
+      "_group": 1100114,
+      "_liveScoreRank": 7,
+      "_requiredScore": 8275830,
+      "_battleLiveRequiredScore": 20347043
     }
   ]
 }

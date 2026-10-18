@@ -987,7 +987,7 @@
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_yuno_003",
       "_voiceAsset": "",
-      "_startAt": "2026/09/30 15:00:00",
+      "_startAt": "2026/09/30 18:00:00",
       "_endAt": ""
     },
     {
@@ -1001,7 +1001,21 @@
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_nagi_003",
       "_voiceAsset": "",
-      "_startAt": "2026/10/09 12:00:00",
+      "_startAt": "2026/10/09 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 76,
+      "_nameTextId": "Stamp_Name_76",
+      "_stampCategory": 3,
+      "_priority": 76,
+      "_characterIds": [
+        25
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_shizuku_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/10/18 11:00:00",
       "_endAt": ""
     },
     {
