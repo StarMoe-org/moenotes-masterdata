@@ -32,7 +32,7 @@
       "manifest_sha256": "9f6d88b2de7102c5e1095a105fc949b427f71024f230fd573d30996e358d918b",
       "snapshot_path": "en",
       "data_path": "en",
-      "client_version": "1.0.3",
+      "client_version": "1.0.6",
       "server": {
         "apiServerRoot": "https://l14-prod-va-all-gs-sirius.bilibiligame.net|https://l17-prod-va-all-gs-sirius.bilibiligame.net",
         "areaID": "3",
