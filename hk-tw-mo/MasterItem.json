@@ -72,7 +72,8 @@
       "_max": 2147483647,
       "_orderNum": 1,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -89,7 +90,8 @@
       "_max": 2147483647,
       "_orderNum": 2,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -106,7 +108,8 @@
       "_max": 99999999,
       "_orderNum": 101,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -123,7 +126,8 @@
       "_max": 99999999,
       "_orderNum": 102,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -140,7 +144,8 @@
       "_max": 99999999,
       "_orderNum": 103,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -157,7 +162,8 @@
       "_max": 99999999,
       "_orderNum": 104,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -174,7 +180,8 @@
       "_max": 99999999,
       "_orderNum": 105,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -191,7 +198,8 @@
       "_max": 99999999,
       "_orderNum": 106,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -208,7 +216,8 @@
       "_max": 99999999,
       "_orderNum": 107,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -225,7 +234,8 @@
       "_max": 99999999,
       "_orderNum": 108,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -242,7 +252,8 @@
       "_max": 99999999,
       "_orderNum": 109,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -259,7 +270,8 @@
       "_max": 99999999,
       "_orderNum": 110,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -276,7 +288,8 @@
       "_max": 99999999,
       "_orderNum": 111,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -293,7 +306,8 @@
       "_max": 99999999,
       "_orderNum": 112,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -310,7 +324,8 @@
       "_max": 99999999,
       "_orderNum": 113,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -327,7 +342,8 @@
       "_max": 99999999,
       "_orderNum": 114,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -344,7 +360,8 @@
       "_max": 99999999,
       "_orderNum": 115,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -361,7 +378,8 @@
       "_max": 99999999,
       "_orderNum": 116,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -378,7 +396,8 @@
       "_max": 99999999,
       "_orderNum": 117,
       "_displayTargetIds": [
-        2
+        2,
+        5
       ],
       "_startAt": "",
       "_endAt": ""
@@ -394,7 +413,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 201,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        5
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -409,7 +430,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 202,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        5
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -424,7 +447,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 203,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        5
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -439,7 +464,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 204,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        5
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -454,7 +481,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 301,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -469,7 +498,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 302,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -484,7 +515,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 303,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -499,7 +532,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 304,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -514,7 +549,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 305,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -529,7 +566,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 306,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        4
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -574,7 +613,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 5,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        6
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -684,6 +725,21 @@
       "_endAt": ""
     },
     {
+      "_id": 45,
+      "_nameTextId": "Item_Name_45",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Item/event/item_icon_event_badge_004",
+      "_phoneticNameTextId": "Item_Phonetic_Name_45",
+      "_descriptionTextId": "Item_Description_45",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 104,
+      "_displayTargetIds": [],
+      "_startAt": "2026/02/01 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 47,
       "_nameTextId": "Item_Name_47",
       "_inventoryDisplayGroup": 4,
@@ -694,22 +750,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 301,
-      "_displayTargetIds": [],
-      "_startAt": "",
-      "_endAt": ""
-    },
-    {
-      "_id": 48,
-      "_nameTextId": "Item_Name_48",
-      "_inventoryDisplayGroup": 4,
-      "_type": 11,
-      "_imagePath": "Item/event/item_icon_event_medal_001",
-      "_phoneticNameTextId": "Item_Phonetic_Name_48",
-      "_descriptionTextId": "Item_Description_48",
-      "_value": 1,
-      "_max": 99999999,
-      "_orderNum": 106,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        3
+      ],
       "_startAt": "",
       "_endAt": ""
     },
@@ -724,7 +767,9 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 49,
-      "_displayTargetIds": [],
+      "_displayTargetIds": [
+        7
+      ],
       "_startAt": "2026/06/01 0:00:00",
       "_endAt": ""
     },
@@ -2314,6 +2359,51 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 10000067,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000068,
+      "_nameTextId": "Item_Name_10000068",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000068",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000068",
+      "_descriptionTextId": "Item_Description_10000068",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000068,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000069,
+      "_nameTextId": "Item_Name_10000069",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000069",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000069",
+      "_descriptionTextId": "Item_Description_10000069",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000069,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000070,
+      "_nameTextId": "Item_Name_10000070",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000070",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000070",
+      "_descriptionTextId": "Item_Description_10000070",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000070,
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": ""

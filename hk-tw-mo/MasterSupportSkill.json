@@ -802,6 +802,29 @@
       "_descriptionTextFormatID": "Support_Skill_Description_73",
       "_skillIconID": 14,
       "_displaySkillCategories": []
+    },
+    {
+      "_id": 15071,
+      "_nameTextID": "Support_Skill_Name_15",
+      "_descriptionTextFormatID": "Support_Skill_Description_15",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 60072,
+      "_nameTextID": "Support_Skill_Name_60",
+      "_descriptionTextFormatID": "Support_Skill_Description_60",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 10073,
+      "_nameTextID": "Support_Skill_Name_10",
+      "_descriptionTextFormatID": "Support_Skill_Description_10",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
     }
   ]
 }

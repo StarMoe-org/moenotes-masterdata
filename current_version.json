@@ -2,15 +2,15 @@
   "schema_version": 1,
   "regions": {
     "hk-tw-mo": {
-      "version": "0f92cda0cbc21355ae4547fbbcbb19ce",
-      "resource_version": "1.0.1.600.7c4e9a2b",
-      "verified_at": "2026-10-16T05:41:25.359074+00:00",
+      "version": "f71bf32cf4693b44ca023b2f642fd9bc",
+      "resource_version": "1.0.6.700.f1d8e3a6",
+      "verified_at": "2026-10-18T06:17:21.768246+00:00",
       "table_count": 243,
-      "record_count": 44785,
-      "manifest_sha256": "dad3671ac3317e7f701f1e2ddd1ab32002722ed43c11804edb6c8ba511c4e091",
+      "record_count": 45495,
+      "manifest_sha256": "3d784283217da62f1167f84f22190695e124f8c8412995ca93e9ec76b7ad4ec1",
       "snapshot_path": "hk-tw-mo",
       "data_path": "hk-tw-mo",
-      "client_version": "1.0.3",
+      "client_version": "1.0.6",
       "server": {
         "ageIconSpriteName": "taiwan_game_rating",
         "apiServerRoot": "https://l12-prod-hk-all-gs-sirius.gamerfusiontech.com|https://l14-prod-hk-all-gs-sirius.gamerfusiontech.com",

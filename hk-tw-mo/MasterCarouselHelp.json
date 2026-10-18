@@ -186,6 +186,17 @@
       "_shouldShowOnFirstVisit": true,
       "_startAt": "2026/01/01 0:00:00",
       "_endAt": ""
+    },
+    {
+      "_id": 21,
+      "_helpCategoryId": 140,
+      "_displayName": "EventTop",
+      "_titleTextId": "Help_Carousel_Title_21",
+      "_suffix": "_00003",
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/10/18 11:00:00",
+      "_endAt": ""
     }
   ]
 }
