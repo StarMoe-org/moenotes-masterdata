@@ -300,8 +300,8 @@
     {
       "_id": 9,
       "_limitedMissionGroupId": 1,
-      "_missionType": 8,
-      "_descriptionTextId": "Mission_Description_DataIntegration",
+      "_missionType": 3,
+      "_descriptionTextId": "Mission_Description_Gacha",
       "_useTypeGrouping": false,
       "_initialValue": 0,
       "_achievementCount": 1,
