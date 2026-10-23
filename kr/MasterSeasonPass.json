@@ -64,7 +64,7 @@
       "_nameTextId": "Season_Pass_Name_5",
       "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_5",
       "_levelGroup": 2,
-      "_startAt": "2026/10/18 11:00:00",
+      "_startAt": "2026/10/18 15:00:00",
       "_endAt": "2026/10/26 14:59:59",
       "_recommendationLevelRewardIds": [
         120,
@@ -72,6 +72,23 @@
       ],
       "_bannerAsset": "banner_seasonpass_00005",
       "_priority": 5
+    },
+    {
+      "_id": 6,
+      "_nameTextId": "Season_Pass_Name_6",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_6",
+      "_levelGroup": 3,
+      "_startAt": "2026/10/25 21:00:00",
+      "_endAt": "2026/11/01 20:59:59",
+      "_recommendationLevelRewardIds": [
+        137,
+        141,
+        142,
+        145,
+        150
+      ],
+      "_bannerAsset": "banner_seasonpass_00006",
+      "_priority": 6
     }
   ]
 }

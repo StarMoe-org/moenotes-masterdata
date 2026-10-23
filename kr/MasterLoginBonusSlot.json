@@ -287,6 +287,28 @@
       "_thumbnailAsset": ""
     },
     {
+      "_id": 27,
+      "_loginBonusID": 7,
+      "_sheetNo": 1,
+      "_slotNo": 1,
+      "_resourceType": 17,
+      "_resourceId": 263,
+      "_resourceCount": 1,
+      "_isDecorated": false,
+      "_thumbnailAsset": ""
+    },
+    {
+      "_id": 28,
+      "_loginBonusID": 7,
+      "_sheetNo": 1,
+      "_slotNo": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 50,
+      "_isDecorated": false,
+      "_thumbnailAsset": ""
+    },
+    {
       "_id": 1000000001,
       "_loginBonusID": 1000000001,
       "_sheetNo": 1,

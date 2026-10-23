@@ -499,7 +499,7 @@
       "_gachaBonusIds4": [],
       "_stepUpId": 0,
       "_ceilingIds": [],
-      "_startAt": "2026/10/18 11:00:00",
+      "_startAt": "2026/10/18 15:00:00",
       "_endAt": "2026/10/28 14:59:59",
       "_priority": 15,
       "_isLimited": false,
@@ -511,6 +511,50 @@
       "_animationGroupId": 1,
       "_gimmickGroupId": 1,
       "_warningTextId": "gacha_warning_event"
+    },
+    {
+      "_id": 15,
+      "_nameTextId": "Gacha_Name_15",
+      "_appealTextId": "Gacha_Description_15",
+      "_descriptionTextId": "Gacha_Description_15",
+      "_gachaTicketItemId": 0,
+      "_beginnerHours": 0,
+      "_comebackHours": 0,
+      "_lotGroupId": 15,
+      "_specialLotId": 0,
+      "_pickUpSelectPrizeGroupId": 0,
+      "_pickUpSelectCount": 0,
+      "_productId1": 4,
+      "_productId2": 5,
+      "_productId3": 21,
+      "_productId4": 3,
+      "_vipRankBonusProductId": 0,
+      "_gachaBonusIds1": [
+        3
+      ],
+      "_gachaBonusIds2": [
+        4
+      ],
+      "_gachaBonusIds3": [
+        3
+      ],
+      "_gachaBonusIds4": [
+        4
+      ],
+      "_stepUpId": 0,
+      "_ceilingIds": [],
+      "_startAt": "2026/10/24 0:00:00",
+      "_endAt": "2026/10/26 23:59:59",
+      "_priority": 16,
+      "_isLimited": true,
+      "_isNewMember": false,
+      "_gachaDisplayCondition": 1,
+      "_bannerAssetName": "Gacha/Banner/gacha_banner_00015",
+      "_logoAssetName": "Gacha/Logo/gacha_logo_00015",
+      "_showPrizeRatio": true,
+      "_animationGroupId": 1,
+      "_gimmickGroupId": 1,
+      "_warningTextId": "gacha_warning_slot_detail"
     }
   ]
 }

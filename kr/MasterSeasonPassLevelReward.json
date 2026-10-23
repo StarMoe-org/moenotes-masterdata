@@ -1389,6 +1389,156 @@
         136
       ],
       "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 136,
+      "_seasonPassId": 6,
+      "_level": 1,
+      "_isPremium": false,
+      "_rewardIds": [
+        8
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 137,
+      "_seasonPassId": 6,
+      "_level": 2,
+      "_isPremium": false,
+      "_rewardIds": [
+        187
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 138,
+      "_seasonPassId": 6,
+      "_level": 3,
+      "_isPremium": false,
+      "_rewardIds": [
+        8
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 139,
+      "_seasonPassId": 6,
+      "_level": 4,
+      "_isPremium": false,
+      "_rewardIds": [
+        8
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 140,
+      "_seasonPassId": 6,
+      "_level": 5,
+      "_isPremium": false,
+      "_rewardIds": [
+        167
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 141,
+      "_seasonPassId": 6,
+      "_level": 1,
+      "_isPremium": true,
+      "_rewardIds": [
+        188
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 142,
+      "_seasonPassId": 6,
+      "_level": 2,
+      "_isPremium": true,
+      "_rewardIds": [
+        188
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 143,
+      "_seasonPassId": 6,
+      "_level": 3,
+      "_isPremium": true,
+      "_rewardIds": [
+        180
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 144,
+      "_seasonPassId": 6,
+      "_level": 4,
+      "_isPremium": true,
+      "_rewardIds": [
+        180
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 145,
+      "_seasonPassId": 6,
+      "_level": 5,
+      "_isPremium": true,
+      "_rewardIds": [
+        182
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 146,
+      "_seasonPassId": 6,
+      "_level": 6,
+      "_isPremium": true,
+      "_rewardIds": [
+        181
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 147,
+      "_seasonPassId": 6,
+      "_level": 7,
+      "_isPremium": true,
+      "_rewardIds": [
+        186
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 148,
+      "_seasonPassId": 6,
+      "_level": 8,
+      "_isPremium": true,
+      "_rewardIds": [
+        186
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 149,
+      "_seasonPassId": 6,
+      "_level": 9,
+      "_isPremium": true,
+      "_rewardIds": [
+        186
+      ],
+      "_rewardThumbnailAsset": ""
+    },
+    {
+      "_id": 150,
+      "_seasonPassId": 6,
+      "_level": 10,
+      "_isPremium": true,
+      "_rewardIds": [
+        183
+      ],
+      "_rewardThumbnailAsset": ""
     }
   ]
 }

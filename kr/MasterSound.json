@@ -7888,6 +7888,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000102,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000102,
+      "_cueName": "Y_Shinzinrui",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1300000000104,
       "_category": 0,
       "_soundCueSheetID": 1300000000104,
@@ -8871,6 +8882,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000092,
       "_cueName": "A_Aoihitominonakani_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000102,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000102,
+      "_cueName": "Y_Shinzinrui_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -25228,6 +25250,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201020000001,
       "_cueName": "Growth_Houka_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3202002000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202020000071,
+      "_cueName": "Member_Houka_Gacha_071",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,

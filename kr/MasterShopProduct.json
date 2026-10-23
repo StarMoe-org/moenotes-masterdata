@@ -537,6 +537,22 @@
       "_isBonus": false
     },
     {
+      "_id": 1000000171,
+      "_shopId": 1000000130,
+      "_resourceType": 10,
+      "_resourceId": 6,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000172,
+      "_shopId": 1000000130,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 760,
+      "_isBonus": false
+    },
+    {
       "_id": 1100000001,
       "_shopId": 1100000001,
       "_resourceType": 1,
