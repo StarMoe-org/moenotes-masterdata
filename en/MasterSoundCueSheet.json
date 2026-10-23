@@ -505,6 +505,10 @@
       "_cueSheetName": "A_Aoihitominonakani"
     },
     {
+      "_id": 1300000000102,
+      "_cueSheetName": "Y_Shinzinrui"
+    },
+    {
       "_id": 1300000000104,
       "_cueSheetName": "I_HohoeminoBakudan"
     },
@@ -863,6 +867,10 @@
     {
       "_id": 1400000000092,
       "_cueSheetName": "A_Aoihitominonakani_short"
+    },
+    {
+      "_id": 1400000000102,
+      "_cueSheetName": "Y_Shinzinrui_short"
     },
     {
       "_id": 1400000000104,
@@ -1503,6 +1511,10 @@
     {
       "_id": 3202021000069,
       "_cueSheetName": "VoiceGacha_21_00069"
+    },
+    {
+      "_id": 3202020000071,
+      "_cueSheetName": "VoiceGacha_20_00071"
     },
     {
       "_id": 2100000000001,

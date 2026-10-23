@@ -165,7 +165,7 @@
       "_endAt": "",
       "_banner": "ui_banner_chapter_8",
       "_image": "ui_image_chapter_8",
-      "_icon": "ui_icon_chapter_8",
+      "_icon": "ui_icon_chapter_event_00003",
       "_background": ""
     },
     {
@@ -175,10 +175,11 @@
       "_bandId": 0,
       "_isSpecialStory": true,
       "_mainCharacterIds": [
-        22
+        22,
+        20
       ],
       "_musicId": 0,
-      "_startAt": "2026/10/04 0:00:00",
+      "_startAt": "2026/10/24 0:00:00",
       "_endAt": "",
       "_banner": "ui_banner_chapter_33",
       "_image": "ui_image_birthday",

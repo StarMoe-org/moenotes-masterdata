@@ -954,6 +954,21 @@
       "_endAt": ""
     },
     {
+      "_id": 69,
+      "_nameTextId": "Item_Name_69",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Image/Campaign/birthday_pick_houka",
+      "_phoneticNameTextId": "Item_Phonetic_Name_69",
+      "_descriptionTextId": "Item_Description_69",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 309,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": "2026/10/29 23:59:59"
+    },
+    {
       "_id": 70,
       "_nameTextId": "Item_Name_70",
       "_inventoryDisplayGroup": 4,
@@ -967,6 +982,21 @@
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": "2026/11/30 23:59:59"
+    },
+    {
+      "_id": 74,
+      "_nameTextId": "Item_Name_74",
+      "_inventoryDisplayGroup": 0,
+      "_type": 1,
+      "_imagePath": "",
+      "_phoneticNameTextId": "Item_Phonetic_Name_74",
+      "_descriptionTextId": "Item_Description_74",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 9999,
+      "_displayTargetIds": [],
+      "_startAt": "2026-10-25 21:00:00",
+      "_endAt": ""
     },
     {
       "_id": 20000001,
@@ -2404,6 +2434,21 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 10000070,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000071,
+      "_nameTextId": "Item_Name_10000071",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000071",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000071",
+      "_descriptionTextId": "Item_Description_10000071",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000071,
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": ""
