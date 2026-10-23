@@ -1902,7 +1902,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_68",
       "_gachaVoiceSoundId": 3202502000001,
-      "_startAt": "2026-10-18 11:00:00"
+      "_startAt": "2026-10-18 15:00:00"
     },
     {
       "_id": 69,
@@ -1930,7 +1930,7 @@
       "_gekisouSkillLevelResourceGroup": 7,
       "_gachaVoiceTextId": "MemberGachaVoice_69",
       "_gachaVoiceSoundId": 3202102000001,
-      "_startAt": "2026-10-18 11:00:00"
+      "_startAt": "2026-10-18 15:00:00"
     },
     {
       "_id": 70,
@@ -1958,7 +1958,35 @@
       "_gekisouSkillLevelResourceGroup": 6,
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
-      "_startAt": "2026-10-18 11:00:00"
+      "_startAt": "2026-10-18 15:00:00"
+    },
+    {
+      "_id": 71,
+      "_assetID": 71,
+      "_nameTextID": "Character_Name_Houka",
+      "_subtitleTextID": "MemberSubtitle_71",
+      "_characterID": 20,
+      "_rarity": 20,
+      "_cardType": 2,
+      "_bestMusicTagIDs": [
+        4
+      ],
+      "_performancePowerMax": 30179,
+      "_technicPowerMax": 23214,
+      "_visualPowerMax": 23214,
+      "_memberCardLevelGroup": 4,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 17,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000071,
+      "_leaderSkillID": 60,
+      "_liveSkillID": 8,
+      "_gekisouSkillID": 23,
+      "_liveSkillLevelResourceGroup": 4,
+      "_gekisouSkillLevelResourceGroup": 8,
+      "_gachaVoiceTextId": "MemberGachaVoice_71",
+      "_gachaVoiceSoundId": 3202002000001,
+      "_startAt": "2026-10-24 0:00:00"
     }
   ]
 }

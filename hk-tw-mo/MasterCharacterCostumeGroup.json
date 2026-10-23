@@ -759,6 +759,16 @@
       "_isChangeable": true,
       "_specialConditionMemberCardId": 64,
       "_startAt": "2026/10/04 0:00:00"
+    },
+    {
+      "_id": 77,
+      "_characterID": 20,
+      "_costumeNameTextId": "Costume_Name_Birthday_2627",
+      "_iconPath": "Character/costume/20/icon_costume_berthday _2726",
+      "_isInitial": false,
+      "_isChangeable": true,
+      "_specialConditionMemberCardId": 71,
+      "_startAt": "2026/10/24 0:00:00"
     }
   ]
 }
