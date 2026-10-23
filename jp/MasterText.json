@@ -8729,6 +8729,14 @@
       "_korean": ""
     },
     {
+      "_id": "Chapter_Title_1200",
+      "_japanese": "26年誕生日：和泉 朋花(10/24)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Arena_Season_Name_0001",
       "_japanese": "Season1",
       "_english": "",
@@ -9683,6 +9691,14 @@
     {
       "_id": "Arranger_Name_100098",
       "_japanese": "sabio",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Arranger_Name_100102",
+      "_japanese": "堀江晶太",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -20417,6 +20433,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100102",
+      "_japanese": "こゆびちゃん、杉原亮",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Composer_Name_100104",
       "_japanese": "馬渡松子",
       "_english": "",
@@ -22873,6 +22897,30 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_262",
+      "_japanese": "朋花バースデーピック交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_263",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナスで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_264",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」特典シリアルコードで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "",
@@ -24705,6 +24753,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_10000100",
+      "_japanese": "「新人類は仮想世界の夢を見るか？」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_10000102",
       "_japanese": "「微笑みの爆弾」を100回クリアで獲得",
       "_english": "",
@@ -25411,6 +25467,14 @@
     {
       "_id": "Degree_Name_10000096",
       "_japanese": "[ステッカー]愛は衝動ジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_10000100",
+      "_japanese": "[ステッカー]新人類は仮想世界の夢を見るか？ジャケット",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27042,7 +27106,7 @@
     },
     {
       "_id": "Degree_Name_257",
-      "_japanese": "[ステッカー]三角 初華 映画私服ver.",
+      "_japanese": "[ステッカー]三角 初華 映画「prima aurora」私服ver.",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27050,7 +27114,7 @@
     },
     {
       "_id": "Degree_Name_258",
-      "_japanese": "[ステッカー]若葉 睦 映画私服ver.",
+      "_japanese": "[ステッカー]若葉 睦  映画「prima aurora」私服ver.",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27058,7 +27122,7 @@
     },
     {
       "_id": "Degree_Name_259",
-      "_japanese": "[ステッカー]八幡 海鈴 映画私服ver.",
+      "_japanese": "[ステッカー]八幡 海鈴  映画「prima aurora」私服ver.",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27066,7 +27130,7 @@
     },
     {
       "_id": "Degree_Name_260",
-      "_japanese": "[ステッカー]祐天寺 にゃむ 映画私服ver.",
+      "_japanese": "[ステッカー]祐天寺 にゃむ  映画「prima aurora」私服ver.",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27074,7 +27138,31 @@
     },
     {
       "_id": "Degree_Name_261",
-      "_japanese": "[ステッカー]豊川 祥子 映画私服ver.",
+      "_japanese": "[ステッカー]豊川 祥子  映画「prima aurora」私服ver.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_262",
+      "_japanese": "[ステッカー]和泉朋花 Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_263",
+      "_japanese": "[ステッカー]Virtus",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_264",
+      "_japanese": "[ステッカー]Virtus(限定)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27427,6 +27515,22 @@
     {
       "_id": "Exchange_Name_25",
       "_japanese": "はじめてを奏でる光彩讃歌 ガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_26",
+      "_japanese": "朋花バースデーピック交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_28",
+      "_japanese": "和泉朋花 Happy Birthday 26-27 ガチャ交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -28705,6 +28809,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_15",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -29355,6 +29467,14 @@
     {
       "_id": "Gacha_Name_14",
       "_japanese": "はじめてを奏でる光彩讃歌ガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_15",
+      "_japanese": "和泉朋花 Happy Birthday 26-27ガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -35161,8 +35281,24 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_69",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Description_70",
       "_japanese": "交換所で任意のステッカーと交換することができるチケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_74",
+      "_japanese": "[Virtus]Ave Mujica",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -35873,6 +36009,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000071",
+      "_japanese": "[Happy Birthday 26-27]和泉 朋花の覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -36427,6 +36571,14 @@
     {
       "_id": "Item_Name_10000070",
       "_japanese": "メンバーピース([イエロー・ブリーズ]馬橋 心玖)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000071",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]和泉 朋花)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -36993,6 +37145,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_10000071",
+      "_japanese": "めんばーぴーす10000071",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "",
@@ -37457,8 +37617,24 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_69",
+      "_japanese": "朋花バースデーピック",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_70",
       "_japanese": "映画「BanG Dream! Ave Mujica prima aurora」公開記念 ステッカー交換チケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_74",
+      "_japanese": "[Virtus]Ave Mujica",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -37929,8 +38105,24 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_69",
+      "_japanese": "ほうかばーすでーぴっく",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_70",
       "_japanese": "えいがばんどりあべむじかぷりまあうろーら",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_74",
+      "_japanese": "[Virtus]Ave Mujica",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -38410,7 +38602,7 @@
     },
     {
       "_id": "Leader_Skill_Name_Description_60",
-      "_japanese": "millsageメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紺碧のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
+      "_japanese": "millsageメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紺碧のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -47129,6 +47321,14 @@
       "_korean": ""
     },
     {
+      "_id": "LoginBonus_Name_7",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100001",
       "_japanese": "藤原優樹(SUPA LOVE)",
       "_english": "",
@@ -47761,6 +47961,14 @@
       "_korean": ""
     },
     {
+      "_id": "Lyricist_Name_100102",
+      "_japanese": "こゆびちゃん",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100104",
       "_japanese": "リーシャウロン",
       "_english": "",
@@ -47971,6 +48179,14 @@
     {
       "_id": "MemberGachaVoice_69",
       "_japanese": "新しいこと、１つずつ知っていこう！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_71",
+      "_japanese": "ふふ、素敵な日になりそうですね♪",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -48531,6 +48747,14 @@
     {
       "_id": "MemberSubtitle_70",
       "_japanese": "イエロー・ブリーズ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_71",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -50681,6 +50905,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100102",
+      "_japanese": "新人類は仮想世界の夢を見るか？",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Tilte_100104",
       "_japanese": "微笑みの爆弾",
       "_english": "",
@@ -51433,6 +51665,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100102",
+      "_japanese": "にゅーたいぷはばーちゃるのゆめをみるか",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100104",
       "_japanese": "ほほえみのばくだん",
       "_english": "",
@@ -52139,6 +52379,14 @@
     {
       "_id": "Music_Ruby_Tilte_100098",
       "_japanese": "愛は衝動",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100102",
+      "_japanese": "新人類は仮想世界の夢を見るか？",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -52985,6 +53233,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_6",
+      "_japanese": "Ave Mujica 7th LIVE記念ミッションパスが解放されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "",
@@ -53337,6 +53593,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Name_6",
+      "_japanese": "Ave Mujica 7th LIVE記念ミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Name_2",
       "_japanese": "スター×120",
       "_english": "",
@@ -53489,6 +53753,14 @@
       "_korean": ""
     },
     {
+      "_id": "Shop_Name_24",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」開催記念 プレミアムミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Description_2",
       "_japanese": "スター120個(有償120個)を購入できます。",
       "_english": "",
@@ -53635,6 +53907,14 @@
     {
       "_id": "Shop_Description_23",
       "_japanese": "ミッションパスのプレミアムパスを購入できます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Shop_Description_24",
+      "_japanese": "スター760個(有償760個)とミッションパスのプレミアムパスを購入できます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -57401,6 +57681,14 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Episode_Description_3302",
+      "_japanese": "26年誕生日：和泉 朋花(10/24)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Snap_Name_Tomori",
       "_japanese": "高松 燈",
       "_english": "",
@@ -58073,6 +58361,14 @@
       "_korean": ""
     },
     {
+      "_id": "SupportDiary_74",
+      "_japanese": "Coming soon",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "SupportSubtitle_1",
       "_japanese": "人間になりたくて",
       "_english": "",
@@ -58643,6 +58939,14 @@
     {
       "_id": "SupportSubtitle_73",
       "_japanese": "１７７５円也",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_74",
+      "_japanese": "Virtus",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

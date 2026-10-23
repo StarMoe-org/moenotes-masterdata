@@ -3561,7 +3561,29 @@
       "_eventStoryRewardGroupId": 0,
       "_banner": "ui_banner_chapter_33_episode_1",
       "_image": "ui_image_chapter_33_episode_1",
-      "_startAt": "",
+      "_startAt": "2026/10/04 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 3302,
+      "_chapterId": 33,
+      "_episodeNumber": 2,
+      "_descriptionTextId": "Story_Episode_Description_3302",
+      "_advId": 11199,
+      "_characterId": 0,
+      "_isAnotherEpisode": false,
+      "_isExtraEpisode": false,
+      "_unlockEpisodeNumber": 0,
+      "_eventPoint": 0,
+      "_characterRank": 0,
+      "_playerRank": 0,
+      "_bandRank": 0,
+      "_storyFriendshipEpisodeId": 0,
+      "_storyRewardGroupId": 0,
+      "_eventStoryRewardGroupId": 0,
+      "_banner": "ui_banner_chapter_33_episode_2",
+      "_image": "ui_image_chapter_33_episode_2",
+      "_startAt": "2026/10/24 0:00:00",
       "_endAt": ""
     }
   ]

@@ -917,6 +917,24 @@
       "_costumeID": 103,
       "_isDefault": false,
       "_live2dPath": "022_live/live2d_miku_022_birthday2627_01/model/live2d_miku_022_birthday2627_01"
+    },
+    {
+      "_id": 20102,
+      "_characterID": 20,
+      "_groupID": 77,
+      "_costumeType": 1,
+      "_costumeID": 102,
+      "_isDefault": false,
+      "_live2dPath": "020_live/live2d_houka_020_birthday2627_01_low/model/live2d_houka_020_birthday2627_01_low"
+    },
+    {
+      "_id": 20103,
+      "_characterID": 20,
+      "_groupID": 77,
+      "_costumeType": 2,
+      "_costumeID": 103,
+      "_isDefault": false,
+      "_live2dPath": "020_live/live2d_houka_020_birthday2627_01/model/live2d_houka_020_birthday2627_01"
     }
   ]
 }
