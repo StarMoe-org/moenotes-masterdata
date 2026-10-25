@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0.800/ec741b94dfc5549a04a0e23999c4fb84",
+    "version": "1.0.0.800/31dfe664f805c150b9daf07b7e3e0ae1",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -463,8 +463,8 @@
         },
         {
             "name": "MasterHomeBanner.bin",
-            "hash": "eb8a0ca479fcf1abfa1b484ac13d4428f2eb75aa8a3ac73d7c3a12e33a8fae47",
-            "size": 768
+            "hash": "4f730c40bf423d0a639e5de7ddae0650ab57fc17e24f4dce0fed9a02ec2f12b0",
+            "size": 736
         },
         {
             "name": "MasterHomeSpot.bin",

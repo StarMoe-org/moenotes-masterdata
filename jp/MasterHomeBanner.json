@@ -181,22 +181,13 @@
       "_endAt": "2026-10-29 23:59:59"
     },
     {
-      "_id": 2000001,
-      "_imageAsset": "Image/Banner/home_banner_00000",
-      "_displayType": 0,
-      "_contentId": 0,
-      "_displayOrder": 1,
-      "_startAt": "2026-01-01 0:00:00",
-      "_endAt": "2026-09-24 14:00:00"
-    },
-    {
-      "_id": 1000030,
-      "_imageAsset": "Image/Banner/banner_sample",
-      "_displayType": 17,
-      "_contentId": 3,
-      "_displayOrder": 1,
-      "_startAt": "2026-03-05 14:00:00",
-      "_endAt": "2026-03-14 14:00:00"
+      "_id": 29,
+      "_imageAsset": "SeasonPass/Banner/banner_seasonpass_00006",
+      "_displayType": 25,
+      "_contentId": 6,
+      "_displayOrder": 973897478,
+      "_startAt": "2026-10-25 21:00:00",
+      "_endAt": "2026-11-01 20:59:59"
     }
   ]
 }
