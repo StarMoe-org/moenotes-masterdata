@@ -1,3 +1,706 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_leagueId": 0,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 2,
+      "_leagueId": 0,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 3,
+      "_leagueId": 0,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 4,
+      "_leagueId": 0,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 5,
+      "_leagueId": 0,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 6,
+      "_leagueId": 0,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 7,
+      "_leagueId": 0,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 8,
+      "_leagueId": 0,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 9,
+      "_leagueId": 0,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 10,
+      "_leagueId": 0,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 11,
+      "_leagueId": 0,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 12,
+      "_leagueId": 0,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 13,
+      "_leagueId": 0,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 14,
+      "_leagueId": 1,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 15,
+      "_leagueId": 1,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 16,
+      "_leagueId": 1,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 17,
+      "_leagueId": 1,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 18,
+      "_leagueId": 1,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 19,
+      "_leagueId": 1,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 20,
+      "_leagueId": 1,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 21,
+      "_leagueId": 1,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 22,
+      "_leagueId": 1,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 23,
+      "_leagueId": 1,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 24,
+      "_leagueId": 1,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 25,
+      "_leagueId": 1,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 26,
+      "_leagueId": 1,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 27,
+      "_leagueId": 2,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 28,
+      "_leagueId": 2,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 29,
+      "_leagueId": 2,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 30,
+      "_leagueId": 2,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 31,
+      "_leagueId": 2,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 32,
+      "_leagueId": 2,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 33,
+      "_leagueId": 2,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 34,
+      "_leagueId": 2,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 35,
+      "_leagueId": 2,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 36,
+      "_leagueId": 2,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 37,
+      "_leagueId": 2,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 38,
+      "_leagueId": 2,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 39,
+      "_leagueId": 2,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 40,
+      "_leagueId": 3,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 41,
+      "_leagueId": 3,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 42,
+      "_leagueId": 3,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 43,
+      "_leagueId": 3,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 44,
+      "_leagueId": 3,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 45,
+      "_leagueId": 3,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 46,
+      "_leagueId": 3,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 47,
+      "_leagueId": 3,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 48,
+      "_leagueId": 3,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 49,
+      "_leagueId": 3,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 50,
+      "_leagueId": 3,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 51,
+      "_leagueId": 3,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 52,
+      "_leagueId": 3,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 53,
+      "_leagueId": 4,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 54,
+      "_leagueId": 4,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 55,
+      "_leagueId": 4,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 56,
+      "_leagueId": 4,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 57,
+      "_leagueId": 4,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 58,
+      "_leagueId": 4,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 59,
+      "_leagueId": 4,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 60,
+      "_leagueId": 4,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 61,
+      "_leagueId": 4,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 62,
+      "_leagueId": 4,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 63,
+      "_leagueId": 4,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 64,
+      "_leagueId": 4,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 65,
+      "_leagueId": 4,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 66,
+      "_leagueId": 5,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 67,
+      "_leagueId": 5,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 68,
+      "_leagueId": 5,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 69,
+      "_leagueId": 5,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 70,
+      "_leagueId": 5,
+      "_rankStart": 11,
+      "_rankEnd": 50,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 71,
+      "_leagueId": 5,
+      "_rankStart": 51,
+      "_rankEnd": 100,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 72,
+      "_leagueId": 5,
+      "_rankStart": 101,
+      "_rankEnd": 200,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 73,
+      "_leagueId": 5,
+      "_rankStart": 201,
+      "_rankEnd": 500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 74,
+      "_leagueId": 5,
+      "_rankStart": 501,
+      "_rankEnd": 1000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 75,
+      "_leagueId": 5,
+      "_rankStart": 1001,
+      "_rankEnd": 3000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 76,
+      "_leagueId": 5,
+      "_rankStart": 3001,
+      "_rankEnd": 5000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 77,
+      "_leagueId": 5,
+      "_rankStart": 5001,
+      "_rankEnd": 7500,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    },
+    {
+      "_id": 78,
+      "_leagueId": 5,
+      "_rankStart": 7501,
+      "_rankEnd": 10000,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 10
+    }
+  ]
 }

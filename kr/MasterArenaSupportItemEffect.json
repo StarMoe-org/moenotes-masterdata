@@ -1,3 +1,40 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_arenaPtType": 1,
+      "_arenaTargetRankType": 4,
+      "_rankValue": 1,
+      "_arenaEffectType": 1,
+      "_arenaAdjustmentType": 1,
+      "_adjustmentValue": 30
+    },
+    {
+      "_id": 2,
+      "_arenaPtType": 1,
+      "_arenaTargetRankType": 2,
+      "_rankValue": 2,
+      "_arenaEffectType": 1,
+      "_arenaAdjustmentType": 2,
+      "_adjustmentValue": 1000
+    },
+    {
+      "_id": 3,
+      "_arenaPtType": 2,
+      "_arenaTargetRankType": 3,
+      "_rankValue": 3,
+      "_arenaEffectType": 2,
+      "_arenaAdjustmentType": 2,
+      "_adjustmentValue": 1000
+    },
+    {
+      "_id": 4,
+      "_arenaPtType": 1,
+      "_arenaTargetRankType": 1,
+      "_rankValue": 1,
+      "_arenaEffectType": 1,
+      "_arenaAdjustmentType": 1,
+      "_adjustmentValue": 20000
+    }
+  ]
 }

@@ -2941,6 +2941,126 @@
       "_conditionTargetIDs": [
         41
       ]
+    },
+    {
+      "_id": 312,
+      "_conditionType": 3000,
+      "_conditionValues": [],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "_id": 313,
+      "_conditionType": 3000,
+      "_conditionValues": [],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "_id": 314,
+      "_conditionType": 3000,
+      "_conditionValues": [],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "_id": 315,
+      "_conditionType": 3000,
+      "_conditionValues": [],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        8,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "_id": 316,
+      "_conditionType": 3000,
+      "_conditionValues": [],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "_id": 317,
+      "_conditionType": 1030,
+      "_conditionValues": [
+        65
+      ],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        41,
+        46
+      ]
+    },
+    {
+      "_id": 318,
+      "_conditionType": 1030,
+      "_conditionValues": [
+        60
+      ],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        41,
+        46
+      ]
+    },
+    {
+      "_id": 319,
+      "_conditionType": 1030,
+      "_conditionValues": [
+        55
+      ],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        41,
+        46
+      ]
+    },
+    {
+      "_id": 320,
+      "_conditionType": 1030,
+      "_conditionValues": [
+        50
+      ],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        41,
+        46
+      ]
+    },
+    {
+      "_id": 321,
+      "_conditionType": 1030,
+      "_conditionValues": [
+        45
+      ],
+      "_isPositive": true,
+      "_conditionTargetIDs": [
+        41,
+        46
+      ]
     }
   ]
 }

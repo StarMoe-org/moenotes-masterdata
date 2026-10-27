@@ -13,6 +13,18 @@
       "_bannerAsset": "Story/Banner/Chapter/ui_banner_chapter_6"
     },
     {
+      "_id": 2,
+      "_nameTextId": "Exchange_Name_2",
+      "_exchangeCategoryId": 2,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 48,
+      "_targetDisplay": 16,
+      "_targetDisplayId": 0,
+      "_startAt": "2026-10-28 0:00:00",
+      "_endAt": "",
+      "_bannerAsset": ""
+    },
+    {
       "_id": 3,
       "_nameTextId": "Exchange_Name_3",
       "_exchangeCategoryId": 3,
@@ -253,6 +265,18 @@
       "_bannerAsset": "Exchange/Banner/Banner_26"
     },
     {
+      "_id": 27,
+      "_nameTextId": "Exchange_Name_27",
+      "_exchangeCategoryId": 1,
+      "_paymentResourceType": 1,
+      "_paymentResourceId": 71,
+      "_targetDisplay": 1,
+      "_targetDisplayId": 4,
+      "_startAt": "2026-10-28 12:00:00",
+      "_endAt": "2026-11-18 14:59:59",
+      "_bannerAsset": "Image/Event/04/Banner/event_banner_00004"
+    },
+    {
       "_id": 28,
       "_nameTextId": "Exchange_Name_28",
       "_exchangeCategoryId": 6,
@@ -263,6 +287,30 @@
       "_startAt": "2026-10-24 0:00:00",
       "_endAt": "2026-11-25 23:59:59",
       "_bannerAsset": "Gacha/Banner/gacha_banner_00015"
+    },
+    {
+      "_id": 29,
+      "_nameTextId": "Exchange_Name_29",
+      "_exchangeCategoryId": 6,
+      "_paymentResourceType": 7,
+      "_paymentResourceId": 16,
+      "_targetDisplay": 2,
+      "_targetDisplayId": 16,
+      "_startAt": "2026-10-28 0:00:00",
+      "_endAt": "2026-12-08 14:59:59",
+      "_bannerAsset": "Gacha/Banner/gacha_banner_00016"
+    },
+    {
+      "_id": 30,
+      "_nameTextId": "Exchange_Name_30",
+      "_exchangeCategoryId": 6,
+      "_paymentResourceType": 7,
+      "_paymentResourceId": 19,
+      "_targetDisplay": 2,
+      "_targetDisplayId": 19,
+      "_startAt": "2026-10-28 12:00:00",
+      "_endAt": "2026-11-18 14:59:59",
+      "_bannerAsset": "Gacha/Banner/gacha_banner_00019"
     }
   ]
 }

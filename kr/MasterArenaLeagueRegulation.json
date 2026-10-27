@@ -1,0 +1,1704 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/10/29 3:59:59"
+    },
+    {
+      "_id": 2,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/29 4:00:00",
+      "_endAt": "2026/10/30 3:59:59"
+    },
+    {
+      "_id": 3,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/30 4:00:00",
+      "_endAt": "2026/10/31 3:59:59"
+    },
+    {
+      "_id": 4,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/31 4:00:00",
+      "_endAt": "2026/11/01 3:59:59"
+    },
+    {
+      "_id": 5,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/1 4:00:00",
+      "_endAt": "2026/11/02 3:59:59"
+    },
+    {
+      "_id": 6,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/2 4:00:00",
+      "_endAt": "2026/11/03 3:59:59"
+    },
+    {
+      "_id": 7,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/3 4:00:00",
+      "_endAt": "2026/11/04 3:59:59"
+    },
+    {
+      "_id": 8,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/4 4:00:00",
+      "_endAt": "2026/11/05 3:59:59"
+    },
+    {
+      "_id": 9,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/5 4:00:00",
+      "_endAt": "2026/11/06 3:59:59"
+    },
+    {
+      "_id": 10,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/6 4:00:00",
+      "_endAt": "2026/11/07 3:59:59"
+    },
+    {
+      "_id": 11,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/7 4:00:00",
+      "_endAt": "2026/11/08 3:59:59"
+    },
+    {
+      "_id": 12,
+      "_leagueId": 1,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/8 4:00:00",
+      "_endAt": "2026/11/08 14:59:59"
+    },
+    {
+      "_id": 13,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/09 3:59:59"
+    },
+    {
+      "_id": 14,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/9 4:00:00",
+      "_endAt": "2026/11/10 3:59:59"
+    },
+    {
+      "_id": 15,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/10 4:00:00",
+      "_endAt": "2026/11/11 3:59:59"
+    },
+    {
+      "_id": 16,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/11 4:00:00",
+      "_endAt": "2026/11/12 3:59:59"
+    },
+    {
+      "_id": 17,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/12 4:00:00",
+      "_endAt": "2026/11/13 3:59:59"
+    },
+    {
+      "_id": 18,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/13 4:00:00",
+      "_endAt": "2026/11/14 3:59:59"
+    },
+    {
+      "_id": 19,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/14 4:00:00",
+      "_endAt": "2026/11/15 3:59:59"
+    },
+    {
+      "_id": 20,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/15 4:00:00",
+      "_endAt": "2026/11/16 3:59:59"
+    },
+    {
+      "_id": 21,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/16 4:00:00",
+      "_endAt": "2026/11/17 3:59:59"
+    },
+    {
+      "_id": 22,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/17 4:00:00",
+      "_endAt": "2026/11/18 3:59:59"
+    },
+    {
+      "_id": 23,
+      "_leagueId": 1,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/18 4:00:00",
+      "_endAt": "2026/11/18 14:59:59"
+    },
+    {
+      "_id": 24,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2026/11/19 3:59:59"
+    },
+    {
+      "_id": 25,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/19 4:00:00",
+      "_endAt": "2026/11/20 3:59:59"
+    },
+    {
+      "_id": 26,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/20 4:00:00",
+      "_endAt": "2026/11/21 3:59:59"
+    },
+    {
+      "_id": 27,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/21 4:00:00",
+      "_endAt": "2026/11/22 3:59:59"
+    },
+    {
+      "_id": 28,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/22 4:00:00",
+      "_endAt": "2026/11/23 3:59:59"
+    },
+    {
+      "_id": 29,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/23 4:00:00",
+      "_endAt": "2026/11/24 3:59:59"
+    },
+    {
+      "_id": 30,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/24 4:00:00",
+      "_endAt": "2026/11/25 3:59:59"
+    },
+    {
+      "_id": 31,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/25 4:00:00",
+      "_endAt": "2026/11/26 3:59:59"
+    },
+    {
+      "_id": 32,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/26 4:00:00",
+      "_endAt": "2026/11/27 3:59:59"
+    },
+    {
+      "_id": 33,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/27 4:00:00",
+      "_endAt": "2026/11/28 3:59:59"
+    },
+    {
+      "_id": 34,
+      "_leagueId": 1,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/28 4:00:00",
+      "_endAt": "2026/11/29 3:59:59"
+    },
+    {
+      "_id": 35,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/10/29 3:59:59"
+    },
+    {
+      "_id": 36,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/29 4:00:00",
+      "_endAt": "2026/10/30 3:59:59"
+    },
+    {
+      "_id": 37,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/30 4:00:00",
+      "_endAt": "2026/10/31 3:59:59"
+    },
+    {
+      "_id": 38,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/31 4:00:00",
+      "_endAt": "2026/11/01 3:59:59"
+    },
+    {
+      "_id": 39,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/1 4:00:00",
+      "_endAt": "2026/11/02 3:59:59"
+    },
+    {
+      "_id": 40,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/2 4:00:00",
+      "_endAt": "2026/11/03 3:59:59"
+    },
+    {
+      "_id": 41,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/3 4:00:00",
+      "_endAt": "2026/11/04 3:59:59"
+    },
+    {
+      "_id": 42,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/4 4:00:00",
+      "_endAt": "2026/11/05 3:59:59"
+    },
+    {
+      "_id": 43,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/5 4:00:00",
+      "_endAt": "2026/11/06 3:59:59"
+    },
+    {
+      "_id": 44,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/6 4:00:00",
+      "_endAt": "2026/11/07 3:59:59"
+    },
+    {
+      "_id": 45,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/7 4:00:00",
+      "_endAt": "2026/11/08 3:59:59"
+    },
+    {
+      "_id": 46,
+      "_leagueId": 2,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/8 4:00:00",
+      "_endAt": "2026/11/08 14:59:59"
+    },
+    {
+      "_id": 47,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/09 3:59:59"
+    },
+    {
+      "_id": 48,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/9 4:00:00",
+      "_endAt": "2026/11/10 3:59:59"
+    },
+    {
+      "_id": 49,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/10 4:00:00",
+      "_endAt": "2026/11/11 3:59:59"
+    },
+    {
+      "_id": 50,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/11 4:00:00",
+      "_endAt": "2026/11/12 3:59:59"
+    },
+    {
+      "_id": 51,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/12 4:00:00",
+      "_endAt": "2026/11/13 3:59:59"
+    },
+    {
+      "_id": 52,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/13 4:00:00",
+      "_endAt": "2026/11/14 3:59:59"
+    },
+    {
+      "_id": 53,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/14 4:00:00",
+      "_endAt": "2026/11/15 3:59:59"
+    },
+    {
+      "_id": 54,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/15 4:00:00",
+      "_endAt": "2026/11/16 3:59:59"
+    },
+    {
+      "_id": 55,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/16 4:00:00",
+      "_endAt": "2026/11/17 3:59:59"
+    },
+    {
+      "_id": 56,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/17 4:00:00",
+      "_endAt": "2026/11/18 3:59:59"
+    },
+    {
+      "_id": 57,
+      "_leagueId": 2,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/18 4:00:00",
+      "_endAt": "2026/11/18 14:59:59"
+    },
+    {
+      "_id": 58,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2026/11/19 3:59:59"
+    },
+    {
+      "_id": 59,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/19 4:00:00",
+      "_endAt": "2026/11/20 3:59:59"
+    },
+    {
+      "_id": 60,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/20 4:00:00",
+      "_endAt": "2026/11/21 3:59:59"
+    },
+    {
+      "_id": 61,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/21 4:00:00",
+      "_endAt": "2026/11/22 3:59:59"
+    },
+    {
+      "_id": 62,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/22 4:00:00",
+      "_endAt": "2026/11/23 3:59:59"
+    },
+    {
+      "_id": 63,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/23 4:00:00",
+      "_endAt": "2026/11/24 3:59:59"
+    },
+    {
+      "_id": 64,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/24 4:00:00",
+      "_endAt": "2026/11/25 3:59:59"
+    },
+    {
+      "_id": 65,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/25 4:00:00",
+      "_endAt": "2026/11/26 3:59:59"
+    },
+    {
+      "_id": 66,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/26 4:00:00",
+      "_endAt": "2026/11/27 3:59:59"
+    },
+    {
+      "_id": 67,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/27 4:00:00",
+      "_endAt": "2026/11/28 3:59:59"
+    },
+    {
+      "_id": 68,
+      "_leagueId": 2,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/28 4:00:00",
+      "_endAt": "2026/11/29 3:59:59"
+    },
+    {
+      "_id": 69,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/10/29 3:59:59"
+    },
+    {
+      "_id": 70,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/29 4:00:00",
+      "_endAt": "2026/10/30 3:59:59"
+    },
+    {
+      "_id": 71,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/30 4:00:00",
+      "_endAt": "2026/10/31 3:59:59"
+    },
+    {
+      "_id": 72,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/31 4:00:00",
+      "_endAt": "2026/11/01 3:59:59"
+    },
+    {
+      "_id": 73,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/1 4:00:00",
+      "_endAt": "2026/11/02 3:59:59"
+    },
+    {
+      "_id": 74,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/2 4:00:00",
+      "_endAt": "2026/11/03 3:59:59"
+    },
+    {
+      "_id": 75,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/3 4:00:00",
+      "_endAt": "2026/11/04 3:59:59"
+    },
+    {
+      "_id": 76,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/4 4:00:00",
+      "_endAt": "2026/11/05 3:59:59"
+    },
+    {
+      "_id": 77,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/5 4:00:00",
+      "_endAt": "2026/11/06 3:59:59"
+    },
+    {
+      "_id": 78,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/6 4:00:00",
+      "_endAt": "2026/11/07 3:59:59"
+    },
+    {
+      "_id": 79,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/7 4:00:00",
+      "_endAt": "2026/11/08 3:59:59"
+    },
+    {
+      "_id": 80,
+      "_leagueId": 3,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/8 4:00:00",
+      "_endAt": "2026/11/08 14:59:59"
+    },
+    {
+      "_id": 81,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/09 3:59:59"
+    },
+    {
+      "_id": 82,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/9 4:00:00",
+      "_endAt": "2026/11/10 3:59:59"
+    },
+    {
+      "_id": 83,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/10 4:00:00",
+      "_endAt": "2026/11/11 3:59:59"
+    },
+    {
+      "_id": 84,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/11 4:00:00",
+      "_endAt": "2026/11/12 3:59:59"
+    },
+    {
+      "_id": 85,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/12 4:00:00",
+      "_endAt": "2026/11/13 3:59:59"
+    },
+    {
+      "_id": 86,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/13 4:00:00",
+      "_endAt": "2026/11/14 3:59:59"
+    },
+    {
+      "_id": 87,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/14 4:00:00",
+      "_endAt": "2026/11/15 3:59:59"
+    },
+    {
+      "_id": 88,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/15 4:00:00",
+      "_endAt": "2026/11/16 3:59:59"
+    },
+    {
+      "_id": 89,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/16 4:00:00",
+      "_endAt": "2026/11/17 3:59:59"
+    },
+    {
+      "_id": 90,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/17 4:00:00",
+      "_endAt": "2026/11/18 3:59:59"
+    },
+    {
+      "_id": 91,
+      "_leagueId": 3,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/18 4:00:00",
+      "_endAt": "2026/11/18 14:59:59"
+    },
+    {
+      "_id": 92,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2026/11/19 3:59:59"
+    },
+    {
+      "_id": 93,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/19 4:00:00",
+      "_endAt": "2026/11/20 3:59:59"
+    },
+    {
+      "_id": 94,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/20 4:00:00",
+      "_endAt": "2026/11/21 3:59:59"
+    },
+    {
+      "_id": 95,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/21 4:00:00",
+      "_endAt": "2026/11/22 3:59:59"
+    },
+    {
+      "_id": 96,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/22 4:00:00",
+      "_endAt": "2026/11/23 3:59:59"
+    },
+    {
+      "_id": 97,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/23 4:00:00",
+      "_endAt": "2026/11/24 3:59:59"
+    },
+    {
+      "_id": 98,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/24 4:00:00",
+      "_endAt": "2026/11/25 3:59:59"
+    },
+    {
+      "_id": 99,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/25 4:00:00",
+      "_endAt": "2026/11/26 3:59:59"
+    },
+    {
+      "_id": 100,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/26 4:00:00",
+      "_endAt": "2026/11/27 3:59:59"
+    },
+    {
+      "_id": 101,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/27 4:00:00",
+      "_endAt": "2026/11/28 3:59:59"
+    },
+    {
+      "_id": 102,
+      "_leagueId": 3,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/28 4:00:00",
+      "_endAt": "2026/11/29 3:59:59"
+    },
+    {
+      "_id": 103,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/10/29 3:59:59"
+    },
+    {
+      "_id": 104,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/29 4:00:00",
+      "_endAt": "2026/10/30 3:59:59"
+    },
+    {
+      "_id": 105,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/30 4:00:00",
+      "_endAt": "2026/10/31 3:59:59"
+    },
+    {
+      "_id": 106,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/31 4:00:00",
+      "_endAt": "2026/11/01 3:59:59"
+    },
+    {
+      "_id": 107,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/1 4:00:00",
+      "_endAt": "2026/11/02 3:59:59"
+    },
+    {
+      "_id": 108,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/2 4:00:00",
+      "_endAt": "2026/11/03 3:59:59"
+    },
+    {
+      "_id": 109,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/3 4:00:00",
+      "_endAt": "2026/11/04 3:59:59"
+    },
+    {
+      "_id": 110,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/4 4:00:00",
+      "_endAt": "2026/11/05 3:59:59"
+    },
+    {
+      "_id": 111,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/5 4:00:00",
+      "_endAt": "2026/11/06 3:59:59"
+    },
+    {
+      "_id": 112,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/6 4:00:00",
+      "_endAt": "2026/11/07 3:59:59"
+    },
+    {
+      "_id": 113,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/7 4:00:00",
+      "_endAt": "2026/11/08 3:59:59"
+    },
+    {
+      "_id": 114,
+      "_leagueId": 4,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/8 4:00:00",
+      "_endAt": "2026/11/08 14:59:59"
+    },
+    {
+      "_id": 115,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/09 3:59:59"
+    },
+    {
+      "_id": 116,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/9 4:00:00",
+      "_endAt": "2026/11/10 3:59:59"
+    },
+    {
+      "_id": 117,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/10 4:00:00",
+      "_endAt": "2026/11/11 3:59:59"
+    },
+    {
+      "_id": 118,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/11 4:00:00",
+      "_endAt": "2026/11/12 3:59:59"
+    },
+    {
+      "_id": 119,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/12 4:00:00",
+      "_endAt": "2026/11/13 3:59:59"
+    },
+    {
+      "_id": 120,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/13 4:00:00",
+      "_endAt": "2026/11/14 3:59:59"
+    },
+    {
+      "_id": 121,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/14 4:00:00",
+      "_endAt": "2026/11/15 3:59:59"
+    },
+    {
+      "_id": 122,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/15 4:00:00",
+      "_endAt": "2026/11/16 3:59:59"
+    },
+    {
+      "_id": 123,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/16 4:00:00",
+      "_endAt": "2026/11/17 3:59:59"
+    },
+    {
+      "_id": 124,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/17 4:00:00",
+      "_endAt": "2026/11/18 3:59:59"
+    },
+    {
+      "_id": 125,
+      "_leagueId": 4,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/18 4:00:00",
+      "_endAt": "2026/11/18 14:59:59"
+    },
+    {
+      "_id": 126,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2026/11/19 3:59:59"
+    },
+    {
+      "_id": 127,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/19 4:00:00",
+      "_endAt": "2026/11/20 3:59:59"
+    },
+    {
+      "_id": 128,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/20 4:00:00",
+      "_endAt": "2026/11/21 3:59:59"
+    },
+    {
+      "_id": 129,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/21 4:00:00",
+      "_endAt": "2026/11/22 3:59:59"
+    },
+    {
+      "_id": 130,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/22 4:00:00",
+      "_endAt": "2026/11/23 3:59:59"
+    },
+    {
+      "_id": 131,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/23 4:00:00",
+      "_endAt": "2026/11/24 3:59:59"
+    },
+    {
+      "_id": 132,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/24 4:00:00",
+      "_endAt": "2026/11/25 3:59:59"
+    },
+    {
+      "_id": 133,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/25 4:00:00",
+      "_endAt": "2026/11/26 3:59:59"
+    },
+    {
+      "_id": 134,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/26 4:00:00",
+      "_endAt": "2026/11/27 3:59:59"
+    },
+    {
+      "_id": 135,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/27 4:00:00",
+      "_endAt": "2026/11/28 3:59:59"
+    },
+    {
+      "_id": 136,
+      "_leagueId": 4,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/28 4:00:00",
+      "_endAt": "2026/11/29 3:59:59"
+    },
+    {
+      "_id": 137,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/10/29 3:59:59"
+    },
+    {
+      "_id": 138,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/10/29 4:00:00",
+      "_endAt": "2026/10/30 3:59:59"
+    },
+    {
+      "_id": 139,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/10/30 4:00:00",
+      "_endAt": "2026/10/31 3:59:59"
+    },
+    {
+      "_id": 140,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/10/31 4:00:00",
+      "_endAt": "2026/11/01 3:59:59"
+    },
+    {
+      "_id": 141,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/1 4:00:00",
+      "_endAt": "2026/11/02 3:59:59"
+    },
+    {
+      "_id": 142,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/2 4:00:00",
+      "_endAt": "2026/11/03 3:59:59"
+    },
+    {
+      "_id": 143,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/3 4:00:00",
+      "_endAt": "2026/11/04 3:59:59"
+    },
+    {
+      "_id": 144,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/4 4:00:00",
+      "_endAt": "2026/11/05 3:59:59"
+    },
+    {
+      "_id": 145,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/5 4:00:00",
+      "_endAt": "2026/11/06 3:59:59"
+    },
+    {
+      "_id": 146,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/6 4:00:00",
+      "_endAt": "2026/11/07 3:59:59"
+    },
+    {
+      "_id": 147,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/7 4:00:00",
+      "_endAt": "2026/11/08 3:59:59"
+    },
+    {
+      "_id": 148,
+      "_leagueId": 5,
+      "_liveMusicType": 99,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/8 4:00:00",
+      "_endAt": "2026/11/08 14:59:59"
+    },
+    {
+      "_id": 149,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/09 3:59:59"
+    },
+    {
+      "_id": 150,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/9 4:00:00",
+      "_endAt": "2026/11/10 3:59:59"
+    },
+    {
+      "_id": 151,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/10 4:00:00",
+      "_endAt": "2026/11/11 3:59:59"
+    },
+    {
+      "_id": 152,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/11 4:00:00",
+      "_endAt": "2026/11/12 3:59:59"
+    },
+    {
+      "_id": 153,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/12 4:00:00",
+      "_endAt": "2026/11/13 3:59:59"
+    },
+    {
+      "_id": 154,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/13 4:00:00",
+      "_endAt": "2026/11/14 3:59:59"
+    },
+    {
+      "_id": 155,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/14 4:00:00",
+      "_endAt": "2026/11/15 3:59:59"
+    },
+    {
+      "_id": 156,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/15 4:00:00",
+      "_endAt": "2026/11/16 3:59:59"
+    },
+    {
+      "_id": 157,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/16 4:00:00",
+      "_endAt": "2026/11/17 3:59:59"
+    },
+    {
+      "_id": 158,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/17 4:00:00",
+      "_endAt": "2026/11/18 3:59:59"
+    },
+    {
+      "_id": 159,
+      "_leagueId": 5,
+      "_liveMusicType": 5,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/18 4:00:00",
+      "_endAt": "2026/11/18 14:59:59"
+    },
+    {
+      "_id": 160,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2026/11/19 3:59:59"
+    },
+    {
+      "_id": 161,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/19 4:00:00",
+      "_endAt": "2026/11/20 3:59:59"
+    },
+    {
+      "_id": 162,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/20 4:00:00",
+      "_endAt": "2026/11/21 3:59:59"
+    },
+    {
+      "_id": 163,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/21 4:00:00",
+      "_endAt": "2026/11/22 3:59:59"
+    },
+    {
+      "_id": 164,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/22 4:00:00",
+      "_endAt": "2026/11/23 3:59:59"
+    },
+    {
+      "_id": 165,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/23 4:00:00",
+      "_endAt": "2026/11/24 3:59:59"
+    },
+    {
+      "_id": 166,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/24 4:00:00",
+      "_endAt": "2026/11/25 3:59:59"
+    },
+    {
+      "_id": 167,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/25 4:00:00",
+      "_endAt": "2026/11/26 3:59:59"
+    },
+    {
+      "_id": 168,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_startAt": "2026/11/26 4:00:00",
+      "_endAt": "2026/11/27 3:59:59"
+    },
+    {
+      "_id": 169,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 1,
+      "_gekisouMission2": 1,
+      "_gekisouMission3": 1,
+      "_startAt": "2026/11/27 4:00:00",
+      "_endAt": "2026/11/28 3:59:59"
+    },
+    {
+      "_id": 170,
+      "_leagueId": 5,
+      "_liveMusicType": 4,
+      "_gekisouMission1": 2,
+      "_gekisouMission2": 2,
+      "_gekisouMission3": 2,
+      "_startAt": "2026/11/28 4:00:00",
+      "_endAt": "2026/11/29 3:59:59"
+    }
+  ]
+}

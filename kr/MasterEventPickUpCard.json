@@ -35,6 +35,18 @@
       "_eventId": 3,
       "_resourceType": 3,
       "_resourceId": 73
+    },
+    {
+      "_id": 7,
+      "_eventId": 4,
+      "_resourceType": 2,
+      "_resourceId": 74
+    },
+    {
+      "_id": 8,
+      "_eventId": 4,
+      "_resourceType": 3,
+      "_resourceId": 77
     }
   ]
 }

@@ -8,11 +8,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 2,
+      "_characterId": 1,
+      "_voiceTextId": "LiveStartVoice_2",
+      "_voiceSoundId": 3300101000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 3,
+      "_characterId": 1,
+      "_voiceTextId": "LiveStartVoice_3",
+      "_voiceSoundId": 3300101000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 4,
+      "_characterId": 1,
+      "_voiceTextId": "LiveStartVoice_4",
+      "_voiceSoundId": 3300101000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 5,
+      "_characterId": 1,
+      "_voiceTextId": "LiveStartVoice_5",
+      "_voiceSoundId": 3300101000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 6,
       "_characterId": 2,
       "_voiceTextId": "LiveStartVoice_6",
       "_voiceSoundId": 3300201000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 7,
+      "_characterId": 2,
+      "_voiceTextId": "LiveStartVoice_7",
+      "_voiceSoundId": 3300201000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 8,
+      "_characterId": 2,
+      "_voiceTextId": "LiveStartVoice_8",
+      "_voiceSoundId": 3300201000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 9,
+      "_characterId": 2,
+      "_voiceTextId": "LiveStartVoice_9",
+      "_voiceSoundId": 3300201000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 10,
+      "_characterId": 2,
+      "_voiceTextId": "LiveStartVoice_10",
+      "_voiceSoundId": 3300201000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 11,
@@ -22,11 +78,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 12,
+      "_characterId": 3,
+      "_voiceTextId": "LiveStartVoice_12",
+      "_voiceSoundId": 3300301000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 13,
+      "_characterId": 3,
+      "_voiceTextId": "LiveStartVoice_13",
+      "_voiceSoundId": 3300301000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 14,
+      "_characterId": 3,
+      "_voiceTextId": "LiveStartVoice_14",
+      "_voiceSoundId": 3300301000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 15,
+      "_characterId": 3,
+      "_voiceTextId": "LiveStartVoice_15",
+      "_voiceSoundId": 3300301000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 16,
       "_characterId": 4,
       "_voiceTextId": "LiveStartVoice_16",
       "_voiceSoundId": 3300401000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 17,
+      "_characterId": 4,
+      "_voiceTextId": "LiveStartVoice_17",
+      "_voiceSoundId": 3300401000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 18,
+      "_characterId": 4,
+      "_voiceTextId": "LiveStartVoice_18",
+      "_voiceSoundId": 3300401000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 19,
+      "_characterId": 4,
+      "_voiceTextId": "LiveStartVoice_19",
+      "_voiceSoundId": 3300401000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 20,
+      "_characterId": 4,
+      "_voiceTextId": "LiveStartVoice_20",
+      "_voiceSoundId": 3300401000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 21,
@@ -36,11 +148,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 22,
+      "_characterId": 5,
+      "_voiceTextId": "LiveStartVoice_22",
+      "_voiceSoundId": 3300501000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 23,
+      "_characterId": 5,
+      "_voiceTextId": "LiveStartVoice_23",
+      "_voiceSoundId": 3300501000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 24,
+      "_characterId": 5,
+      "_voiceTextId": "LiveStartVoice_24",
+      "_voiceSoundId": 3300501000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 25,
+      "_characterId": 5,
+      "_voiceTextId": "LiveStartVoice_25",
+      "_voiceSoundId": 3300501000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 26,
       "_characterId": 6,
       "_voiceTextId": "LiveStartVoice_26",
       "_voiceSoundId": 3300601000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 27,
+      "_characterId": 6,
+      "_voiceTextId": "LiveStartVoice_27",
+      "_voiceSoundId": 3300601000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 28,
+      "_characterId": 6,
+      "_voiceTextId": "LiveStartVoice_28",
+      "_voiceSoundId": 3300601000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 29,
+      "_characterId": 6,
+      "_voiceTextId": "LiveStartVoice_29",
+      "_voiceSoundId": 3300601000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 30,
+      "_characterId": 6,
+      "_voiceTextId": "LiveStartVoice_30",
+      "_voiceSoundId": 3300601000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 31,
@@ -50,11 +218,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 32,
+      "_characterId": 7,
+      "_voiceTextId": "LiveStartVoice_32",
+      "_voiceSoundId": 3300701000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 33,
+      "_characterId": 7,
+      "_voiceTextId": "LiveStartVoice_33",
+      "_voiceSoundId": 3300701000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 34,
+      "_characterId": 7,
+      "_voiceTextId": "LiveStartVoice_34",
+      "_voiceSoundId": 3300701000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 35,
+      "_characterId": 7,
+      "_voiceTextId": "LiveStartVoice_35",
+      "_voiceSoundId": 3300701000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 36,
       "_characterId": 8,
       "_voiceTextId": "LiveStartVoice_36",
       "_voiceSoundId": 3300801000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 37,
+      "_characterId": 8,
+      "_voiceTextId": "LiveStartVoice_37",
+      "_voiceSoundId": 3300801000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 38,
+      "_characterId": 8,
+      "_voiceTextId": "LiveStartVoice_38",
+      "_voiceSoundId": 3300801000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 39,
+      "_characterId": 8,
+      "_voiceTextId": "LiveStartVoice_39",
+      "_voiceSoundId": 3300801000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 40,
+      "_characterId": 8,
+      "_voiceTextId": "LiveStartVoice_40",
+      "_voiceSoundId": 3300801000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 41,
@@ -64,11 +288,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 42,
+      "_characterId": 9,
+      "_voiceTextId": "LiveStartVoice_42",
+      "_voiceSoundId": 3300901000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 43,
+      "_characterId": 9,
+      "_voiceTextId": "LiveStartVoice_43",
+      "_voiceSoundId": 3300901000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 44,
+      "_characterId": 9,
+      "_voiceTextId": "LiveStartVoice_44",
+      "_voiceSoundId": 3300901000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 45,
+      "_characterId": 9,
+      "_voiceTextId": "LiveStartVoice_45",
+      "_voiceSoundId": 3300901000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 46,
       "_characterId": 10,
       "_voiceTextId": "LiveStartVoice_46",
       "_voiceSoundId": 3301001000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 47,
+      "_characterId": 10,
+      "_voiceTextId": "LiveStartVoice_47",
+      "_voiceSoundId": 3301001000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 48,
+      "_characterId": 10,
+      "_voiceTextId": "LiveStartVoice_48",
+      "_voiceSoundId": 3301001000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 49,
+      "_characterId": 10,
+      "_voiceTextId": "LiveStartVoice_49",
+      "_voiceSoundId": 3301001000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 50,
+      "_characterId": 10,
+      "_voiceTextId": "LiveStartVoice_50",
+      "_voiceSoundId": 3301001000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 51,
@@ -78,11 +358,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 52,
+      "_characterId": 11,
+      "_voiceTextId": "LiveStartVoice_52",
+      "_voiceSoundId": 3301101000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 53,
+      "_characterId": 11,
+      "_voiceTextId": "LiveStartVoice_53",
+      "_voiceSoundId": 3301101000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 54,
+      "_characterId": 11,
+      "_voiceTextId": "LiveStartVoice_54",
+      "_voiceSoundId": 3301101000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 55,
+      "_characterId": 11,
+      "_voiceTextId": "LiveStartVoice_55",
+      "_voiceSoundId": 3301101000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 56,
       "_characterId": 12,
       "_voiceTextId": "LiveStartVoice_56",
       "_voiceSoundId": 3301201000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 57,
+      "_characterId": 12,
+      "_voiceTextId": "LiveStartVoice_57",
+      "_voiceSoundId": 3301201000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 58,
+      "_characterId": 12,
+      "_voiceTextId": "LiveStartVoice_58",
+      "_voiceSoundId": 3301201000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 59,
+      "_characterId": 12,
+      "_voiceTextId": "LiveStartVoice_59",
+      "_voiceSoundId": 3301201000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 60,
+      "_characterId": 12,
+      "_voiceTextId": "LiveStartVoice_60",
+      "_voiceSoundId": 3301201000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 61,
@@ -92,11 +428,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 62,
+      "_characterId": 13,
+      "_voiceTextId": "LiveStartVoice_62",
+      "_voiceSoundId": 3301301000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 63,
+      "_characterId": 13,
+      "_voiceTextId": "LiveStartVoice_63",
+      "_voiceSoundId": 3301301000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 64,
+      "_characterId": 13,
+      "_voiceTextId": "LiveStartVoice_64",
+      "_voiceSoundId": 3301301000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 65,
+      "_characterId": 13,
+      "_voiceTextId": "LiveStartVoice_65",
+      "_voiceSoundId": 3301301000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 66,
       "_characterId": 14,
       "_voiceTextId": "LiveStartVoice_66",
       "_voiceSoundId": 3301401000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 67,
+      "_characterId": 14,
+      "_voiceTextId": "LiveStartVoice_67",
+      "_voiceSoundId": 3301401000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 68,
+      "_characterId": 14,
+      "_voiceTextId": "LiveStartVoice_68",
+      "_voiceSoundId": 3301401000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 69,
+      "_characterId": 14,
+      "_voiceTextId": "LiveStartVoice_69",
+      "_voiceSoundId": 3301401000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 70,
+      "_characterId": 14,
+      "_voiceTextId": "LiveStartVoice_70",
+      "_voiceSoundId": 3301401000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 71,
@@ -106,11 +498,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 72,
+      "_characterId": 15,
+      "_voiceTextId": "LiveStartVoice_72",
+      "_voiceSoundId": 3301501000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 73,
+      "_characterId": 15,
+      "_voiceTextId": "LiveStartVoice_73",
+      "_voiceSoundId": 3301501000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 74,
+      "_characterId": 15,
+      "_voiceTextId": "LiveStartVoice_74",
+      "_voiceSoundId": 3301501000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 75,
+      "_characterId": 15,
+      "_voiceTextId": "LiveStartVoice_75",
+      "_voiceSoundId": 3301501000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 76,
       "_characterId": 16,
       "_voiceTextId": "LiveStartVoice_76",
       "_voiceSoundId": 3301601000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 77,
+      "_characterId": 16,
+      "_voiceTextId": "LiveStartVoice_77",
+      "_voiceSoundId": 3301601000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 78,
+      "_characterId": 16,
+      "_voiceTextId": "LiveStartVoice_78",
+      "_voiceSoundId": 3301601000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 79,
+      "_characterId": 16,
+      "_voiceTextId": "LiveStartVoice_79",
+      "_voiceSoundId": 3301601000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 80,
+      "_characterId": 16,
+      "_voiceTextId": "LiveStartVoice_80",
+      "_voiceSoundId": 3301601000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 81,
@@ -120,11 +568,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 82,
+      "_characterId": 17,
+      "_voiceTextId": "LiveStartVoice_82",
+      "_voiceSoundId": 3301701000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 83,
+      "_characterId": 17,
+      "_voiceTextId": "LiveStartVoice_83",
+      "_voiceSoundId": 3301701000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 84,
+      "_characterId": 17,
+      "_voiceTextId": "LiveStartVoice_84",
+      "_voiceSoundId": 3301701000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 85,
+      "_characterId": 17,
+      "_voiceTextId": "LiveStartVoice_85",
+      "_voiceSoundId": 3301701000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 86,
       "_characterId": 18,
       "_voiceTextId": "LiveStartVoice_86",
       "_voiceSoundId": 3301801000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 87,
+      "_characterId": 18,
+      "_voiceTextId": "LiveStartVoice_87",
+      "_voiceSoundId": 3301801000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 88,
+      "_characterId": 18,
+      "_voiceTextId": "LiveStartVoice_88",
+      "_voiceSoundId": 3301801000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 89,
+      "_characterId": 18,
+      "_voiceTextId": "LiveStartVoice_89",
+      "_voiceSoundId": 3301801000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 90,
+      "_characterId": 18,
+      "_voiceTextId": "LiveStartVoice_90",
+      "_voiceSoundId": 3301801000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 91,
@@ -134,11 +638,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 92,
+      "_characterId": 19,
+      "_voiceTextId": "LiveStartVoice_92",
+      "_voiceSoundId": 3301901000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 93,
+      "_characterId": 19,
+      "_voiceTextId": "LiveStartVoice_93",
+      "_voiceSoundId": 3301901000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 94,
+      "_characterId": 19,
+      "_voiceTextId": "LiveStartVoice_94",
+      "_voiceSoundId": 3301901000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 95,
+      "_characterId": 19,
+      "_voiceTextId": "LiveStartVoice_95",
+      "_voiceSoundId": 3301901000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 96,
       "_characterId": 20,
       "_voiceTextId": "LiveStartVoice_96",
       "_voiceSoundId": 3302001000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 97,
+      "_characterId": 20,
+      "_voiceTextId": "LiveStartVoice_97",
+      "_voiceSoundId": 3302001000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 98,
+      "_characterId": 20,
+      "_voiceTextId": "LiveStartVoice_98",
+      "_voiceSoundId": 3302001000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 99,
+      "_characterId": 20,
+      "_voiceTextId": "LiveStartVoice_99",
+      "_voiceSoundId": 3302001000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 100,
+      "_characterId": 20,
+      "_voiceTextId": "LiveStartVoice_100",
+      "_voiceSoundId": 3302001000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 101,
@@ -148,11 +708,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 102,
+      "_characterId": 21,
+      "_voiceTextId": "LiveStartVoice_102",
+      "_voiceSoundId": 3302101000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 103,
+      "_characterId": 21,
+      "_voiceTextId": "LiveStartVoice_103",
+      "_voiceSoundId": 3302101000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 104,
+      "_characterId": 21,
+      "_voiceTextId": "LiveStartVoice_104",
+      "_voiceSoundId": 3302101000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 105,
+      "_characterId": 21,
+      "_voiceTextId": "LiveStartVoice_105",
+      "_voiceSoundId": 3302101000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 106,
       "_characterId": 22,
       "_voiceTextId": "LiveStartVoice_106",
       "_voiceSoundId": 3302201000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 107,
+      "_characterId": 22,
+      "_voiceTextId": "LiveStartVoice_107",
+      "_voiceSoundId": 3302201000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 108,
+      "_characterId": 22,
+      "_voiceTextId": "LiveStartVoice_108",
+      "_voiceSoundId": 3302201000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 109,
+      "_characterId": 22,
+      "_voiceTextId": "LiveStartVoice_109",
+      "_voiceSoundId": 3302201000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 110,
+      "_characterId": 22,
+      "_voiceTextId": "LiveStartVoice_110",
+      "_voiceSoundId": 3302201000005,
+      "_unlockCharacterRank": 50
     },
     {
       "_id": 111,
@@ -162,6 +778,34 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 112,
+      "_characterId": 23,
+      "_voiceTextId": "LiveStartVoice_112",
+      "_voiceSoundId": 3302301000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 113,
+      "_characterId": 23,
+      "_voiceTextId": "LiveStartVoice_113",
+      "_voiceSoundId": 3302301000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 114,
+      "_characterId": 23,
+      "_voiceTextId": "LiveStartVoice_114",
+      "_voiceSoundId": 3302301000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 115,
+      "_characterId": 23,
+      "_voiceTextId": "LiveStartVoice_115",
+      "_voiceSoundId": 3302301000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 116,
       "_characterId": 24,
       "_voiceTextId": "LiveStartVoice_116",
@@ -169,11 +813,67 @@
       "_unlockCharacterRank": 0
     },
     {
+      "_id": 117,
+      "_characterId": 24,
+      "_voiceTextId": "LiveStartVoice_117",
+      "_voiceSoundId": 3302401000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 118,
+      "_characterId": 24,
+      "_voiceTextId": "LiveStartVoice_118",
+      "_voiceSoundId": 3302401000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 119,
+      "_characterId": 24,
+      "_voiceTextId": "LiveStartVoice_119",
+      "_voiceSoundId": 3302401000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 120,
+      "_characterId": 24,
+      "_voiceTextId": "LiveStartVoice_120",
+      "_voiceSoundId": 3302401000005,
+      "_unlockCharacterRank": 50
+    },
+    {
       "_id": 121,
       "_characterId": 25,
       "_voiceTextId": "LiveStartVoice_121",
       "_voiceSoundId": 3302501000001,
       "_unlockCharacterRank": 0
+    },
+    {
+      "_id": 122,
+      "_characterId": 25,
+      "_voiceTextId": "LiveStartVoice_122",
+      "_voiceSoundId": 3302501000002,
+      "_unlockCharacterRank": 20
+    },
+    {
+      "_id": 123,
+      "_characterId": 25,
+      "_voiceTextId": "LiveStartVoice_123",
+      "_voiceSoundId": 3302501000003,
+      "_unlockCharacterRank": 30
+    },
+    {
+      "_id": 124,
+      "_characterId": 25,
+      "_voiceTextId": "LiveStartVoice_124",
+      "_voiceSoundId": 3302501000004,
+      "_unlockCharacterRank": 40
+    },
+    {
+      "_id": 125,
+      "_characterId": 25,
+      "_voiceTextId": "LiveStartVoice_125",
+      "_voiceSoundId": 3302501000005,
+      "_unlockCharacterRank": 50
     }
   ]
 }

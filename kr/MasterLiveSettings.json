@@ -371,6 +371,42 @@
       "_key": "gekisou_live_ingame_load_timeout_sec",
       "_value": "30",
       "_subValue": ""
+    },
+    {
+      "_id": 67,
+      "_key": "tutorial_guide_freeze_times_gekisou_just",
+      "_value": "0,6000",
+      "_subValue": ""
+    },
+    {
+      "_id": 68,
+      "_key": "tutorial_guide_freeze_times_gekisou_combo",
+      "_value": "0,6000",
+      "_subValue": ""
+    },
+    {
+      "_id": 69,
+      "_key": "tutorial_guide_freeze_times_gekisou_luck",
+      "_value": "0,6500",
+      "_subValue": ""
+    },
+    {
+      "_id": 70,
+      "_key": "tutorial_gekisou_luck_gauge_max",
+      "_value": "50",
+      "_subValue": ""
+    },
+    {
+      "_id": 71,
+      "_key": "tutorial_gekisou_luck_gauge_max_rush",
+      "_value": "35",
+      "_subValue": ""
+    },
+    {
+      "_id": 72,
+      "_key": "tutorial_gekisou_just_timing_ms",
+      "_value": "6",
+      "_subValue": ""
     }
   ]
 }
