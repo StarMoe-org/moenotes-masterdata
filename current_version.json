@@ -3,8 +3,8 @@
   "regions": {
     "hk-tw-mo": {
       "version": "2fc544ff9420d78c1f521792ab85ad53",
-      "resource_version": "1.1.0.100.d0f39ee4",
-      "verified_at": "2026-10-27T15:22:19.216666+00:00",
+      "resource_version": "1.1.0.102.b7abb941",
+      "verified_at": "2026-10-27T18:32:19.057744+00:00",
       "table_count": 252,
       "record_count": 49949,
       "manifest_sha256": "ddc4e06a07f5714aa7d7ef1d92f8ac9fc73e900cc9d91f1874ce0826d4214091",
