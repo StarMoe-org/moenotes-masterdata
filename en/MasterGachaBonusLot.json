@@ -31,6 +31,150 @@
       "_bonusPrizeId": 69,
       "_bonusPrizeCount": 50,
       "_weight": 1
+    },
+    {
+      "_id": 5,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 266,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 6,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 267,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 7,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 268,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 8,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 269,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 9,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 270,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 10,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 271,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 11,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 272,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 12,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 273,
+      "_bonusPrizeCount": 1,
+      "_weight": 1526
+    },
+    {
+      "_id": 13,
+      "_gachaBonusId": 5,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 274,
+      "_bonusPrizeCount": 1,
+      "_weight": 1526
+    },
+    {
+      "_id": 14,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 266,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 15,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 267,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 16,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 268,
+      "_bonusPrizeCount": 1,
+      "_weight": 280
+    },
+    {
+      "_id": 17,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 269,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 18,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 270,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 19,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 271,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 20,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 272,
+      "_bonusPrizeCount": 1,
+      "_weight": 1527
+    },
+    {
+      "_id": 21,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 273,
+      "_bonusPrizeCount": 1,
+      "_weight": 1526
+    },
+    {
+      "_id": 22,
+      "_gachaBonusId": 6,
+      "_bonusPrizeType": 17,
+      "_bonusPrizeId": 274,
+      "_bonusPrizeCount": 1,
+      "_weight": 1526
     }
   ]
 }

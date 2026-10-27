@@ -2547,6 +2547,62 @@
       "_musicScoreLevel": 25,
       "_musicScoreDisplayLevel": 25.0,
       "_fullComboCount": 589
+    },
+    {
+      "_id": 10011500,
+      "_musicScoreTextFileName": "0115/0115_00",
+      "_musicScoreLevel": 7,
+      "_musicScoreDisplayLevel": 7.0,
+      "_fullComboCount": 294
+    },
+    {
+      "_id": 10011501,
+      "_musicScoreTextFileName": "0115/0115_01",
+      "_musicScoreLevel": 11,
+      "_musicScoreDisplayLevel": 11.0,
+      "_fullComboCount": 626
+    },
+    {
+      "_id": 10011502,
+      "_musicScoreTextFileName": "0115/0115_02",
+      "_musicScoreLevel": 17,
+      "_musicScoreDisplayLevel": 17.0,
+      "_fullComboCount": 737
+    },
+    {
+      "_id": 10011503,
+      "_musicScoreTextFileName": "0115/0115_03",
+      "_musicScoreLevel": 25,
+      "_musicScoreDisplayLevel": 25.5,
+      "_fullComboCount": 936
+    },
+    {
+      "_id": 10011800,
+      "_musicScoreTextFileName": "0118/0118_00",
+      "_musicScoreLevel": 7,
+      "_musicScoreDisplayLevel": 7.0,
+      "_fullComboCount": 279
+    },
+    {
+      "_id": 10011801,
+      "_musicScoreTextFileName": "0118/0118_01",
+      "_musicScoreLevel": 14,
+      "_musicScoreDisplayLevel": 14.0,
+      "_fullComboCount": 476
+    },
+    {
+      "_id": 10011802,
+      "_musicScoreTextFileName": "0118/0118_02",
+      "_musicScoreLevel": 20,
+      "_musicScoreDisplayLevel": 20.0,
+      "_fullComboCount": 721
+    },
+    {
+      "_id": 10011803,
+      "_musicScoreTextFileName": "0118/0118_03",
+      "_musicScoreLevel": 26,
+      "_musicScoreDisplayLevel": 26.5,
+      "_fullComboCount": 957
     }
   ]
 }

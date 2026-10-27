@@ -813,6 +813,27 @@
       "_addedOptionVersion": 1
     },
     {
+      "_id": 1116,
+      "_presetId": 1,
+      "_optionItemType": 120,
+      "_valueString": "0",
+      "_addedOptionVersion": 1
+    },
+    {
+      "_id": 1117,
+      "_presetId": 1,
+      "_optionItemType": 121,
+      "_valueString": "0",
+      "_addedOptionVersion": 3
+    },
+    {
+      "_id": 1118,
+      "_presetId": 1,
+      "_optionItemType": 8,
+      "_valueString": "FALSE",
+      "_addedOptionVersion": 3
+    },
+    {
       "_id": 2000,
       "_presetId": 2,
       "_optionItemType": 1,
@@ -1625,6 +1646,27 @@
       "_addedOptionVersion": 1
     },
     {
+      "_id": 2116,
+      "_presetId": 2,
+      "_optionItemType": 120,
+      "_valueString": "0",
+      "_addedOptionVersion": 1
+    },
+    {
+      "_id": 2117,
+      "_presetId": 2,
+      "_optionItemType": 121,
+      "_valueString": "0",
+      "_addedOptionVersion": 3
+    },
+    {
+      "_id": 2118,
+      "_presetId": 2,
+      "_optionItemType": 8,
+      "_valueString": "FALSE",
+      "_addedOptionVersion": 3
+    },
+    {
       "_id": 3000,
       "_presetId": 3,
       "_optionItemType": 1,
@@ -2435,6 +2477,27 @@
       "_optionItemType": 119,
       "_valueString": "2",
       "_addedOptionVersion": 1
+    },
+    {
+      "_id": 3116,
+      "_presetId": 3,
+      "_optionItemType": 120,
+      "_valueString": "0",
+      "_addedOptionVersion": 1
+    },
+    {
+      "_id": 3117,
+      "_presetId": 3,
+      "_optionItemType": 121,
+      "_valueString": "0",
+      "_addedOptionVersion": 3
+    },
+    {
+      "_id": 3118,
+      "_presetId": 3,
+      "_optionItemType": 8,
+      "_valueString": "FALSE",
+      "_addedOptionVersion": 3
     }
   ]
 }

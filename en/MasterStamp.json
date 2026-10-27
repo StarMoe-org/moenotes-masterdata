@@ -1015,7 +1015,35 @@
       "_isInitialOwnership": false,
       "_stampAsset": "Stamp/illust/stamp_illust_shizuku_003",
       "_voiceAsset": "",
-      "_startAt": "2026/10/18 11:00:00",
+      "_startAt": "2026/10/18 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 77,
+      "_nameTextId": "Stamp_Name_77",
+      "_stampCategory": 3,
+      "_priority": 77,
+      "_characterIds": [
+        1
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_tomori_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/10/28 12:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 78,
+      "_nameTextId": "Stamp_Name_78",
+      "_stampCategory": 3,
+      "_priority": 78,
+      "_characterIds": [
+        10
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_sakiko_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/10/28 12:00:00",
       "_endAt": ""
     },
     {
@@ -1028,7 +1056,7 @@
       "_stampAsset": "Stamp/text/stamp_text_bili_00001",
       "_voiceAsset": "",
       "_startAt": "2026/09/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "2027/09/23 0:00:00"
     },
     {
       "_id": 1000000002,
@@ -1040,7 +1068,7 @@
       "_stampAsset": "Stamp/text/stamp_text_bili_00002",
       "_voiceAsset": "",
       "_startAt": "2026/09/01 0:00:00",
-      "_endAt": ""
+      "_endAt": "2027/09/23 0:00:00"
     },
     {
       "_id": 1000000003,

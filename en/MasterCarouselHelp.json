@@ -177,6 +177,17 @@
       "_endAt": ""
     },
     {
+      "_id": 17,
+      "_helpCategoryId": 130,
+      "_displayName": "ArenaTop",
+      "_titleTextId": "Help_Carousel_Title_17",
+      "_suffix": "",
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": false,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 20,
       "_helpCategoryId": 220,
       "_displayName": "CostumeChange",
@@ -196,6 +207,17 @@
       "_pageCount": 5,
       "_shouldShowOnFirstVisit": true,
       "_startAt": "2026/10/18 15:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 22,
+      "_helpCategoryId": 140,
+      "_displayName": "EventTop",
+      "_titleTextId": "Help_Carousel_Title_22",
+      "_suffix": "_00004",
+      "_pageCount": 5,
+      "_shouldShowOnFirstVisit": true,
+      "_startAt": "2026/10/28 12:00:00",
       "_endAt": ""
     }
   ]

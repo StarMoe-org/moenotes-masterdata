@@ -3863,6 +3863,90 @@
       "_liveScoreRank": 7,
       "_requiredScore": 8275830,
       "_battleLiveRequiredScore": 20347043
+    },
+    {
+      "_id": 673,
+      "_group": 1100115,
+      "_liveScoreRank": 2,
+      "_requiredScore": 0,
+      "_battleLiveRequiredScore": 0
+    },
+    {
+      "_id": 674,
+      "_group": 1100115,
+      "_liveScoreRank": 3,
+      "_requiredScore": 555500,
+      "_battleLiveRequiredScore": 796146
+    },
+    {
+      "_id": 675,
+      "_group": 1100115,
+      "_liveScoreRank": 4,
+      "_requiredScore": 1821025,
+      "_battleLiveRequiredScore": 3162240
+    },
+    {
+      "_id": 676,
+      "_group": 1100115,
+      "_liveScoreRank": 5,
+      "_requiredScore": 4970893,
+      "_battleLiveRequiredScore": 9397096
+    },
+    {
+      "_id": 677,
+      "_group": 1100115,
+      "_liveScoreRank": 6,
+      "_requiredScore": 6754883,
+      "_battleLiveRequiredScore": 12637867
+    },
+    {
+      "_id": 678,
+      "_group": 1100115,
+      "_liveScoreRank": 7,
+      "_requiredScore": 8317885,
+      "_battleLiveRequiredScore": 15678230
+    },
+    {
+      "_id": 679,
+      "_group": 1100118,
+      "_liveScoreRank": 2,
+      "_requiredScore": 0,
+      "_battleLiveRequiredScore": 0
+    },
+    {
+      "_id": 680,
+      "_group": 1100118,
+      "_liveScoreRank": 3,
+      "_requiredScore": 517739,
+      "_battleLiveRequiredScore": 856042
+    },
+    {
+      "_id": 681,
+      "_group": 1100118,
+      "_liveScoreRank": 4,
+      "_requiredScore": 1987606,
+      "_battleLiveRequiredScore": 3870463
+    },
+    {
+      "_id": 682,
+      "_group": 1100118,
+      "_liveScoreRank": 5,
+      "_requiredScore": 5148799,
+      "_battleLiveRequiredScore": 11730987
+    },
+    {
+      "_id": 683,
+      "_group": 1100118,
+      "_liveScoreRank": 6,
+      "_requiredScore": 6894056,
+      "_battleLiveRequiredScore": 15749489
+    },
+    {
+      "_id": 684,
+      "_group": 1100118,
+      "_liveScoreRank": 7,
+      "_requiredScore": 8567766,
+      "_battleLiveRequiredScore": 19647442
     }
   ]
 }

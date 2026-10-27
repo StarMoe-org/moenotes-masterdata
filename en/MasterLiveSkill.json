@@ -119,6 +119,36 @@
       "_skillDisplayCategories": [
         1
       ]
+    },
+    {
+      "_id": 9,
+      "_nameTextID": "Live_Skill_Name_9",
+      "_descriptionTextFormatID": "Live_Skill_Name_Description_9",
+      "_skillIconID": 7,
+      "_skillCategories": [
+        3
+      ],
+      "_displaySkillCategories": [
+        1
+      ],
+      "_skillDisplayCategories": [
+        3
+      ]
+    },
+    {
+      "_id": 10,
+      "_nameTextID": "Live_Skill_Name_10",
+      "_descriptionTextFormatID": "Live_Skill_Name_Description_10",
+      "_skillIconID": 7,
+      "_skillCategories": [
+        2
+      ],
+      "_displaySkillCategories": [
+        1
+      ],
+      "_skillDisplayCategories": [
+        2
+      ]
     }
   ]
 }

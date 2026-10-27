@@ -106,6 +106,36 @@
       "_priority": 7
     },
     {
+      "_id": 8,
+      "_nameTextID": "LoginBonus_Name_8",
+      "_isLoop": false,
+      "_isComeback": false,
+      "_isPremium": false,
+      "_dayOfWeek": 0,
+      "_startAt": "2026/10/28 12:00:00",
+      "_endAt": "2026/11/14 3:59:59",
+      "_sheetType": 1,
+      "_sheetImageAsset": "LoginBonus/Sprite/loginbonus_00008",
+      "_backgroundImageAsset": "LoginBonus/Background/white",
+      "_talkIds": [],
+      "_priority": 8
+    },
+    {
+      "_id": 9,
+      "_nameTextID": "LoginBonus_Name_9",
+      "_isLoop": false,
+      "_isComeback": false,
+      "_isPremium": false,
+      "_dayOfWeek": 0,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/11/14 3:59:59",
+      "_sheetType": 1,
+      "_sheetImageAsset": "LoginBonus/Sprite/loginbonus_00009",
+      "_backgroundImageAsset": "LoginBonus/Background/navy",
+      "_talkIds": [],
+      "_priority": 9
+    },
+    {
       "_id": 1000000001,
       "_nameTextID": "LoginBonus_Name_1000000001",
       "_isLoop": false,

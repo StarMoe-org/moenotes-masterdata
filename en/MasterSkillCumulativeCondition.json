@@ -702,6 +702,100 @@
         46
       ],
       "_maxCumulativeCount": 4
+    },
+    {
+      "_id": 67,
+      "_skillCumulativeConditionType": 3000,
+      "_conditionValues": [
+        1
+      ],
+      "_conditionTargetIDs": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "_maxCumulativeCount": 2
+    },
+    {
+      "_id": 68,
+      "_skillCumulativeConditionType": 3000,
+      "_conditionValues": [
+        1
+      ],
+      "_conditionTargetIDs": [
+        8,
+        10,
+        11,
+        12
+      ],
+      "_maxCumulativeCount": 2
+    },
+    {
+      "_id": 69,
+      "_skillCumulativeConditionType": 3000,
+      "_conditionValues": [
+        1
+      ],
+      "_conditionTargetIDs": [
+        8,
+        9,
+        11,
+        12
+      ],
+      "_maxCumulativeCount": 2
+    },
+    {
+      "_id": 70,
+      "_skillCumulativeConditionType": 3000,
+      "_conditionValues": [
+        1
+      ],
+      "_conditionTargetIDs": [
+        8,
+        9,
+        10,
+        12
+      ],
+      "_maxCumulativeCount": 2
+    },
+    {
+      "_id": 71,
+      "_skillCumulativeConditionType": 3000,
+      "_conditionValues": [
+        1
+      ],
+      "_conditionTargetIDs": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "_maxCumulativeCount": 2
+    },
+    {
+      "_id": 72,
+      "_skillCumulativeConditionType": 1000,
+      "_conditionValues": [
+        4
+      ],
+      "_conditionTargetIDs": [
+        41,
+        46
+      ],
+      "_maxCumulativeCount": 6
+    },
+    {
+      "_id": 73,
+      "_skillCumulativeConditionType": 1000,
+      "_conditionValues": [
+        2
+      ],
+      "_conditionTargetIDs": [
+        41,
+        46
+      ],
+      "_maxCumulativeCount": 12
     }
   ]
 }
