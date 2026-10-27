@@ -1,14 +1,6 @@
 {
   "_allData": [
     {
-      "_id": 1000000007,
-      "_shopId": 1000000005,
-      "_resourceType": 9,
-      "_resourceId": 69,
-      "_resourceCount": 1,
-      "_isBonus": false
-    },
-    {
       "_id": 1000000101,
       "_shopId": 1000000101,
       "_resourceType": 1,
@@ -550,6 +542,222 @@
       "_resourceType": 1,
       "_resourceId": 2,
       "_resourceCount": 760,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000173,
+      "_shopId": 1000000131,
+      "_resourceType": 10,
+      "_resourceId": 8,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000174,
+      "_shopId": 1000000131,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 320,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000175,
+      "_shopId": 1000000132,
+      "_resourceType": 1001,
+      "_resourceId": 7,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000176,
+      "_shopId": 1000000132,
+      "_resourceType": 1002,
+      "_resourceId": 7,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000177,
+      "_shopId": 1000000132,
+      "_resourceType": 1003,
+      "_resourceId": 7,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000178,
+      "_shopId": 1000000133,
+      "_resourceType": 1002,
+      "_resourceId": 1007,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000179,
+      "_shopId": 1000000133,
+      "_resourceType": 1003,
+      "_resourceId": 1007,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000180,
+      "_shopId": 1000000133,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 120,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000181,
+      "_shopId": 1000000134,
+      "_resourceType": 1,
+      "_resourceId": 2000001,
+      "_resourceCount": 10,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000182,
+      "_shopId": 1000000135,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 2400,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000183,
+      "_shopId": 1000000135,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 90,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000184,
+      "_shopId": 1000000135,
+      "_resourceType": 1,
+      "_resourceId": 2000008,
+      "_resourceCount": 1,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000185,
+      "_shopId": 1000000136,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 8000,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000186,
+      "_shopId": 1000000136,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 450,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000187,
+      "_shopId": 1000000136,
+      "_resourceType": 1,
+      "_resourceId": 2000009,
+      "_resourceCount": 1,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000188,
+      "_shopId": 1000000137,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 240,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000189,
+      "_shopId": 1000000138,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 720,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000190,
+      "_shopId": 1000000139,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 1920,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000191,
+      "_shopId": 1000000140,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 2880,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000192,
+      "_shopId": 1000000141,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 4800,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000193,
+      "_shopId": 1000000141,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 90,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000194,
+      "_shopId": 1000000142,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 7680,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000195,
+      "_shopId": 1000000142,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 180,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000196,
+      "_shopId": 1000000143,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 16000,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000197,
+      "_shopId": 1000000143,
+      "_resourceType": 1,
+      "_resourceId": 1,
+      "_resourceCount": 450,
+      "_isBonus": true
+    },
+    {
+      "_id": 1000000198,
+      "_shopId": 1000000144,
+      "_resourceType": 10,
+      "_resourceId": 7,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 1000000199,
+      "_shopId": 1000000144,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 960,
       "_isBonus": false
     },
     {

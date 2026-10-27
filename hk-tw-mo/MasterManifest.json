@@ -1,10 +1,10 @@
 {
-    "version": "adf2e22cfba6b3a45fa7893f5a1f0d81",
+    "version": "2fc544ff9420d78c1f521792ab85ad53",
     "files": [
         {
             "name": "MasterAdv.bin",
-            "hash": "1a1d4afaa4c27a9d6d15dbc5fa34591a936159ebab9529d96e7bdd69515fe394",
-            "size": 12384
+            "hash": "50fa223274cbdb4d72c6f4db0f756109f6f6adcedb77106795f07a68f40dd076",
+            "size": 12832
         },
         {
             "name": "MasterAdvChat.bin",
@@ -18,63 +18,58 @@
         },
         {
             "name": "MasterArenaDailyReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "ea4e56b3f6c2f2e5d4685b144f939284f6fdf39853c8b86d64655d0c2fbef1ab",
+            "size": 192
         },
         {
             "name": "MasterArenaDpMatchingBucket.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
-        },
-        {
-            "name": "MasterArenaEventBonus.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "3f2862c5b783d1a46facd905da5e267492e2a0c8914810dfa43c04096480c159",
+            "size": 640
         },
         {
             "name": "MasterArenaLeague.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "c84cd177d427b0ceadb45b4ab6064fdffa5689e2ec78422719a81046ef0996f7",
+            "size": 352
         },
         {
-            "name": "MasterArenaMusic.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "name": "MasterArenaLeagueRegulation.bin",
+            "hash": "0630cfec64b4ca2c89849645698c447f638e4c2258fad03022ccb98a437d7611",
+            "size": 1792
         },
         {
             "name": "MasterArenaPromotionReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "a8402c50539c9264ffc601e843112a52917aeb60ff2a5cbff952e7cfb3a43bf1",
+            "size": 1216
         },
         {
             "name": "MasterArenaRank.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "f140c9b784640efdaee6e22bb0d4e4583b06a1291e06d7767c0151313f5db746",
+            "size": 1152
         },
         {
             "name": "MasterArenaRankingReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "dceba20b8dcc0e5ed655b02cfbf1e8d7eddb308e31ccb09c88586bea68f68ea1",
+            "size": 768
         },
         {
             "name": "MasterArenaSeason.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "b509a3750002ab0328d9311d381ef6a7c041c6ccfb72e2a5cbbc98704c24be46",
+            "size": 288
         },
         {
             "name": "MasterArenaSeasonReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "20ae10b23d60558548301b71d3bd4bab4a0e4f66f4582c30d2553b004fec4f8a",
+            "size": 1408
         },
         {
             "name": "MasterArenaSupportItemEffect.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "4210aff96be89644687682bddce12df84573d0df5febf414ef89f3cb1a0dfe63",
+            "size": 256
         },
         {
             "name": "MasterBackground.bin",
-            "hash": "6ce77b03bf563f21f563fd8a4df62b27e8467dc3bddad08135287b3a7e2cdd70",
-            "size": 704
+            "hash": "9758aed8fdea6644f809c40f4351e30363b55333819721e85109d4a173e3a970",
+            "size": 768
         },
         {
             "name": "MasterBand.bin",
@@ -108,8 +103,8 @@
         },
         {
             "name": "MasterBattleLivePlace.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "76e9c24203cea6ef5c5e6fc62f20dd123833933480a2316a695f457652fe7aba",
+            "size": 768
         },
         {
             "name": "MasterBattleLiveReward.bin",
@@ -123,12 +118,12 @@
         },
         {
             "name": "MasterBiliChatBubble.bin",
-            "hash": "6cecf5711ff168ab100febedd85b80245d82e788f51b62761761f2514bbfd053",
-            "size": 512
+            "hash": "4fb98e1a57a283b8782adfa19abaa0ea56676e362f285cdfa95ebaf4c05d9c24",
+            "size": 576
         },
         {
             "name": "MasterBiliChatFrame.bin",
-            "hash": "01a462b09bfd98ff53fee81f8ff26c9bfe742dc248739e94dabd220cbb4941e6",
+            "hash": "eab58c39fe1d79d6b6f86ab97a8a00e8b743560c6e90d09b01b2248a7fd31f74",
             "size": 512
         },
         {
@@ -138,8 +133,8 @@
         },
         {
             "name": "MasterBiliChatTheme.bin",
-            "hash": "48a35d22420c5ab9ca090fda3b01218d1c41a350064d30be5ad507375ce0a371",
-            "size": 544
+            "hash": "31f86cf9e7ddc31b3ee420d8b8742f84f03c25d4912ce9b53a92a965be4ae65a",
+            "size": 576
         },
         {
             "name": "MasterBiliChatTopic.bin",
@@ -158,8 +153,8 @@
         },
         {
             "name": "MasterCarouselHelp.bin",
-            "hash": "a5010d59b685ad3dabd342e11e4cde2cde6ec49d71f14c9a58932d6149c5df7a",
-            "size": 672
+            "hash": "8d1ad6a9fdfd5fc2ba49e1a5860a5da143346ab4f14acbeb0950134c6a4b9008",
+            "size": 736
         },
         {
             "name": "MasterChallengeLiveEventPoint.bin",
@@ -168,13 +163,13 @@
         },
         {
             "name": "MasterChallengeLiveEventReward.bin",
-            "hash": "614f2a7e25b79a85ea61c5181c7ab1100e8e84edea2b356ed6add1dc4f3786f6",
-            "size": 416
+            "hash": "77019ba640a8796d3e3ba1f4401f89dde4926b14202926655dcd788d9f20f41c",
+            "size": 448
         },
         {
             "name": "MasterChallengeMusic.bin",
-            "hash": "cc09ba0beaa72de38a59d0435d18be8029407dbd9eed9746466a1cb3f94e31d2",
-            "size": 352
+            "hash": "25a1efa2e31d826b1da3779c2b88a6b76360578bf797ca4be8a8dd2e34370a8e",
+            "size": 416
         },
         {
             "name": "MasterChallengeMusicBoostBonus.bin",
@@ -183,8 +178,13 @@
         },
         {
             "name": "MasterChallengeMusicRankingReward.bin",
-            "hash": "3b5b8662dd914a4e5aebb8dcbc7362d48c8930edcee9a9d3aa947d2bbd530ca1",
-            "size": 1376
+            "hash": "c763acd2cb15d190eabcae8e31e9988b22b61bb46777a61ef9cc6d364eb7aa4e",
+            "size": 1920
+        },
+        {
+            "name": "MasterChallengeMusicTotalRankingReward.bin",
+            "hash": "5fd60c95b4b4939a14e33e8f1ec9fbead368c7ec905bce887fd56721e522dc14",
+            "size": 288
         },
         {
             "name": "MasterCharacter.bin",
@@ -278,13 +278,13 @@
         },
         {
             "name": "MasterContentUnlock.bin",
-            "hash": "3a0803d4e9728512a566eeb231ec2b82cb4018952b807d9f96149a63655bb125",
+            "hash": "9cc3c6c64ba496780c72814ec64443e6bc265204c70baf6ca08618b7ec81f004",
             "size": 224
         },
         {
             "name": "MasterDegree.bin",
-            "hash": "33af736e3639e7416e3827ef018f7110fc8d0780ccde5b3f57fa5a26958c3909",
-            "size": 7136
+            "hash": "4eaa89ccf1c049543dad3e3d70caf20d7845741be576126e21229ab955109071",
+            "size": 11104
         },
         {
             "name": "MasterDisplayTarget.bin",
@@ -298,18 +298,18 @@
         },
         {
             "name": "MasterEvent.bin",
-            "hash": "c791f50c63b36e9c8f511d764b1acbf7f24ff9093490e7d324d0c692eea2c3b9",
-            "size": 576
+            "hash": "f6fb59afc86d3f6a511a9b93ce28a42f921d0a807058f044cdfee0429ac5c5c5",
+            "size": 672
         },
         {
             "name": "MasterEventAchievementLoopReward.bin",
-            "hash": "324bcfa71b66dba723497165c821f00d4ed27ec6a17761590c9d1b11776db429",
+            "hash": "0dcab3d6527339521fd1a9dc241bfebad24f51bea307c4a861f6eef8351492e8",
             "size": 224
         },
         {
             "name": "MasterEventAchievementReward.bin",
-            "hash": "09163d42c65239892b93e5cc81faad6bdbd511e93ec6bea367a8dab4276ce21a",
-            "size": 1984
+            "hash": "3a88041ea70fe100b307a98fe464ad82d1b001799d080e370c6f38d5a33f75bc",
+            "size": 2624
         },
         {
             "name": "MasterEventBoxGacha.bin",
@@ -323,18 +323,18 @@
         },
         {
             "name": "MasterEventEffect.bin",
-            "hash": "98e19399303671b9d5c01b43e6d0e9d91b81f430369c1dd1c42cb18b031f0085",
-            "size": 960
+            "hash": "9976647b6cd36d8354566fe1cc35e59d9469cfa0ede97bfb411420dd106ce03d",
+            "size": 1280
         },
         {
             "name": "MasterEventMission.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "c5f5c1e13e255e22985d7bf66c6eed653ca682ff516360ad72c943e19941d1ba",
+            "size": 1728
         },
         {
             "name": "MasterEventPickUpCard.bin",
-            "hash": "edf663f59ef00ac6c0e8ac33db4bbd524746ef1005e99ab441e78866e48a0d96",
-            "size": 224
+            "hash": "322507ee6bf0caba19efe042963d42315775395231c5a610030f49da0ada1138",
+            "size": 256
         },
         {
             "name": "MasterEventRankingReward.bin",
@@ -343,8 +343,8 @@
         },
         {
             "name": "MasterExchange.bin",
-            "hash": "71f9bff76f562a4e4e37b85e99ec347cf7b43f1fe0f00db166db0e048d911e16",
-            "size": 832
+            "hash": "3784f42d8f78dffbb87f24da8feaa55804b8efcccc56403402a27bed56502081",
+            "size": 928
         },
         {
             "name": "MasterExchangeCategory.bin",
@@ -353,8 +353,8 @@
         },
         {
             "name": "MasterExchangeProduct.bin",
-            "hash": "a655db0bdf5a2882593698bb88c4f4a8a6c59830b31aa8db4025dfa5868d9551",
-            "size": 3808
+            "hash": "3e2ad00c3f25a9bfc12a7b28d3994a89dd0cfab4f5f07c694a613cc98dc676bc",
+            "size": 4384
         },
         {
             "name": "MasterExternalContent.bin",
@@ -368,18 +368,18 @@
         },
         {
             "name": "MasterGacha.bin",
-            "hash": "f14866a5ce1d78bc8a6703c9931307f833144c79cf9089e939680d760c3483f1",
-            "size": 1280
+            "hash": "884a9d2b1f6f38a251cfc351800c65339e8b3e2c1b48c14e8443f5cc458dd866",
+            "size": 1600
         },
         {
             "name": "MasterGachaBonus.bin",
-            "hash": "d5b6764d24b74f838432b3e4218649155bf63c836f5728439cd07474909dbf68",
-            "size": 192
+            "hash": "40a9504d5f0d45e0f962cae2d2d3be9613ac9837e849f380e150268fcea3578c",
+            "size": 224
         },
         {
             "name": "MasterGachaBonusLot.bin",
-            "hash": "7b02efb3f874922514bd7f395c17418a5cacda3e0295bbe912d9cd02152650c2",
-            "size": 224
+            "hash": "96cf82515557c03851dfcdcec066093722298fa06364ccdb7e52dd217f042e60",
+            "size": 384
         },
         {
             "name": "MasterGachaGimmick.bin",
@@ -388,8 +388,8 @@
         },
         {
             "name": "MasterGachaLot.bin",
-            "hash": "4c022271acb18167c554303895b7d3efd5fc5083f9a9d1d1294a426d13512d62",
-            "size": 896
+            "hash": "3b59527b8ef3fe7ced051afd89521d55a1a24c32bc24fca15da842c21ddc7f1a",
+            "size": 1120
         },
         {
             "name": "MasterGachaMemberAnimation.bin",
@@ -403,13 +403,13 @@
         },
         {
             "name": "MasterGachaPrize.bin",
-            "hash": "fb07a1eefd7b5a19f49d5426e29865a9ffeca01b6102972e27c521cf2a37b29c",
-            "size": 2400
+            "hash": "c3219cfcd8c37ee5bf8d55fd52d0954189b2386a59b9a85bccca5c72d5d6f04e",
+            "size": 3392
         },
         {
             "name": "MasterGachaProduct.bin",
-            "hash": "91fd52c72f875eb2d7676f94efd989721f006ecd5dc1e7ba69f5d65674f37460",
-            "size": 704
+            "hash": "b99b93763457d6a34dc4839e6482ea02153e3436592a026be978cebc47945e2d",
+            "size": 768
         },
         {
             "name": "MasterGachaSnapAnimation.bin",
@@ -428,18 +428,23 @@
         },
         {
             "name": "MasterGachaView.bin",
-            "hash": "5a2d939715839fd00a7001cfe401785dc447ee4eceeb8bea8aad925e08beb65b",
-            "size": 768
-        },
-        {
-            "name": "MasterGachaViewLabel.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "c79de26d09db4ebfcbbb2b1d25333387e31a1f480152247136650e89f2884aea",
+            "size": 928
         },
         {
             "name": "MasterGekisouLiveRankReward.bin",
             "hash": "9a1d4f254399eb1519f9bb3e2776723cf98863ad79fed90398d8e26f1ae9a14f",
             "size": 448
+        },
+        {
+            "name": "MasterGekisouLiveRankingEventPoint.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterGekisouLiveRankingEventReward.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
         },
         {
             "name": "MasterGekisouSkill.bin",
@@ -468,23 +473,23 @@
         },
         {
             "name": "MasterHelpCategory.bin",
-            "hash": "bf1570d84efc116f8ee4728e07a4d810cf21e4cf568ffcf82eb003945881fc0a",
+            "hash": "d080873c3ad022865f83f51bca530b3c613a9aefdb2399068c14ba78270544e8",
             "size": 416
         },
         {
             "name": "MasterHelpSubCategory.bin",
-            "hash": "4c9bb05799a605919fff6847ca2cfa15da418a4f5a3da625230f3d5fc761cad3",
-            "size": 1728
+            "hash": "e0c00b02c56b7bc9336b205c1c8d8b65ea528dbed6914aaa334fa0c5f9a8d19e",
+            "size": 1888
         },
         {
             "name": "MasterHomeBanner.bin",
-            "hash": "2be6b94432c943b8b0b85ea6f17c6e64279f5b16d6732e69d0b1cbed6998ba81",
-            "size": 800
+            "hash": "c1e442f5a856a9be063730b07ecf66af64ebab6bd6b04a3ff485a722e622de06",
+            "size": 1024
         },
         {
             "name": "MasterHomeSpot.bin",
-            "hash": "9218ec624aaa3ebe5dbc0f71e65831bb18f764485b8d2ef23882a7442da33c42",
-            "size": 2208
+            "hash": "d67687df2ad9efdeecc9ccbac58e075a1bb3cfa1bcee602c184afe6a5bdbb620",
+            "size": 2400
         },
         {
             "name": "MasterInvitationImage.bin",
@@ -508,18 +513,18 @@
         },
         {
             "name": "MasterItem.bin",
-            "hash": "ad6b19c233ad6bd8bc59ef342ef4f8eb0f2734dbe78445ddfa0f1cefc4921d5a",
-            "size": 3968
+            "hash": "165365ecbc31f8f1ef93fb28719a53b652326856c97d1bc55783448d84c17869",
+            "size": 4256
         },
         {
             "name": "MasterLeaderSkill.bin",
-            "hash": "0a15313e5129b72698defef1899aac6480064fecab6adfc6d231c1e62e472590",
-            "size": 2400
+            "hash": "fb010a75417a95557825e510ae294c22f6d10a9d7e97c41f57942cc1c708cbc7",
+            "size": 2432
         },
         {
             "name": "MasterLeaderSkillEffect.bin",
-            "hash": "1a26a981039f4d63d19f8cda992c444461a46d7867fcd99fb6039a9ea5a22657",
-            "size": 13120
+            "hash": "77ac21546dfc613a775d5c6b5298c25281d882721295445dc378b0cd706c8c7b",
+            "size": 13376
         },
         {
             "name": "MasterLimitedMission.bin",
@@ -533,13 +538,13 @@
         },
         {
             "name": "MasterLiveArenaRankReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "54fad0d3c00015679f0f5df10dc9ee3d417c62b33d6c4233ee672945dc71254b",
+            "size": 4320
         },
         {
             "name": "MasterLiveArenaReward.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "d4050cf74f5261ae233e5f733e5c5b7c05e96fdcd1193576ccc781f3f58a004d",
+            "size": 1248
         },
         {
             "name": "MasterLiveBandHighScoreRating.bin",
@@ -563,7 +568,7 @@
         },
         {
             "name": "MasterLiveCharacterOption.bin",
-            "hash": "73d2cf7a08c40440b513e37a093379765daa1b0af1ae297e9ccb2ddc9451079f",
+            "hash": "482c239960aab0d79f63cbdc5d1a71c9a32e2c88b0eaebccb7645ad3afe82c69",
             "size": 448
         },
         {
@@ -588,8 +593,8 @@
         },
         {
             "name": "MasterLiveEventReward.bin",
-            "hash": "44795b2253da92fe063108eb146c7a20aba9deedeed7958b4119c8e750e994fd",
-            "size": 416
+            "hash": "00d8e61ddba35818ab0f2a38584e0229c17488ad9c1e8f914806efa8ad0048e3",
+            "size": 448
         },
         {
             "name": "MasterLiveFreeReward.bin",
@@ -663,8 +668,8 @@
         },
         {
             "name": "MasterLiveMusic.bin",
-            "hash": "49bee999c0df277ba8e74fc2d9a9cfbe0748cd1ea320d48499c05ca6316248eb",
-            "size": 8096
+            "hash": "d4f4df2dfa62796a89463d2817dcec6b10b8672bf35bd57821de96d445ca1945",
+            "size": 8256
         },
         {
             "name": "MasterLiveMusicAnotherVocal.bin",
@@ -678,8 +683,8 @@
         },
         {
             "name": "MasterLiveMusicCategory.bin",
-            "hash": "ec9fa85e609087d21f506af42673ed4f3f66154f8c5db77c74f3c5cd66f2ba89",
-            "size": 224
+            "hash": "4e09812c145dcfa9b506f307afd11c59785d2428f25237c8bb36604e6e9433df",
+            "size": 256
         },
         {
             "name": "MasterLiveMusicComboReward.bin",
@@ -703,13 +708,13 @@
         },
         {
             "name": "MasterLiveMusicReleaseEffect.bin",
-            "hash": "a1b8e58f9d359165a175d58fff9a5b68666d1f5176f05491de2ccfb9e6d0649c",
+            "hash": "3583961f20371836bd7da633f83aef1a98c15355ff21bf86b84cd95017a9ab95",
             "size": 352
         },
         {
             "name": "MasterLiveMusicScore.bin",
-            "hash": "7d80ef775296900fb46d221cff9a86b5cb9ca2c99214ff18a96c71032be21304",
-            "size": 4448
+            "hash": "f1b191db81828ff7076885485747863d94b580e4ac4a5c5fbffd6ea98886b7cb",
+            "size": 4544
         },
         {
             "name": "MasterLiveMusicScoreReward.bin",
@@ -748,8 +753,8 @@
         },
         {
             "name": "MasterLiveScoreRank.bin",
-            "hash": "82da9e1a410c34f21698d3be70166178cde86b4ff696c6552a4a060936e55323",
-            "size": 8800
+            "hash": "3bba60f992ce317c1e814c2f6293ec75159722ee7a447ae388d31db5094577f9",
+            "size": 8992
         },
         {
             "name": "MasterLiveSe.bin",
@@ -758,18 +763,18 @@
         },
         {
             "name": "MasterLiveSettings.bin",
-            "hash": "3ae7ae91c467e275e82e6c201e63e3081e91dbd03de45a25e9c8895384f7afbd",
-            "size": 1248
+            "hash": "0304b23dba11f1f75a9a710aecb7021598bdbe8616b512e33b607b4e24c3f281",
+            "size": 1312
         },
         {
             "name": "MasterLiveSkill.bin",
-            "hash": "d535decc38c2f42cfe15a0a69d5e9ac3f257b6c5432b571b070cf228807edc3d",
+            "hash": "77b142238ab504e71b2f3a7b18457d6f47959212a478822d4e347eb0f5bde863",
             "size": 352
         },
         {
             "name": "MasterLiveSkillEffect.bin",
-            "hash": "ef9c1c8a7fd29e390933fcbef5192118fabed7772f675f9fa9ee06c0a4a5a989",
-            "size": 928
+            "hash": "d1c5acdda574975e4a3f726a2e65c6f5f260daf01b7349c84f74de05747f3af7",
+            "size": 1184
         },
         {
             "name": "MasterLiveStageVideo.bin",
@@ -783,8 +788,8 @@
         },
         {
             "name": "MasterLiveStartCharacterVoice.bin",
-            "hash": "6f1e86fecebc27c4940504f7f8be9f9c8fa04b072ad573998f0977adbebefb10",
-            "size": 512
+            "hash": "90e70f2c179b16ad4481b7bca025b0aa2097da4c25775a2f0537cdd34ac26e15",
+            "size": 1504
         },
         {
             "name": "MasterLiveTotalHighScoreRating.bin",
@@ -803,18 +808,18 @@
         },
         {
             "name": "MasterLoginBonus.bin",
-            "hash": "5cb883edb7653dd2c0dacf7829b7aba7b484aef0ab5d0d181ae0603cb3ce446a",
-            "size": 544
+            "hash": "bfad5affa1d8f788220a63955a46cb545fcb01fb0465f68f5be60215ab35376c",
+            "size": 608
         },
         {
             "name": "MasterLoginBonusSlot.bin",
-            "hash": "49b385e75017e658fc34b8e8383d9d4106c1e5359ad239bbeada3f2a4f8fe1f1",
-            "size": 640
+            "hash": "1b487ae81fe07f92cc8cb6c942fa9e85993707803c8b148c220a6739e47294c3",
+            "size": 800
         },
         {
             "name": "MasterMemberCard.bin",
-            "hash": "588512c3c159fb05408072bc46083b7e60bd026dbf3b82f865e56b6ad8469d14",
-            "size": 4096
+            "hash": "8f63ad606cecfe96c18d599f56ff26a78ca012951cba2802babee19cecdcf4d4",
+            "size": 4256
         },
         {
             "name": "MasterMemberCardAwake.bin",
@@ -868,13 +873,33 @@
         },
         {
             "name": "MasterMission.bin",
-            "hash": "99d12cae80660787535d400e6373561f1f67366dfe88ad6756fe5a6aa1455944",
-            "size": 8960
+            "hash": "0a779add93a991e9ee8139cbe276842f11f7718549eb380fc8e55baa93ac8106",
+            "size": 10624
+        },
+        {
+            "name": "MasterMissionLiveChapter.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterMissionLiveMission.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterMissionLiveRewardGroup.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterMissionLiveStage.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
         },
         {
             "name": "MasterMissionReward.bin",
-            "hash": "75e00a1f9ddf7b01f486dce575d31a38d12fabe2897d9c31a02a52c6810a3280",
-            "size": 2880
+            "hash": "e3a6a415a962130b034e43ae46fd1b73eb217fe8d553aa5c835bccb2e927feb1",
+            "size": 3616
         },
         {
             "name": "MasterMonthlyPass.bin",
@@ -923,8 +948,8 @@
         },
         {
             "name": "MasterOptionDefault.bin",
-            "hash": "4b18dd5e610179b9730a319addc84029ac3e5337150eb78f84ebda0e75e91a8c",
-            "size": 2816
+            "hash": "bf0e78452de7965218e80166dd2af5d21e26502ee74a7a3a483d0bcf343ec734",
+            "size": 2880
         },
         {
             "name": "MasterOptionPresetDefault.bin",
@@ -938,8 +963,8 @@
         },
         {
             "name": "MasterParameter.bin",
-            "hash": "7531ff9aa79cae2eb9e7c578e3c690fc2e5f5aeecc261242da74472b3dd6305e",
-            "size": 1408
+            "hash": "2d72970affd6418b11b8e8a3cbf799173a76a228d28eaa5e8d81cda6292635d0",
+            "size": 1600
         },
         {
             "name": "MasterPieceExchange.bin",
@@ -963,7 +988,7 @@
         },
         {
             "name": "MasterPresentType.bin",
-            "hash": "54f77a5285b0a2b7b914416f00c41e28d3a2a4135cb43d99368c382aee230a14",
+            "hash": "d5ba589b789941499f654de2b2531a09a8c7af05d84f4d7b0025e968bfad01de",
             "size": 800
         },
         {
@@ -973,12 +998,12 @@
         },
         {
             "name": "MasterPromoImageLanding.bin",
-            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
-            "size": 128
+            "hash": "93e868f92424b19cddf8855aa4ad80e2a3905a8c62924438f5dff6c682cc80ec",
+            "size": 288
         },
         {
             "name": "MasterPromoVideoLanding.bin",
-            "hash": "d3dac1042ecc6daa778158df93bb423b20116c411bb8a7c40e913957e195f391",
+            "hash": "63c268fe71f5f44cd4f4678ecc3a37bccdba5d985704654674ea7a23f2156a8a",
             "size": 256
         },
         {
@@ -993,13 +1018,13 @@
         },
         {
             "name": "MasterReward.bin",
-            "hash": "d523343667de975259ca0643e04ac91b2a9a5dbd91c6bab4a9e1b6ef36d78b58",
-            "size": 1984
+            "hash": "5c9943fd22eba5b4bb3474d0688aa1e00db61dc2dac7f718bf83201c9a99236c",
+            "size": 2624
         },
         {
             "name": "MasterSeasonPass.bin",
-            "hash": "3708c17da0430231bd805a0d4e3b19dbe5d97a02ccbf37e6a1d15e0b56df501d",
-            "size": 512
+            "hash": "da8de33b09fff9f3846f9dfd8b4fafd67dedf05544bc5dc035fc26e0fcf383d3",
+            "size": 576
         },
         {
             "name": "MasterSeasonPassLevel.bin",
@@ -1008,33 +1033,33 @@
         },
         {
             "name": "MasterSeasonPassLevelReward.bin",
-            "hash": "0cdccabddf902fd4f53248d57d93b3546b6dd0cff7496ff00500dce52594309b",
-            "size": 1632
+            "hash": "f9dee41fd9427fdda559732cabc21573d4e9ddbe101a678bb847682991627650",
+            "size": 2336
         },
         {
             "name": "MasterSeasonPassMission.bin",
-            "hash": "96aa77b543be57bb8422b1c94477514ebd2353b6c9af73b65dad7e9a4e17856f",
-            "size": 3520
+            "hash": "17ab8c08ca52e11173bf6107d046bb356e042f91a3bdfeb26ab1a32cf594bee4",
+            "size": 4736
         },
         {
             "name": "MasterSeasonPassReward.bin",
-            "hash": "4a100dbd8a7e88acd9b3f69e9939e0d44705f7b1768cdb6843b0408f328bc443",
-            "size": 1280
+            "hash": "a88c4528c268851b0038a2cb2cf778f2a7a92c3eb102a7bd1cf3f6b80eaaa807",
+            "size": 1504
         },
         {
             "name": "MasterShop.bin",
-            "hash": "ab5f0987ca3878a682950139af0787314b6dae2da695b4cfc8062324bcf63155",
-            "size": 3072
+            "hash": "7e88689a6d1b6a4ea86de979958979c698ceaf511953d96d8a4d53093eee4608",
+            "size": 3552
         },
         {
             "name": "MasterShopBiliPay.bin",
-            "hash": "cf988e0136a38deb8192bd05f9233aaf17e110274908ddda297fd535b4e0e7e1",
-            "size": 512
+            "hash": "eb0f41b79cad178a7d4de98f426d45bf9c5b3cf739f999a575ac2c5edb9be625",
+            "size": 576
         },
         {
             "name": "MasterShopProduct.bin",
-            "hash": "1a3cc449ac8747c0ff906b223630db142a92095655732b8773dbf9885bd98c3f",
-            "size": 2368
+            "hash": "a4ff420e4252d5d2e39694b9af70391095cb61ca32f8cb6b1768a961eacdf2e6",
+            "size": 2592
         },
         {
             "name": "MasterShopTrigger.bin",
@@ -1043,18 +1068,18 @@
         },
         {
             "name": "MasterSkillCondition.bin",
-            "hash": "697f4ce70ae3925cf96c09300253d6264fa9a958affba55f02191de7c668b54d",
-            "size": 2528
+            "hash": "4d70036fab6f3daf9f3e569d2f98cb98964478484fdadd0faf2f0c2ad6a12892",
+            "size": 2624
         },
         {
             "name": "MasterSkillConditionSet.bin",
-            "hash": "c489a7488feb94349cfa16328dbfadef6899ca252802ab254a06ae9117741a29",
-            "size": 3712
+            "hash": "681a3d35869959606ba21f137d745026417e0f1772ac70b036ea1961a85d074c",
+            "size": 3776
         },
         {
             "name": "MasterSkillCumulativeCondition.bin",
-            "hash": "e31a17261c2bf4482b7c82c39566de5a64293aeaf273a2cc022f18b00b4fd171",
-            "size": 736
+            "hash": "80414c20f3b2eb6976f0335e2a19a31cfa634dcb60c8400e6c575d2d89f39525",
+            "size": 832
         },
         {
             "name": "MasterSkillEffectSetting.bin",
@@ -1083,18 +1108,18 @@
         },
         {
             "name": "MasterSound.bin",
-            "hash": "3b2c866bad635e77873835dec38d589e45101f1e0d998ed26e8b4e64c11a220b",
-            "size": 31296
+            "hash": "82dffc1ffc58dfe9425acfb565fbc85a8f285b1042d62841c1e56f7fff72e735",
+            "size": 32736
         },
         {
             "name": "MasterSoundCueSheet.bin",
-            "hash": "55324a6241365b2508969319915f0eab0990d264d330178fc394bb6cb7b606d2",
-            "size": 3680
+            "hash": "83679f7d21d25c2c03e94a0879333331345c946b5e27bc958331810042d5fbe1",
+            "size": 3776
         },
         {
             "name": "MasterStamp.bin",
-            "hash": "c1d2a8e2293d4e96b2591284b2e214f49b6b450130c3806be4f8d75f5ee86619",
-            "size": 1696
+            "hash": "fb1029da24baab71cc21ef6c28843676b18b41f6ba17c1d3e309cdd9844af067",
+            "size": 1760
         },
         {
             "name": "MasterStoryChapter.bin",
@@ -1103,8 +1128,8 @@
         },
         {
             "name": "MasterStoryEpisode.bin",
-            "hash": "f06c76427fba05048938c1a89be063209dacb7a8f4f3f445baeca96ad984237d",
-            "size": 4736
+            "hash": "93be1b4914c8c9c13cd2c3df36cd838d8eb344b6a9520d5d706b544374d37baa",
+            "size": 4672
         },
         {
             "name": "MasterStoryFriendshipEpisode.bin",
@@ -1113,8 +1138,8 @@
         },
         {
             "name": "MasterStoryHomeSpotTapTalkEpisode.bin",
-            "hash": "18dec76b8160301ebe1fe60f5ee4c168bb2b87dcfcca493c26bb16bd4ab949f2",
-            "size": 2624
+            "hash": "64b6ffe4ac4d76792694e3d65904b63926f23e6df4ddb8f64306d084cc8ce68d",
+            "size": 2944
         },
         {
             "name": "MasterStoryLiveResultEpisode.bin",
@@ -1133,8 +1158,8 @@
         },
         {
             "name": "MasterSupportCard.bin",
-            "hash": "c60440d574a1d527b2c00ef9b95dfc639e047043b66466760f7a6dda58199f77",
-            "size": 3264
+            "hash": "e4ea450c86806e515048290dfd83453a635c1757820d3fe1192832c26f5f257c",
+            "size": 3424
         },
         {
             "name": "MasterSupportCardLevel.bin",
@@ -1148,13 +1173,13 @@
         },
         {
             "name": "MasterSupportSkill.bin",
-            "hash": "2b95e1ca97dc3446001da45641436dacac311d85a67ea7c9daf30d242c85399c",
-            "size": 1184
+            "hash": "b5da69db00b204e0e38b8fd7066fb3d5e246e9e90a4df22463ccce3b060f8023",
+            "size": 1216
         },
         {
             "name": "MasterSupportSkillEffect.bin",
-            "hash": "9ae92ed971b2b27e741c85566d2588298fb14e5fe0b3888e5fb7d0369c7f4a2f",
-            "size": 12672
+            "hash": "90d80639bf6cd4b5e7175a9e11e89ded409ba17ba307137c238b0132db78def8",
+            "size": 13056
         },
         {
             "name": "MasterTag.bin",
@@ -1168,8 +1193,8 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "b735b39b41a43ac7fe73a5e42fa878aa2cbe6ff2f31244a092eec0e16a683b02",
-            "size": 901536
+            "hash": "adf94eb3783ebb6e1d53546859690f5025b455085e73e7599dd3cb639ebaa576",
+            "size": 962624
         },
         {
             "name": "MasterTitle.bin",
@@ -1177,8 +1202,28 @@
             "size": 448
         },
         {
+            "name": "MasterTryLevelReward.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterTryMission.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterTryMusic.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
+            "name": "MasterTryMusicTotalScoreReward.bin",
+            "hash": "5dad350fd011c6b88b3b6923a4ca6ef3d37783a643f5719c7747bd2bf792fa44",
+            "size": 128
+        },
+        {
             "name": "MasterVideo.bin",
-            "hash": "28ecc4d7e635350e4b1787df0a64eba14c77402c89ee6ee119b4c5f603438630",
+            "hash": "a35ed867d6f7f4a21e85f757b4798a7be319ad9613222c50c87b190448b1e987",
             "size": 1600
         },
         {

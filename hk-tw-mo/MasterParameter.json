@@ -63,6 +63,11 @@
     {
       "_id": "daily_reset_time",
       "_type": "String",
+      "_value": "4:00"
+    },
+    {
+      "_id": "shop_reset_time",
+      "_type": "String",
       "_value": "0:00"
     },
     {
@@ -228,7 +233,7 @@
     {
       "_id": "gekisou_ranking_reward_timeout_sec",
       "_type": "Int32",
-      "_value": "60"
+      "_value": "10"
     },
     {
       "_id": "gekisou_live_download_timeout_sec",
@@ -243,7 +248,7 @@
     {
       "_id": "terms_version",
       "_type": "String",
-      "_value": "1.0.5"
+      "_value": "0.1.0.0"
     },
     {
       "_id": "invitation_establishment_max",
@@ -253,7 +258,7 @@
     {
       "_id": "arena_disconnect_penalty_threshold",
       "_type": "Int32",
-      "_value": "5"
+      "_value": "10"
     },
     {
       "_id": "thinkingdata_night_notice_start_at",
@@ -348,7 +353,7 @@
     {
       "_id": "client_version_download_url",
       "_type": "String",
-      "_value": "https://pkg.biligame.com/games/BanGDreamOurNotes_1.0.6_2026_10_15_14_26_32_952485.apk"
+      "_value": "https://pkg.biligame.com/games/BanGDreamOurNotes_1.1.0_2026_10_23_18_37_44_408496.apk"
     },
     {
       "_id": "monthly_pass_add_purchase_threshold",
@@ -384,6 +389,91 @@
       "_id": "same_degree_max_count",
       "_type": "Int32",
       "_value": "99999999"
+    },
+    {
+      "_id": "arena_mp_default_value",
+      "_type": "Int32",
+      "_value": "2000"
+    },
+    {
+      "_id": "arena_adjust_point",
+      "_type": "Int32",
+      "_value": "50"
+    },
+    {
+      "_id": "arena_penalty_threshold",
+      "_type": "Int32",
+      "_value": "999999999"
+    },
+    {
+      "_id": "arena_penalty_rate",
+      "_type": "Int32",
+      "_value": "-20"
+    },
+    {
+      "_id": "arena_catch_up_bonus_rate",
+      "_type": "Int32",
+      "_value": "1"
+    },
+    {
+      "_id": "arena_catch_up_bonus_max_value",
+      "_type": "Int32",
+      "_value": "1"
+    },
+    {
+      "_id": "arena_catch_up_bonus_max_count",
+      "_type": "Int32",
+      "_value": "0"
+    },
+    {
+      "_id": "arena_matching_penalty_count",
+      "_type": "Int32",
+      "_value": "10"
+    },
+    {
+      "_id": "arena_matching_entry_time_limit_second",
+      "_type": "Int32",
+      "_value": "25"
+    },
+    {
+      "_id": "arena_matching_time_limit_second",
+      "_type": "Int32",
+      "_value": "60"
+    },
+    {
+      "_id": "arena_catch_up_bonus_threshold",
+      "_type": "Int32",
+      "_value": "100"
+    },
+    {
+      "_id": "arena_recent_match_limit",
+      "_type": "int32",
+      "_value": "5"
+    },
+    {
+      "_id": "arena_matching_phase_duration_sec",
+      "_type": "Int32",
+      "_value": "5"
+    },
+    {
+      "_id": "arena_matching_phase_3_rank_range",
+      "_type": "Int32",
+      "_value": "1"
+    },
+    {
+      "_id": "arena_matching_phase_4_rank_range",
+      "_type": "Int32",
+      "_value": "2"
+    },
+    {
+      "_id": "arena_min_guarantee_mp",
+      "_type": "Int32",
+      "_value": "3"
+    },
+    {
+      "_id": "arena_top_rank_name_text_id",
+      "_type": "String",
+      "_value": "Arena_Top_Rank_Name"
     }
   ]
 }

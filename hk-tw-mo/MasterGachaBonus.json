@@ -23,6 +23,18 @@
       "_bonusDrawTiming": 1,
       "_requiredGachaDrawCount": 1,
       "_bonusDrawCount": 1
+    },
+    {
+      "_id": 5,
+      "_bonusDrawTiming": 1,
+      "_requiredGachaDrawCount": 1,
+      "_bonusDrawCount": 1
+    },
+    {
+      "_id": 6,
+      "_bonusDrawTiming": 1,
+      "_requiredGachaDrawCount": 1,
+      "_bonusDrawCount": 10
     }
   ]
 }

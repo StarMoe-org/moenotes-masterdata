@@ -599,6 +599,174 @@
       "_resourceTypeConstraint": 3,
       "_prizeGroupId": 6,
       "_weight": 2900
+    },
+    {
+      "_id": 76,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 25,
+      "_weight": 300
+    },
+    {
+      "_id": 77,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 3,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 2,
+      "_weight": 850
+    },
+    {
+      "_id": 78,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 2,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 3,
+      "_weight": 3850
+    },
+    {
+      "_id": 79,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 26,
+      "_weight": 600
+    },
+    {
+      "_id": 80,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 3,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 5,
+      "_weight": 1700
+    },
+    {
+      "_id": 81,
+      "_lotGroupId": 16,
+      "_rarityConstraint": 2,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 6,
+      "_weight": 2700
+    },
+    {
+      "_id": 82,
+      "_lotGroupId": 17,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 30,
+      "_weight": 1110
+    },
+    {
+      "_id": 83,
+      "_lotGroupId": 17,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 31,
+      "_weight": 2230
+    },
+    {
+      "_id": 84,
+      "_lotGroupId": 17,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 32,
+      "_weight": 2220
+    },
+    {
+      "_id": 85,
+      "_lotGroupId": 17,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 33,
+      "_weight": 4440
+    },
+    {
+      "_id": 86,
+      "_lotGroupId": 18,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 34,
+      "_weight": 3340
+    },
+    {
+      "_id": 87,
+      "_lotGroupId": 18,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 35,
+      "_weight": 6660
+    },
+    {
+      "_id": 88,
+      "_lotGroupId": 19,
+      "_rarityConstraint": 0,
+      "_resourceTypeConstraint": 1,
+      "_prizeGroupId": 27,
+      "_weight": 6225
+    },
+    {
+      "_id": 89,
+      "_lotGroupId": 19,
+      "_rarityConstraint": 0,
+      "_resourceTypeConstraint": 1,
+      "_prizeGroupId": 28,
+      "_weight": 2516
+    },
+    {
+      "_id": 90,
+      "_lotGroupId": 19,
+      "_rarityConstraint": 0,
+      "_resourceTypeConstraint": 1,
+      "_prizeGroupId": 29,
+      "_weight": 1259
+    },
+    {
+      "_id": 91,
+      "_lotGroupId": 20,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 36,
+      "_weight": 300
+    },
+    {
+      "_id": 92,
+      "_lotGroupId": 20,
+      "_rarityConstraint": 3,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 2,
+      "_weight": 4700
+    },
+    {
+      "_id": 93,
+      "_lotGroupId": 20,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 37,
+      "_weight": 600
+    },
+    {
+      "_id": 94,
+      "_lotGroupId": 20,
+      "_rarityConstraint": 3,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 5,
+      "_weight": 4400
+    },
+    {
+      "_id": 95,
+      "_lotGroupId": 21,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 2,
+      "_prizeGroupId": 36,
+      "_weight": 3340
+    },
+    {
+      "_id": 96,
+      "_lotGroupId": 21,
+      "_rarityConstraint": 4,
+      "_resourceTypeConstraint": 3,
+      "_prizeGroupId": 37,
+      "_weight": 6660
     }
   ]
 }

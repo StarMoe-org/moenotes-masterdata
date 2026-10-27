@@ -208,6 +208,52 @@
       "_startAt": "2026/01/01 0:00:00"
     },
     {
+      "_id": 10010,
+      "_nameTextId": "Spot_Name_10010",
+      "_bandId": 1,
+      "_characterIds": [
+        2,
+        3,
+        5
+      ],
+      "_introSoundId": 50001040100,
+      "_ambientSoundId": 0,
+      "_advNameTextId": "Chapter_Title_1235",
+      "_advId": 11234,
+      "_backgroundAssetPath": "Spot/home_001_mygo_04_cafeback_0101/Background/home_001_mygo_04_cafeback_0101",
+      "_situationAssetPath": "Spot/home_001_mygo_04_cafeback_0101/home_001_mygo_04_cafeback_0101_01/home_001_mygo_04_cafeback_0101_01",
+      "_thumbnailAssetPath": "Image/Spot/home_001_mygo_04_cafeback_01",
+      "_isInitialOwnership": false,
+      "_releaseBandRank": 0,
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0,
+      "_startAt": "2026/10/28 12:00:00"
+    },
+    {
+      "_id": 10011,
+      "_nameTextId": "Spot_Name_10011",
+      "_bandId": 1,
+      "_characterIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "_introSoundId": 50001040200,
+      "_ambientSoundId": 0,
+      "_advNameTextId": "Chapter_Title_1246",
+      "_advId": 11245,
+      "_backgroundAssetPath": "Spot/home_001_mygo_04_cafeback_0101/Background/home_001_mygo_04_cafeback_0101",
+      "_situationAssetPath": "Spot/home_001_mygo_04_cafeback_0101/home_001_mygo_04_cafeback_0101_02/home_001_mygo_04_cafeback_0101_02",
+      "_thumbnailAssetPath": "Image/Spot/home_001_mygo_04_cafeback_02",
+      "_isInitialOwnership": false,
+      "_releaseBandRank": 0,
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0,
+      "_startAt": "2026/10/28 12:00:00"
+    },
+    {
       "_id": 20002,
       "_nameTextId": "Spot_Name_20002",
       "_bandId": 2,
@@ -390,6 +436,52 @@
       "_releaseStoryChapterId": 2,
       "_releaseStoryEpisodeId": 23,
       "_startAt": "2026/01/01 0:00:00"
+    },
+    {
+      "_id": 20009,
+      "_nameTextId": "Spot_Name_20009",
+      "_bandId": 2,
+      "_characterIds": [
+        6,
+        10,
+        9
+      ],
+      "_introSoundId": 50002040100,
+      "_ambientSoundId": 0,
+      "_advNameTextId": "Chapter_Title_1253",
+      "_advId": 11252,
+      "_backgroundAssetPath": "Spot/home_002_mujica_04_officelounge_0101/Background/home_002_mujica_04_officelounge_0101",
+      "_situationAssetPath": "Spot/home_002_mujica_04_officelounge_0101/home_002_mujica_04_officelounge_0101_01/home_002_mujica_04_officelounge_0101_01",
+      "_thumbnailAssetPath": "Image/Spot/home_002_mujica_04_officelounge_01",
+      "_isInitialOwnership": false,
+      "_releaseBandRank": 0,
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0,
+      "_startAt": "2026/10/28 12:00:00"
+    },
+    {
+      "_id": 20010,
+      "_nameTextId": "Spot_Name_20010",
+      "_bandId": 2,
+      "_characterIds": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "_introSoundId": 50002040200,
+      "_ambientSoundId": 0,
+      "_advNameTextId": "Chapter_Title_1264",
+      "_advId": 11263,
+      "_backgroundAssetPath": "Spot/home_002_mujica_04_officelounge_0101/Background/home_002_mujica_04_officelounge_0101",
+      "_situationAssetPath": "Spot/home_002_mujica_04_officelounge_0101/home_002_mujica_04_officelounge_0101_02/home_002_mujica_04_officelounge_0101_02",
+      "_thumbnailAssetPath": "Image/Spot/home_002_mujica_04_officelounge_02",
+      "_isInitialOwnership": false,
+      "_releaseBandRank": 0,
+      "_releaseStoryChapterId": 0,
+      "_releaseStoryEpisodeId": 0,
+      "_startAt": "2026/10/28 12:00:00"
     },
     {
       "_id": 30001,

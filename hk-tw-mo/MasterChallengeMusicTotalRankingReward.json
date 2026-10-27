@@ -1,0 +1,76 @@
+{
+  "_allData": [
+    {
+      "_id": 1,
+      "_eventId": 4,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_rewardIds": [
+        287
+      ]
+    },
+    {
+      "_id": 2,
+      "_eventId": 4,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_rewardIds": [
+        288
+      ]
+    },
+    {
+      "_id": 3,
+      "_eventId": 4,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_rewardIds": [
+        289
+      ]
+    },
+    {
+      "_id": 4,
+      "_eventId": 4,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_rewardIds": [
+        290
+      ]
+    },
+    {
+      "_id": 5,
+      "_eventId": 4,
+      "_rankStart": 11,
+      "_rankEnd": 100,
+      "_rewardIds": [
+        291
+      ]
+    },
+    {
+      "_id": 6,
+      "_eventId": 4,
+      "_rankStart": 101,
+      "_rankEnd": 1000,
+      "_rewardIds": [
+        292
+      ]
+    },
+    {
+      "_id": 7,
+      "_eventId": 4,
+      "_rankStart": 1001,
+      "_rankEnd": 5000,
+      "_rewardIds": [
+        293
+      ]
+    },
+    {
+      "_id": 8,
+      "_eventId": 4,
+      "_rankStart": 5001,
+      "_rankEnd": 10000,
+      "_rewardIds": [
+        294
+      ]
+    }
+  ]
+}

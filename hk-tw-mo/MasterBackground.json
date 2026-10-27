@@ -223,6 +223,22 @@
       "_itemType": 2,
       "_assetPath": "Image/Background/bg_adv_0503",
       "_thumbnailAssetPath": "thumbnail/Background/bg_adv_0503"
+    },
+    {
+      "_id": 29,
+      "_nameTextId": "Background_Name_29",
+      "_descriptionTextId": "Background_Description_29",
+      "_itemType": 2,
+      "_assetPath": "Image/Degree/Event/01_00004/bg_event_00004_01",
+      "_thumbnailAssetPath": "thumbnail/Event/01/bg_event_00004_01"
+    },
+    {
+      "_id": 30,
+      "_nameTextId": "Background_Name_30",
+      "_descriptionTextId": "Background_Description_30",
+      "_itemType": 1,
+      "_assetPath": "Image/Background/frame_2610",
+      "_thumbnailAssetPath": "thumbnail/Background/frame_2610"
     }
   ]
 }

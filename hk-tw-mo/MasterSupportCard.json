@@ -1648,8 +1648,8 @@
       "_visualPowerMax": 1200,
       "_supportCardLevelGroup": 5,
       "_supportCardRankGroup": 5,
-      "_supportSkillId01": 71,
-      "_supportSkillId02": 73,
+      "_supportSkillId01": 71070,
+      "_supportSkillId02": 72070,
       "_gekisouSupportSkillId01": 0,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-09-24 0:00:00"
@@ -1751,6 +1751,79 @@
       "_gekisouSupportSkillId01": 0,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-10-25 21:00:00"
+    },
+    {
+      "_id": 75,
+      "_assetID": 75,
+      "_nameTextID": "Snap_Name_Soyo_Anon",
+      "_descriptionTextID": "SupportSubtitle_75",
+      "_diaryTextID": "SupportDiary_75",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        4,
+        2
+      ],
+      "_rarity": 4,
+      "_cardType": 4,
+      "_performancePowerMax": 2900,
+      "_technicPowerMax": 4200,
+      "_visualPowerMax": 3100,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 75,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 71,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-28 0:00:00"
+    },
+    {
+      "_id": 76,
+      "_assetID": 76,
+      "_nameTextID": "Snap_Name_Umiri_Mutsumi_Nyamu",
+      "_descriptionTextID": "SupportSubtitle_76",
+      "_diaryTextID": "SupportDiary_76",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        8,
+        7,
+        9
+      ],
+      "_rarity": 4,
+      "_cardType": 3,
+      "_performancePowerMax": 3100,
+      "_technicPowerMax": 2900,
+      "_visualPowerMax": 4200,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 74,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 92,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-28 0:00:00"
+    },
+    {
+      "_id": 77,
+      "_assetID": 77,
+      "_nameTextID": "Snap_Name_Mutsumi_Uika",
+      "_descriptionTextID": "SupportSubtitle_77",
+      "_diaryTextID": "SupportDiary_77",
+      "_diarySoundId": 1200000000007,
+      "_characterIDs": [
+        7,
+        6
+      ],
+      "_rarity": 3,
+      "_cardType": 2,
+      "_performancePowerMax": 1700,
+      "_technicPowerMax": 1700,
+      "_visualPowerMax": 1700,
+      "_supportCardLevelGroup": 2,
+      "_supportCardRankGroup": 2,
+      "_supportSkillId01": 52,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 87,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-10-28 12:00:00"
     }
   ]
 }
