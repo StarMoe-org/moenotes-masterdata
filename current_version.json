@@ -53,7 +53,7 @@
       "manifest_sha256": "3944cdb52980070a49abb86e219ea8e1c1cceb9d6d8b58a8eea6bee96eb5eee1",
       "snapshot_path": "kr",
       "data_path": "kr",
-      "client_version": "1.0.6",
+      "client_version": "1.1.0",
       "server": {
         "ageIconSpriteName": "korean_game_rating",
         "apiServerRoot": "https://l14-prod-kr-all-gs-sirius.bilibiligame.net|https://l17-prod-kr-all-gs-sirius.bilibiligame.net",
