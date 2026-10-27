@@ -145,6 +145,14 @@
       "_cueSheetName": "spot_01_03_01"
     },
     {
+      "_id": 500010401,
+      "_cueSheetName": "spot_01_04_01"
+    },
+    {
+      "_id": 500010402,
+      "_cueSheetName": "spot_01_04_02"
+    },
+    {
       "_id": 500020101,
       "_cueSheetName": "spot_02_01_01"
     },
@@ -175,6 +183,14 @@
     {
       "_id": 500020301,
       "_cueSheetName": "spot_02_03_01"
+    },
+    {
+      "_id": 500020401,
+      "_cueSheetName": "spot_02_04_01"
+    },
+    {
+      "_id": 500020402,
+      "_cueSheetName": "spot_02_04_02"
     },
     {
       "_id": 500030101,
@@ -609,6 +625,10 @@
       "_cueSheetName": "M_SeishunComplex"
     },
     {
+      "_id": 1300000000107,
+      "_cueSheetName": "A_Abracadabra"
+    },
+    {
       "_id": 1300000000112,
       "_cueSheetName": "M_KakoWoKurau"
     },
@@ -623,6 +643,14 @@
     {
       "_id": 1300000000114,
       "_cueSheetName": "I_IlikeYourlike"
+    },
+    {
+      "_id": 1300000000118,
+      "_cueSheetName": "M_NonBreathOblige"
+    },
+    {
+      "_id": 1300000000115,
+      "_cueSheetName": "A_Kaibutsu"
     },
     {
       "_id": 1400000000001,
@@ -965,6 +993,10 @@
       "_cueSheetName": "I_KeepOnRiddim_short"
     },
     {
+      "_id": 1400000000107,
+      "_cueSheetName": "A_Abracadabra_short"
+    },
+    {
       "_id": 1400000000041,
       "_cueSheetName": "A_ZankokunaTenshinoThesis_short"
     },
@@ -983,6 +1015,14 @@
     {
       "_id": 1400000000114,
       "_cueSheetName": "I_ILikeYourLike_short"
+    },
+    {
+      "_id": 1400000000115,
+      "_cueSheetName": "A_Kaibutsu_short"
+    },
+    {
+      "_id": 1400000000118,
+      "_cueSheetName": "M_NonBreathOblige_short"
     },
     {
       "_id": 2301001000001,
@@ -1507,6 +1547,14 @@
     {
       "_id": 3202020000071,
       "_cueSheetName": "VoiceGacha_20_00071"
+    },
+    {
+      "_id": 3202005000072,
+      "_cueSheetName": "VoiceGacha_05_00072"
+    },
+    {
+      "_id": 3202006000073,
+      "_cueSheetName": "VoiceGacha_06_00073"
     },
     {
       "_id": 2100000000001,

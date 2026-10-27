@@ -12,6 +12,25 @@
       "_backgroundAsset": "Band/99/band_studio_background",
       "_startAt": "null",
       "_endAt": "null"
+    },
+    {
+      "_id": 2,
+      "_nameTextID": "LimitedMissionName_2",
+      "_missionCategory": 2,
+      "_completeRewardIds": [
+        7
+      ],
+      "_live2dCharacterIds": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "_bannerAsset": "limited_mission/limited_mission_banner_0002",
+      "_backgroundAsset": "Band/2/band_studio_background",
+      "_startAt": "2026/10/31 15:00:00",
+      "_endAt": "2026/12/04 14:59:59"
     }
   ]
 }

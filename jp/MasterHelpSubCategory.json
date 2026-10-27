@@ -523,6 +523,96 @@
       "_endAt": ""
     },
     {
+      "_id": 130001,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130001",
+      "_descriptionTextId": "Help_SubCategory_Description_130001",
+      "_order": 130001,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130002,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130002",
+      "_descriptionTextId": "Help_SubCategory_Description_130002",
+      "_order": 130002,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130003,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130003",
+      "_descriptionTextId": "Help_SubCategory_Description_130003",
+      "_order": 130003,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130004,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130004",
+      "_descriptionTextId": "Help_SubCategory_Description_130004",
+      "_order": 130004,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130005,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130005",
+      "_descriptionTextId": "Help_SubCategory_Description_130005",
+      "_order": 130005,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130006,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130006",
+      "_descriptionTextId": "Help_SubCategory_Description_130006",
+      "_order": 130006,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130007,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130007",
+      "_descriptionTextId": "Help_SubCategory_Description_130007",
+      "_order": 130007,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130008,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130008",
+      "_descriptionTextId": "Help_SubCategory_Description_130008",
+      "_order": 130008,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130009,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130009",
+      "_descriptionTextId": "Help_SubCategory_Description_130009",
+      "_order": 130009,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 130010,
+      "_helpCategoryId": 130,
+      "_titleTextId": "Help_SubCategory_Title_130010",
+      "_descriptionTextId": "Help_SubCategory_Description_130010",
+      "_order": 130010,
+      "_startAt": "2026/01/01 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 140001,
       "_helpCategoryId": 140,
       "_titleTextId": "Help_SubCategory_Title_140001",

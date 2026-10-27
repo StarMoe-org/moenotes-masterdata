@@ -1,3 +1,25 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_imageAsset": "Image/HomeLanding/Promo/promo_campaign_00001",
+      "_order": 1,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/11/07 14:59:59"
+    },
+    {
+      "_id": 2,
+      "_imageAsset": "Image/HomeLanding/Promo/promo_gekisou_00001",
+      "_order": 2,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/11/07 14:59:59"
+    },
+    {
+      "_id": 3,
+      "_imageAsset": "Image/HomeLanding/Promo/shop_dialog_00028",
+      "_order": 3,
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/11/07 14:59:59"
+    }
+  ]
 }

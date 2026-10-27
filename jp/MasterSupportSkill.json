@@ -512,6 +512,20 @@
       "_displaySkillCategories": []
     },
     {
+      "_id": 74,
+      "_nameTextID": "Support_Skill_Name_74",
+      "_descriptionTextFormatID": "Support_Skill_Description_74",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 75,
+      "_nameTextID": "Support_Skill_Name_75",
+      "_descriptionTextFormatID": "Support_Skill_Description_75",
+      "_skillIconID": 10,
+      "_displaySkillCategories": []
+    },
+    {
       "_id": 1002,
       "_nameTextID": "Support_Skill_Name_1",
       "_descriptionTextFormatID": "Support_Skill_Description_1",

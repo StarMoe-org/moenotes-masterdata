@@ -67,31 +67,31 @@
       }
     },
     "jp": {
-      "version": "1.0.0.800/31dfe664f805c150b9daf07b7e3e0ae1",
-      "resource_version": "1.0.0.800",
-      "resource_hash": "910288ebc754ea1f31175f291e9835d5",
+      "version": "1.1.0.100/374f6731b9e37377975ad5fad0e6f56a",
+      "resource_version": "1.1.0.100",
+      "resource_hash": "600e02d3cc3ced3c1a1afdabb5694e1b",
       "resource_version_source": "x-asset-version",
-      "client_version": "1.0.6",
+      "client_version": "1.1.0",
       "upstream": {
         "api_root": "https://api.bang-dream-on.jp",
         "cdn_root": "https://static.bang-dream-on.jp",
         "source": "version_response_headers"
       },
-      "verified_at": "2026-10-25T14:25:19.481140+00:00",
-      "table_count": 238,
-      "record_count": 45124,
-      "manifest_sha256": "ec3853709e62f1ab5083d77e78aa79aac28dfdbfa397d0887d89af8770c13624",
+      "verified_at": "2026-10-27T14:43:39.839610+00:00",
+      "table_count": 247,
+      "record_count": 49209,
+      "manifest_sha256": "f803c1c650cafe2c9abd6a1630f05f1909cad56101b8eb27b4b096aee226f93c",
       "snapshot_path": "jp",
       "data_path": "jp",
       "assets": {
         "provider": "jp",
         "platform": "Android",
-        "version": "1.0.0.800",
-        "hash": "910288ebc754ea1f31175f291e9835d5",
-        "catalog_url": "https://static.bang-dream-on.jp/asset/1.0.0.800/Android/910288ebc754ea1f31175f291e9835d5/catalog_main.bin",
-        "bundle_root": "https://static.bang-dream-on.jp/asset/1.0.0.800/Android/910288ebc754ea1f31175f291e9835d5",
+        "version": "1.1.0.100",
+        "hash": "600e02d3cc3ced3c1a1afdabb5694e1b",
+        "catalog_url": "https://static.bang-dream-on.jp/asset/1.1.0.100/Android/600e02d3cc3ced3c1a1afdabb5694e1b/catalog_main.bin",
+        "bundle_root": "https://static.bang-dream-on.jp/asset/1.1.0.100/Android/600e02d3cc3ced3c1a1afdabb5694e1b",
         "api_root": "https://api.bang-dream-on.jp",
-        "client_version": "1.0.6"
+        "client_version": "1.1.0"
       }
     }
   }

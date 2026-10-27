@@ -1,3 +1,25 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_nameTextId": "Arena_Season_Name_0001",
+      "_startAt": "2026/10/28 0:00:00",
+      "_endAt": "2026/11/28 14:59:58",
+      "_rankingCountEndAt": "2026/11/28 14:59:59"
+    },
+    {
+      "_id": 2,
+      "_nameTextId": "Arena_Season_Name_0002",
+      "_startAt": "2026/11/28 15:00:00",
+      "_endAt": "2026/12/28 14:59:58",
+      "_rankingCountEndAt": "2026/12/28 14:59:59"
+    },
+    {
+      "_id": 3,
+      "_nameTextId": "Arena_Season_Name_0003",
+      "_startAt": "2026/12/28 15:00:00",
+      "_endAt": "2027/01/28 14:59:58",
+      "_rankingCountEndAt": "2027/01/28 14:59:59"
+    }
+  ]
 }

@@ -6,6 +6,13 @@
       "_playerRank": 5,
       "_nameTextID": "Content_Name_1",
       "_targetDisplay": 21
+    },
+    {
+      "_id": 2,
+      "_contentUnlockType": 2,
+      "_playerRank": 5,
+      "_nameTextID": "Content_Name_2",
+      "_targetDisplay": 16
     }
   ]
 }

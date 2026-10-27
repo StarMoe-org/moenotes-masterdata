@@ -1,3 +1,22 @@
 {
-  "_allData": []
+  "_allData": [
+    {
+      "_id": 1,
+      "_resourceType": 1,
+      "_resourceId": 48,
+      "_resourceCount": 1
+    },
+    {
+      "_id": 2,
+      "_resourceType": 1,
+      "_resourceId": 48,
+      "_resourceCount": 2
+    },
+    {
+      "_id": 3,
+      "_resourceType": 1,
+      "_resourceId": 48,
+      "_resourceCount": 3
+    }
+  ]
 }
