@@ -343,12 +343,12 @@
     {
       "_id": "client_version_recommended",
       "_type": "String",
-      "_value": "1.0.6"
+      "_value": "1.1.0"
     },
     {
       "_id": "client_version_required",
       "_type": "String",
-      "_value": "1.0.6"
+      "_value": "1.1.0"
     },
     {
       "_id": "client_version_download_url",
