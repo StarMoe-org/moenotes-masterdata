@@ -1,5 +1,5 @@
 {
-    "version": "67366c70899665e1da215bbe40fe23bb",
+    "version": "62c2b0bca6d860170e33342c4579b915",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -873,8 +873,8 @@
         },
         {
             "name": "MasterMission.bin",
-            "hash": "0a779add93a991e9ee8139cbe276842f11f7718549eb380fc8e55baa93ac8106",
-            "size": 10624
+            "hash": "2c9aba0e4fcbca9d028a31961d6f8534bbf0df0406b3c13da0033089cc99c8ab",
+            "size": 10592
         },
         {
             "name": "MasterMissionLiveChapter.bin",
@@ -963,7 +963,7 @@
         },
         {
             "name": "MasterParameter.bin",
-            "hash": "65d76eee64eb992d098ff75c038d1a1ad7ca2830ea9f07c724099626902b5024",
+            "hash": "6ecdc70c87d5a4dd070c8dbc0f0061faa747351f50e16b3e1a14af424a9ccce9",
             "size": 1600
         },
         {
@@ -1193,7 +1193,7 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "adf94eb3783ebb6e1d53546859690f5025b455085e73e7599dd3cb639ebaa576",
+            "hash": "aa1adeea1c26dd13af546da1f7ca7a4df96e8fa146167922c46800b198936913",
             "size": 962624
         },
         {
