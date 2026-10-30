@@ -36722,19 +36722,19 @@
     },
     {
       "_id": "gacha_warning_point_auto_convert",
-      "_japanese": "※ガチャptは、本ガチャのガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
-      "_english": "※After this Gacha’s Gacha Pt Exchange Shop closes, Gacha Pts will automatically convert into 100 Star Stickers per Pt.",
-      "_traditionalChinese": "※本轉蛋的轉蛋pt兌換所結束後，轉蛋pt將以每1pt兌換「星光貼紙×100」的比例自動轉換。",
-      "_simplifiedChinese": "※本招募的招募pt交换所结束后，招募pt将按每1pt兑换「星星贴纸×100」的比例自动转换。",
-      "_korean": "※뽑기 pt는 해당 뽑기의 뽑기 pt 교환소 종료 후, 1 pt당 별의 스티커×100로 자동 변환됩니다."
+      "_japanese": "※メンバー、スナップが排出されるガチャのガチャptは、\n　ガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
+      "_english": "※For Gachas featuring Members or Snapshots, Gacha Pts will automatically convert into 100 Star Stickers per 1 Pt after the Gacha Pt Exchange Shop closes.",
+      "_traditionalChinese": "※對於會出現團員、快照的轉蛋，轉蛋pt兌換所結束後，轉蛋pt將以每1pt兌換「星光貼紙×100」的比例自動轉換。",
+      "_simplifiedChinese": "※对于会出现成员、留影的招募，招募pt交换所结束后，招募pt将按每1pt兑换「星星贴纸×100」的比例自动转换。",
+      "_korean": "※멤버, 스냅이 배출되는 뽑기의 뽑기 pt는\n　뽑기 pt 교환소 종료 후 1pt마다 스타 스티커 ×100으로 자동 전환됩니다"
     },
     {
       "_id": "gacha_warning_point_convert_present",
-      "_japanese": "※自動変換された星のシールは、本ガチャのガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
-      "_english": "※Automatically converted Star Stickers will be sent to your Gift Box some time after this Gacha’s Gacha Pt Exchange Shop closes.",
-      "_traditionalChinese": "※自動轉換的星光貼紙將於本轉蛋的轉蛋pt兌換所結束一段時間後發送至禮物盒。",
-      "_simplifiedChinese": "※自动转换的星星贴纸将在本招募的招募pt交换所结束一段时间后发送至礼物盒。",
-      "_korean": "※자동 변환된 별의 스티커는 해당 뽑기의 뽑기 pt 교환소 종료 후, 일정 기간이 지난 뒤 선물함으로 전송됩니다."
+      "_japanese": "※自動変換された星のシールは、ガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
+      "_english": "※Automatically converted Star Stickers will be sent to your Gift Box some time after the Gacha Pt Exchange Shop closes.",
+      "_traditionalChinese": "※自動轉換的星光貼紙將於轉蛋pt兌換所結束一段時間後發送至禮物盒。",
+      "_simplifiedChinese": "※自动转换的星星贴纸将在招募pt交换所结束一段时间后发送至礼物盒。",
+      "_korean": "※자동 전환된 스타 스티커는 뽑기 pt 교환소 종료 후 일정 기간이 지나면 선물함으로 발송됩니다"
     },
     {
       "_id": "gacha_warning_slot_detail",
@@ -61503,6 +61503,46 @@
       "_traditionalChinese": "活動故事閱讀完畢提示相關的補償。",
       "_simplifiedChinese": "这是活动故事阅读完毕提示的补偿。",
       "_korean": "이벤트 스토리 열람 완료 안내에 대한 보상입니다."
+    },
+    {
+      "_id": "Present_39",
+      "_japanese": "不具合に関する運営からの補填です。",
+      "_english": "Compensation from the operations team for an in-game issue.",
+      "_traditionalChinese": "這是針對異常問題的補償。",
+      "_simplifiedChinese": "这是异常问题的补偿。",
+      "_korean": "오류 관련 운영팀의 보상입니다."
+    },
+    {
+      "_id": "Present_40",
+      "_japanese": "運営からの補填です。",
+      "_english": "Compensation from the operations team.",
+      "_traditionalChinese": "這是營運團隊發放的補償。",
+      "_simplifiedChinese": "来自运营的补偿。",
+      "_korean": "운영팀의 보상입니다."
+    },
+    {
+      "_id": "Present_41",
+      "_japanese": "補填のアイテムです。",
+      "_english": "The item provided as compensation.",
+      "_traditionalChinese": "這是補償道具。",
+      "_simplifiedChinese": "这是补偿的道具。",
+      "_korean": "보상 아이템입니다."
+    },
+    {
+      "_id": "Present_42",
+      "_japanese": "不具合に関するお詫びと補填です。",
+      "_english": "Apologize for the inconvenience caused by this issue and have provided compensation.",
+      "_traditionalChinese": "這是針對異常問題的歉意與補償。",
+      "_simplifiedChinese": "异常问题的道歉与补偿。",
+      "_korean": "오류 관련 사과와 보상입니다."
+    },
+    {
+      "_id": "Present_43",
+      "_japanese": "システム障害に伴う補填です。",
+      "_english": "Compensation for a system disruption.",
+      "_traditionalChinese": "這是因系統故障發放的補償。",
+      "_simplifiedChinese": "这是系统问题的补偿。",
+      "_korean": "시스템 장애로 인한 보상입니다."
     },
     {
       "_id": "Present_bili_survey",
@@ -87811,7 +87851,7 @@
     {
       "_id": "ui_arena_formation_suitable_info_title",
       "_japanese": "適正",
-      "_english": "Recommendation",
+      "_english": "Rec.",
       "_traditionalChinese": "適性",
       "_simplifiedChinese": "适用",
       "_korean": "적정"
