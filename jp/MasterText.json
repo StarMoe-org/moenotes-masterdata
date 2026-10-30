@@ -33970,7 +33970,7 @@
     },
     {
       "_id": "gacha_warning_point_auto_convert",
-      "_japanese": "※ガチャptは、本ガチャのガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
+      "_japanese": "※メンバー、スナップが排出されるガチャのガチャptは、\n　ガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -33978,7 +33978,7 @@
     },
     {
       "_id": "gacha_warning_point_convert_present",
-      "_japanese": "※自動変換された星のシールは、本ガチャのガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
+      "_japanese": "※自動変換された星のシールは、ガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -58731,6 +58731,46 @@
     {
       "_id": "Present_38",
       "_japanese": "イベントストーリー読了案内に関する補てんです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_39",
+      "_japanese": "不具合に関する運営からの補填です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_40",
+      "_japanese": "運営からの補填です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_41",
+      "_japanese": "補填のアイテムです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_42",
+      "_japanese": "不具合に関するお詫びと補填です。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Present_43",
+      "_japanese": "システム障害に伴う補填です。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
