@@ -557,6 +557,10 @@
       "_cueSheetName": "I_PeacefulPieces"
     },
     {
+      "_id": 1300000000086,
+      "_cueSheetName": "I_HarehareYukai"
+    },
+    {
       "_id": 1300000000088,
       "_cueSheetName": "I_KakumeiDouchu"
     },
@@ -1023,6 +1027,10 @@
     {
       "_id": 1400000000118,
       "_cueSheetName": "M_NonBreathOblige_short"
+    },
+    {
+      "_id": 1400000000086,
+      "_cueSheetName": "I_HarehareYukai_short"
     },
     {
       "_id": 2301001000001,
@@ -1555,6 +1563,10 @@
     {
       "_id": 3202006000073,
       "_cueSheetName": "VoiceGacha_06_00073"
+    },
+    {
+      "_id": 3202015000075,
+      "_cueSheetName": "VoiceGacha_15_00075"
     },
     {
       "_id": 2100000000001,

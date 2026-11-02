@@ -1014,6 +1014,21 @@
       "_endAt": "2026/11/18 14:59:59"
     },
     {
+      "_id": 72,
+      "_nameTextId": "Item_Name_72",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Image/Campaign/birthday_pick_yuno",
+      "_phoneticNameTextId": "Item_Phonetic_Name_72",
+      "_descriptionTextId": "Item_Description_72",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 73,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": "2026/11/09 23:59:59"
+    },
+    {
       "_id": 73,
       "_nameTextId": "Item_Name_73",
       "_inventoryDisplayGroup": 0,
@@ -2614,6 +2629,21 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 10000074,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000075,
+      "_nameTextId": "Item_Name_10000075",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000075",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000075",
+      "_descriptionTextId": "Item_Description_10000075",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000075,
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": ""
