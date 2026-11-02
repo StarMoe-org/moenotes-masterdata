@@ -2071,6 +2071,34 @@
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
       "_startAt": "2026-10-28 12:00:00"
+    },
+    {
+      "_id": 75,
+      "_assetID": 75,
+      "_nameTextID": "Character_Name_Yuno",
+      "_subtitleTextID": "MemberSubtitle_75",
+      "_characterID": 15,
+      "_rarity": 20,
+      "_cardType": 4,
+      "_bestMusicTagIDs": [
+        3
+      ],
+      "_performancePowerMax": 23214,
+      "_technicPowerMax": 30179,
+      "_visualPowerMax": 23214,
+      "_memberCardLevelGroup": 4,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 19,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000075,
+      "_leaderSkillID": 63,
+      "_liveSkillID": 8,
+      "_gekisouSkillID": 24,
+      "_liveSkillLevelResourceGroup": 4,
+      "_gekisouSkillLevelResourceGroup": 8,
+      "_gachaVoiceTextId": "MemberGachaVoice_75",
+      "_gachaVoiceSoundId": 3201502000002,
+      "_startAt": "2026-11-04 0:00:00"
     }
   ]
 }

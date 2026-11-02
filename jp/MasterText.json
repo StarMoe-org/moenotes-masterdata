@@ -8737,6 +8737,14 @@
       "_korean": ""
     },
     {
+      "_id": "Chapter_Title_1201",
+      "_japanese": "26年誕生日：千石 ユノ(11/4)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Chapter_Title_1229",
       "_japanese": "26年10月 Halloween① 愛音",
       "_english": "",
@@ -9843,6 +9851,14 @@
     {
       "_id": "Arranger_Name_100085",
       "_japanese": "藤井健太郎",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Arranger_Name_100086",
+      "_japanese": "牧野太洋",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -20681,6 +20697,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100086",
+      "_japanese": "田代　智一",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Composer_Name_100087",
       "_japanese": "ORANGE RANGE",
       "_english": "",
@@ -23881,6 +23905,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_275",
+      "_japanese": "ユノバースデーピック交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "",
@@ -26705,6 +26737,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_10000085",
+      "_japanese": "「ハレ晴レユカイ」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_10000086",
       "_japanese": "「イケナイ太陽」を100回クリアで獲得",
       "_english": "",
@@ -27449,6 +27489,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_10000085",
+      "_japanese": "[ステッカー]ハレ晴レユカイジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_10000086",
       "_japanese": "[ステッカー]イケナイ太陽ジャケット",
       "_english": "",
@@ -28033,6 +28081,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_30000050",
+      "_japanese": "「[Happy Birthday 26-27]千石 ユノ」を4回覚醒すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "",
@@ -28419,6 +28475,14 @@
     {
       "_id": "Degree_Name_30000049",
       "_japanese": "[ステッカー][ねこたちのハロウィン]要 楽奈",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_30000050",
+      "_japanese": "[ステッカー][Happy Birthday 26-27]千石 ユノ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -30313,6 +30377,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_275",
+      "_japanese": "[ステッカー]千石ユノ Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "",
@@ -31539,6 +31611,22 @@
     {
       "_id": "Exchange_Name_30",
       "_japanese": "A day〜#HalloweenSnap〜アイテムガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_31",
+      "_japanese": "千石ユノ Happy Birthday 26-27 ガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_32",
+      "_japanese": "ユノバースデーピック交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -32873,6 +32961,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_22",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -33579,6 +33675,14 @@
     {
       "_id": "Gacha_Name_21",
       "_japanese": "撃奏アリーナ Season1 SSR確定チケットガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_22",
+      "_japanese": "千石ユノ Happy Birthday 26-27ガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -39593,6 +39697,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_72",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Description_74",
       "_japanese": "[Virtus]Ave Mujica",
       "_english": "",
@@ -40457,6 +40569,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000075",
+      "_japanese": "[Happy Birthday 26-27]千石 ユノの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -41043,6 +41163,14 @@
     {
       "_id": "Item_Name_10000074",
       "_japanese": "メンバーピース([ねこたちのハロウィン]要 楽奈)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000075",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]千石 ユノ)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -41641,6 +41769,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_10000075",
+      "_japanese": "めんばーぴーす10000075",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "",
@@ -42131,6 +42267,14 @@
     {
       "_id": "Item_Name_71",
       "_japanese": "イベントバッジ(ハロウィン)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_72",
+      "_japanese": "ユノバースデーピック",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -42641,6 +42785,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_72",
+      "_japanese": "ゆのばーすでーぴっく",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_74",
       "_japanese": "[Virtus]Ave Mujica",
       "_english": "",
@@ -43139,6 +43291,14 @@
     {
       "_id": "Leader_Skill_Name_Description_62",
       "_japanese": "Ave Mujicaメンバーのビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color>\nさらに翡翠と異なるメンバーを1人編成するごとに(最大2人まで)\nメンバー全員のビジュアル24%UP(最大48%)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_63",
+      "_japanese": "夢限大みゅーたいぷメンバーのテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに山吹のメンバーはテクニックが{effects[1].value/100:F1}%UP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44931,6 +45091,14 @@
     {
       "_id": "Leader_Skill_Name_62",
       "_japanese": "Ave Mujica&翡翠以外ビジュアルUP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_63",
+      "_japanese": "夢限大みゅーたいぷ&山吹テクニックUP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53289,6 +53457,14 @@
       "_korean": ""
     },
     {
+      "_id": "Lyricist_Name_100086",
+      "_japanese": "畑　亜貴",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100087",
       "_japanese": "ORANGE RANGE",
       "_english": "",
@@ -53635,6 +53811,14 @@
     {
       "_id": "MemberGachaVoice_73",
       "_japanese": "かわいそうに。迷い込んじゃったんだ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_75",
+      "_japanese": "いや、こんなの聞いてないし……",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -54227,6 +54411,14 @@
     {
       "_id": "MemberSubtitle_74",
       "_japanese": "ねこたちのハロウィン",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_75",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -56489,6 +56681,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100086",
+      "_japanese": "ハレ晴レユカイ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Tilte_100087",
       "_japanese": "イケナイ太陽",
       "_english": "",
@@ -57281,6 +57481,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100086",
+      "_japanese": "はれはれゆかい",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100087",
       "_japanese": "いけないたいよう",
       "_english": "",
@@ -58019,6 +58227,14 @@
     {
       "_id": "Music_Ruby_Tilte_100085",
       "_japanese": "サムライハート(Some Like It Hot!!)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100086",
+      "_japanese": "ハレ晴レユカイ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -63835,6 +64051,14 @@
     {
       "_id": "Story_Episode_Description_3302",
       "_japanese": "26年誕生日：和泉 朋花(10/24)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_3303",
+      "_japanese": "26年誕生日：千石 ユノ(11/4)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

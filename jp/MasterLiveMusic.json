@@ -4308,6 +4308,67 @@
       "_comboExpertLiveMusicRewardID": 9
     },
     {
+      "_id": 100086,
+      "_phoneticTextID": "Music_Phonetic_Tilte_100086",
+      "_rubyTitleTextID": "Music_Ruby_Tilte_100086",
+      "_sortOrder": 10520105,
+      "_titleTextID": "Music_Tilte_100086",
+      "_bandIDs": [
+        5
+      ],
+      "_bandNameTextID": "",
+      "_vocalCharacterIDs": [
+        21
+      ],
+      "_musicType": 3,
+      "_musicCategories": [
+        4
+      ],
+      "_bestMusicTagIDs": [
+        5
+      ],
+      "_musicSoundID": 1300000000086,
+      "_jingleSoundID": 1400000000086,
+      "_easyID": 10008600,
+      "_normalID": 10008601,
+      "_hardID": 10008602,
+      "_expertID": 10008603,
+      "_liveScoreRankGroup": 1100086,
+      "_defaultUnlock": false,
+      "_unlockConditionID": 0,
+      "_liveMusicPenLightColorID": 501,
+      "_startAt": "2026/11/02 15:00:00",
+      "_lyricistTextID": "Lyricist_Name_100086",
+      "_composerTextID": "Composer_Name_100086",
+      "_arrangerTextID": "Arranger_Name_100086",
+      "_jacketAssetName": "jkt_005_100086",
+      "_musicVideoIDs": [],
+      "_vjVideoPattern": 2,
+      "_anotherVocalIDs": [],
+      "_scoreRankRewardGroup": 1,
+      "_comboRewardGroup": 1,
+      "_gekisouMission1": 3,
+      "_gekisouMission2": 3,
+      "_gekisouMission3": 3,
+      "_gekisouCallSe": 1,
+      "_backgroundCameraType": 1,
+      "_musicLightColorIDNormal": 6,
+      "_musicLightColorIDChorus": 6,
+      "_lazerLightMotionNormal": 3,
+      "_lazerLightMotionChorus": 3,
+      "_stageLightMotionNormal": 3,
+      "_stageLightMotionChorus": 3,
+      "_scoreCLiveMusicRewardID": 1,
+      "_scoreBLiveMusicRewardID": 2,
+      "_scoreALiveMusicRewardID": 3,
+      "_scoreSLiveMusicRewardID": 4,
+      "_scoreSSLiveMusicRewardID": 5,
+      "_comboEasyLiveMusicRewardID": 6,
+      "_comboNormalLiveMusicRewardID": 7,
+      "_comboHardLiveMusicRewardID": 8,
+      "_comboExpertLiveMusicRewardID": 9
+    },
+    {
       "_id": 100087,
       "_phoneticTextID": "Music_Phonetic_Tilte_100087",
       "_rubyTitleTextID": "Music_Ruby_Tilte_100087",

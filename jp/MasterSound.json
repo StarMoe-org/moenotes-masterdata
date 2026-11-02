@@ -8680,6 +8680,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000086,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000086,
+      "_cueName": "I_HarehareYukai",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1300000000088,
       "_category": 0,
       "_soundCueSheetID": 1300000000088,
@@ -9960,6 +9971,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000118,
       "_cueName": "M_NonBreathOblige_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000086,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000086,
+      "_cueName": "I_HarehareYukai_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -22467,6 +22489,17 @@
       "_category": 2,
       "_soundCueSheetID": 3202015000061,
       "_cueName": "Member_Yuno_Gacha_061",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3201502000002,
+      "_category": 2,
+      "_soundCueSheetID": 3202015000075,
+      "_cueName": "Member_Yuno_Gacha_075",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
