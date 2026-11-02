@@ -2741,6 +2741,19 @@
       "_endAt": ""
     },
     {
+      "_id": 275,
+      "_nameTextId": "Degree_Name_275",
+      "_descriptionTextId": "Degree_Description_275",
+      "_degreeType": 1,
+      "_characterIds": [
+        15
+      ],
+      "_imagePath": "Image/Degree/Bd/degree_bd_2627_15",
+      "_orderNum": 275,
+      "_startAt": "2026/11/04 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 501010001,
       "_nameTextId": "Degree_Name_501010001",
       "_descriptionTextId": "Degree_Description_501010001",
@@ -5482,6 +5495,17 @@
       "_endAt": ""
     },
     {
+      "_id": 10000085,
+      "_nameTextId": "Degree_Name_10000085",
+      "_descriptionTextId": "Degree_Description_10000085",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "Image/Jacket/jkt_005_100086",
+      "_orderNum": 10000085,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
       "_id": 10000086,
       "_nameTextId": "Degree_Name_10000086",
       "_descriptionTextId": "Degree_Description_10000086",
@@ -6281,6 +6305,17 @@
       "_characterIds": [],
       "_imagePath": "MemberCard/74/member_character",
       "_orderNum": 30000049,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 30000050,
+      "_nameTextId": "Degree_Name_30000050",
+      "_descriptionTextId": "Degree_Description_30000050",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "MemberCard/75/member_character",
+      "_orderNum": 30000050,
       "_startAt": "",
       "_endAt": ""
     },

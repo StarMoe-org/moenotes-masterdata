@@ -45,12 +45,12 @@
       }
     },
     "kr": {
-      "version": "0f4673e5f2c911363cb0798c198959f8",
-      "resource_version": "1.1.0.104.a8170ed6",
-      "verified_at": "2026-10-30T10:39:29.839445+00:00",
+      "version": "f913debe7dcb42e35f8c50af54a005e4",
+      "resource_version": "1.1.0.200.77261b1a",
+      "verified_at": "2026-11-02T03:07:41.159095+00:00",
       "table_count": 252,
-      "record_count": 49952,
-      "manifest_sha256": "dec955d38007641b2519239f346f9d34b27813c02ca071bc87fade59479d8e53",
+      "record_count": 50126,
+      "manifest_sha256": "038e4ee569f4095ad254b2597edf3b28e6f22f0ff611776419a9daaae6b95d70",
       "snapshot_path": "kr",
       "data_path": "kr",
       "client_version": "1.1.0",
