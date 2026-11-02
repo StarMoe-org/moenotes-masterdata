@@ -175,6 +175,22 @@
       "_bonusPrizeId": 274,
       "_bonusPrizeCount": 1,
       "_weight": 1526
+    },
+    {
+      "_id": 23,
+      "_gachaBonusId": 7,
+      "_bonusPrizeType": 1,
+      "_bonusPrizeId": 72,
+      "_bonusPrizeCount": 5,
+      "_weight": 1
+    },
+    {
+      "_id": 24,
+      "_gachaBonusId": 8,
+      "_bonusPrizeType": 1,
+      "_bonusPrizeId": 72,
+      "_bonusPrizeCount": 50,
+      "_weight": 1
     }
   ]
 }

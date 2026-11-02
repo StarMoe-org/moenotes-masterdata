@@ -29,6 +29,21 @@
       "_voiceSoundId": 3202001000017,
       "_motionName": "mtn_smile01_C",
       "_expressionName": "exp_smile01"
+    },
+    {
+      "_id": 3,
+      "_storyChapterId": 33,
+      "_storyEpisodeId": 3303,
+      "_startAt": "2026/11/04 0:00:00",
+      "_endAt": "2026/11/04 23:59:59",
+      "_order": 1002,
+      "_contentPrefabAddress": "Birthday/birthday_effect",
+      "_characterId": 15,
+      "_costumeId": 2,
+      "_bgmSoundId": 1200000000011,
+      "_voiceSoundId": 3201501000017,
+      "_motionName": "mtn_smile02_C",
+      "_expressionName": "exp_smile01"
     }
   ]
 }

@@ -8737,6 +8737,14 @@
       "_korean": "26년 생일: 이즈미 호우카 (10/24)"
     },
     {
+      "_id": "Chapter_Title_1201",
+      "_japanese": "26年誕生日：千石 ユノ(11/4)",
+      "_english": "2026 Birthday: Yuno Sengoku (11/4)",
+      "_traditionalChinese": "26年生日：千石由乃（11/4）",
+      "_simplifiedChinese": "26年生日：千石由乃(11/4)",
+      "_korean": "26년 생일: 센고쿠 유노 (11/4)"
+    },
+    {
       "_id": "Chapter_Title_1229",
       "_japanese": "26年10月 Halloween① 愛音",
       "_english": "October 2026: Halloween① Anon",
@@ -9847,6 +9855,14 @@
       "_traditionalChinese": "藤井健太郎",
       "_simplifiedChinese": "藤井健太郎",
       "_korean": "藤井健太郎"
+    },
+    {
+      "_id": "Arranger_Name_100086",
+      "_japanese": "牧野太洋",
+      "_english": "牧野太洋",
+      "_traditionalChinese": "牧野太洋",
+      "_simplifiedChinese": "牧野太洋",
+      "_korean": "牧野太洋"
     },
     {
       "_id": "Arranger_Name_100087",
@@ -11649,7 +11665,7 @@
       "_korean": "효과 목록"
     },
     {
-      "_id": "Band_UI_item_unreleased ",
+      "_id": "Band_UI_item_unreleased",
       "_japanese": "未解放",
       "_english": "Locked",
       "_traditionalChinese": "未開放",
@@ -23425,6 +23441,14 @@
       "_korean": "UZ"
     },
     {
+      "_id": "Composer_Name_100086",
+      "_japanese": "田代　智一",
+      "_english": "Tomokazu Tashiro",
+      "_traditionalChinese": "田代　智一",
+      "_simplifiedChinese": "田代　智一",
+      "_korean": "Tomokazu Tashiro"
+    },
+    {
       "_id": "Composer_Name_100087",
       "_japanese": "ORANGE RANGE",
       "_english": "ORANGE RANGE",
@@ -26625,6 +26649,14 @@
       "_korean": "「A day〜#HalloweenSnap〜 아이템 뽑기」에서 획득"
     },
     {
+      "_id": "Degree_Description_275",
+      "_japanese": "ユノバースデーピック交換所で獲得",
+      "_english": "Obtained at the Yuno Birthday Pick Exchange Shop.",
+      "_traditionalChinese": "透過由乃生日撥片兌換所獲得",
+      "_simplifiedChinese": "在由乃生日拨片交换所获得",
+      "_korean": "유노 생일 기념 피크 교환소에서 획득"
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
@@ -29449,6 +29481,14 @@
       "_korean": "「사무라이 하트(Some Like It Hot!!)」 100회 클리어 시 획득"
     },
     {
+      "_id": "Degree_Description_10000085",
+      "_japanese": "「ハレ晴レユカイ」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Hare Hare Yukai\" 100 times.",
+      "_traditionalChinese": "通關「ハレ晴レユカイ」100次即獲得",
+      "_simplifiedChinese": "完成「ハレ晴レユカイ」100次时获得",
+      "_korean": "「Hare Hare Yukai」 100회 클리어 시 획득"
+    },
+    {
       "_id": "Degree_Description_10000086",
       "_japanese": "「イケナイ太陽」を100回クリアで獲得",
       "_english": "Obtained by clearing \"Ikenai Taiyou\" 100 times.",
@@ -30193,6 +30233,14 @@
       "_korean": "[스티커] 사무라이 하트(Some Like It Hot!!) 재킷"
     },
     {
+      "_id": "Degree_Name_10000085",
+      "_japanese": "[ステッカー]ハレ晴レユカイジャケット",
+      "_english": "[Sticker] Hare Hare Yukai Jacket",
+      "_traditionalChinese": "[貼紙]ハレ晴レユカイ封面",
+      "_simplifiedChinese": "[贴纸]ハレ晴レユカイ封面",
+      "_korean": "[스티커] Hare Hare Yukai 재킷"
+    },
+    {
       "_id": "Degree_Name_10000086",
       "_japanese": "[ステッカー]イケナイ太陽ジャケット",
       "_english": "[Sticker] Ikenai Taiyou Jacket",
@@ -30777,6 +30825,14 @@
       "_korean": "「[고양이들의 할로윈] 카나메 라나」 4회 각성 시 획득"
     },
     {
+      "_id": "Degree_Description_30000050",
+      "_japanese": "「[Happy Birthday 26-27]千石 ユノ」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Yuno Sengoku [Happy Birthday 26-27]\" 4 times.",
+      "_traditionalChinese": "「[Happy Birthday 26-27]千石由乃」覺醒4次後獲得",
+      "_simplifiedChinese": "「[Happy Birthday 26-27]千石由乃」觉醒4次后获得",
+      "_korean": "「[Happy Birthday 26-27] 센고쿠 유노」 4회 각성 시 획득"
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "[Sticker] Tomori Takamatsu [Words That Stay]",
@@ -31167,6 +31223,14 @@
       "_traditionalChinese": "[貼紙][貓咪們的萬聖節]要樂奈",
       "_simplifiedChinese": "[贴纸][猫咪们的万圣节]要乐奈",
       "_korean": "[스티커] [고양이들의 할로윈] 카나메 라나"
+    },
+    {
+      "_id": "Degree_Name_30000050",
+      "_japanese": "[ステッカー][Happy Birthday 26-27]千石 ユノ",
+      "_english": "[Sticker] Yuno Sengoku [Happy Birthday 26-27]",
+      "_traditionalChinese": "[貼紙][Happy Birthday 26-27]千石由乃",
+      "_simplifiedChinese": "[贴纸][Happy Birthday 26-27]千石由乃",
+      "_korean": "[스티커] [Happy Birthday 26-27] 센고쿠 유노"
     },
     {
       "_id": "Degree_Name_1",
@@ -33057,6 +33121,14 @@
       "_korean": "[스티커] 할로윈 마녀 모자 ver."
     },
     {
+      "_id": "Degree_Name_275",
+      "_japanese": "[ステッカー]千石ユノ Happy Birthday 26-27",
+      "_english": "[Sticker] Yuno Sengoku - Happy Birthday 26-27",
+      "_traditionalChinese": "[貼紙]千石由乃 Happy Birthday 26-27",
+      "_simplifiedChinese": "[贴纸]千石由乃 Happy Birthday 26-27",
+      "_korean": "[스티커] 센고쿠 유노 Happy Birthday 26-27"
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "Obtained by limit breaking \"Tomori Takamatsu [Favorite Penguins]\" 4 times.",
@@ -34290,11 +34362,19 @@
     },
     {
       "_id": "Exchange_Name_31",
-      "_japanese": "撃奏アリーナピック交換所",
-      "_english": "GEKISO Arena Pick Exchange Shop",
-      "_traditionalChinese": "激奏舞台撥片兌換所",
-      "_simplifiedChinese": "激奏舞台拨片交换所",
-      "_korean": "격주 아레나 피크 교환소"
+      "_japanese": "千石ユノ Happy Birthday 26-27 ガチャ交換所",
+      "_english": "Yuno Sengoku Happy Birthday 26-27 Gacha Exchange Shop",
+      "_traditionalChinese": "千石由乃 Happy Birthday 26-27 轉蛋兌換所",
+      "_simplifiedChinese": "千石由乃 Happy Birthday 26-27 招募交换所",
+      "_korean": "센고쿠 유노 Happy Birthday 26-27 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_32",
+      "_japanese": "ユノバースデーピック交換所",
+      "_english": "Yuno Birthday Pick Exchange Shop",
+      "_traditionalChinese": "由乃生日撥片兌換所",
+      "_simplifiedChinese": "由乃生日拨片交换所",
+      "_korean": "유노 생일 기념 피크 교환소"
     },
     {
       "_id": "exchange_title",
@@ -35625,6 +35705,14 @@
       "_korean": "SSR 멤버 또는 스냅을 획득할 수 있는 뽑기"
     },
     {
+      "_id": "Gacha_Description_22",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "Gacha with R or Higher Members or Snapshots\n\nEach time you use this Gacha, you will receive a bonus item called \"Birthday Pick.\"\n(pull 1 time: 5 pcs / pull 10 times: 50 pcs)\n*The \"Birthday Picks\" obtained from this Gacha can be used at the \"Birthday Pick Exchange\" in the Event Exchange Shop.\n*The item available for exchange vary depending on which Exchange Shop is currently open. Please check the \"Exchange Shop\" for details.",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\n\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\n（抽1次：5個／抽10次：50個）\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
+      "_simplifiedChinese": "可获得R以上成员或是留影的招募\n\n每次进行招募，都可额外获得道具「生日拨片」。\n（抽1次：5个／抽10次：50个）\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -36325,7 +36413,7 @@
       "_japanese": "撃奏アリーナ Season1 SR以上確定チケットガチャ",
       "_english": "GEKISO ARENA Season 1 SR+ Guaranteed Ticket Gacha",
       "_traditionalChinese": "激奏舞台第1賽季保證SR以上券轉蛋",
-      "_simplifiedChinese": "激奏舞台第1赛季SR及以上必得券招募",
+      "_simplifiedChinese": "激奏舞台 Season1 SR及以上必得券招募",
       "_korean": "격주 아레나 Season1 SR이상 확정 티켓 뽑기"
     },
     {
@@ -36333,8 +36421,16 @@
       "_japanese": "撃奏アリーナ Season1 SSR確定チケットガチャ",
       "_english": "GEKISO ARENA Season 1 SSR Guaranteed Ticket Gacha",
       "_traditionalChinese": "激奏舞台第1賽季保證SSR券轉蛋",
-      "_simplifiedChinese": "激奏舞台第1赛季SSR必得券招募",
+      "_simplifiedChinese": "激奏舞台 Season1 SSR必得券招募",
       "_korean": "격주 아레나 Season1 SSR 확정 티켓 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_22",
+      "_japanese": "千石ユノ Happy Birthday 26-27ガチャ",
+      "_english": "Yuno Sengoku Happy Birthday 26-27 Gacha",
+      "_traditionalChinese": "千石由乃 Happy Birthday 26-27轉蛋",
+      "_simplifiedChinese": "千石由乃 Happy Birthday 26-27招募",
+      "_korean": "센고쿠 유노 Happy Birthday 26-27 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -36549,7 +36645,7 @@
       "_japanese": "※ピックアップ対象のパラメータやスキルはガチャページ内の詳細にてご確認ください",
       "_english": "※See the details on the Gacha page for the featured members’ and Snapshots’ stats and skills.",
       "_traditionalChinese": "※精選對象的能力值及技能請於轉蛋頁面的詳情中確認。",
-      "_simplifiedChinese": "※精选对象的属性和技能请于招募页面的详情中确认。",
+      "_simplifiedChinese": "※Pick Up对象的能力值和技能请于招募页面的详情中确认。",
       "_korean": "※픽업 대상의 능력치와 스킬은 뽑기 화면에서 확인해 주세요."
     },
     {
@@ -42345,6 +42441,14 @@
       "_korean": "이벤트 교환소에서 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_72",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Description_74",
       "_japanese": "[Virtus]Ave Mujica",
       "_english": "[Virtus] Ave Mujica",
@@ -42421,7 +42525,7 @@
       "_japanese": "晦冥のナイトウォーカーズ 期間限定SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket for the Shadowed Nightwalkers Limited SSR Guaranteed Ticket Gacha.",
       "_traditionalChinese": "可用於「晦暗的夜行者們」期間限定保證SSR券轉蛋的轉蛋券。",
-      "_simplifiedChinese": "可用于「晦暗的夜行者们」期间限定SSR必得券招募的招募券。",
+      "_simplifiedChinese": "可用于「晦冥的夜行者们」期间限定SSR必得券招募的招募券。",
       "_korean": "어둠의 나이트워커즈 기간 한정 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
     {
@@ -42429,7 +42533,7 @@
       "_japanese": "撃奏アリーナ Season1 SR以上確定チケットガチャが引けるチケット",
       "_english": "A ticket for the GEKISO ARENA Season 1 SR+ Guaranteed Ticket Gacha.",
       "_traditionalChinese": "可用於激奏舞台第1賽季保證SR以上券轉蛋的轉蛋券。",
-      "_simplifiedChinese": "可用于激奏舞台第1赛季SR及以上必得券招募的招募券。",
+      "_simplifiedChinese": "可用于激奏舞台 Season1 SR及以上必得券招募的招募券。",
       "_korean": "격주 아레나 Season1 SR이상 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
     {
@@ -42437,7 +42541,7 @@
       "_japanese": "撃奏アリーナ Season1 SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket for the GEKISO ARENA Season 1 SSR Guaranteed Ticket Gacha.",
       "_traditionalChinese": "可用於激奏舞台第1賽季保證SSR券轉蛋的轉蛋券。",
-      "_simplifiedChinese": "可用于激奏舞台第1赛季SSR必得券招募的招募券。",
+      "_simplifiedChinese": "可用于激奏舞台 Season1 SSR必得券招募的招募券。",
       "_korean": "격주 아레나 Season1 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
     {
@@ -42517,7 +42621,7 @@
       "_japanese": "撃奏アリーナ Season1 SR以上確定ガチャチケット",
       "_english": "GEKISO ARENA Season 1 SR+ Guaranteed Gacha Ticket",
       "_traditionalChinese": "激奏舞台第1賽季保證SR以上轉蛋券",
-      "_simplifiedChinese": "激奏舞台第1赛季SR及以上必得招募券",
+      "_simplifiedChinese": "激奏舞台 Season1 SR及以上必得招募券",
       "_korean": "격주 아레나  Season1 SR이상 확정 뽑기 티켓"
     },
     {
@@ -42525,7 +42629,7 @@
       "_japanese": "撃奏アリーナ Season1 SSR確定ガチャチケット",
       "_english": "GEKISO ARENA Season 1 SSR Guaranteed Gacha Ticket",
       "_traditionalChinese": "激奏舞台第1賽季保證SSR轉蛋券",
-      "_simplifiedChinese": "激奏舞台第1赛季SSR必得招募券",
+      "_simplifiedChinese": "激奏舞台 Season1 SSR必得招募券",
       "_korean": "격주 아레나 Season1 SSR 확정 뽑기 티켓"
     },
     {
@@ -43125,7 +43229,7 @@
       "_japanese": "[Happy Birthday 26-27]馬橋 心玖の覚醒に使用するアイテム",
       "_english": "An item used to Awaken Miku Mahashi [Happy Birthday 26-27]",
       "_traditionalChinese": "[Happy Birthday 26-27]馬橋心玖覺醒時使用的道具",
-      "_simplifiedChinese": "[Happy Birthday 26-27]用于马桥心玖觉醒的道具",
+      "_simplifiedChinese": "用于[Happy Birthday 26-27]马桥心玖觉醒的道具",
       "_korean": "[Happy Birthday 26-27] 마하시 미쿠 각성에 사용하는 아이템"
     },
     {
@@ -43207,6 +43311,14 @@
       "_traditionalChinese": "[貓咪們的萬聖節]要樂奈覺醒時使用的道具",
       "_simplifiedChinese": "用于[猫咪们的万圣节]要乐奈觉醒的道具",
       "_korean": "[고양이들의 할로윈] 카나메 라나 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000075",
+      "_japanese": "[Happy Birthday 26-27]千石 ユノの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Yuno Sengoku \"Happy Birthday 26-27\"",
+      "_traditionalChinese": "[HAPPY BIRTHDAY 26-27]千石由乃覺醒時使用的道具",
+      "_simplifiedChinese": "用于[Happy Birthday 26-27]千石由乃觉醒的道具",
+      "_korean": "[Happy Birthday 26-27] 센고쿠 유노 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Name_10000001",
@@ -43801,6 +43913,14 @@
       "_korean": "멤버 조각 ([고양이들의 할로윈] 카나메 라나)"
     },
     {
+      "_id": "Item_Name_10000075",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]千石 ユノ)",
+      "_english": "Member Piece (Yuno Sengoku \"Happy Birthday 26-27\")",
+      "_traditionalChinese": "團員星輝（[Happy Birthday 26-27]千石由乃）",
+      "_simplifiedChinese": "成员星辉（[Happy Birthday 26-27]千石由乃）",
+      "_korean": "멤버 조각 ([Happy Birthday 26-27] 센고쿠 유노)"
+    },
+    {
       "_id": "Item_Phonetic_Name_10000001",
       "_japanese": "めんばーぴーす10000001",
       "_english": "Member Piece 10000001",
@@ -44393,6 +44513,14 @@
       "_korean": "멤버 조각 10000074"
     },
     {
+      "_id": "Item_Phonetic_Name_10000075",
+      "_japanese": "めんばーぴーす10000075",
+      "_english": "Member Piece 10000075",
+      "_traditionalChinese": "團員星輝10000075",
+      "_simplifiedChinese": "成员星辉10000075",
+      "_korean": "멤버 조각 10000075"
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "Star",
@@ -44887,6 +45015,14 @@
       "_traditionalChinese": "活動獎章（萬聖節）",
       "_simplifiedChinese": "活动徽章（万圣节）",
       "_korean": "이벤트 배지 (할로윈)"
+    },
+    {
+      "_id": "Item_Name_72",
+      "_japanese": "ユノバースデーピック",
+      "_english": "Yuno Birthday Pick",
+      "_traditionalChinese": "由乃生日撥片",
+      "_simplifiedChinese": "由乃生日拨片",
+      "_korean": "유노 생일 기념 피크"
     },
     {
       "_id": "Item_Name_74",
@@ -45393,6 +45529,14 @@
       "_korean": "이벤트 배지 (할로윈)"
     },
     {
+      "_id": "Item_Phonetic_Name_72",
+      "_japanese": "ゆのばーすでーぴっく",
+      "_english": "Yuno Birthday Pick",
+      "_traditionalChinese": "由乃生日撥片",
+      "_simplifiedChinese": "由乃生日拨片",
+      "_korean": "유노 생일 기념 피크"
+    },
+    {
       "_id": "Item_Phonetic_Name_74",
       "_japanese": "[Virtus]Ave Mujica",
       "_english": "[Virtus] Ave Mujica",
@@ -45869,7 +46013,7 @@
       "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紫苑のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Violet's Member +{effects[1].value/100:F1}%",
       "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的團員表演值{effects[1].value/100:F1}%UP",
-      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的成员表演值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，且紫苑的成员表演值提升{effects[1].value/100:F1}%",
       "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 추가로 퍼플 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
@@ -45895,6 +46039,14 @@
       "_traditionalChinese": "Ave Mujica團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，\n且每編組1名翡翠以外的團員（最多2人），\n所有團員的形象值24%UP（最多48%）",
       "_simplifiedChinese": "Ave Mujica成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>\n并且每编入1名与翡翠不同的成员(最多2人)\n全体成员的形象值提升24%(最高48%)",
       "_korean": "Ave Mujica 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>\n추가로 그린 이외의 멤버를 1명 편성할 때마다(최대 2명까지)\n모든 멤버의 비주얼 24% UP(최대 48%)"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_63",
+      "_japanese": "夢限大みゅーたいぷメンバーのテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに山吹のメンバーはテクニックが{effects[1].value/100:F1}%UP",
+      "_english": "Mugendai MewType Members’ Technique <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>. In addition, Amber-type Members’ Technique increases by {effects[1].value/100:F1}%.",
+      "_traditionalChinese": "夢限大MewType團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金團員的技巧值再提升{effects[1].value/100:F1}%",
+      "_simplifiedChinese": "梦限大MewType成员的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金成员的技巧值再提升{effects[1].value/100:F1}%",
+      "_korean": "무겐다이 뮤타입 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 또한 옐로우 멤버는 테크닉 {effects[1].value/100:F1}% 추가 UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_90001",
@@ -47689,6 +47841,14 @@
       "_korean": "Ave Mujica & 그린 이외 비주얼 UP"
     },
     {
+      "_id": "Leader_Skill_Name_63",
+      "_japanese": "夢限大みゅーたいぷ&山吹テクニックUP",
+      "_english": "Mugendai MewType & Amber Technique UP",
+      "_traditionalChinese": "夢限大MewType&琉金技巧值UP",
+      "_simplifiedChinese": "梦限大MewType&琉金技巧值UP",
+      "_korean": "겐다이 뮤타입&옐로우 테크닉 UP"
+    },
+    {
       "_id": "Leader_Skill_Name_90001",
       "_japanese": "MyGO!!!!!全パラメータUP",
       "_english": "MyGO!!!!! All Parameters UP",
@@ -48995,10 +49155,10 @@
     {
       "_id": "LimitedMissionName_2",
       "_japanese": "特別カバー楽曲「Abracadabra」追加記念 期間限定ミッション",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Special Cover Song \"Abracadabra\" Addition Celebration Limited-Time Mission",
+      "_traditionalChinese": "特別翻唱樂曲「Abracadabra」追加紀念 期間限定任務",
+      "_simplifiedChinese": "特别翻唱乐曲 「Abracadabra」 追加纪念 期间限定任务",
+      "_korean": "특별 커버곡 「Abracadabra」 추가 기념 기간 한정 미션"
     },
     {
       "_id": "LimitedMissionName_1000000001",
@@ -53613,7 +53773,7 @@
       "_japanese": "あは、何とかなったね",
       "_english": "Aha, it worked out somehow.",
       "_traditionalChinese": "啊哈，勉強搞定了呢",
-      "_simplifiedChinese": "呼，总算顺利度过了呢",
+      "_simplifiedChinese": "啊哈，总算顺利度过了呢",
       "_korean": "아하, 어찌저찌 해결됐네"
     },
     {
@@ -56057,6 +56217,14 @@
       "_korean": "MOMIKEN"
     },
     {
+      "_id": "Lyricist_Name_100086",
+      "_japanese": "畑　亜貴",
+      "_english": "Aki Hata",
+      "_traditionalChinese": "畑　亜貴",
+      "_simplifiedChinese": "畑　亜貴",
+      "_korean": "Aki Hata"
+    },
+    {
       "_id": "Lyricist_Name_100087",
       "_japanese": "ORANGE RANGE",
       "_english": "ORANGE RANGE",
@@ -56407,6 +56575,14 @@
       "_traditionalChinese": "真是可憐。居然迷路到這裡來。",
       "_simplifiedChinese": "迷路了吗，真是可怜",
       "_korean": "안됐네. 길을 잘못 들었구나."
+    },
+    {
+      "_id": "MemberGachaVoice_75",
+      "_japanese": "いや、こんなの聞いてないし……",
+      "_english": "Hey, no one told me about this...",
+      "_traditionalChinese": "那個，我沒聽說是這樣啊……",
+      "_simplifiedChinese": "等下，事先也没跟我说要这样啊……",
+      "_korean": "아니, 난 이런 얘기 못 들었는데......"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -56999,6 +57175,14 @@
       "_traditionalChinese": "貓咪們的萬聖節",
       "_simplifiedChinese": "猫咪们的万圣节",
       "_korean": "고양이들의 할로윈"
+    },
+    {
+      "_id": "MemberSubtitle_75",
+      "_japanese": "Happy Birthday 26-27",
+      "_english": "Happy Birthday 26-27",
+      "_traditionalChinese": "Happy Birthday 26-27",
+      "_simplifiedChinese": "Happy Birthday 26-27",
+      "_korean": "Happy Birthday 26-27"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -59257,6 +59441,14 @@
       "_korean": "사무라이 하트(Some Like It Hot!!)"
     },
     {
+      "_id": "Music_Tilte_100086",
+      "_japanese": "ハレ晴レユカイ",
+      "_english": "Hare Hare Yukai",
+      "_traditionalChinese": "ハレ晴レユカイ",
+      "_simplifiedChinese": "ハレ晴レユカイ",
+      "_korean": "Hare Hare Yukai"
+    },
+    {
       "_id": "Music_Tilte_100087",
       "_japanese": "イケナイ太陽",
       "_english": "Ikenai Taiyou",
@@ -60049,6 +60241,14 @@
       "_korean": "사무라이 하트(Some Like It Hot!!)"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100086",
+      "_japanese": "はれはれゆかい",
+      "_english": "Hare Hare Yukai",
+      "_traditionalChinese": "はれはれゆかい",
+      "_simplifiedChinese": "ハレ晴レユカイ",
+      "_korean": "Hare Hare Yukai"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100087",
       "_japanese": "いけないたいよう",
       "_english": "Ikenai Taiyou",
@@ -60791,6 +60991,14 @@
       "_traditionalChinese": "サムライハート(Some Like It Hot!!)",
       "_simplifiedChinese": "サムライハート(Some Like It Hot!!)",
       "_korean": "사무라이 하트(Some Like It Hot!!)"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100086",
+      "_japanese": "ハレ晴レユカイ",
+      "_english": "Hare Hare Yukai",
+      "_traditionalChinese": "ハレ晴レユカイ",
+      "_simplifiedChinese": "ハレ晴レユカイ",
+      "_korean": "Hare Hare Yukai"
     },
     {
       "_id": "Music_Ruby_Tilte_100087",
@@ -64027,10 +64235,10 @@
     {
       "_id": "Shop_Warning_PassDataTransfer",
       "_japanese": "※データ引き継ぎを行った場合でも、購入情報は引き継がれ、継続して特典をお受け取りいただけます。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "*Your purchase information will be carried over even after a data transfer, allowing you to continue receiving your benefits.",
+      "_traditionalChinese": "※即使進行了資料繼承，購買資訊也會被繼承，您仍可持續領取特典。",
+      "_simplifiedChinese": "※即使进行了账号继承，购买信息也会被继承，您可以继续领取特典。",
+      "_korean": "※데이터 이전을 하더라도 구매 정보는 그대로 이어지며, 계속해서 혜택을 받으실 수 있습니다."
     },
     {
       "_id": "Shop_Warning_PassExclusive",
@@ -67465,6 +67673,14 @@
       "_korean": "26년 생일: 이즈미 호우카 (10/24)"
     },
     {
+      "_id": "Story_Episode_Description_3303",
+      "_japanese": "26年誕生日：千石 ユノ(11/4)",
+      "_english": "2026 Birthday: Yuno Sengoku (11/4)",
+      "_traditionalChinese": "26年生日：千石由乃（11/4）",
+      "_simplifiedChinese": "26年生日：千石由乃(11/4)",
+      "_korean": "26년 생일: 센고쿠 유노 (11/4)"
+    },
+    {
       "_id": "Snap_Name_Tomori",
       "_japanese": "高松 燈",
       "_english": "Tomori Takamatsu",
@@ -68161,6 +68377,14 @@
       "_korean": "치에리 연합의 자금이\n고작, 이것뿐이라니......!\n부하들을 위해 애쓰는 대단~한 치에리가\n겨우, 3접시......!\n\n시즈쿠는 좋아하는 걸 찾으려고 애쓰고 있고\n요모기도 시즈쿠의 스승으로서 열심히 하고 있는데\n배불리 먹지 못한다니\n말도 안 돼요\n\n무엇보다 이 치에리가\n연합 리더로서\n부하들을 데리고 초밥집 회식이라니\n치에리도 꽤 훌륭해졌구나 싶었는데......\n\n이래서야 폼이 안 나잖아요~~~!!"
     },
     {
+      "_id": "SupportDiary_74",
+      "_japanese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日(土)・25日(日)\n京王アリーナ TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
+      "_english": "Ave Mujica 7th LIVE「Virtus」\n2026/10/24~10/25\nKeio Arena TOKYO\n\n【DAY 1】\nM1 God's Blood\nM2 Symbol I : △\nM3 Two Moons\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 Black Birthday\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 Alter Ego\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 God's Blood\nM2 Symbol I : △\nM3 Two Moons\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 Black Birthday\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 Octagram Dance\nM11 Alter Ego\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance　\n　\n　\n　\n　\n　",
+      "_traditionalChinese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日·25日\n京王競技場 TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
+      "_simplifiedChinese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日·25日\n京王竞技场 TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
+      "_korean": "Ave Mujica 7th LIVE「Virtus」\n2026/10/24~10/25\n케이오 아레나 TOKYO\n\n【DAY 1】\nM1 신의 이름을\nM2 Symbol I : △\nM3 두개의 달 ~Deep Into The Forest~\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 검은 버스데이\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 얼굴\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 신의 이름을\nM2 Symbol I : △\nM3 두개의 달 ~Deep Into The Forest~\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 검은 버스데이\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 팔망성 댄스\nM11 얼굴\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance　\n　\n　\n　\n　\n　"
+    },
+    {
       "_id": "SupportDiary_75",
       "_japanese": "ちょっと愛音ちゃん\n自撮りするのはいいけど\n私は入れないでもらえるかな\n\nこっちは仮装だって仕方なくやってるんだから\n\n『でもこれかわいくない～？』って\nそういう話じゃないんだけど\n\nほんと　愛音ちゃんって自分のことばっかり\n\nはぁ……\nこんなことになるんなら\n仮装なんてするんじゃなかったな\nそんなこと思っても　もう遅いけど\n\nこれ以上断るのも面倒だし　付き合うしかないか\nでも\n一枚だけだからね",
       "_english": "Hey, Anon-chan.\nTaking selfies is fine,\nbut could you maybe leave me out of them?\n\nI'm only wearing this costume because I had no choice.\n\n\"But isn't this cute~?\"\nThat's not what I'm talking about.\n\nHonestly, Anon-chan only ever thinks about herself.\n\n*Sigh*...\nIf it was going to turn out like this,\nI shouldn't have dressed up.\nThough it's too late to think that now.\n\nIt's too much trouble to refuse any more, so I guess I'll just go along with it.\nBut\njust one photo, okay.",
@@ -68183,14 +68407,6 @@
       "_traditionalChinese": "南瓜，\n每一顆的臉都不太一樣，\n像是眼睛，還有嘴巴的形狀。\n\n拿起來意外地很輕，\n就算一次拿3顆也沒問題。\n\n初華在擔心我，\n明明就不要緊的。\n\n抱著的時候，\n會聞到一點泥土的味道。\n這讓我想起\n以前種南瓜的時候。\n\n要不要再種種看呢。",
       "_simplifiedChinese": "南瓜\n每一个　脸都有点不一样\n像是眼睛　还有嘴巴的形状\n\n拿在手里　比想象中要轻\n就算拿3个　也没问题\n\n初华在担心我\n明明不要紧的\n\n抱在怀里\n能闻到一点泥土的味道\n以前　种南瓜时的事\n想起来了\n\n要不要　再种一些呢",
       "_korean": "호박\n다 조금씩 다르게 생겼어\n눈이나 입 모양 같은 게\n\n들어 보니까 의외로 가볍네\n세 개도 들을 수 있을 정도야\n\n우이카가 걱정하고 있네\n난 괜찮은데\n\n품에 안고 있으니까\n흙냄새가 살짝 나\n호박 키우던 때가\n생각나네\n\n다시 키워 볼까"
-    },
-    {
-      "_id": "SupportDiary_74",
-      "_japanese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日(土)・25日(日)\n京王アリーナ TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
-      "_english": "Ave Mujica 7th LIVE「Virtus」\n2026/10/24~10/25\nKeio Arena TOKYO\n\n【DAY 1】\nM1 God's Blood\nM2 Symbol I : △\nM3 Two Moons\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 Black Birthday\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 Alter Ego\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 God's Blood\nM2 Symbol I : △\nM3 Two Moons\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 Black Birthday\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 Octagram Dance\nM11 Alter Ego\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance　\n　\n　\n　\n　\n　",
-      "_traditionalChinese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日·25日\n京王競技場 TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
-      "_simplifiedChinese": "Ave Mujica 7th LIVE「Virtus」\n2026年10月24日·25日\n京王竞技场 TOKYO\n\n【DAY 1】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 神の名を\nM2 Symbol I : △\nM3 ふたつの月 ～Deep Into The Forest～\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 黒のバースデイ\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 八芒星ダンス\nM11 顔\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n　\n　\n　\n　\n　\n　",
-      "_korean": "Ave Mujica 7th LIVE「Virtus」\n2026/10/24~10/25\n케이오 아레나 TOKYO\n\n【DAY 1】\nM1 신의 이름을\nM2 Symbol I : △\nM3 두개의 달 ~Deep Into The Forest~\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 검은 버스데이\nM7 'S/' The Way\nM8 Crucifix X\nM9 Imprisoned XII\nM10 Choir 'S' Choir\nM11 얼굴\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance\n\n【DAY 2】\nM1 신의 이름을\nM2 Symbol I : △\nM3 두개의 달 ~Deep Into The Forest~\nM4 Symbol II : Air\nM5 Georgette Me, Georgette You\nM6 검은 버스데이\nM7 'S/' The Way\nM8 Mas?uerade Rhapsody Re?uest\nM9 Symbol III : ▽\nM10 팔망성 댄스\nM11 얼굴\nM12 DIVINE\nM13 BADDY BADDY\nM14 Sophie\nM15 KiLLKiSS\nM16 Ether\nM17 The Whole Blue World\nM18 A Song Of Romance　\n　\n　\n　\n　\n　"
     },
     {
       "_id": "SupportSubtitle_1",
