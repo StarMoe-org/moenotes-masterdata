@@ -8955,6 +8955,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000116,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000116,
+      "_cueName": "A_FutatsunoTsuki",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1400000000001,
       "_category": 0,
       "_soundCueSheetID": 1400000000001,
@@ -9982,6 +9993,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000086,
       "_cueName": "I_HarehareYukai_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000116,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000116,
+      "_cueName": "A_FutatsunoTsuki_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -16644,6 +16666,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200702000002,
+      "_category": 2,
+      "_soundCueSheetID": 3202007000076,
+      "_cueName": "Member_Mutsumi_Gacha_076",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200801000001,
       "_category": 2,
       "_soundCueSheetID": 3201008000001,
@@ -18111,6 +18144,17 @@
       "_category": 2,
       "_soundCueSheetID": 3202009000059,
       "_cueName": "Member_Nyamu_Gacha_00059",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200902000002,
+      "_category": 2,
+      "_soundCueSheetID": 3202009000077,
+      "_cueName": "Member_Nyamu_Gacha_077",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
