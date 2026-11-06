@@ -103,6 +103,32 @@
       "_bannerAsset": "04/Banner/event_banner_00004",
       "_backgroundVideoAsset": "Top/event_top_01_0004",
       "_carouselHelpId": 22
+    },
+    {
+      "_id": 5,
+      "_nameTextId": "Event_Name_0005",
+      "_startAt": "2026/11/08 15:00:00",
+      "_endAt": "2026/11/17 14:59:59",
+      "_displayEndAt": "2026/11/21 14:59:59",
+      "_eventType": 1,
+      "_storyChapterId": 9,
+      "_eventItemId": 46,
+      "_isRankingDisabled": true,
+      "_isMusicRankingDisabled": false,
+      "_isTotalMusicRankingDisabled": false,
+      "_liveEventRewardGroup": 5,
+      "_liveEventPointGroup": 1,
+      "_challengeLiveEventRewardGroup": 5,
+      "_challengeLiveEventPointGroup": 2,
+      "_gekisouLiveRankingEventPointGroup": 0,
+      "_gekisouLiveRankingEventRewardGroup": 0,
+      "_musicId": 100116,
+      "_imageAsset": "",
+      "_logoAsset": "05/Logo/event_logo_01_0005",
+      "_backgroundAsset": "05/Top/event_top_01_0005",
+      "_bannerAsset": "05/Banner/event_banner_00005",
+      "_backgroundVideoAsset": "",
+      "_carouselHelpId": 140005
     }
   ]
 }

@@ -1824,6 +1824,76 @@
       "_gekisouSupportSkillId01": 87,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-10-28 12:00:00"
+    },
+    {
+      "_id": 78,
+      "_assetID": 78,
+      "_nameTextID": "Snap_Name_Mortis",
+      "_descriptionTextID": "SupportSubtitle_78",
+      "_diaryTextID": "SupportDiary_78",
+      "_diarySoundId": 1200000000009,
+      "_characterIDs": [
+        7
+      ],
+      "_rarity": 4,
+      "_cardType": 5,
+      "_performancePowerMax": 4100,
+      "_technicPowerMax": 3000,
+      "_visualPowerMax": 3100,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 57,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 102,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-08 15:00:00"
+    },
+    {
+      "_id": 79,
+      "_assetID": 79,
+      "_nameTextID": "Snap_Name_Oblivionis",
+      "_descriptionTextID": "SupportSubtitle_79",
+      "_diaryTextID": "SupportDiary_79",
+      "_diarySoundId": 1200000000009,
+      "_characterIDs": [
+        10
+      ],
+      "_rarity": 4,
+      "_cardType": 5,
+      "_performancePowerMax": 3000,
+      "_technicPowerMax": 3200,
+      "_visualPowerMax": 4000,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 12,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 42,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-08 15:00:00"
+    },
+    {
+      "_id": 80,
+      "_assetID": 80,
+      "_nameTextID": "Snap_Name_Umiri_Nyamu",
+      "_descriptionTextID": "SupportSubtitle_80",
+      "_diaryTextID": "SupportDiary_80",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        8,
+        9
+      ],
+      "_rarity": 3,
+      "_cardType": 5,
+      "_performancePowerMax": 1500,
+      "_technicPowerMax": 1500,
+      "_visualPowerMax": 2100,
+      "_supportCardLevelGroup": 2,
+      "_supportCardRankGroup": 2,
+      "_supportSkillId01": 7,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 37,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-08 15:00:00"
     }
   ]
 }
