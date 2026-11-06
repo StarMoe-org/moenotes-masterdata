@@ -8721,6 +8721,78 @@
       "_korean": "시끄러운 차 안!!"
     },
     {
+      "_id": "Chapter_Title_974",
+      "_japanese": "Principissa Arcis.",
+      "_english": "Principissa Arcis.",
+      "_traditionalChinese": "Principissa Arcis.",
+      "_simplifiedChinese": "Principissa Arcis.",
+      "_korean": "Principissa Arcis."
+    },
+    {
+      "_id": "Chapter_Title_975",
+      "_japanese": "Crescit et decrescit.",
+      "_english": "Crescit et decrescit.",
+      "_traditionalChinese": "Crescit et decrescit.",
+      "_simplifiedChinese": "Crescit et decrescit.",
+      "_korean": "Crescit et decrescit."
+    },
+    {
+      "_id": "Chapter_Title_976",
+      "_japanese": "Adfer mihi quod volo.",
+      "_english": "Adfer mihi quod volo.",
+      "_traditionalChinese": "Adfer mihi quod volo.",
+      "_simplifiedChinese": "Adfer mihi quod volo.",
+      "_korean": "Adfer mihi quod volo."
+    },
+    {
+      "_id": "Chapter_Title_977",
+      "_japanese": "Vultus ignotus.",
+      "_english": "Vultus ignotus.",
+      "_traditionalChinese": "Vultus ignotus.",
+      "_simplifiedChinese": "Vultus ignotus.",
+      "_korean": "Vultus ignotus."
+    },
+    {
+      "_id": "Chapter_Title_978",
+      "_japanese": "Video ut volo.",
+      "_english": "Video ut volo.",
+      "_traditionalChinese": "Video ut volo.",
+      "_simplifiedChinese": "Video ut volo.",
+      "_korean": "Video ut volo."
+    },
+    {
+      "_id": "Chapter_Title_979",
+      "_japanese": "Attamen iuxta me.",
+      "_english": "Attamen iuxta me.",
+      "_traditionalChinese": "Attamen iuxta me.",
+      "_simplifiedChinese": "Attamen iuxta me.",
+      "_korean": "Attamen iuxta me."
+    },
+    {
+      "_id": "Chapter_Title_980",
+      "_japanese": "Responsum iam est.",
+      "_english": "Responsum iam est.",
+      "_traditionalChinese": "Responsum iam est.",
+      "_simplifiedChinese": "Responsum iam est.",
+      "_korean": "Responsum iam est."
+    },
+    {
+      "_id": "Chapter_Title_981",
+      "_japanese": "重なる面影",
+      "_english": "Overlapping Faces",
+      "_traditionalChinese": "重疊的身影",
+      "_simplifiedChinese": "交叠的身影",
+      "_korean": "겹쳐 보이는 모습"
+    },
+    {
+      "_id": "Chapter_Title_982",
+      "_japanese": "ただ、傍に",
+      "_english": "Just By Your Side",
+      "_traditionalChinese": "只想待在妳身旁",
+      "_simplifiedChinese": "只愿，陪在身边",
+      "_korean": "그저, 곁에"
+    },
+    {
       "_id": "Chapter_Title_1199",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -10047,6 +10119,14 @@
       "_traditionalChinese": "Klas Sylvsky",
       "_simplifiedChinese": "Klas Sylvsky",
       "_korean": "Klas Sylvsky"
+    },
+    {
+      "_id": "Arranger_Name_100116",
+      "_japanese": "長谷川大介(SUPA LOVE)",
+      "_english": "Daisuke Hasegawa (SUPA LOVE)",
+      "_traditionalChinese": "長谷川大介(SUPA LOVE)",
+      "_simplifiedChinese": "長谷川大介(SUPA LOVE)",
+      "_korean": "하세가와 다이스케(SUPA LOVE)"
     },
     {
       "_id": "Arranger_Name_100118",
@@ -13994,6 +14074,14 @@
     },
     {
       "_id": "Help_Carousel_Title_22",
+      "_japanese": "チャレンジライブイベント",
+      "_english": "Challenge LIVE Event",
+      "_traditionalChinese": "挑戰演出活動",
+      "_simplifiedChinese": "挑战演出活动",
+      "_korean": "챌린지 라이브 이벤트"
+    },
+    {
+      "_id": "Help_Carousel_Title_23",
       "_japanese": "チャレンジライブイベント",
       "_english": "Challenge LIVE Event",
       "_traditionalChinese": "挑戰演出活動",
@@ -18956,7 +19044,7 @@
       "_id": "CharacterVoice_248",
       "_japanese": "ハッピーエンド、ですね！",
       "_english": "Happy ending it is!",
-      "_traditionalChinese": "真是幸福快樂的結局呢！",
+      "_traditionalChinese": "真是圓滿的結局呢！",
       "_simplifiedChinese": "是Happy End，对吧！",
       "_korean": "해피 엔딩이네요!"
     },
@@ -21143,6 +21231,54 @@
       "_traditionalChinese": "購買MyGO!!!!! 聊天室主題禮包後獲得。",
       "_simplifiedChinese": "购买MyGO!!!!! 聊天室主题礼包后获取。",
       "_korean": "MyGO!!!!! 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatThemeName_8",
+      "_japanese": "",
+      "_english": "Nocturnal Opus",
+      "_traditionalChinese": "夜幕華章",
+      "_simplifiedChinese": "夜幕华章",
+      "_korean": "어둠의 악장"
+    },
+    {
+      "_id": "ChatBubbleName_8",
+      "_japanese": "",
+      "_english": "Silent Soliloquy",
+      "_traditionalChinese": "緘默獨白",
+      "_simplifiedChinese": "缄默独白",
+      "_korean": "침묵의 독백"
+    },
+    {
+      "_id": "ChatFrameName_8",
+      "_japanese": "",
+      "_english": "Gilded Curtain",
+      "_traditionalChinese": "鎏金帷幕",
+      "_simplifiedChinese": "鎏金帷幕",
+      "_korean": "황금빛 장막"
+    },
+    {
+      "_id": "ChatThemeDesc_8",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ave Mujica Chat Room Theme Pack.",
+      "_traditionalChinese": "購買Ave Mujica 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买Ave Mujica 聊天室主题礼包后获取。",
+      "_korean": "Ave Mujica 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatBubbleDesc_8",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ave Mujica Chat Room Theme Pack.",
+      "_traditionalChinese": "購買Ave Mujica 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买Ave Mujica 聊天室主题礼包后获取。",
+      "_korean": "Ave Mujica 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatFrameDesc_8",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Ave Mujica Chat Room Theme Pack.",
+      "_traditionalChinese": "購買Ave Mujica 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买Ave Mujica 聊天室主题礼包后获取。",
+      "_korean": "Ave Mujica 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
       "_id": "chatskin_talk_example1",
@@ -23631,6 +23767,14 @@
       "_traditionalChinese": "Ayase",
       "_simplifiedChinese": "Ayase",
       "_korean": "Ayase"
+    },
+    {
+      "_id": "Composer_Name_100116",
+      "_japanese": "長谷川大介(SUPA LOVE)",
+      "_english": "Daisuke Hasegawa (SUPA LOVE)",
+      "_traditionalChinese": "長谷川大介(SUPA LOVE)",
+      "_simplifiedChinese": "長谷川大介(SUPA LOVE)",
+      "_korean": "하세가와 다이스케(SUPA LOVE)"
     },
     {
       "_id": "Composer_Name_100118",
@@ -26657,6 +26801,14 @@
       "_korean": "유노 생일 기념 피크 교환소에서 획득"
     },
     {
+      "_id": "Degree_Description_276",
+      "_japanese": "「光降る宮殿のエピソディウムガチャ」の交換所で獲得",
+      "_english": "Obtained at the Exchange Shop for the \"Episodium of the Radiant Palace Gacha.\"",
+      "_traditionalChinese": "透過「光輝殿堂的不朽篇章轉蛋」的兌換所獲得",
+      "_simplifiedChinese": "通过「光辉殿堂的不朽篇章招募」的交换所获得",
+      "_korean": "「빛 내리는 궁전의 에피소디움 뽑기」 교환소에서 획득"
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
@@ -27593,204 +27745,268 @@
       "_korean": "이벤트 「A day〜#HalloweenSnap〜」 프리미엄 미션 패스 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000243",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
-      "_english": "First-Time Beginner Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到新手等級的報酬",
-      "_simplifiedChinese": "激奏舞台新手段位首次达成奖励",
-      "_korean": "격주 아레나 비기너 최초 달성 보상"
+      "_id": "Degree_Description_20000118",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000244",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
-      "_english": "First-Time Bronze Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到青銅等級的報酬",
-      "_simplifiedChinese": "激奏舞台青铜段位首次达成奖励",
-      "_korean": "격주 아레나 브론즈 최초 달성 보상"
+      "_id": "Degree_Description_20000119",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000245",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
-      "_english": "First-Time Silver Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白銀等級的報酬",
-      "_simplifiedChinese": "激奏舞台白银段位首次达成奖励",
-      "_korean": "격주 아레나 실버 최초 달성 보상"
+      "_id": "Degree_Description_20000120",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000246",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
-      "_english": "First-Time Gold Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到黃金等級的報酬",
-      "_simplifiedChinese": "激奏舞台黄金段位首次达成奖励",
-      "_korean": "격주 아레나 골드 최초 달성 보상"
+      "_id": "Degree_Description_20000121",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000247",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
-      "_english": "First-Time Platinum Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白金等級的報酬",
-      "_simplifiedChinese": "激奏舞台白金段位首次达成奖励",
-      "_korean": "격주 아레나 플래티넘 최초 달성 보상"
+      "_id": "Degree_Description_20000122",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000248",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
-      "_english": "First-Time Beginner Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到新手等級的報酬",
-      "_simplifiedChinese": "激奏舞台新手段位首次达成奖励",
-      "_korean": "격주 아레나 비기너 최초 달성 보상"
+      "_id": "Degree_Description_20000123",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000249",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
-      "_english": "First-Time Bronze Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到青銅等級的報酬",
-      "_simplifiedChinese": "激奏舞台青铜段位首次达成奖励",
-      "_korean": "격주 아레나 브론즈 최초 달성 보상"
+      "_id": "Degree_Description_20000124",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000250",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
-      "_english": "First-Time Silver Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白銀等級的報酬",
-      "_simplifiedChinese": "激奏舞台白银段位首次达成奖励",
-      "_korean": "격주 아레나 실버 최초 달성 보상"
+      "_id": "Degree_Description_20000125",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Two Moons.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「雙月~Deep Into The Forest~」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「双月~Deep Into The Forest~」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「두개의 달 ~Deep Into The Forest~」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000251",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
-      "_english": "First-Time Gold Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到黃金等級的報酬",
-      "_simplifiedChinese": "激奏舞台黄金段位首次达成奖励",
-      "_korean": "격주 아레나 골드 최초 달성 보상"
+      "_id": "Degree_Description_20000126",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000252",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
-      "_english": "First-Time Platinum Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白金等級的報酬",
-      "_simplifiedChinese": "激奏舞台白金段位首次达成奖励",
-      "_korean": "격주 아레나 플래티넘 최초 달성 보상"
+      "_id": "Degree_Description_20000127",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000253",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
-      "_english": "First-Time Beginner Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到新手等級的報酬",
-      "_simplifiedChinese": "激奏舞台新手段位首次达成奖励",
-      "_korean": "격주 아레나 비기너 최초 달성 보상"
+      "_id": "Degree_Description_20000128",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000254",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
-      "_english": "First-Time Bronze Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到青銅等級的報酬",
-      "_simplifiedChinese": "激奏舞台青铜段位首次达成奖励",
-      "_korean": "격주 아레나 브론즈 최초 달성 보상"
+      "_id": "Degree_Description_20000129",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000255",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
-      "_english": "First-Time Silver Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白銀等級的報酬",
-      "_simplifiedChinese": "激奏舞台白银段位首次达成奖励",
-      "_korean": "격주 아레나 실버 최초 달성 보상"
+      "_id": "Degree_Description_20000130",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000256",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
-      "_english": "First-Time Gold Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到黃金等級的報酬",
-      "_simplifiedChinese": "激奏舞台黄金段位首次达成奖励",
-      "_korean": "격주 아레나 골드 최초 달성 보상"
+      "_id": "Degree_Description_20000131",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000257",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
-      "_english": "First-Time Platinum Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白金等級的報酬",
-      "_simplifiedChinese": "激奏舞台白金段位首次达成奖励",
-      "_korean": "격주 아레나 플래티넘 최초 달성 보상"
+      "_id": "Degree_Description_20000132",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000258",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
-      "_english": "First-Time Beginner Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到新手等級的報酬",
-      "_simplifiedChinese": "激奏舞台新手段位首次达成奖励",
-      "_korean": "격주 아레나 비기너 최초 달성 보상"
+      "_id": "Degree_Description_20000133",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"Octagram Dance.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「八芒星之舞」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「八芒星之舞」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「팔망성 댄스」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000259",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
-      "_english": "First-Time Bronze Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到青銅等級的報酬",
-      "_simplifiedChinese": "激奏舞台青铜段位首次达成奖励",
-      "_korean": "격주 아레나 브론즈 최초 달성 보상"
+      "_id": "Degree_Description_20000134",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000260",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
-      "_english": "First-Time Silver Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白銀等級的報酬",
-      "_simplifiedChinese": "激奏舞台白银段位首次达成奖励",
-      "_korean": "격주 아레나 실버 최초 달성 보상"
+      "_id": "Degree_Description_20000135",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000261",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
-      "_english": "First-Time Gold Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到黃金等級的報酬",
-      "_simplifiedChinese": "激奏舞台黄金段位首次达成奖励",
-      "_korean": "격주 아레나 골드 최초 달성 보상"
+      "_id": "Degree_Description_20000136",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000262",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
-      "_english": "First-Time Platinum Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白金等級的報酬",
-      "_simplifiedChinese": "激奏舞台白金段位首次达成奖励",
-      "_korean": "격주 아레나 플래티넘 최초 달성 보상"
+      "_id": "Degree_Description_20000137",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000263",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
-      "_english": "First-Time Beginner Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到新手等級的報酬",
-      "_simplifiedChinese": "激奏舞台新手段位首次达成奖励",
-      "_korean": "격주 아레나 비기너 최초 달성 보상"
+      "_id": "Degree_Description_20000138",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000264",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
-      "_english": "First-Time Bronze Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到青銅等級的報酬",
-      "_simplifiedChinese": "激奏舞台青铜段位首次达成奖励",
-      "_korean": "격주 아레나 브론즈 최초 달성 보상"
+      "_id": "Degree_Description_20000139",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000265",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
-      "_english": "First-Time Silver Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白銀等級的報酬",
-      "_simplifiedChinese": "激奏舞台白银段位首次达成奖励",
-      "_korean": "격주 아레나 실버 최초 달성 보상"
+      "_id": "Degree_Description_20000140",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000266",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
-      "_english": "First-Time Gold Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到黃金等級的報酬",
-      "_simplifiedChinese": "激奏舞台黄金段位首次达成奖励",
-      "_korean": "격주 아레나 골드 최초 달성 보상"
+      "_id": "Degree_Description_20000141",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for Saltatio Beneath the Shifting Moon \"A Cruel Angel's Thesis.\"",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，樂曲「残酷な天使のテーゼ」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」「残酷な天使のテーゼ」分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 「잔혹한 천사의 테제」 스코어 랭킹 보상으로 획득"
     },
     {
-      "_id": "Degree_Description_20000267",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
-      "_english": "First-Time Platinum Rank Rewards in GEKISO Arena",
-      "_traditionalChinese": "激奏舞台首次達到白金等級的報酬",
-      "_simplifiedChinese": "激奏舞台白金段位首次达成奖励",
-      "_korean": "격주 아레나 플래티넘 최초 달성 보상"
+      "_id": "Degree_Description_20000142",
+      "_japanese": "イベント「移ろう月のサルタティオ」 プレミアムミッションパス報酬で獲得",
+      "_english": "Obtained via the Premium Mission Pass Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」Premium任務通行證報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」高级任务通行证奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 프리미엄 미션 패스 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000143",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000144",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000145",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000146",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000147",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000148",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000149",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000150",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for Saltatio Beneath the Shifting Moon.",
+      "_traditionalChinese": "透過活動「月色之下流轉之舞」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「月下流转之舞」综合分数排名奖励获得",
+      "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
     },
     {
       "_id": "Degree_Name_20000001",
@@ -28716,7 +28932,7 @@
       "_id": "Degree_Name_20000116",
       "_japanese": "[ステッカー]A day〜#HalloweenSnap〜 MyGO!!!!! ver.",
       "_english": "[Sticker]A day～#HalloweenSnap～ MyGO!!!!! Ver.",
-      "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ MyGO!!!!!版",
+      "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ MyGO!!!!! ver.",
       "_simplifiedChinese": "[贴纸]A day～#HalloweenSnap～ MyGO!!!!!版",
       "_korean": "[스티커]A day〜#HalloweenSnap〜 MyGO!!!!! ver."
     },
@@ -28724,209 +28940,273 @@
       "_id": "Degree_Name_20000117",
       "_japanese": "[ステッカー]A day〜#HalloweenSnap〜 Ave Mujica ver.",
       "_english": "[Sticker]A day～#HalloweenSnap～ Ave Mujica Ver.",
-      "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ Ave Mujica版",
+      "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ Ave Mujica ver.",
       "_simplifiedChinese": "[贴纸]A day～#HalloweenSnap～ Ave Mujica版",
       "_korean": "[스티커]A day〜#HalloweenSnap〜 Ave Mujica ver."
     },
     {
-      "_id": "Degree_Name_20000243",
-      "_japanese": "[ステッカー]MyGO!!!!!ビギナー到達",
-      "_english": "[Sticker] MyGO!!!!! Beginner Reached",
-      "_traditionalChinese": "[貼紙]MyGO!!!!!達到新手等級",
-      "_simplifiedChinese": "[贴纸]达成MyGO!!!!!新手段位",
-      "_korean": "[스티커] MyGO!!!!! 비기너 달성"
+      "_id": "Degree_Name_20000118",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 1位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons 1st Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ 第1名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 第1名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ 1위"
     },
     {
-      "_id": "Degree_Name_20000244",
-      "_japanese": "[ステッカー]MyGO!!!!!ブロンズ到達",
-      "_english": "[Sticker] MyGO!!!!! Bronze Reached",
-      "_traditionalChinese": "[貼紙]MyGO!!!!!達到青銅等級",
-      "_simplifiedChinese": "[贴纸]达成MyGO!!!!!青铜段位",
-      "_korean": "[스티커] MyGO!!!!! 브론즈 달성"
+      "_id": "Degree_Name_20000119",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 2位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons 2nd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ 第2名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 第2名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ 2위"
     },
     {
-      "_id": "Degree_Name_20000245",
-      "_japanese": "[ステッカー]MyGO!!!!!シルバー到達",
-      "_english": "[Sticker] MyGO!!!!! Silver Reached",
-      "_traditionalChinese": "[貼紙]MyGO!!!!!達到白銀等級",
-      "_simplifiedChinese": "[贴纸]达成MyGO!!!!!白银段位",
-      "_korean": "[스티커] MyGO!!!!! 실버 달성"
+      "_id": "Degree_Name_20000120",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 3位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons 3rd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ 第3名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 第3名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ 3위"
     },
     {
-      "_id": "Degree_Name_20000246",
-      "_japanese": "[ステッカー]MyGO!!!!!ゴールド到達",
-      "_english": "[Sticker] MyGO!!!!! Gold Reached",
-      "_traditionalChinese": "[貼紙]MyGO!!!!!達到黃金等級",
-      "_simplifiedChinese": "[贴纸]达成MyGO!!!!!黄金段位",
-      "_korean": "[스티커] MyGO!!!!! 골드 달성"
+      "_id": "Degree_Name_20000121",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP10",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons TOP10",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ TOP10",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 TOP10",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ TOP10"
     },
     {
-      "_id": "Degree_Name_20000247",
-      "_japanese": "[ステッカー]MyGO!!!!!プラチナ到達",
-      "_english": "[Sticker] MyGO!!!!! Platinum Reached",
-      "_traditionalChinese": "[貼紙]MyGO!!!!!達到白金等級",
-      "_simplifiedChinese": "[贴纸]达成MyGO!!!!!白金段位",
-      "_korean": "[스티커] MyGO!!!!! 플래티넘 달성"
+      "_id": "Degree_Name_20000122",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP100",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons TOP100",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ TOP100",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 TOP100",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ TOP100"
     },
     {
-      "_id": "Degree_Name_20000248",
-      "_japanese": "[ステッカー]Ave Mujicaビギナー到達",
-      "_english": "[Sticker] Ave Mujica Beginner Reached",
-      "_traditionalChinese": "[貼紙]Ave Mujica達到新手等級",
-      "_simplifiedChinese": "[贴纸]达成Ave Mujica新手段位",
-      "_korean": "[스티커] Ave Mujica 비기너 달성"
+      "_id": "Degree_Name_20000123",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP1000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons TOP1000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ TOP1000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 TOP1000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ TOP1000"
     },
     {
-      "_id": "Degree_Name_20000249",
-      "_japanese": "[ステッカー]Ave Mujicaブロンズ到達",
-      "_english": "[Sticker] Ave Mujica Bronze Reached",
-      "_traditionalChinese": "[貼紙]Ave Mujica達到青銅等級",
-      "_simplifiedChinese": "[贴纸]达成Ave Mujica青铜段位",
-      "_korean": "[스티커] Ave Mujica 브론즈 달성"
+      "_id": "Degree_Name_20000124",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP5000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons TOP5000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ TOP5000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 TOP5000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ TOP5000"
     },
     {
-      "_id": "Degree_Name_20000250",
-      "_japanese": "[ステッカー]Ave Mujicaシルバー到達",
-      "_english": "[Sticker] Ave Mujica Silver Reached",
-      "_traditionalChinese": "[貼紙]Ave Mujica達到白銀等級",
-      "_simplifiedChinese": "[贴纸]达成Ave Mujica白银段位",
-      "_korean": "[스티커] Ave Mujica 실버 달성"
+      "_id": "Degree_Name_20000125",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP10000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Two Moons TOP10000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/雙月~Deep Into The Forest~ TOP10000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/双月~Deep Into The Forest~ 流转之月的轮舞 TOP10000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/두개의 달 ~Deep Into The Forest~ TOP10000"
     },
     {
-      "_id": "Degree_Name_20000251",
-      "_japanese": "[ステッカー]Ave Mujicaゴールド到達",
-      "_english": "[Sticker] Ave Mujica Gold Reached",
-      "_traditionalChinese": "[貼紙]Ave Mujica達到黃金等級",
-      "_simplifiedChinese": "[贴纸]达成Ave Mujica黄金段位",
-      "_korean": "[스티커] Ave Mujica 골드 달성"
+      "_id": "Degree_Name_20000126",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 1位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance 1st Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 第1名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 第1名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 1위"
     },
     {
-      "_id": "Degree_Name_20000252",
-      "_japanese": "[ステッカー]Ave Mujicaプラチナ到達",
-      "_english": "[Sticker] Ave Mujica Platinum Reached",
-      "_traditionalChinese": "[貼紙]Ave Mujica達到白金等級",
-      "_simplifiedChinese": "[贴纸]达成Ave Mujica白金段位",
-      "_korean": "[스티커] Ave Mujica 플래티넘 달성"
+      "_id": "Degree_Name_20000127",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 2位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance 2nd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 第2名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 第2名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 2위"
     },
     {
-      "_id": "Degree_Name_20000253",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷビギナー到達",
-      "_english": "[Sticker] Mugendai MewType Beginner Reached",
-      "_traditionalChinese": "[貼紙]夢限大MewType達到新手等級",
-      "_simplifiedChinese": "[贴纸]达成梦限大MewType新手段位",
-      "_korean": "[스티커] 무겐다이 뮤타입 비기너 달성"
+      "_id": "Degree_Name_20000128",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 3位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance 3rd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 第3名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 第3名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 3위"
     },
     {
-      "_id": "Degree_Name_20000254",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷブロンズ到達",
-      "_english": "[Sticker] Mugendai MewType Bronze Reached",
-      "_traditionalChinese": "[貼紙]夢限大MewType達到青銅等級",
-      "_simplifiedChinese": "[贴纸]达成梦限大MewType青铜段位",
-      "_korean": "[스티커] 무겐다이 뮤타입 브론즈 달성"
+      "_id": "Degree_Name_20000129",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP10",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance TOP10",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 TOP10",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 TOP10",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 TOP10"
     },
     {
-      "_id": "Degree_Name_20000255",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷシルバー到達",
-      "_english": "[Sticker] Mugendai MewType Silver Reached",
-      "_traditionalChinese": "[貼紙]夢限大MewType達到白銀等級",
-      "_simplifiedChinese": "[贴纸]达成梦限大MewType白银段位",
-      "_korean": "[스티커] 무겐다이 뮤타입 실버 달성"
+      "_id": "Degree_Name_20000130",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP100",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance TOP100",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 TOP100",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 TOP100",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 TOP100"
     },
     {
-      "_id": "Degree_Name_20000256",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷゴールド到達",
-      "_english": "[Sticker] Mugendai MewType Gold Reached",
-      "_traditionalChinese": "[貼紙]夢限大MewType達到黃金等級",
-      "_simplifiedChinese": "[贴纸]达成梦限大MewType黄金段位",
-      "_korean": "[스티커] 무겐다이 뮤타입 골드 달성"
+      "_id": "Degree_Name_20000131",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP1000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance TOP1000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 TOP1000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 TOP1000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 TOP1000"
     },
     {
-      "_id": "Degree_Name_20000257",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷプラチナ到達",
-      "_english": "[Sticker] Mugendai MewType Platinum Reached",
-      "_traditionalChinese": "[貼紙]夢限大MewType達到白金等級",
-      "_simplifiedChinese": "[贴纸]达成梦限大MewType白金段位",
-      "_korean": "[스티커] 무겐다이 뮤타입 플래티넘 달성"
+      "_id": "Degree_Name_20000132",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP5000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance TOP5000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 TOP5000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 TOP5000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 TOP5000"
     },
     {
-      "_id": "Degree_Name_20000258",
-      "_japanese": "[ステッカー]millsageビギナー到達",
-      "_english": "[Sticker] millsage Beginner Reached",
-      "_traditionalChinese": "[貼紙]millsage達到新手等級",
-      "_simplifiedChinese": "[贴纸]达成millsage新手段位",
-      "_korean": "[스티커] millsage 비기너 달성"
+      "_id": "Degree_Name_20000133",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP10000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Octagram Dance TOP10000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/八芒星之舞 TOP10000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/八芒星之舞 TOP10000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/팔망성 댄스 TOP10000"
     },
     {
-      "_id": "Degree_Name_20000259",
-      "_japanese": "[ステッカー]millsageブロンズ到達",
-      "_english": "[Sticker] millsage Bronze Reached",
-      "_traditionalChinese": "[貼紙]millsage達到青銅等級",
-      "_simplifiedChinese": "[贴纸]达成millsage青铜段位",
-      "_korean": "[스티커] millsage 브론즈 달성"
+      "_id": "Degree_Name_20000134",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 1位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis 1st Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ 第1名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ 第1名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 1위"
     },
     {
-      "_id": "Degree_Name_20000260",
-      "_japanese": "[ステッカー]millsageシルバー到達",
-      "_english": "[Sticker] millsage Silver Reached",
-      "_traditionalChinese": "[貼紙]millsage達到白銀等級",
-      "_simplifiedChinese": "[贴纸]达成millsage白银段位",
-      "_korean": "[스티커] millsage 실버 달성"
+      "_id": "Degree_Name_20000135",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 2位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis 2nd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ 第2名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ 第2名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 2위"
     },
     {
-      "_id": "Degree_Name_20000261",
-      "_japanese": "[ステッカー]millsageゴールド到達",
-      "_english": "[Sticker] millsage Gold Reached",
-      "_traditionalChinese": "[貼紙]millsage達到黃金等級",
-      "_simplifiedChinese": "[贴纸]达成millsage黄金段位",
-      "_korean": "[스티커] millsage 골드 달성"
+      "_id": "Degree_Name_20000136",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 3位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis 3rd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ 第3名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ 第3名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 3위"
     },
     {
-      "_id": "Degree_Name_20000262",
-      "_japanese": "[ステッカー]millsageプラチナ到達",
-      "_english": "[Sticker] millsage Platinum Reached",
-      "_traditionalChinese": "[貼紙]millsage達到白金等級",
-      "_simplifiedChinese": "[贴纸]达成millsage白金段位",
-      "_korean": "[스티커] millsage 플래티넘 달성"
+      "_id": "Degree_Name_20000137",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP10",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis TOP10",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ TOP10",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ TOP10",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 TOP10"
     },
     {
-      "_id": "Degree_Name_20000263",
-      "_japanese": "[ステッカー]一家Dumb Rock!ビギナー到達",
-      "_english": "[Sticker] Ikka Dumb Rock! Beginner Reached",
-      "_traditionalChinese": "[貼紙]一家Dumb Rock!達到新手等級",
-      "_simplifiedChinese": "[贴纸]达成一家Dumb Rock!新手段位",
-      "_korean": "[스티커] 일가 Dumb Rock! 비기너 달성"
+      "_id": "Degree_Name_20000138",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP100",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis TOP100",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ TOP100",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ TOP100",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 TOP100"
     },
     {
-      "_id": "Degree_Name_20000264",
-      "_japanese": "[ステッカー]一家Dumb Rock!ブロンズ到達",
-      "_english": "[Sticker] Ikka Dumb Rock! Bronze Reached",
-      "_traditionalChinese": "[貼紙]一家Dumb Rock!達到青銅等級",
-      "_simplifiedChinese": "[贴纸]达成一家Dumb Rock!青铜段位",
-      "_korean": "[스티커] 일가 Dumb Rock! 브론즈 달성"
+      "_id": "Degree_Name_20000139",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP1000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis TOP1000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ TOP1000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ TOP1000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 TOP1000"
     },
     {
-      "_id": "Degree_Name_20000265",
-      "_japanese": "[ステッカー]一家Dumb Rock!シルバー到達",
-      "_english": "[Sticker] Ikka Dumb Rock! Silver Reached",
-      "_traditionalChinese": "[貼紙]一家Dumb Rock!達到白銀等級",
-      "_simplifiedChinese": "[贴纸]达成一家Dumb Rock!白银段位",
-      "_korean": "[스티커] 일가 Dumb Rock! 실버 달성"
+      "_id": "Degree_Name_20000140",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP5000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis TOP5000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ TOP5000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ TOP5000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 TOP5000"
     },
     {
-      "_id": "Degree_Name_20000266",
-      "_japanese": "[ステッカー]一家Dumb Rock!ゴールド到達",
-      "_english": "[Sticker] Ikka Dumb Rock! Gold Reached",
-      "_traditionalChinese": "[貼紙]一家Dumb Rock!達到黃金等級",
-      "_simplifiedChinese": "[贴纸]达成一家Dumb Rock!黄金段位",
-      "_korean": "[스티커] 일가 Dumb Rock! 골드 달성"
+      "_id": "Degree_Name_20000141",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP10000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/A Cruel Angel's Thesis TOP10000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/残酷な天使のテーゼ TOP10000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/残酷な天使のテーゼ TOP10000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/잔혹한 천사의 테제 TOP10000"
     },
     {
-      "_id": "Degree_Name_20000267",
-      "_japanese": "[ステッカー]一家Dumb Rock!プラチナ到達",
-      "_english": "[Sticker] Ikka Dumb Rock! Platinum Reached",
-      "_traditionalChinese": "[貼紙]一家Dumb Rock!達到白金等級",
-      "_simplifiedChinese": "[贴纸]达成一家Dumb Rock!白金段位",
-      "_korean": "[스티커] 일가 Dumb Rock! 플래티넘 달성"
+      "_id": "Degree_Name_20000142",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞",
+      "_simplifiedChinese": "[贴纸]月下流转之舞",
+      "_korean": "[스티커] 흐르는 달의 살타티오"
+    },
+    {
+      "_id": "Degree_Name_20000143",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 1位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking 1st Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 第1名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 第1名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 1위"
+    },
+    {
+      "_id": "Degree_Name_20000144",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 2位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking 2nd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 第2名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 第2名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 2위"
+    },
+    {
+      "_id": "Degree_Name_20000145",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 3位",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking 3rd Place",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 第3名",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 第3名",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 3위"
+    },
+    {
+      "_id": "Degree_Name_20000146",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP10",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking TOP10",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP10",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP10",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000147",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP100",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking TOP100",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP100",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP100",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000148",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP1000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking TOP1000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP1000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP1000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000149",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP5000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking TOP5000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP5000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP5000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000150",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP10000",
+      "_english": "[Sticker] Saltatio Beneath the Shifting Moon/Total Ranking TOP10000",
+      "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP10000",
+      "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP10000",
+      "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP10000"
     },
     {
       "_id": "Degree_Description_10000001",
@@ -29671,6 +29951,14 @@
       "_traditionalChinese": "通關「怪物」100次即獲得",
       "_simplifiedChinese": "完成「怪物」100次时获得",
       "_korean": "「KAIBUTSU」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000114",
+      "_japanese": "「ふたつの月  ~Deep Into The Forest~」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Two Moons\" 100 times.",
+      "_traditionalChinese": "通關「雙月~Deep Into The Forest~」100次即獲得",
+      "_simplifiedChinese": "完成「双月~Deep Into The Forest~」100次时获得",
+      "_korean": "「두개의 달 ~Deep Into The Forest~」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Description_10000115",
@@ -30425,6 +30713,14 @@
       "_korean": "[스티커] KAIBUTSU 재킷"
     },
     {
+      "_id": "Degree_Name_10000114",
+      "_japanese": "[ステッカー]ふたつの月  ~Deep Into The Forest~ジャケット",
+      "_english": "[Sticker] Two Moons Jacket",
+      "_traditionalChinese": "[貼紙]雙月~Deep Into The Forest~封面",
+      "_simplifiedChinese": "[贴纸]双月~Deep Into The Forest~封面",
+      "_korean": "[스티커] 두개의 달 ~Deep Into The Forest~ 재킷"
+    },
+    {
       "_id": "Degree_Name_10000115",
       "_japanese": "[ステッカー]ノンブレス・オブリージュジャケット",
       "_english": "[Sticker] Non-breath oblige Jacket",
@@ -30833,6 +31129,30 @@
       "_korean": "「[Happy Birthday 26-27] 센고쿠 유노」 4회 각성 시 획득"
     },
     {
+      "_id": "Degree_Description_30000051",
+      "_japanese": "「[煌めきのパッスス]モーティス」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Mortis [Radiant Passus]\" 4 times.",
+      "_traditionalChinese": "「[輝煌的步伐]Mortis」覺醒4次後獲得",
+      "_simplifiedChinese": "「[辉煌的步伐]Mortis」觉醒4次后获得",
+      "_korean": "「[반짝이는 파수스] 모르티스」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000052",
+      "_japanese": "「[玉座より見下ろして]アモーリス」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Amoris [Gazing Down from the Throne]\" 4 times.",
+      "_traditionalChinese": "「[自王座俯瞰]Amoris」覺醒4次後獲得",
+      "_simplifiedChinese": "「[自王座俯瞰]Amoris」觉醒4次后获得",
+      "_korean": "「[왕좌에서 굽어보며] 아모리스」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000053",
+      "_japanese": "「[跪いて、忠誠を]ドロリス」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Doloris [Kneel for Fealty]\" 4 times.",
+      "_traditionalChinese": "「[屈膝，獻上忠誠]Doloris」覺醒4次後獲得",
+      "_simplifiedChinese": "「[单膝跪地，献上忠诚]Doloris」觉醒4次后获得",
+      "_korean": "「[무릎 꿇고, 충성을 맹세하라] 돌로리스」 4회 각성 시 획득"
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "[Sticker] Tomori Takamatsu [Words That Stay]",
@@ -31231,6 +31551,30 @@
       "_traditionalChinese": "[貼紙][Happy Birthday 26-27]千石由乃",
       "_simplifiedChinese": "[贴纸][Happy Birthday 26-27]千石由乃",
       "_korean": "[스티커] [Happy Birthday 26-27] 센고쿠 유노"
+    },
+    {
+      "_id": "Degree_Name_30000051",
+      "_japanese": "[ステッカー][煌めきのパッスス]モーティス",
+      "_english": "[Sticker] Mortis [Radiant Passus]",
+      "_traditionalChinese": "[貼紙][輝煌的步伐]Mortis",
+      "_simplifiedChinese": "[贴纸][辉煌的步伐]Mortis",
+      "_korean": "[스티커] [반짝이는 파수스] 모르티스"
+    },
+    {
+      "_id": "Degree_Name_30000052",
+      "_japanese": "[ステッカー][玉座より見下ろして]アモーリス",
+      "_english": "[Sticker] Amoris [Gazing Down from the Throne]",
+      "_traditionalChinese": "[貼紙][自王座俯瞰]Amoris",
+      "_simplifiedChinese": "[贴纸][自王座俯瞰]Amoris",
+      "_korean": "[스티커] [왕좌에서 굽어보며] 아모리스"
+    },
+    {
+      "_id": "Degree_Name_30000053",
+      "_japanese": "[ステッカー][跪いて、忠誠を]ドロリス",
+      "_english": "[Sticker] Doloris [Kneel for Fealty]",
+      "_traditionalChinese": "[貼紙][屈膝，獻上忠誠]Doloris",
+      "_simplifiedChinese": "[贴纸][单膝跪地，献上忠诚]Doloris",
+      "_korean": "[스티커] [무릎 꿇고, 충성을 맹세하라] 돌로리스"
     },
     {
       "_id": "Degree_Name_1",
@@ -33129,6 +33473,14 @@
       "_korean": "[스티커] 센고쿠 유노 Happy Birthday 26-27"
     },
     {
+      "_id": "Degree_Name_276",
+      "_japanese": "[ステッカー]光降る宮殿のエピソディウム",
+      "_english": "[Sticker] Episodium of the Radiant Palace",
+      "_traditionalChinese": "[貼紙]光輝殿堂的不朽篇章",
+      "_simplifiedChinese": "[贴纸]光辉殿堂的不朽篇章",
+      "_korean": "[스티커] 빛 내리는 궁전의 에피소디움"
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "Obtained by limit breaking \"Tomori Takamatsu [Favorite Penguins]\" 4 times.",
@@ -33543,6 +33895,30 @@
       "_traditionalChinese": "「[搬運、裝飾]睦&初華」開放上限4次後獲得",
       "_simplifiedChinese": "「[搬运、装饰]睦&初华」上限解锁4次后获得",
       "_korean": "「[옮기고, 꾸미며] 무츠미&우이카」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000053",
+      "_japanese": "「[何も映さない瞳]モーティス」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Mortis [Hollow Eyes]\" 4 times.",
+      "_traditionalChinese": "「[空洞的雙眼]Mortis」開放上限4次後獲得",
+      "_simplifiedChinese": "「[空洞的眼眸]Mortis」上限解锁4次后获得",
+      "_korean": "「[그 무엇도 담지 않은 눈동자] 모르티스」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000054",
+      "_japanese": "「[月よ、憐れみの光を]オブリビオニス」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Oblivionis [O Moon, Shine Thy Mercy]\" 4 times.",
+      "_traditionalChinese": "「[月啊，請賜予憐憫之光]Oblivionis」開放上限4次後獲得",
+      "_simplifiedChinese": "「[月啊，请赐予怜悯之光]Oblivionis」上限解锁4次后获得",
+      "_korean": "「[달이여, 자비의 빛을 베푸소서] 오블리비오니스」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000055",
+      "_japanese": "「[近すぎる距離]海鈴&にゃむ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Umiri & Nyamu [Too Close for Comfort]\" 4 times.",
+      "_traditionalChinese": "「[過近的距離]海鈴&若麥」開放上限4次後獲得",
+      "_simplifiedChinese": "「[过近的距离]海铃&Nyamu」上限解锁4次后获得",
+      "_korean": "「[너무 가까운 거리] 우미리&냐무」 4회 상한 해제 시 획득"
     },
     {
       "_id": "Degree_Name_40000001",
@@ -33961,6 +34337,30 @@
       "_korean": "[스티커] [옮기고, 꾸미며] 무츠미&우이카"
     },
     {
+      "_id": "Degree_Name_40000053",
+      "_japanese": "[ステッカー][何も映さない瞳]モーティス",
+      "_english": "[Sticker] Mortis [Hollow Eyes]",
+      "_traditionalChinese": "[貼紙][空洞的雙眼]Mortis",
+      "_simplifiedChinese": "[贴纸][空洞的眼眸]Mortis",
+      "_korean": "[스티커] [그 무엇도 담지 않은 눈동자] 모르티스"
+    },
+    {
+      "_id": "Degree_Name_40000054",
+      "_japanese": "[ステッカー][月よ、憐れみの光を]オブリビオニス",
+      "_english": "[Sticker] Oblivionis [O Moon, Shine Thy Mercy]",
+      "_traditionalChinese": "[貼紙][月啊，請賜予憐憫之光]Oblivionis",
+      "_simplifiedChinese": "[贴纸][月啊，请赐予怜悯之光]Oblivionis",
+      "_korean": "[스티커] [달이여, 자비의 빛을 베푸소서] 오블리비오니스"
+    },
+    {
+      "_id": "Degree_Name_40000055",
+      "_japanese": "[ステッカー][近すぎる距離]海鈴&にゃむ",
+      "_english": "[Sticker] Umiri & Nyamu [Too Close for Comfort]",
+      "_traditionalChinese": "[貼紙][過近的距離]海鈴&若麥",
+      "_simplifiedChinese": "[贴纸][过近的距离]海铃&Nyamu",
+      "_korean": "[스티커] [너무 가까운 거리] 우미리&냐무"
+    },
+    {
       "_id": "Item_Source_Name_1",
       "_japanese": "タイトル",
       "_english": "Title",
@@ -34127,6 +34527,14 @@
       "_traditionalChinese": "A day～#HalloweenSnap～",
       "_simplifiedChinese": "A day～#HalloweenSnap～",
       "_korean": "A day〜#HalloweenSnap〜"
+    },
+    {
+      "_id": "Event_Name_0005",
+      "_japanese": "移ろう月のサルタティオ",
+      "_english": "Saltatio Beneath the Shifting Moon",
+      "_traditionalChinese": "月色之下流轉之舞",
+      "_simplifiedChinese": "月下流转之舞",
+      "_korean": "흐르는 달의 살타티오"
     },
     {
       "_id": "Exchange_Name_1",
@@ -34375,6 +34783,22 @@
       "_traditionalChinese": "由乃生日撥片兌換所",
       "_simplifiedChinese": "由乃生日拨片交换所",
       "_korean": "유노 생일 기념 피크 교환소"
+    },
+    {
+      "_id": "Exchange_Name_33",
+      "_japanese": "移ろう月のサルタティオ イベント交換所",
+      "_english": "Saltatio Beneath the Shifting Moon Event Exchange Shop",
+      "_traditionalChinese": "月色之下流轉之舞活動兌換所",
+      "_simplifiedChinese": "月下流转之舞 活动交换所",
+      "_korean": "흐르는 달의 살타티오 이벤트 교환소"
+    },
+    {
+      "_id": "Exchange_Name_34",
+      "_japanese": "光降る宮殿のエピソディウムガチャ交換所",
+      "_english": "Episodium of the Radiant Palace Gacha Exchange Shop",
+      "_traditionalChinese": "光輝殿堂的不朽篇章轉蛋兌換所",
+      "_simplifiedChinese": "光辉殿堂的不朽篇章招募交换所",
+      "_korean": "빛 내리는 궁전의 에피소디움 뽑기 교환소"
     },
     {
       "_id": "exchange_title",
@@ -35678,13 +36102,13 @@
       "_english": "Gacha with SSR Members or Snapshots that featured for a limited time in \"Shadowed Nightwalkers\"",
       "_traditionalChinese": "可獲得在「晦冥的夜行者們」期間限定登場的SSR團員或是快照的轉蛋",
       "_simplifiedChinese": "可获得于「晦冥的夜行者们」期间限定登场的SSR成员或留影的招募",
-      "_korean": "「어둠의 나이트워커즈」에 기간 한정으로 등장하는 SSR 멤버 또는 스냅을 획득할 수 있는 뽑기"
+      "_korean": "「어둠의 나이트워커즈」에 기간 한정으로\n등장하는 SSR 멤버 또는 스냅을\n획득할 수 있는 뽑기"
     },
     {
       "_id": "Gacha_Description_19",
       "_japanese": "ステッカーや育成素材を獲得できるガチャ",
       "_english": "The Gacha where you can obtain Stickers and Upgrade Materials",
-      "_traditionalChinese": "可獲得貼紙及養成素材的轉蛋",
+      "_traditionalChinese": "可獲得貼紙及培育材料的轉蛋",
       "_simplifiedChinese": "可获得贴纸和养成素材的招募",
       "_korean": "스티커 및 육성 재료를 획득할 수 있는 뽑기"
     },
@@ -35711,6 +36135,14 @@
       "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋\n\n每次抽取此轉蛋，都可額外獲得道具「生日撥片」。\n（抽1次：5個／抽10次：50個）\n※透過本轉蛋獲得的「生日撥片」可於活動兌換所的「生日撥片兌換所」中使用。\n※兌換內容會依據舉辦的兌換所而有所不同，請至「兌換所」確認內容。",
       "_simplifiedChinese": "可获得R以上成员或是留影的招募\n\n每次进行招募，都可额外获得道具「生日拨片」。\n（抽1次：5个／抽10次：50个）\n※通过本招募获得的「生日拨片」可于活动交换所的「生日拨片交换所」中使用。\n※交换内容会依据举办的交换所而有所不同，请至「交换所」确认内容。",
       "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기\n\n본 뽑기를 이용할 때마다, 보너스 아이템 「생일 기념 피크」를 획득할 수 있습니다.\n(1회 뽑기: 5개／10회 뽑기: 50개)\n※본 뽑기에서 획득할 수 있는 「생일 기념 피크」는 이벤트 교환소의 「생일 기념 피크 교환소」에서 이용할 수 있습니다.\n※교환 내용은 진행 중인 교환소에 따라 다릅니다. 내용은 「교환소」를 확인해 주세요."
+    },
+    {
+      "_id": "Gacha_Description_23",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
     },
     {
       "_id": "gacha_ensured_rarity",
@@ -36412,7 +36844,7 @@
       "_id": "Gacha_Name_20",
       "_japanese": "撃奏アリーナ Season1 SR以上確定チケットガチャ",
       "_english": "GEKISO ARENA Season 1 SR+ Guaranteed Ticket Gacha",
-      "_traditionalChinese": "激奏舞台第1賽季保證SR以上券轉蛋",
+      "_traditionalChinese": "激奏舞台 Season1 SR以上保證券轉蛋",
       "_simplifiedChinese": "激奏舞台 Season1 SR及以上必得券招募",
       "_korean": "격주 아레나 Season1 SR이상 확정 티켓 뽑기"
     },
@@ -36420,7 +36852,7 @@
       "_id": "Gacha_Name_21",
       "_japanese": "撃奏アリーナ Season1 SSR確定チケットガチャ",
       "_english": "GEKISO ARENA Season 1 SSR Guaranteed Ticket Gacha",
-      "_traditionalChinese": "激奏舞台第1賽季保證SSR券轉蛋",
+      "_traditionalChinese": "激奏舞台 Season1 SSR保證券轉蛋",
       "_simplifiedChinese": "激奏舞台 Season1 SSR必得券招募",
       "_korean": "격주 아레나 Season1 SSR 확정 티켓 뽑기"
     },
@@ -36431,6 +36863,14 @@
       "_traditionalChinese": "千石由乃 Happy Birthday 26-27轉蛋",
       "_simplifiedChinese": "千石由乃 Happy Birthday 26-27招募",
       "_korean": "센고쿠 유노 Happy Birthday 26-27 뽑기"
+    },
+    {
+      "_id": "Gacha_Name_23",
+      "_japanese": "光降る宮殿のエピソディウムガチャ",
+      "_english": "Episodium of the Radiant Palace Gacha",
+      "_traditionalChinese": "光輝殿堂的不朽篇章轉蛋",
+      "_simplifiedChinese": "光辉殿堂的不朽篇章招募",
+      "_korean": "빛 내리는 궁전의 에피소디움 뽑기"
     },
     {
       "_id": "gacha_rates_label_draw_one",
@@ -36580,7 +37020,7 @@
       "_id": "gacha_warning_daily_once_paid_only",
       "_japanese": "※「1日1回限定」のガチャは有償スターのみ使用できます",
       "_english": "※The “Once Daily” Gacha can only be drawn with Paid Stars.",
-      "_traditionalChinese": "※「每日限1次」的轉蛋僅可使用付費星鑽。",
+      "_traditionalChinese": "※「1天1次限定」的轉蛋僅可使用付費星鑽抽取。",
       "_simplifiedChinese": "※「每日限1次」的招募仅可使用付费星钻。",
       "_korean": "※「1일 1회 한정」뽑기는 유료 스타만 사용할 수 있습니다."
     },
@@ -36604,7 +37044,7 @@
       "_id": "gacha_warning_paid_oldest_first",
       "_japanese": "※有償スターを消費する場合、入手日の古い有償スターから先に消費されます",
       "_english": "※When Paid Stars are used, those obtained earliest will be used first.",
-      "_traditionalChinese": "※消耗付費星鑽時，將優先消耗最早獲得的付費星鑽。",
+      "_traditionalChinese": "※消耗付費星鑽時，將會優先消耗獲得日期較早的付費星鑽。",
       "_simplifiedChinese": "※消耗付费星钻时，将优先消耗最早获得的付费星钻。",
       "_korean": "※유료 스타를 사용할 경우 먼저 획득한 스타부터 소모됩니다."
     },
@@ -36612,7 +37052,7 @@
       "_id": "gacha_warning_ticket_only",
       "_japanese": "※本ガチャは専用の「{GachaTicketName}」を消費して引くことができるガチャです",
       "_english": "※This Gacha can only be drawn using its dedicated “{GachaTicketName}.”",
-      "_traditionalChinese": "※本轉蛋僅可消耗專用的「{GachaTicketName}」進行抽取。",
+      "_traditionalChinese": "※本轉蛋是可消耗專用的「{GachaTicketName}」進行抽取的轉蛋。",
       "_simplifiedChinese": "※本招募仅可消耗专用的「{GachaTicketName}」进行抽取。",
       "_korean": "※해당 뽑기는 전용 「{GachaTicketName}」을(를) 사용하여 뽑기를 진행할 수 있습니다."
     },
@@ -36628,7 +37068,7 @@
       "_id": "gacha_warning_ticket_usable_with_free",
       "_japanese": "※本ガチャは専用の「{GachaTicketName}」をご利用いただけます",
       "_english": "※The dedicated “{GachaTicketName}” can be used for this Gacha.",
-      "_traditionalChinese": "※本轉蛋可使用專用的「{GachaTicketName}」。",
+      "_traditionalChinese": "※本轉蛋可使用專用的「{GachaTicketName}」進行抽取。",
       "_simplifiedChinese": "※本招募可使用专用的「{GachaTicketName}」。",
       "_korean": "※해당 뽑기는 전용 「{GachaTicketName}」을(를) 사용할 수 있습니다."
     },
@@ -36644,7 +37084,7 @@
       "_id": "gacha_warning_limited_pickup_detail",
       "_japanese": "※ピックアップ対象のパラメータやスキルはガチャページ内の詳細にてご確認ください",
       "_english": "※See the details on the Gacha page for the featured members’ and Snapshots’ stats and skills.",
-      "_traditionalChinese": "※精選對象的能力值及技能請於轉蛋頁面的詳情中確認。",
+      "_traditionalChinese": "※Pick Up對象的能力值及技能，請於轉蛋頁面的詳情中確認。",
       "_simplifiedChinese": "※Pick Up对象的能力值和技能请于招募页面的详情中确认。",
       "_korean": "※픽업 대상의 능력치와 스킬은 뽑기 화면에서 확인해 주세요."
     },
@@ -36652,7 +37092,7 @@
       "_id": "gacha_warning_limited_disappear",
       "_japanese": "※「期間限定」のガチャ排出コンテンツは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます再登場の時期や提供割合については現在未定です",
       "_english": "※Gacha content marked “Limited” will no longer be available after this Gacha ends, but may return in the future. The timing and rates of any return have not been determined.",
-      "_traditionalChinese": "※標有「期間限定」的轉蛋內容將於本轉蛋結束後停止出現，但今後可能再次登場。目前尚未確定再次登場的時間及提供機率。",
+      "_traditionalChinese": "※「期間限定」的轉蛋抽取內容在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定。",
       "_simplifiedChinese": "※标有「期间限定」的招募内容将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及提供概率。",
       "_korean": "※「기간 한정」 뽑기 대상은 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다."
     },
@@ -36660,7 +37100,7 @@
       "_id": "gacha_warning_comeback_hidden",
       "_japanese": "※本ガチャはカムバック期間が終了した際に、自動的にガチャ画面より非表示となります。本ガチャの残り期間についてガチャ画面をご確認ください",
       "_english": "※This Gacha will automatically disappear from the Gacha screen when the comeback period ends. Check the Gacha screen for the time remaining.",
-      "_traditionalChinese": "※回歸活動期間結束後，本轉蛋將自動從轉蛋頁面隱藏。剩餘開放時間請於轉蛋頁面確認。",
+      "_traditionalChinese": "※本轉蛋會在回歸期間結束時，自動從轉蛋畫面中隱藏。關於本轉蛋的剩餘時間，請在轉蛋畫面進行確認。",
       "_simplifiedChinese": "※回归活动期间结束后，本招募将自动从招募页面隐藏。剩余开放时间请于招募页面确认。",
       "_korean": "※해당 뽑기는 복귀 기간이 종료될 시, 자동으로 뽑기 화면에서 미표시 상태로 됩니다. 해당 뽑기의 남은 기간은 뽑기 화면에서 확인해 주시기 바랍니다."
     },
@@ -36668,7 +37108,7 @@
       "_id": "gacha_warning_cm_daily_limit",
       "_japanese": "※本ガチャは動画視聴1回につき1回、1日最大{CmDailyLimit}回引くことができます",
       "_english": "*You can pull from this Gacha once per video ad watched, up to a maximum of {CmDailyLimit} times per day.",
-      "_traditionalChinese": "※本轉蛋每觀看一次影片即可抽取一次，每日最多能抽取{CmDailyLimit}次。",
+      "_traditionalChinese": "※本轉蛋每觀看1次影片即可抽取1次，每日最多能抽取{CmDailyLimit}次。",
       "_simplifiedChinese": "※本招募每观看1次广告视频可进行1次，每天最多可进行{CmDailyLimit}次",
       "_korean": "※해당 뽑기는 광고 1회 시청당 1회, 하루 최대 {CmDailyLimit}회 뽑을 수 있습니다"
     },
@@ -36676,7 +37116,7 @@
       "_id": "gacha_warning_cm_count_timing",
       "_japanese": "※動画視聴の回数の判定は、動画を視聴完了し、ガチャを利用した時点で行われます\n※「期間限定」のガチャ排出コンテンツは出現しません",
       "_english": "※A video view is counted once you finish watching the video and complete the Gacha draw.\n※Gacha content marked “Limited” is not available.",
-      "_traditionalChinese": "※觀看次數將於影片觀看完畢並完成轉蛋時列入計算。\n※無法獲得標有「期間限定」的轉蛋內容。",
+      "_traditionalChinese": "※觀賞影片的次數，將會在看完影片且抽完轉蛋之後進行計算。\n※「期間限定」的轉蛋抽取內容將不會出現。",
       "_simplifiedChinese": "※观看次数将在视频观看完毕并完成招募时计入。\n※无法获得标有「期间限定」的招募内容。",
       "_korean": "※광고 시청 횟수 판정은 광고 시청을 완료하고, 뽑기를 진행한 시점에 이루어집니다.\n※「기간 한정」 뽑기 대상은 출현하지 않습니다"
     },
@@ -36684,7 +37124,7 @@
       "_id": "gacha_warning_cm_network",
       "_japanese": "※本ガチャを引くための動画視聴は携帯電話回線、Wi-Fi以外での通信環境では正常に動作しない場合がございます。動画を正常に視聴できない場合は、通信環境をご確認ください",
       "_english": "※The video required to draw from this Gacha may not play correctly on connections other than mobile data or Wi-Fi. If it does not play, please check your connection.",
-      "_traditionalChinese": "※使用本轉蛋所需的影片觀看功能，在行動數據或 Wi-Fi 以外的網路環境下可能無法正常運作。若無法正常觀看影片，請檢查網路連線。",
+      "_traditionalChinese": "※為抽取本轉蛋觀賞影片時，若使用行動網路或Wi-Fi以外的網路環境，有可能無法正常運作。若無法正常播放影片，請確認您目前的網路環境。",
       "_simplifiedChinese": "※使用本招募所需的视频观看功能，在移动数据或 Wi-Fi 以外的网络环境下可能无法正常运行。若无法正常观看视频，请检查网络连接。",
       "_korean": "※해당 뽑기를 위한 동영상 시청은 휴대전화 통신망이나 Wi-Fi 이외의 환경에서는 정상적으로 작동하지 않을 수 있습니다. 동영상을 정상적으로 시청할 수 없는 경우 통신 환경을 확인해 주세요."
     },
@@ -36692,7 +37132,7 @@
       "_id": "gacha_warning_ensured_rarity",
       "_japanese": "※「{DrawCount}回引く」の{EnsuredRarity}以上1枠確定について、ガチャ抽選した結果、{EnsuredRarity}以上のガチャ排出コンテンツが1つも出現しなかった場合は、{DrawCount}回目の枠を確定枠提供割合から再度抽選されます",
       "_english": "※For the guaranteed {EnsuredRarity}-or-higher slot in “Draw {DrawCount} Times”: if none of the results are {EnsuredRarity} or higher, the {DrawCount}th slot will be drawn again using the guaranteed slot’s rates.",
-      "_traditionalChinese": "※關於「抽取{DrawCount}次」中保證獲得1個{EnsuredRarity}以上內容的欄位：若轉蛋結果中未出現任何{EnsuredRarity}以上內容，則第{DrawCount}次抽取的欄位將依保證欄位的提供機率重新抽取。",
+      "_traditionalChinese": "※關於「抽{DrawCount}次」的必得1名{EnsuredRarity}以上，若轉蛋結果沒有任何一張{EnsuredRarity}以上轉蛋抽取內容，則第{DrawCount}抽將會依據保底出現機率重新抽選。",
       "_simplifiedChinese": "※关于「抽取{DrawCount}次」中保证获得1个{EnsuredRarity}及以上内容的栏位：若招募结果中未出现任何{EnsuredRarity}及以上内容，则第{DrawCount}次抽取的栏位将依据保底栏位的提供概率重新抽取。",
       "_korean": "※「{DrawCount}회 뽑기」의 {EnsuredRarity} 이상 1개 확정에 관하여, 뽑기 추첨 후 {EnsuredRarity} 이상 뽑기 대상이 하나도 출현하지 않았을 경우, {DrawCount}회차 슬롯은 확정 슬롯 출현 확률로 다시 추첨됩니다."
     },
@@ -36700,7 +37140,7 @@
       "_id": "gacha_warning_before_enhance",
       "_japanese": "※ガチャ排出コンテンツは強化前の状態となります",
       "_english": "※Content obtained from this Gacha will be in its unenhanced state.",
-      "_traditionalChinese": "※透過轉蛋獲得的內容均為強化前的狀態。",
+      "_traditionalChinese": "※轉蛋抽取內容皆為完成強化前的初始狀態。",
       "_simplifiedChinese": "※通过招募获得的内容均为强化前的状态。",
       "_korean": "※뽑기에 출현하는 대상은 강화 전 상태입니다."
     },
@@ -36708,7 +37148,7 @@
       "_id": "gacha_warning_duplicate",
       "_japanese": "※出現するガチャ排出コンテンツは同一のものが重複する場合があります",
       "_english": "※You may obtain duplicate content from this Gacha.",
-      "_traditionalChinese": "※轉蛋中可能重複獲得相同內容。",
+      "_traditionalChinese": "※轉蛋抽取內容皆有可能出現重複的情況。",
       "_simplifiedChinese": "※招募中可能重复获得相同内容。",
       "_korean": "※출현한 뽑기 대상은 중복 출현할 수 있습니다."
     },
@@ -36716,7 +37156,7 @@
       "_id": "gacha_warning_duplicate_member_piece",
       "_japanese": "※重複して獲得されたメンバーは該当メンバーの「ピース」に変換されます\n※変換された「ピース」は持ちもので確認できます\n※獲得したピースは、メンバーの覚醒で使用することができます\n※覚醒に必要な個数を超えた余剰分のピースは、自動的に保管庫に送られます",
       "_english": "※Duplicate Members are converted into Pieces for the corresponding Member.\n※Converted Pieces can be viewed in your inventory.\n※Pieces can be used to Awaken Members.\n※Pieces exceeding the amount needed for Awakening are automatically sent to Storage.",
-      "_traditionalChinese": "※重複獲得的團員將轉換為對應團員的「星輝」。\n※轉換後的「星輝」可於持有物中確認。\n※獲得的星輝可用於團員覺醒。\n※超過覺醒所需數量的星輝將自動送入保管庫。",
+      "_traditionalChinese": "※重複獲得的團員將自動轉換為該團員的「星輝」。\n※轉換後的「星輝」可從持有物中確認。\n※獲得的星輝可用於團員覺醒。\n※超過覺醒所需數量的多餘星輝，將直接送至保管庫。",
       "_simplifiedChinese": "※重复获得的成员将转换为对应成员的「星辉」。\n※转换后的「星辉」可在持有物中确认。\n※获得的星辉可用于成员觉醒。\n※超过觉醒所需数量的星辉将自动送入仓库。",
       "_korean": "※중복으로 획득한 멤버는 해당 멤버의 「조각」으로 변환됩니다.\n※변환된 「조각」은 보유 아이템에서 확인할 수 있습니다.\n※획득한 조각은 멤버 각성에 사용할 수 있습니다.\n※각성에 필요한 개수를 초과한 여유분의 조각은 자동으로 보관함으로 전송됩니다."
     },
@@ -36724,7 +37164,7 @@
       "_id": "gacha_warning_duplicate_snap",
       "_japanese": "※重複して獲得されたスナップは、スナップの上限解放で使用することができます\n※上限解放に必要な個数を超えた余剰分は、自動的に保管庫に送られます",
       "_english": "※Duplicate Snapshots can be used for a Snapshot’s Limit Break.\n※Copies exceeding the amount needed for Limit Break are automatically sent to Storage.",
-      "_traditionalChinese": "※重複獲得的快照可用於快照的開放上限。\n※超過開放上限所需數量的快照將自動送入保管庫。",
+      "_traditionalChinese": "※重複獲得的快照，可用於快照的開放上限。\n※超過開放上限所需數量的多餘快照，將直接送至保管庫。",
       "_simplifiedChinese": "※重复获得的留影可用于留影的上限解锁。\n※超过上限解锁所需数量的留影将自动送入仓库。",
       "_korean": "※중복으로 획득한 스냅은 스냅의 상한 해제에 사용할 수 있습니다.\n※상한 해제에 필요한 개수를 초과한 여유분은 자동으로 보관함으로 전송됩니다."
     },
@@ -36732,7 +37172,7 @@
       "_id": "gacha_warning_see_ratio_tab",
       "_japanese": "※提供割合につきましては、提供割合タブにてご確認ください",
       "_english": "※Check the Rates tab for Gacha rates.",
-      "_traditionalChinese": "※提供機率請於「提供機率」頁籤確認。",
+      "_traditionalChinese": "※關於出現機率，請至出現機率分頁確認。",
       "_simplifiedChinese": "※提供概率请于「提供概率」页签确认。",
       "_korean": "※출현 확률 정보는 출현 확률을 탭하여 확인해 주시기 바랍니다."
     },
@@ -36740,7 +37180,7 @@
       "_id": "gacha_warning_independent_lottery",
       "_japanese": "※ガチャは1回ごとに提供割合に基づいた抽選が行われ、前回の結果は引き継がれません。そのため、提供割合1%のガチャ排出コンテンツを100回中1回必ず獲得できるものではありません",
       "_english": "※Each Gacha draw is independent and uses the stated rates. Previous results do not affect later draws. For example, a 1% rate does not guarantee that you will obtain the content once in 100 draws.",
-      "_traditionalChinese": "※每次轉蛋均依提供機率獨立抽取，前一次的結果不會影響下一次。因此，即使某項內容的提供機率為1%，抽取100次也不保證一定能獲得1次。",
+      "_traditionalChinese": "※每次抽取轉蛋都會根據出現機率進行抽選，不會繼承前一次的結果。因此不代表抽100次就必定能獲得1次出現機率為1%的轉蛋抽取內容。",
       "_simplifiedChinese": "※每次招募均按提供概率独立抽取，前一次的结果不会影响下一次。因此，即使某项内容的提供概率为1%，抽取100次也不保证一定能获得1次。",
       "_korean": "※뽑기는 매번 출현 확률에 따라 추첨이 진행되며, 이전 결과는 다음 뽑기에 반영되지 않습니다. 따라서 출현 확률이 1%인 뽑기 대상을 100회 중 반드시 1회 획득할 수 있는 것은 아닙니다."
     },
@@ -36748,7 +37188,7 @@
       "_id": "gacha_warning_network_result",
       "_japanese": "※通信状況や端末状態などによって、ガチャの演出や結果が正常に表示されない場合がありますが、ガチャ排出コンテンツの獲得は正常に反映されております。内容については「ガチャ履歴」をご確認ください",
       "_english": "※Connection or device issues may prevent the Gacha animation or results from displaying correctly. Content obtained will still be recorded. Check Gacha History for details.",
-      "_traditionalChinese": "※受網路連線或裝置狀態等影響，轉蛋演出或結果可能無法正常顯示，但獲得的內容仍會正常記錄。請於「轉蛋紀錄」中確認。",
+      "_traditionalChinese": "※因網路連線或裝置狀況等因素影響，可能會導致轉蛋的動畫或結果無法正常顯示，但此時轉蛋抽取內容仍已正常反映。詳細內容請至「轉蛋紀錄」確認。",
       "_simplifiedChinese": "※受网络连接或设备状态等影响，招募演出或结果可能无法正常显示，但获得的内容会正常记录。请于「招募记录」中确认。",
       "_korean": "※네트워크 상태나 기기 상태 등에 따라 뽑기 연출이나 결과가 정상적으로 표시되지 않을 수 있으나, 뽑기 대상은 정상적으로 획득됩니다. 상세 내용은 「뽑기 기록」에서 확인하시기 바랍니다."
     },
@@ -36756,7 +37196,7 @@
       "_id": "gacha_warning_no_end_schedule",
       "_japanese": "※本ガチャは無期限での開催を予定しておりますが、特定の日時での開催終了を含め、開催スケジュールを予告なく変更する場合がございます",
       "_english": "※This Gacha is currently planned to run indefinitely. Its schedule may change without notice, including an end date being set.",
-      "_traditionalChinese": "※本轉蛋目前預計長期開放，但開放日程可能不經預告而變更，包括於指定時間結束。",
+      "_traditionalChinese": "※本轉蛋預計為無期限開放，但包含於特定日期結束等情況在內，舉辦期間仍有可能會無預警變更。",
       "_simplifiedChinese": "※本招募目前计划长期开放，但开放日程可能未经预告而变更，包括在指定时间结束。",
       "_korean": "※해당 뽑기는 무기한 개최를 예정하고 있으나, 특정 시간에 개최 종료를 포함한 개최 일정을 예고 없이 변경될 수 있습니다."
     },
@@ -36764,7 +37204,7 @@
       "_id": "gacha_warning_schedule_change",
       "_japanese": "※本ガチャのスケジュールや内容は予告なく変更する場合があります",
       "_english": "※This Gacha’s schedule and contents may change without notice.",
-      "_traditionalChinese": "※本轉蛋的開放日程及內容可能不經預告而變更。",
+      "_traditionalChinese": "※本轉蛋的期間及內容有可能無預警變更。",
       "_simplifiedChinese": "※本招募的开放日程及内容可能未经预告而变更。",
       "_korean": "※해당 뽑기의 일정이나 내용은 예고 없이 변경될 수 있습니다."
     },
@@ -36780,7 +37220,7 @@
       "_id": "gacha_warning_point_add",
       "_japanese": "※本ガチャを引いてガチャ排出コンテンツを獲得するごとに、専用ガチャptが「1pt」加算されます",
       "_english": "※You earn 1 Gacha Pt for this Gacha for each piece of content obtained from it.",
-      "_traditionalChinese": "※每透過本轉蛋獲得1個內容，專屬轉蛋pt增加1pt。",
+      "_traditionalChinese": "※每次抽取本轉蛋並獲得轉蛋抽取內容時，專用轉蛋pt將增加「1pt」。",
       "_simplifiedChinese": "※每通过本招募获得1个内容，专属招募pt增加1pt。",
       "_korean": "※해당 뽑기를 진행하여 뽑기 대상을 획득할 때마다 전용 뽑기 pt가 「1 pt」 가산됩니다."
     },
@@ -36788,7 +37228,7 @@
       "_id": "gacha_warning_point_fixed",
       "_japanese": "※加算されるptはガチャ排出コンテンツのレアリティによって変動せずに、1つ獲得ごとに「1pt」加算されます",
       "_english": "※The number of Gacha Pts does not vary by rarity. You earn 1 Gacha Pt for each piece of content obtained.",
-      "_traditionalChinese": "※獲得的pt不因內容稀有度而變動，每獲得1個內容均增加1pt。",
+      "_traditionalChinese": "※增加的pt不會受獲得的轉蛋抽取內容稀有度影響，每獲得一張即增加「1pt」。",
       "_simplifiedChinese": "※获得的pt不因内容稀有度而变化，每获得1个内容均增加1pt。",
       "_korean": "※가산된 pt는 뽑기 대상의 희귀도에 따라 변동되지 않으며, 1개 획득할 때마다 「1 pt」가 가산됩니다."
     },
@@ -36796,7 +37236,7 @@
       "_id": "gacha_warning_point_ticket",
       "_japanese": "※「{GachaTicketName}」を使用して、ガチャを引いた場合も専用ガチャptを獲得できます",
       "_english": "※Draws made with “{GachaTicketName}” also earn Gacha Pts for this Gacha.",
-      "_traditionalChinese": "※使用「{GachaTicketName}」進行轉蛋時，也可獲得專屬轉蛋pt。",
+      "_traditionalChinese": "※使用「{GachaTicketName}」抽取本轉蛋時，同樣能獲得專用轉蛋pt。",
       "_simplifiedChinese": "※使用「{GachaTicketName}」进行招募时，也可获得专属招募pt。",
       "_korean": "※「{GachaTicketName}」을(를) 사용하여 뽑기를 진행할 경우, 전용 뽑기 pt를 획득할 수 있습니다."
     },
@@ -36804,7 +37244,7 @@
       "_id": "gacha_warning_point_scope",
       "_japanese": "※本ガチャで獲得できる専用ガチャptは他のガチャを引いても加算されません",
       "_english": "※Gacha Pts for this Gacha cannot be earned by drawing from other Gachas.",
-      "_traditionalChinese": "※透過本轉蛋獲得的專屬轉蛋pt，不會因抽取其他轉蛋而增加。",
+      "_traditionalChinese": "※抽取本轉蛋所獲得的專用轉蛋pt，在抽取其他轉蛋時將不會增加。",
       "_simplifiedChinese": "※通过本招募获得的专属招募pt，不会因抽取其他招募而增加。",
       "_korean": "※해당 뽑기에서 획득할 수 있는 전용 뽑기 pt는 다른 뽑기를 진행하여도 가산되지 않습니다."
     },
@@ -36812,17 +37252,17 @@
       "_id": "gacha_warning_point_exchange",
       "_japanese": "※本ガチャで獲得できる専用ガチャptは交換所で各種アイテムと交換できます。交換内容は、開催されているガチャによって異なります。内容は「交換所」をご確認ください",
       "_english": "※Gacha Pts earned from this Gacha can be exchanged for items. Available items vary by Gacha; check the Exchange Shop for details.",
-      "_traditionalChinese": "※透過本轉蛋獲得的專屬轉蛋pt可於兌換所兌換各類道具。可兌換內容依轉蛋而異，請於「兌換所」確認。",
+      "_traditionalChinese": "※於本轉蛋獲得的專用轉蛋pt，可在兌換所兌換各種道具。兌換內容將依舉辦的轉蛋而有所不同。詳細內容請至「兌換所」確認。",
       "_simplifiedChinese": "※通过本招募获得的专属招募pt可在交换所兑换各类道具。可兑换内容因招募而异，请于「交换所」确认。",
       "_korean": "※해당 뽑기에서 획득할 수 있는 전용 뽑기 pt는 교환소에서 여러 아이템을 교환할 수 있습니다. 교환 내용은 개최 중인 뽑기에 따라 다릅니다. 내용은 「교환소」에서 확인하시기 바랍니다."
     },
     {
       "_id": "gacha_warning_point_auto_convert",
       "_japanese": "※メンバー、スナップが排出されるガチャのガチャptは、\n　ガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
-      "_english": "※For Gachas featuring Members or Snapshots, Gacha Pts will automatically convert into 100 Star Stickers per 1 Pt after the Gacha Pt Exchange Shop closes.",
-      "_traditionalChinese": "※對於會出現團員、快照的轉蛋，轉蛋pt兌換所結束後，轉蛋pt將以每1pt兌換「星光貼紙×100」的比例自動轉換。",
-      "_simplifiedChinese": "※对于会出现成员、留影的招募，招募pt交换所结束后，招募pt将按每1pt兑换「星星贴纸×100」的比例自动转换。",
-      "_korean": "※멤버, 스냅이 배출되는 뽑기의 뽑기 pt는\n　뽑기 pt 교환소 종료 후 1pt마다 스타 스티커 ×100으로 자동 전환됩니다"
+      "_english": "*After this Gacha's Gacha Pt Exchange Shop closes,\nGacha Pts from Gachas that feature Members and Snapshots will be automatically converted into Star Stickers at a rate of 100 Star Stickers per Pt.",
+      "_traditionalChinese": "※團員及快照的轉蛋pt在本轉蛋的轉蛋pt兌換所結束後，\n每1pt將會自動轉換為星光貼紙×100。",
+      "_simplifiedChinese": "※可获得成员、留影的招募，其招募pt将于招募pt交换所结束后，\n每1pt自动转化为星星贴纸×100",
+      "_korean": "※멤버, 스냅이 출현하는 뽑기의 뽑기 pt는\n뽑기 pt 교환소 종료 후, 1 pt당 별의 스티커×100로 자동 변환됩니다"
     },
     {
       "_id": "gacha_warning_point_convert_present",
@@ -36836,7 +37276,7 @@
       "_id": "gacha_warning_slot_detail",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります",
       "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.",
-      "_traditionalChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用一般欄位的提供機率。\n※「抽取10次」的第10次抽取使用保證欄位的提供機率。",
+      "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다."
     },
@@ -36844,7 +37284,7 @@
       "_id": "gacha_warning_event",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります\n※本ガチャで登場した新規のガチャ排出コンテンツは次回以降のガチャにも出現いたしますが、提供割合については本ガチャと異なります",
       "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.\n※Content debuting in this Gacha may appear in future Gachas, but at different rates.",
-      "_traditionalChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用一般欄位的提供機率。\n※「抽取10次」的第10次抽取使用保證欄位的提供機率。\n※於本轉蛋首次登場的內容今後也會出現在其他轉蛋中，但提供機率與本轉蛋不同。",
+      "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。\n※於本轉蛋登場的新轉蛋抽取內容亦會出現在今後的轉蛋中，但出現機率將與本轉蛋不同。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。\n※本招募首次登场的内容今后也会出现在其他招募中，但提供概率与本招募不同。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다.\n※해당 뽑기에서 등장한 신규 뽑기 대상은 다음 이후의 뽑기에서도 출현하지만, 출현 확률은 해당 뽑기와 다릅니다."
     },
@@ -36852,7 +37292,7 @@
       "_id": "gacha_warning_limited_event",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります",
       "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.",
-      "_traditionalChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用一般欄位的提供機率。\n※「抽取10次」的第10次抽取使用保證欄位的提供機率。",
+      "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다."
     },
@@ -36860,7 +37300,7 @@
       "_id": "gacha_warning_point_monthly_pass_free",
       "_japanese": "※アワーノーツパスの「1日1回無料ガチャ」で引いたガチャ分に、ガチャptは適用されません",
       "_english": "※Draws from the Our Notes Pass “One Free Daily Gacha” do not earn Gacha Pts.",
-      "_traditionalChinese": "※透過交織的樂章通行證「每日1次免費轉蛋」進行的抽取不會獲得轉蛋pt。",
+      "_traditionalChinese": "※透過交織的樂章通行證的「1天1次免費轉蛋」抽取轉蛋時，無法獲得轉蛋pt。",
       "_simplifiedChinese": "※通过交织的乐章通行证「每日1次免费招募」进行的抽取不会获得招募pt。",
       "_korean": "※아워 노트 패스의 「1일 1회 무료 뽑기」에서 뽑은 분량에는 뽑기 pt가 적용되지 않습니다."
     },
@@ -36875,7 +37315,7 @@
     {
       "_id": "Gekisou_Skill_Description_1",
       "_japanese": "{0 < effects[0].time ? \"JUST撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"JUST撃奏中\"}</color>\nJUST数獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>\n, JUST Count gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>,\nJUST Count gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自JUST激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在JUST激奏中\"}</color>，\nJUST獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"JUST激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"JUST激奏期间\"}</color>\nJUST获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"JUST 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"JUST 격주 중\"}</color>\nJUST 획득량 {effects[0].value} UP"
@@ -36883,7 +37323,7 @@
     {
       "_id": "Gekisou_Skill_Description_2",
       "_japanese": "{0 < effects[0].time ? \"JUST撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"JUST撃奏中\"}</color>\nJUST数獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>\n, JUST Count gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>,\nJUST Count gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自JUST激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在JUST激奏中\"}</color>，\nJUST獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"JUST激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"JUST激奏期间\"}</color>\nJUST获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"JUST 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"JUST 격주 중\"}</color>\nJUST 획득량 {effects[0].value} UP"
@@ -36891,7 +37331,7 @@
     {
       "_id": "Gekisou_Skill_Description_3",
       "_japanese": "{0 < effects[0].time ? \"JUST撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"JUST撃奏中\"}</color>\nJUST数獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>\n, JUST Count gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} <color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}</color>,\nJUST Count gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自JUST激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在JUST激奏中\"}</color>，\nJUST獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"JUST激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"JUST激奏期间\"}</color>\nJUST获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"JUST 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"JUST 격주 중\"}</color>\nJUST 획득량 {effects[0].value} UP"
@@ -36899,7 +37339,7 @@
     {
       "_id": "Gekisou_Skill_Description_4",
       "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\n撃奏COMBO獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\n, GEKISO COMBO gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>,\nGEKISO COMBO gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>，\n激奏COMBO獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n激奏COMBO获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\n격주 COMBO 획득량 {effects[0].value} UP"
@@ -36907,7 +37347,7 @@
     {
       "_id": "Gekisou_Skill_Description_5",
       "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\n撃奏COMBO獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\n, GEKISO COMBO gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>,\nGEKISO COMBO gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>，\n激奏COMBO獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n激奏COMBO获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\n격주 COMBO 획득량 {effects[0].value} UP"
@@ -36915,7 +37355,7 @@
     {
       "_id": "Gekisou_Skill_Description_6",
       "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\n撃奏COMBO獲得量{effects[0].value}UP",
-      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\n, GEKISO COMBO gain +{effects[0].value}",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>,\nGEKISO COMBO gain +{effects[0].value}",
       "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>，\n激奏COMBO獲得量{effects[0].value}UP",
       "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n激奏COMBO获得量提升{effects[0].value}",
       "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\n격주 COMBO 획득량 {effects[0].value} UP"
@@ -40132,7 +40572,7 @@
       "_id": "Help_SubCategory_Description_140002",
       "_japanese": "イベントボーナスとは、イベント期間中に特定のメンバーやスナップを編成してライブをすることで\nイベントを有利に進めることができる機能です。\n\n>>>「イベントpt」と「イベントアイテム」獲得量アップ\nイベントボーナス対象のメンバーおよびスナップを編成してライブをクリアすると、\n「イベントpt」と「イベントアイテム」の獲得量にそれぞれボーナスが加算されます。\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\nまた、編成したメンバーおよびスナップの各種ボーナス値はすべて合算され、イベントptとイベントアイテムの双方に適用されます。\n\n>>>「パラメータボーナス」\nイベントボーナス対象のメンバーおよびスナップの総合力がアップします。\nボーナス対象メンバーおよびスナップ、ボーナス値は対象のイベント画面でご確認することができます。\n※「パラメータボーナス」はチャレンジライブのみで発動します。",
       "_english": "Event Bonus is a feature that lets you progress through an event more advantageously\nby forming certain Members or Snapshots in your team and playing LIVEs during the event period.\n\n>>>Increased \"Event Pts\" and \"Event Items\" Earned\nWhen you clear a LIVE with Members and Snapshots eligible for the Event Bonus in your team,\nbonuses are added to both your \"Event Pts\" and \"Event Items\" earnings.\nYou can check the bonus-eligible Members and Snapshots, along with their bonus values, on the event screen.\nIn addition, all bonus values from the Members and Snapshots in your team are combined and applied to both Event Pts and Event Items.\n\n>>>\"Parameter Bonus\"\nThe Total Power of Members and Snapshots eligible for the Event Bonus is increased.\nYou can check the bonus-eligible Members and Snapshots, along with their bonus values, on the event screen.\n*\"Parameter Bonus\" only activates in Challenge LIVE.",
-      "_traditionalChinese": "所謂活動加成，是在活動期間內編組特定團員或快照\n便能在演出取得優勢的功能。\n\n>>>提升「活動pt」與「活動道具」獲得量\n編組活動加成對象團員與快照後通關演出，\n「活動pt」與「活動道具」的獲得量將會以各自的加成效果來增加數量。\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\n此外，系統將會總計編組團員與快照的各種加成值，活動pt與活動道具皆會受到該總計加成值的影響。\n\n>>>「能力值加成」\n將會提升活動加成對象成員與快照的綜合力。\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\n※「能力值加成」只會在挑戰演出中發動。",
+      "_traditionalChinese": "所謂活動加成，是在活動期間內編組特定團員或快照\n便能在演出取得優勢的功能。\n\n>>>提升「活動pt」與「活動道具」獲得量\n編組活動加成對象團員與快照後通關演出，\n「活動pt」與「活動道具」的獲得量將會以各自的加成效果來增加數量。\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\n此外，系統將會總計編組團員與快照的各種加成值，活動pt與活動道具皆會受到該總計加成值的影響。\n\n>>>「能力值加成」\n將會提升活動加成對象團員與快照的綜合力。\n可以在對象活動畫面中確認加成對象團員與快照的加成值。\n※「能力值加成」只會在挑戰演出中發動。",
       "_simplifiedChinese": "活动加成是指在活动期间，将特定成员或留影编入队伍进行演出，\n从而更有利于推进活动的一项功能。\n\n>>>「活动pt」与「活动道具」获得量提升\n将活动加成对象成员及留影编入队伍并完成演出后，\n「活动pt」与「活动道具」的获得量将分别增加相应的加成。\n加成对象成员及留影，以及加成数值，均可在相应的活动界面中确认。\n此外，编入队伍的成员及留影的各项加成数值将全部累加，并同时适用于活动pt与活动道具。\n\n>>>「能力值加成」\n活动加成对象成员及留影的综合能力将会提升。\n加成对象成员及留影，以及加成数值，均可在相应的活动界面中确认。\n※「能力值加成」仅在挑战演出中生效。",
       "_korean": "이벤트 보너스란, 이벤트 기간 중에 특정 멤버나 스냅을 편성해 라이브를 함으로써\n이벤트를 유리하게 진행할 수 있는 기능입니다.\n\n>>>「이벤트 pt」와 「이벤트 아이템」 획득량 업\n이벤트 보너스 대상 멤버 및 스냅을 편성하여 라이브를 클리어하면,\n「이벤트 pt」와 「이벤트 아이템」의 획득량에 각각 보너스가 가산됩니다.\n보너스 대상 멤버 및 스냅, 보너스 값은 대상 이벤트 화면에서 확인할 수 있습니다.\n또한 편성한 멤버 및 스냅의 각종 보너스 값은 모두 합산되어 이벤트 pt와 이벤트 아이템 양쪽에 적용됩니다.\n\n>>>「능력치 보너스」\n이벤트 보너스 대상 멤버 및 스냅의 종합력이 상승합니다.\n보너스 대상 멤버 및 스냅, 보너스 값은 대상 이벤트 화면에서 확인할 수 있습니다.\n※「능력치 보너스」는 챌린지 라이브에서만 발동합니다."
     },
@@ -42297,6 +42737,14 @@
       "_korean": "이벤트 교환소에서 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_46",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
       "_id": "Item_Description_47",
       "_japanese": "メンバーピースまたはスナップを変換すると獲得することができるアイテム",
       "_english": "An item obtained by converting Member Pieces or Snapshots.",
@@ -42516,7 +42964,7 @@
       "_id": "Gacha_Ticket_Description_2000008",
       "_japanese": "ハロウィン SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket for the Halloween SSR Guaranteed Ticket Gacha.",
-      "_traditionalChinese": "可用於萬聖節保證SSR券轉蛋的轉蛋券。",
+      "_traditionalChinese": "可抽取「萬聖節 SSR保證券轉蛋」的轉蛋券。",
       "_simplifiedChinese": "可用于万圣节SSR必得券招募的招募券。",
       "_korean": "할로윈 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
@@ -42524,7 +42972,7 @@
       "_id": "Gacha_Ticket_Description_2000009",
       "_japanese": "晦冥のナイトウォーカーズ 期間限定SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket for the Shadowed Nightwalkers Limited SSR Guaranteed Ticket Gacha.",
-      "_traditionalChinese": "可用於「晦暗的夜行者們」期間限定保證SSR券轉蛋的轉蛋券。",
+      "_traditionalChinese": "可抽取「晦暗的夜行者們 期間限定SSR保證券轉蛋」的轉蛋券。",
       "_simplifiedChinese": "可用于「晦冥的夜行者们」期间限定SSR必得券招募的招募券。",
       "_korean": "어둠의 나이트워커즈 기간 한정 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
@@ -42532,7 +42980,7 @@
       "_id": "Gacha_Ticket_Description_2000010",
       "_japanese": "撃奏アリーナ Season1 SR以上確定チケットガチャが引けるチケット",
       "_english": "A ticket for the GEKISO ARENA Season 1 SR+ Guaranteed Ticket Gacha.",
-      "_traditionalChinese": "可用於激奏舞台第1賽季保證SR以上券轉蛋的轉蛋券。",
+      "_traditionalChinese": "可抽取「激奏舞台 Season1 SR以上保證券轉蛋」的轉蛋券。",
       "_simplifiedChinese": "可用于激奏舞台 Season1 SR及以上必得券招募的招募券。",
       "_korean": "격주 아레나 Season1 SR이상 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
@@ -42540,7 +42988,7 @@
       "_id": "Gacha_Ticket_Description_2000011",
       "_japanese": "撃奏アリーナ Season1 SSR確定チケットガチャが引けるチケット",
       "_english": "A ticket for the GEKISO ARENA Season 1 SSR Guaranteed Ticket Gacha.",
-      "_traditionalChinese": "可用於激奏舞台第1賽季保證SSR券轉蛋的轉蛋券。",
+      "_traditionalChinese": "可抽取「激奏舞台 Season1 SSR保證券轉蛋」的轉蛋券。",
       "_simplifiedChinese": "可用于激奏舞台 Season1 SSR必得券招募的招募券。",
       "_korean": "격주 아레나 Season1 SSR 확정 티켓 뽑기에 사용할 수 있는 티켓입니다."
     },
@@ -42620,7 +43068,7 @@
       "_id": "Gacha_Ticket_Name_2000010",
       "_japanese": "撃奏アリーナ Season1 SR以上確定ガチャチケット",
       "_english": "GEKISO ARENA Season 1 SR+ Guaranteed Gacha Ticket",
-      "_traditionalChinese": "激奏舞台第1賽季保證SR以上轉蛋券",
+      "_traditionalChinese": "激奏舞台 Season1 保證SR以上轉蛋券",
       "_simplifiedChinese": "激奏舞台 Season1 SR及以上必得招募券",
       "_korean": "격주 아레나  Season1 SR이상 확정 뽑기 티켓"
     },
@@ -42628,7 +43076,7 @@
       "_id": "Gacha_Ticket_Name_2000011",
       "_japanese": "撃奏アリーナ Season1 SSR確定ガチャチケット",
       "_english": "GEKISO ARENA Season 1 SSR Guaranteed Gacha Ticket",
-      "_traditionalChinese": "激奏舞台第1賽季保證SSR轉蛋券",
+      "_traditionalChinese": "激奏舞台 Season1 保證SSR轉蛋券",
       "_simplifiedChinese": "激奏舞台 Season1 SSR必得招募券",
       "_korean": "격주 아레나 Season1 SSR 확정 뽑기 티켓"
     },
@@ -42708,7 +43156,7 @@
       "_id": "Gacha_Ticket_Phonetic_Name_2000010",
       "_japanese": "げきそうアリーナ しーずん1 SRいじょうかくていガチャチケット",
       "_english": "GEKISO ARENA Season 1 SR+ Guaranteed Gacha Ticket",
-      "_traditionalChinese": "激奏舞台第1賽季保證SR以上轉蛋券",
+      "_traditionalChinese": "激奏舞台 Season1 保證SR以上轉蛋券",
       "_simplifiedChinese": "激奏舞台第1赛季SR及以上必得招募券",
       "_korean": "げきそうアリーナ しーずん1 SRいじょうかくていガチャチケット"
     },
@@ -42716,7 +43164,7 @@
       "_id": "Gacha_Ticket_Phonetic_Name_2000011",
       "_japanese": "げきそうアリーナ しーずん1 SSRかくていガチャチケット",
       "_english": "GEKISO ARENA Season 1 SSR Guaranteed Gacha Ticket",
-      "_traditionalChinese": "激奏舞台第1賽季保證SSR轉蛋券",
+      "_traditionalChinese": "激奏舞台 Season1 保證SSR轉蛋券",
       "_simplifiedChinese": "激奏舞台第1赛季SSR必得招募券",
       "_korean": "げきそうアリーナ しーずん1 SSRかくていガチャチケット"
     },
@@ -43321,6 +43769,30 @@
       "_korean": "[Happy Birthday 26-27] 센고쿠 유노 각성에 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_10000076",
+      "_japanese": "[煌めきのパッスス]モーティスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Mortis \"Radiant Passus\"",
+      "_traditionalChinese": "[輝煌的步伐]Mortis覺醒時使用的道具",
+      "_simplifiedChinese": "用于[辉煌的步伐]Mortis觉醒的道具",
+      "_korean": "[반짝이는 파수스]모르티스 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000077",
+      "_japanese": "[玉座より見下ろして]アモーリスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Amoris \"Gazing Down from the Throne\"",
+      "_traditionalChinese": "[自王座俯瞰]Amoris覺醒時使用的道具",
+      "_simplifiedChinese": "用于[自王座俯瞰]Amoris觉醒的道具",
+      "_korean": "[왕좌에서 굽어보며]아모리스 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000078",
+      "_japanese": "[跪いて、忠誠を]ドロリスの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Doloris \"Kneel for Fealty\"",
+      "_traditionalChinese": "[屈膝，獻上忠誠]Doloris覺醒時使用的道具",
+      "_simplifiedChinese": "用于[单膝跪地，献上忠诚]Doloris觉醒的道具",
+      "_korean": "[무릎 꿇고, 충성을 맹세하라]돌로리스 각성에 사용하는 아이템"
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "Member Piece (Tomori Takamatsu \"Right Here, Right Now\")",
@@ -43919,6 +44391,30 @@
       "_traditionalChinese": "團員星輝（[Happy Birthday 26-27]千石由乃）",
       "_simplifiedChinese": "成员星辉（[Happy Birthday 26-27]千石由乃）",
       "_korean": "멤버 조각 ([Happy Birthday 26-27] 센고쿠 유노)"
+    },
+    {
+      "_id": "Item_Name_10000076",
+      "_japanese": "メンバーピース([煌めきのパッスス]モーティス)",
+      "_english": "Member Piece (Mortis \"Radiant Passus\")",
+      "_traditionalChinese": "團員星輝（[輝煌的步伐]Mortis）",
+      "_simplifiedChinese": "成员星辉（[辉煌的步伐]Mortis）",
+      "_korean": "멤버 조각 ([반짝이는 파수스] 모르티스)"
+    },
+    {
+      "_id": "Item_Name_10000077",
+      "_japanese": "メンバーピース([玉座より見下ろして]アモーリス)",
+      "_english": "Member Piece (Amoris \"Gazing Down from the Throne\")",
+      "_traditionalChinese": "團員星輝（[自王座俯瞰]Amoris）",
+      "_simplifiedChinese": "成员星辉（[自王座俯瞰]Amoris）",
+      "_korean": "멤버 조각 ([왕좌에서 굽어보며] 아모리스)"
+    },
+    {
+      "_id": "Item_Name_10000078",
+      "_japanese": "メンバーピース([跪いて、忠誠を]ドロリス)",
+      "_english": "Member Piece (Doloris \"Kneel for Fealty\")",
+      "_traditionalChinese": "團員星輝（[屈膝，獻上忠誠]Doloris）",
+      "_simplifiedChinese": "成员星辉（[单膝跪地，献上忠诚]Doloris）",
+      "_korean": "멤버 조각 ([무릎 꿇고, 충성을 맹세하라] 돌로리스)"
     },
     {
       "_id": "Item_Phonetic_Name_10000001",
@@ -44521,6 +45017,30 @@
       "_korean": "멤버 조각 10000075"
     },
     {
+      "_id": "Item_Phonetic_Name_10000076",
+      "_japanese": "めんばーぴーす10000076",
+      "_english": "Member Piece 10000076",
+      "_traditionalChinese": "團員星輝10000076",
+      "_simplifiedChinese": "成员星辉10000076",
+      "_korean": "멤버 조각 10000076"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000077",
+      "_japanese": "めんばーぴーす10000077",
+      "_english": "Member Piece 10000077",
+      "_traditionalChinese": "團員星輝10000077",
+      "_simplifiedChinese": "成员星辉10000077",
+      "_korean": "멤버 조각 10000077"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000078",
+      "_japanese": "めんばーぴーす10000078",
+      "_english": "Member Piece 10000078",
+      "_traditionalChinese": "團員星輝10000078",
+      "_simplifiedChinese": "成员星辉10000078",
+      "_korean": "멤버 조각 10000078"
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "Star",
@@ -44871,6 +45391,14 @@
       "_traditionalChinese": "活動獎章（琉金）",
       "_simplifiedChinese": "活动徽章（琉金）",
       "_korean": "이벤트 배지 (옐로우)"
+    },
+    {
+      "_id": "Item_Name_46",
+      "_japanese": "イベントバッジ(紫苑)",
+      "_english": "Event Badge (Violet)",
+      "_traditionalChinese": "活動獎章（紫苑）",
+      "_simplifiedChinese": "活动徽章（紫苑）",
+      "_korean": "이벤트 배지 (퍼플)"
     },
     {
       "_id": "Item_Name_47",
@@ -45383,6 +45911,14 @@
       "_traditionalChinese": "活動獎章（琉金）",
       "_simplifiedChinese": "活动徽章（琉金）",
       "_korean": "이벤트 배지 (옐로우)"
+    },
+    {
+      "_id": "Item_Phonetic_Name_46",
+      "_japanese": "イベントバッジ(紫苑)",
+      "_english": "Event Badge (Violet)",
+      "_traditionalChinese": "活動獎章（紫苑）",
+      "_simplifiedChinese": "活动徽章（紫苑）",
+      "_korean": "이벤트 배지 (퍼플)"
     },
     {
       "_id": "Item_Phonetic_Name_47",
@@ -46047,6 +46583,22 @@
       "_traditionalChinese": "夢限大MewType團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金團員的技巧值再提升{effects[1].value/100:F1}%",
       "_simplifiedChinese": "梦限大MewType成员的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金成员的技巧值再提升{effects[1].value/100:F1}%",
       "_korean": "무겐다이 뮤타입 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 또한 옐로우 멤버는 테크닉 {effects[1].value/100:F1}% 추가 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_64",
+      "_japanese": "紫苑のメンバーはビジュアルが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにAve Mujicaメンバーのビジュアルが{effects[1].value/100:F1}%UP",
+      "_english": "Violet Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Ave Mujica Member's visual +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "紫苑團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且Ave Mujica團員的形象值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "紫苑属性的成员形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且Ave Mujica成员的形象值提升{effects[1].value/100:F1}%",
+      "_korean": "퍼플 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 Ave Mujica 멤버의 비주얼 {effects[1].value/100:F1}% UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_65",
+      "_japanese": "Ave Mujicaメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
+      "_english": "Ave Mujica Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with LUCK type GEKISO Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
+      "_traditionalChinese": "Ave Mujica團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【LUCK】團員的表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
+      "_simplifiedChinese": "Ave Mujica成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且带有【LUCK】激奏技能的成员表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
+      "_korean": "Ave Mujica 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [LUCK] 멤버는 퍼포먼스 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
     },
     {
       "_id": "Leader_Skill_Name_Description_90001",
@@ -47846,7 +48398,23 @@
       "_english": "Mugendai MewType & Amber Technique UP",
       "_traditionalChinese": "夢限大MewType&琉金技巧值UP",
       "_simplifiedChinese": "梦限大MewType&琉金技巧值UP",
-      "_korean": "겐다이 뮤타입&옐로우 테크닉 UP"
+      "_korean": "무겐다이 뮤타입 & 옐로우 테크닉 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_64",
+      "_japanese": "紫苑&Ave MujicaビジュアルUP",
+      "_english": "Violet & Ave Mujica Visual UP",
+      "_traditionalChinese": "紫苑＆Ave Mujica形象值UP",
+      "_simplifiedChinese": "紫苑&Ave Mujica形象值UP",
+      "_korean": "퍼플 & Ave Mujica 비주얼 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_65",
+      "_japanese": "Ave Mujica&撃奏スキル【LUCK】パフォーマンスUP",
+      "_english": "Ave Mujica & LUCK Type GEKISO Skill Performance UP",
+      "_traditionalChinese": "Ave Mujica＆激奏技能【LUCK】表演值UP",
+      "_simplifiedChinese": "Ave Mujica&激奏技能【LUCK】表演值UP",
+      "_korean": "Ave Mujica & 격주 스킬 [LUCK] 퍼포먼스 UP"
     },
     {
       "_id": "Leader_Skill_Name_90001",
@@ -54036,7 +54604,7 @@
       "_id": "Live_Skill_Name_Description_9",
       "_japanese": "【判定】5秒間 PERFECT以上のスコア<color=#66FF8C>{effects[0].value/100:F1}%UP</color>\nGOOD以下を出すまでは、PERFECT以上のスコア<color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>",
       "_english": "\"[Judgment] For 5 sec., score from PERFECT or higher judgments <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>.<br>Until a GOOD or lower judgment occurs, score from PERFECT or higher judgments <color=#66FF8C>increases by {(effects[0].value + effects[1].value)/100:F1}%</color>.\"",
-      "_traditionalChinese": "【判定】5秒內，PERFECT及以上判定的得分<color=#66FF8C>提升{effects[0].value/100:F1}%</color><br>在出現GOOD及以下判定前，PERFECT及以上判定的得分<color=#66FF8C>提升{(effects[0].value + effects[1].value)/100:F1}%</color>",
+      "_traditionalChinese": "【判定】5秒內，PERFECT以上的分數<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，\n在出現GOOD以下的判定前，PERFECT以上的分數<color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>",
       "_simplifiedChinese": "【判定】5秒内，PERFECT及以上判定的得分<color=#66FF8C>提升{effects[0].value/100:F1}%</color><br>在出现GOOD及以下判定前，PERFECT及以上判定的得分<color=#66FF8C>提升{(effects[0].value + effects[1].value)/100:F1}%</color>",
       "_korean": "[판정] 5초간 PERFECT 이상의 스코어 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>\nGOOD이하의 판정이 나오기 전 PERFECT 이상의 스코어 <color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>"
     },
@@ -56409,6 +56977,14 @@
       "_korean": "Ayase"
     },
     {
+      "_id": "Lyricist_Name_100116",
+      "_japanese": "Diggy-MO’",
+      "_english": "Diggy-MO’",
+      "_traditionalChinese": "Diggy-MO’",
+      "_simplifiedChinese": "Diggy-MO’",
+      "_korean": "Diggy-MO’"
+    },
+    {
       "_id": "Lyricist_Name_100118",
       "_japanese": "ピノキオピー",
       "_english": "PinocchioP",
@@ -56583,6 +57159,22 @@
       "_traditionalChinese": "那個，我沒聽說是這樣啊……",
       "_simplifiedChinese": "等下，事先也没跟我说要这样啊……",
       "_korean": "아니, 난 이런 얘기 못 들었는데......"
+    },
+    {
+      "_id": "MemberGachaVoice_76",
+      "_japanese": "光差すこの場所に——私は、いる",
+      "_english": "Here in this light-drenched place— I exist.",
+      "_traditionalChinese": "在光芒灑落的地方——我，就在這裡。",
+      "_simplifiedChinese": "在光芒洒落的地方——我，就在这里。",
+      "_korean": "빛이 닿는 이 곳에 나는, 존재해"
+    },
+    {
+      "_id": "MemberGachaVoice_77",
+      "_japanese": "そんな顔しちゃって……アタシに完敗じゃん",
+      "_english": "That look on your face... I've totally got you beat.",
+      "_traditionalChinese": "瞧你這表情……輸得真徹底呢。",
+      "_simplifiedChinese": "瞧你这表情……输得真彻底呢。",
+      "_korean": "그런 표정까지 짓다니...... 내가 완전히 이겼네?"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -57183,6 +57775,30 @@
       "_traditionalChinese": "Happy Birthday 26-27",
       "_simplifiedChinese": "Happy Birthday 26-27",
       "_korean": "Happy Birthday 26-27"
+    },
+    {
+      "_id": "MemberSubtitle_76",
+      "_japanese": "煌めきのパッスス",
+      "_english": "Radiant Passus",
+      "_traditionalChinese": "輝煌的步伐",
+      "_simplifiedChinese": "辉煌的步伐",
+      "_korean": "반짝이는 파수스"
+    },
+    {
+      "_id": "MemberSubtitle_77",
+      "_japanese": "玉座より見下ろして",
+      "_english": "Gazing Down from the Throne",
+      "_traditionalChinese": "自王座俯瞰",
+      "_simplifiedChinese": "自王座俯瞰",
+      "_korean": "왕좌에서 굽어보며"
+    },
+    {
+      "_id": "MemberSubtitle_78",
+      "_japanese": "跪いて、忠誠を",
+      "_english": "Kneel for Fealty",
+      "_traditionalChinese": "屈膝，獻上忠誠",
+      "_simplifiedChinese": "单膝跪地，献上忠诚",
+      "_korean": "무릎 꿇고, 충성을 맹세하라"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -57833,6 +58449,14 @@
       "_korean": "곡 「{MusicId}」을(를) {AchievementCount}회 클리어하기\n※LIFE 1 이상으로 라이브 완료 시 클리어"
     },
     {
+      "_id": "Mission_Description_LiveClearMusic_02",
+      "_japanese": "楽曲「{MusicId}」を{AchievementCount}回クリアしよう ※LIFE1以上でライブを終えるとクリア",
+      "_english": "Clear the song \"{MusicId}\" {AchievementCount} time(s) *Cleared by finishing the LIVE with at least 1 LIFE remaining.",
+      "_traditionalChinese": "通關{AchievementCount}次樂曲「{MusicId}」 ※在LIFE1以上的狀態完成演出即可通關",
+      "_simplifiedChinese": "完成{AchievementCount}次乐曲「{MusicId}」 ※演出结束时LIFE为1以上即视为完成",
+      "_korean": "곡 「{MusicId}」을(를) {AchievementCount}회 클리어하기 ※LIFE 1 이상으로 라이브 완료 시 클리어"
+    },
+    {
       "_id": "Mission_Description_LiveClearUnique",
       "_japanese": "楽曲を{AchievementCount}種類クリアしよう\n※LIFE1以上でライブを終えるとクリア",
       "_english": "Clear {AchievementCount} types of songs\n*Cleared by finishing the LIVE with at least 1 LIFE remaining.",
@@ -58276,7 +58900,7 @@
       "_id": "Mission_Description_BattleLiveClear",
       "_japanese": "みんなでライブを{AchievementCount}回クリアしよう\n※LIFE1以上でライブを終えるとクリア",
       "_english": "Clear Multi LIVE {AchievementCount} times\n※Finish with at least 1 LIFE to count as a clear.",
-      "_traditionalChinese": "通關多人演出{AchievementCount}次\n※結束演出時LIFE為1以上，即視為通關",
+      "_traditionalChinese": "通關多人演出{AchievementCount}次\n※在LIFE1以上的狀態完成演出即可通關",
       "_simplifiedChinese": "通关多人演出{AchievementCount}次\n※结束演出时LIFE为1及以上，即视为通关",
       "_korean": "멀티 플레이에서 {AchievementCount}회 클리어하기\n※LIFE 1 이상으로 라이브 완료 시 클리어"
     },
@@ -58364,7 +58988,7 @@
       "_id": "Mission_Description_MemberCardUniqueCollect",
       "_japanese": "「{MemberCardId.SubTitle} {MemberCardId}」のメンバーを獲得しよう",
       "_english": "Obtain the member “{MemberCardId.SubTitle} {MemberCardId}”",
-      "_traditionalChinese": "獲得「{MemberCardId.SubTitle} {MemberCardId}」成員",
+      "_traditionalChinese": "獲得「{MemberCardId.SubTitle} {MemberCardId}」團員",
       "_simplifiedChinese": "获得「{MemberCardId.SubTitle} {MemberCardId}」成员",
       "_korean": "「{MemberCardId.SubTitle} {MemberCardId}」 멤버 획득하기"
     },
@@ -58372,7 +58996,7 @@
       "_id": "Mission_Description_SupportCardUniqueCollect",
       "_japanese": "「{SupportCardId.SubTitle} {SupportCardId}」のスナップを獲得しよう",
       "_english": "Obtain the Snapshot “{SupportCardId.SubTitle} {SupportCardId}”",
-      "_traditionalChinese": "獲得「{SupportCardId.SubTitle} {SupportCardId}」留影",
+      "_traditionalChinese": "獲得「{SupportCardId.SubTitle} {SupportCardId}」快照",
       "_simplifiedChinese": "获得「{SupportCardId.SubTitle} {SupportCardId}」留影",
       "_korean": "「{SupportCardId.SubTitle} {SupportCardId}」 스냅 획득하기"
     },
@@ -58404,7 +59028,7 @@
       "_id": "Mission_Description_MemberCardUniqueRank",
       "_japanese": "「{MemberCardId.SubTitle} {MemberCardId}」の覚醒段階を{AchievementCount}にしよう",
       "_english": "Raise the Awakening stage of “{MemberCardId.SubTitle} {MemberCardId}” to {AchievementCount}",
-      "_traditionalChinese": "將「{MemberCardId.SubTitle} {MemberCardId}」成員的覺醒階段提升至{AchievementCount}",
+      "_traditionalChinese": "將「{MemberCardId.SubTitle} {MemberCardId}」團員的覺醒階段提升至{AchievementCount}",
       "_simplifiedChinese": "将「{MemberCardId.SubTitle} {MemberCardId}」成员的觉醒阶段提升至{AchievementCount}",
       "_korean": "「{MemberCardId.SubTitle} {MemberCardId}」의 각성 단계 {AchievementCount} 달성하기"
     },
@@ -58420,7 +59044,7 @@
       "_id": "Mission_Description_SupportCardUniqueRank",
       "_japanese": "「{SupportCardId.SubTitle} {SupportCardId}」の上限解放段階を{AchievementCount}にしよう",
       "_english": "Raise the Limit Break stage of “{SupportCardId.SubTitle} {SupportCardId}” to {AchievementCount}",
-      "_traditionalChinese": "將「{SupportCardId.SubTitle} {SupportCardId}」留影的上限解放階段提升至{AchievementCount}",
+      "_traditionalChinese": "將「{SupportCardId.SubTitle} {SupportCardId}」快照開放上限提升至{AchievementCount}",
       "_simplifiedChinese": "将「{SupportCardId.SubTitle} {SupportCardId}」留影的上限解放阶段提升至{AchievementCount}",
       "_korean": "「{SupportCardId.SubTitle} {SupportCardId}」의 상한 해제 단계 {AchievementCount} 달성하기"
     },
@@ -59633,6 +60257,14 @@
       "_korean": "KAIBUTSU"
     },
     {
+      "_id": "Music_Tilte_100116",
+      "_japanese": "ふたつの月  ~Deep Into The Forest~",
+      "_english": "Two Moons",
+      "_traditionalChinese": "雙月~Deep Into The Forest~",
+      "_simplifiedChinese": "双月~Deep Into The Forest~",
+      "_korean": "두개의 달 ~Deep Into The Forest~"
+    },
+    {
       "_id": "Music_Tilte_100118",
       "_japanese": "ノンブレス・オブリージュ",
       "_english": "Non-breath oblige",
@@ -60433,6 +61065,14 @@
       "_korean": "KAIBUTSU"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100116",
+      "_japanese": "ふたつのつき ～でぃーぷ いんとぅ ざ ふぉれすと～",
+      "_english": "Two Moons",
+      "_traditionalChinese": "ふたつのつき ～でぃーぷ いんとぅ ざ ふぉれすと～",
+      "_simplifiedChinese": "双月~Deep Into The Forest~",
+      "_korean": "두개의 달 ~Deep Into The Forest~"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100118",
       "_japanese": "のんぶれす・おぶりーじゅ",
       "_english": "Non-breath oblige",
@@ -61082,11 +61722,11 @@
     },
     {
       "_id": "Music_Ruby_Tilte_100102",
-      "_japanese": "新人類は仮想世界の夢を見るか？",
+      "_japanese": "<r=ニュータイプはバーチャルのゆめをみるか？>新人類は仮想世界の夢を見るか？</r>",
       "_english": "Do Newtypes have virtual dreams?",
-      "_traditionalChinese": "新人類會夢見虛擬世界嘛？",
-      "_simplifiedChinese": "新人类会梦见虚拟世界嘛？",
-      "_korean": "뉴타입은 버츄얼의 꿈을 꾸는가?"
+      "_traditionalChinese": "<r=ニュータイプはバーチャルのゆめをみるか？>新人類會夢見虛擬世界嘛？</r>",
+      "_simplifiedChinese": "<r=Mewtype会梦见虚拟世界嘛？>新人类会梦见虚拟世界嘛？</r>",
+      "_korean": "<r=뉴타입은 버츄얼의 꿈을 꾸는가?>뉴타입은 버츄얼의 꿈을 꾸는가?</r>"
     },
     {
       "_id": "Music_Ruby_Tilte_100104",
@@ -61183,6 +61823,14 @@
       "_traditionalChinese": "怪物",
       "_simplifiedChinese": "怪物",
       "_korean": "KAIBUTSU"
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100116",
+      "_japanese": "ふたつの月  ~Deep Into The Forest~",
+      "_english": "Two Moons",
+      "_traditionalChinese": "雙月~Deep Into The Forest~",
+      "_simplifiedChinese": "双月~Deep Into The Forest~",
+      "_korean": "두개의 달 ~Deep Into The Forest~"
     },
     {
       "_id": "Music_Ruby_Tilte_100118",
@@ -61500,7 +62148,7 @@
       "_id": "Present_18",
       "_japanese": "撃奏アリーナ「{0}」{1}初回ランク到達報酬です。",
       "_english": "GEKISO ARENA [{0}] First-Time Rank {1} Reward",
-      "_traditionalChinese": "激奏舞台首次達到{1}等級的報酬",
+      "_traditionalChinese": "激奏舞台「{0}」首次達到{1}等級的報酬。",
       "_simplifiedChinese": "这是激奏舞台{1}段位首次达成奖励。",
       "_korean": "격주 아레나「{0}」 {1}  최초 달성 보상입니다."
     },
@@ -61516,7 +62164,7 @@
       "_id": "Present_20",
       "_japanese": "撃奏アリーナ「{0}」{1}位のランキング報酬です。",
       "_english": "GEKISO ARENA [{0}] Ranking Reward (No. {1})",
-      "_traditionalChinese": "激奏舞台「{0}」{1}位的排行榜報酬。",
+      "_traditionalChinese": "激奏舞台「{0}」第{1}名的排行榜報酬。",
       "_simplifiedChinese": "这是激奏舞台「{0}」第{1}名的排名奖励。",
       "_korean": "격주 아레나 「{0}」 {1}위 랭크 보상입니다."
     },
@@ -62185,6 +62833,14 @@
       "_korean": "A day〜#HalloweenSnap〜 프리미엄 미션 패스가 해제됩니다."
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_9",
+      "_japanese": "移ろう月のサルタティオプレミアムミッションパスが解放されます。",
+      "_english": "Saltatio Beneath the Shifting Moon Premium Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放月色之下流轉之舞 Premium任務通行證。",
+      "_simplifiedChinese": "解锁月下流转之舞高级任务通行证。",
+      "_korean": "흐르는 달의 살타티오 프리미엄 미션 패스가 해제됩니다."
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "Log in",
@@ -62559,6 +63215,14 @@
       "_traditionalChinese": "A day〜#HalloweenSnap〜任務通行證",
       "_simplifiedChinese": "A day～#HalloweenSnap～任务通行证",
       "_korean": "A day〜#HalloweenSnap〜 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_9",
+      "_japanese": "移ろう月のサルタティオミッションパス",
+      "_english": "Saltatio Beneath the Shifting Moon Mission Pass",
+      "_traditionalChinese": "月色之下流轉之舞任務通行證",
+      "_simplifiedChinese": "月下流转之舞任务通行证",
+      "_korean": "흐르는 달의 살타티오 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -63145,6 +63809,30 @@
       "_korean": "프리미엄 시즌 미션 패스 Season 1"
     },
     {
+      "_id": "Shop_Name_1000000145",
+      "_japanese": "",
+      "_english": "Saltatio Beneath the Shifting Moon Premium Mission Pass",
+      "_traditionalChinese": "月色之下流轉之舞 Premium任務通行證",
+      "_simplifiedChinese": "月色之下流转之舞 高级任务通行证",
+      "_korean": "흐르는 달의 살타티오 프리미엄 미션 패스"
+    },
+    {
+      "_id": "Shop_Name_1000000146",
+      "_japanese": "",
+      "_english": "Ave Mujica Chat Room Theme Pack",
+      "_traditionalChinese": "Ave Mujica 聊天室主題禮包",
+      "_simplifiedChinese": "Ave Mujica 聊天室主题礼包",
+      "_korean": "Ave Mujica 채팅방 테마 패키지"
+    },
+    {
+      "_id": "Shop_Name_1000000148",
+      "_japanese": "",
+      "_english": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -Celebration Premium Mission Pass",
+      "_traditionalChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 Premium任務通行證",
+      "_simplifiedChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念 高级任务通行证",
+      "_korean": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -개최 기념 프리미엄 미션 패스"
+    },
+    {
       "_id": "Shop_Name_1100000001",
       "_japanese": "",
       "_english": "Star×120 [MyCard]",
@@ -63467,10 +64155,10 @@
     {
       "_id": "Shop_Description_1000000117",
       "_japanese": "ミッションパスのプレミアムパスを購入できます。",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
+      "_english": "Event Premium Mission Pass + 320 Paid Stars.",
+      "_traditionalChinese": "可購買活動專屬Premium任務通行證與付費星鑽320個。",
+      "_simplifiedChinese": "可购买活动专属高级任务通行证和付费星钻320个。",
+      "_korean": "미션 패스 중 프리미엄 미션 패스와 유료 스타 320개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1000000118",
@@ -63623,6 +64311,14 @@
       "_traditionalChinese": "可購買Premium賽季任務通行證與付費星鑽960個。",
       "_simplifiedChinese": "可购买高级赛季任务通行证与付费星钻960个。",
       "_korean": "프리미엄 시즌 미션 패스와 유료 스타 960개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000137",
+      "_japanese": "",
+      "_english": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -Celebration Mission Pass+760 Paid Stars.",
+      "_traditionalChinese": "可購買MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念任務通行證與付費星鑽760個。",
+      "_simplifiedChinese": "可购买MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念任务通行证与付费星钻760个。",
+      "_korean": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -개최 기념 미션 패스와 유료 스타 760개를 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1100000001",
@@ -66097,6 +66793,14 @@
       "_korean": "A day〜#HalloweenSnap〜 보상 스탬프 2"
     },
     {
+      "_id": "Stamp_Name_79",
+      "_japanese": "移ろう月のサルタティオ 報酬スタンプ",
+      "_english": "Saltatio Beneath the Shifting Moon reward stamp",
+      "_traditionalChinese": "月色之下流轉之舞 報酬貼圖",
+      "_simplifiedChinese": "月下流转之舞 奖励表情",
+      "_korean": "흐르는 달의 살타티오 보상 스탬프"
+    },
+    {
       "_id": "Stamp_Name_81",
       "_japanese": "ABRACADABRA",
       "_english": "ABRACADABRA",
@@ -66289,6 +66993,14 @@
       "_korean": "좋아하는 색, 좋아하는 맛, 좋아하는 것.\n누구나 당연하게 대답할 수 있는 질문이지만, 시즈쿠는 대답하지 못한다.\n이 질문의 답을 찾기 위해 시즈쿠는 요모기에게 한 가지 부탁을 하게 된다.        "
     },
     {
+      "_id": "Story_Chapter_Description_9",
+      "_japanese": "Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。\nそこで紡がれるのは、森の古城の姫を巡る物語。\n彼女の顔は、見る者によって違っていて……\t\t",
+      "_english": "After Ave Mujica's re-debut, Sakiko works on the concept for their next masquerade.\nWhat unfolds is a tale centering on the princess of an old castle in the woods.\nHer face looks different to each beholder...\t\t",
+      "_traditionalChinese": "Ave Mujica再次出道後，祥子開始構思下一場假面舞會。\n她所編織的，是一段關於森林古堡公主的故事。\n然而公主的面貌，在每個人的眼中似乎都截然不同……\t\t",
+      "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n她的面孔，在不同人眼中截然不同…………\t\t",
+      "_korean": "Ave Mujica 재데뷔 후, 다음 매스커레이드의 구상을 다듬는 사키코.\n그 무대에서 엮어내는 것은 숲속 고성의 공주를 둘러싼 이야기.\n그녀의 얼굴은 보는 이에 따라 저마다 달랐는데......\t\t"
+    },
+    {
       "_id": "Story_Chapter_Description_33",
       "_japanese": "Happy Birthday 26-27",
       "_english": "Happy Birthday 26-27",
@@ -66359,6 +67071,14 @@
       "_traditionalChinese": "Shake Your 魂, Baby!!",
       "_simplifiedChinese": "Shake Your 魂, Baby!!",
       "_korean": "Shake Your 영혼, Baby!!"
+    },
+    {
+      "_id": "Story_Chapter_Name_9",
+      "_japanese": "移ろう月のサルタティオ",
+      "_english": "Saltatio Beneath the Shifting Moon",
+      "_traditionalChinese": "月色之下流轉之舞",
+      "_simplifiedChinese": "月下流转之舞",
+      "_korean": "흐르는 달의 살타티오"
     },
     {
       "_id": "Story_Chapter_Name_33",
@@ -67657,6 +68377,78 @@
       "_korean": "무리하지 말고 눈 좀 붙여. 아니, 제발 좀 자"
     },
     {
+      "_id": "Story_Episode_Description_901",
+      "_japanese": "だけれど美しい姫君、彼女は……",
+      "_english": "But that beautiful princess... she...",
+      "_traditionalChinese": "然而，美麗的公主她……",
+      "_simplifiedChinese": "可是，那位美丽的公主，她……",
+      "_korean": "하지만 그 아름다운 공주님께서는......"
+    },
+    {
+      "_id": "Story_Episode_Description_902",
+      "_japanese": "（今夜は三日月ですのね……）",
+      "_english": "(The moon is a crescent tonight...)",
+      "_traditionalChinese": "（今晚是新月呢……）",
+      "_simplifiedChinese": "（今晚是一弯新月呢……）",
+      "_korean": "(오늘 밤은 초승달이 떴구나......)"
+    },
+    {
+      "_id": "Story_Episode_Description_903",
+      "_japanese": "僕にはあの人がわからない……\nわからないのです",
+      "_english": "I do not understand that person...\nI just do not understand her.",
+      "_traditionalChinese": "我不懂那個人……\n實在搞不懂。",
+      "_simplifiedChinese": "我不懂那个人……\n我真的不懂",
+      "_korean": "저는 그분을 잘 모르겠습니다......\n정말 모르겠습니다"
+    },
+    {
+      "_id": "Story_Episode_Description_904",
+      "_japanese": "……なぜそのような、冷めた眼差しを――",
+      "_english": "...Why do you look at me with such cold eyes—",
+      "_traditionalChinese": "……為什麼您的眼神如此冷淡──",
+      "_simplifiedChinese": "……为什么会露出那样冰冷的眼神——",
+      "_korean": "......어째서 그런 차가운 눈빛으로 바라보시는 겁니까......"
+    },
+    {
+      "_id": "Story_Episode_Description_905",
+      "_japanese": "あなた自身の悲しみはどこへ行ってしまったのですか！",
+      "_english": "Where has your own grief gone!?",
+      "_traditionalChinese": "屬於您的那份悲傷情緒，究竟消失到哪裡去了！？",
+      "_simplifiedChinese": "您自己那份悲伤，究竟到哪里去了！",
+      "_korean": "공주님은 슬퍼하는 마음조차 없으신 겁니까?"
+    },
+    {
+      "_id": "Story_Episode_Description_906",
+      "_japanese": "（もう何も演じる必要がなくなった彼女は、\nもしかすると——）",
+      "_english": "(She has nothing left to perform at all now...\nPerhaps—)",
+      "_traditionalChinese": "（已經不再需要扮演任何角色的她，\n說不定──）",
+      "_simplifiedChinese": "（已经无须再扮演任何角色的她，\n或许——）",
+      "_korean": "(이제 더는 연기할 필요가 없어진 그녀는,\n어쩌면......)"
+    },
+    {
+      "_id": "Story_Episode_Description_907",
+      "_japanese": "（どうであれ、わたくしは――）",
+      "_english": "(Whatever may come, I—)",
+      "_traditionalChinese": "（無論如何，我──）",
+      "_simplifiedChinese": "（无论如何，我都会——）",
+      "_korean": "(어떻게 되든, 나는......)"
+    },
+    {
+      "_id": "Story_Episode_Description_908",
+      "_japanese": "……そういえば、サキコっていつもどうやって台本考えてんの？",
+      "_english": "...By the way, Sakiko, how do you always come up with your scripts?",
+      "_traditionalChinese": "……這麼說來，祥子妳平時都是怎麼想出這些劇本的？",
+      "_simplifiedChinese": "……说起来，祥子平时都是怎么构思剧本的？",
+      "_korean": "......그러고 보니, 사키코, 너는 평소에 대본 어떻게 짜는 거야?"
+    },
+    {
+      "_id": "Story_Episode_Description_909",
+      "_japanese": "……着実に評価を取り戻せているからこそ、今は――……",
+      "_english": "...It's precisely because we're steadily regaining our reputation that now...",
+      "_traditionalChinese": "……正因為我們正一步步挽回外界的評價，所以現在……",
+      "_simplifiedChinese": "……正因为已经在稳步挽回评价，现在才更要——",
+      "_korean": "......차근차근 평판을 되찾아 가고 있는 만큼, 더더욱 지금은......"
+    },
+    {
       "_id": "Story_Episode_Description_3301",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -68007,6 +68799,30 @@
       "_traditionalChinese": "睦&初華",
       "_simplifiedChinese": "睦&初华",
       "_korean": "무츠미 & 우이카"
+    },
+    {
+      "_id": "Snap_Name_Umiri_Nyamu",
+      "_japanese": "海鈴&にゃむ",
+      "_english": "Umiri & Nyamu",
+      "_traditionalChinese": "海鈴&若麥",
+      "_simplifiedChinese": "海铃&若麦",
+      "_korean": "우미리 & 냐무"
+    },
+    {
+      "_id": "Snap_Name_Mortis",
+      "_japanese": "モーティス",
+      "_english": "Mortis",
+      "_traditionalChinese": "Mortis",
+      "_simplifiedChinese": "Mortis",
+      "_korean": "모르티스"
+    },
+    {
+      "_id": "Snap_Name_Oblivionis",
+      "_japanese": "オブリビオニス",
+      "_english": "Oblivionis",
+      "_traditionalChinese": "Oblivionis",
+      "_simplifiedChinese": "Oblivionis",
+      "_korean": "오블리비오니스"
     },
     {
       "_id": "SupportDiary_26",
@@ -68407,6 +69223,30 @@
       "_traditionalChinese": "南瓜，\n每一顆的臉都不太一樣，\n像是眼睛，還有嘴巴的形狀。\n\n拿起來意外地很輕，\n就算一次拿3顆也沒問題。\n\n初華在擔心我，\n明明就不要緊的。\n\n抱著的時候，\n會聞到一點泥土的味道。\n這讓我想起\n以前種南瓜的時候。\n\n要不要再種種看呢。",
       "_simplifiedChinese": "南瓜\n每一个　脸都有点不一样\n像是眼睛　还有嘴巴的形状\n\n拿在手里　比想象中要轻\n就算拿3个　也没问题\n\n初华在担心我\n明明不要紧的\n\n抱在怀里\n能闻到一点泥土的味道\n以前　种南瓜时的事\n想起来了\n\n要不要　再种一些呢",
       "_korean": "호박\n다 조금씩 다르게 생겼어\n눈이나 입 모양 같은 게\n\n들어 보니까 의외로 가볍네\n세 개도 들을 수 있을 정도야\n\n우이카가 걱정하고 있네\n난 괜찮은데\n\n품에 안고 있으니까\n흙냄새가 살짝 나\n호박 키우던 때가\n생각나네\n\n다시 키워 볼까"
+    },
+    {
+      "_id": "SupportDiary_78",
+      "_japanese": "叫んでる\n必死な顔で\n\n大丈夫\n私にはわかるわ\n\nあなたが何を望んでいるのか\nどんな私を見たいのか\nどんな嘘が欲しいのか\n\nあなたには　わかるかしら\n\nこれが演技か\nはたまた嘘か\n\nそれとも――――",
+      "_english": "You're screaming,\nwith that desperate look on your face.\n\nIt's okay.\nI understand.\n\nWhat you want,\nwhat kind of me you want to see,\nwhat kind of lie you want.\n\nCan you tell, I wonder?\n\nIs this acting?\nOr a lie?\n\nOr perhaps―",
+      "_traditionalChinese": "以拚命的神情\n吶喊著。\n\n別擔心，\n我都明白的。\n\n你究竟在期望些什麼？\n究竟想看見怎麼樣的我？\n究竟想聽到怎麼樣的謊言？\n\n你，是否真的知曉？\n\n這究竟是演技\n還是謊言。\n\n抑或是──",
+      "_simplifiedChinese": "在嘶喊着\n带着一副拼命的神情\n\n没关系\n我都明白\n\n你在期盼着什么\n想看到怎样的我\n想要怎样的谎言\n\n你　看得出来吗\n\n这究竟是演技\n抑或是谎言\n\n又或者————",
+      "_korean": "처절한 표정으로\n울부짖고 있어\n\n괜찮아\n난 다 알고 있어\n\n네가 무엇을 바라는지\n내가 어떤 모습이길 바라는지\n어떤 거짓을 원하는지 말이야\n\n과연 너는 알아챌 수 있을까?\n\n이건 연기일까\n아니면 그저 거짓일까\n\n그것도 아니면............"
+    },
+    {
+      "_id": "SupportDiary_79",
+      "_japanese": "どうして　こうなってしまったんだろう\n\n嗚呼　愛しい姫\n何よりもかけがえのない　大切な人――\n\n初めて会った日　あなたは\n右も左もわからない小さな僕に\n月のように優しく微笑んで\n手を差し伸べてくれた\n\nそのあたたかい手も　その美しい微笑みも\nもう戻ってはこない……\n\n怖くてどうしようもなくて\n逃げ出した僕のことを　どうか許して欲しい\n\n僕にできることは　もうこれしかない\nどうかこの祈りが　この想いが\nあなたへの手向けとなりますように",
+      "_english": "Why did things have to turn out like this?\n\nAlas, my beloved princess!\nThe most precious, irreplaceable person of all―\n\nThe day we first met,\nyou smiled at me so gently, like the moon,\nand reached out your hand to me,\nwho knew nothing of the world.\n\nThat warm hand, that beautiful smile—\nthey will never come back...\n\nI was so terrified and helpless.\nPlease, forgive me for running away.\n\nThis is all I can do now.\nPlease, may this prayer, may these feelings\nbecome an offering to you.",
+      "_traditionalChinese": "到底為什麼會變成這樣子呢？\n\n啊啊，惹人憐愛的公主。\n任何事物都比不上的無可取代之人──\n\n初次見面那天，\n您宛如明月，面帶溫柔的笑容，\n對年幼且搞不清楚狀況的我\n伸出了手。\n\n然而那溫暖的手與美麗的笑容，\n都再也回不來了……\n\n懇請您原諒\n害怕到無可救藥而逃走的我。\n\n現在，我能做的只有這件事了。\n但願這份祈禱和心意，\n能成為獻給您的餞別禮。",
+      "_simplifiedChinese": "究竟为何　会落得如此境地\n\n啊啊　挚爱的公主\n胜过一切、无可替代的　珍视之人——\n\n初遇之日　是你\n向尚且懵懂无知、年幼渺小的我\n如明月般温柔地微笑着\n伸出了手\n\n那温暖的双手　那美丽的笑颜\n皆已不复返……\n\n还请你原谅\n因害怕得不知所措　最终转身逃开的我\n\n我所能做的　唯余此事\n但愿这份祈祷　这份思念\n能成为献予你的祭礼",
+      "_korean": "어째서 이렇게 되어 버린 것일까\n\n아아, 사랑하는 공주님,\n그 무엇과도 바꿀 수 없는, 나의 가장 소중한 사람......\n\n처음 마주한 날, 당신은\n아무것도 모르던 어린 내게\n달처럼 온화한 미소를 띠며\n손을 내밀어 주었지\n\n그 따스한 손길도, 그 아름다운 미소도\n이제 두 번 다시 볼 수 없어......\n\n두려움에 사로잡혀\n도망쳐 버린 나를, 부디 용서해 주기를.\n\n내게 남은 것은 이제 이것밖에 없어\n부디 이 기도가, 이 마음이\n당신의 넋을 기리는 꽃이 되기를"
+    },
+    {
+      "_id": "SupportDiary_80",
+      "_japanese": "ふむ……\n『怒りじゃなくて寂しさをぶつけてる』\n『気持ちをぶつける前に一呼吸置く』\n『抑えていた分、ここで一気にテンション上げて』\n\n感情の機微から間の取り方、緩急のつけ方まで\n細かくメモされています\n\n役については、ずいぶん深く考えているんですね\n\n\n祐天寺さんに対する理解が\nまた一段と深まった気がします\n\n近いうちに、私の仕事のメモも見せてあげましょう\n相互理解は絆を深める近道になるでしょうから\n\n我ながら良い作戦ですね",
+      "_english": "Hmm...\n\"Projecting loneliness rather than anger.\"\n\"Take a breath before letting your feelings out.\"\n\"Since you've been holding it in, let it all out here in one burst.\"\n\nThe subtle nuances of emotion, the timing of pauses, the shifts in tempo and intensity—\nit's all written down in detailed notes.\n\nYou've really thought deeply about the role, haven't you?\n\n\nI feel like my understanding of Yūtenji-san\nhas deepened even further.\n\nI'll show you my work notes before long, too.\nAfter all, mutual understanding is a shortcut to deepening our bond.\n\nA good plan, if I do say so myself.",
+      "_traditionalChinese": "嗯……\n「要宣洩的不是憤怒而是寂寞。」\n「在宣洩情緒之前，先深吸一口氣。」\n「先前有多壓抑，就在這裡一次把情緒拉到多滿。」\n\n感情的細微變化、節奏的拿捏，到抑揚頓挫的處理，\n都詳細地記錄在筆記上了。\n\n對於角色，看來她分析得很透徹呢。\n\n\n總覺得我對祐天寺同學的理解\n又更深入一個層級了。\n\n最近找個機會也讓她看看我的工作筆記吧，\n畢竟互相了解才是加深情誼的捷徑。\n\n連我自己都覺得這真是個好作戰呢。",
+      "_simplifiedChinese": "嗯……\n『宣泄的不是愤怒，而是寂寞』\n『感情爆发前先停顿一下』\n『前面一直压抑着，到这里一口气把情绪拉起来』\n\n从细腻的情感变化，到停顿的拿捏、轻重缓急的把控\n全都细致地记了下来\n\n对于角色，她揣摩得相当深入呢\n\n\n感觉我对祐天寺同学的了解\n又更深了一层\n\n改天，把我的工作笔记也拿给她看看吧\n毕竟相互理解应当是加深情谊的捷径\n\n连我自己都觉得这真是个好计策呢",
+      "_korean": "흠......\n「화내는 게 아니라 외로움을 쏟아붓는 느낌」\n「감정을 터뜨리기 전에 숨 한 번 고르기」\n「감정을 억누르고 있던 만큼, 여기서는 텐션을 단번에 확 끌어올리기」\n\n섬세한 감정선부터 뜸 들이는 타이밍, 완급 조절까지\n꼼꼼하게 메모해 뒀네요\n\n자신이 맡은 배역에 대해 꽤 깊이 파고들고 있군요\n\n\n유텐지 씨에 대해\n한층 더 깊이 알게 된 것 같아요\n\n조만간 제 업무 메모도 보여줘야겠어요\n서로를 이해하는 게 친해지는 가장 빠른 방법일 테니까요\n\n스스로 생각하기에도 제법 괜찮은 작전이네요"
     },
     {
       "_id": "SupportSubtitle_1",
@@ -69025,6 +69865,30 @@
       "_korean": "옮기고, 꾸미며"
     },
     {
+      "_id": "SupportSubtitle_78",
+      "_japanese": "何も映さない瞳",
+      "_english": "Hollow Eyes",
+      "_traditionalChinese": "空洞的雙眼",
+      "_simplifiedChinese": "空洞的眼眸",
+      "_korean": "그 무엇도 담지 않은 눈동자"
+    },
+    {
+      "_id": "SupportSubtitle_79",
+      "_japanese": "月よ、憐れみの光を",
+      "_english": "O Moon, Shine Thy Mercy",
+      "_traditionalChinese": "月啊，請賜予憐憫之光",
+      "_simplifiedChinese": "月啊，请赐予怜悯之光",
+      "_korean": "달이여, 자비의 빛을 베푸소서"
+    },
+    {
+      "_id": "SupportSubtitle_80",
+      "_japanese": "近すぎる距離",
+      "_english": "Too Close for Comfort",
+      "_traditionalChinese": "過近的距離",
+      "_simplifiedChinese": "过近的距离",
+      "_korean": "너무 가까운 거리"
+    },
+    {
       "_id": "Support_Skill_Description_1",
       "_japanese": "セットしたメンバーのライブスキル発動時間<color=#66FF8C>{effects[0].value/1000:F2}秒</color>延長\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nライブスキル発動時間<color=#66FF8C>{effects[1].value/1000:F2}秒</color>延長",
       "_english": "Extends the equipped member's LIVE Skill duration by <color=#66FF8C>{effects[0].value/1000:F2} sec</color>.\nIf the equipped member is a \"{effects[1].con[0][0].targets[0].name}\" member,\nextends it by <color=#66FF8C>{effects[1].value/1000:F2} sec</color>.",
@@ -69540,7 +70404,7 @@
       "_id": "Support_Skill_Description_75",
       "_japanese": "BAD以下をGOODに変換(<color=#66FF8C>{effects[0].limitCount}回</color>まで)\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合、<color=#66FF8C>{effects[1].limitCount}回</color>まで発動",
       "_english": "Converts BAD or lower judgments to GOOD (up to <color=#66FF8C>{effects[0].limitCount} times</color>)\nIf the Member is from {effects[1].con[0][0].targets[0].name}, this effect activates up to <color=#66FF8C>{effects[1].limitCount} times</color>.",
-      "_traditionalChinese": "將BAD及以下判定轉換為GOOD（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，最多可發動<color=#66FF8C>{effects[1].limitCount}次</color>",
+      "_traditionalChinese": "將BAD以下轉換為GOOD（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，最多可發動<color=#66FF8C>{effects[1].limitCount}次</color>",
       "_simplifiedChinese": "将BAD及以下判定转换为GOOD（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员，最多可触发<color=#66FF8C>{effects[1].limitCount}次</color>",
       "_korean": "BAD 이하 판정을 GOOD으로 변환(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」멤버일 경우, 최대 <color=#66FF8C>{effects[1].limitCount}회</color>까지 발동"
     },
@@ -74964,7 +75828,7 @@
       "_id": "Tips_Description_5",
       "_japanese": "編成入れ替え画面で左右ボタンから選択を切り替えられ、\n一度にまとめて編成を変えられます。",
       "_english": "On the Formation Edit screen, use the left and right buttons to switch \nselections and change your formation all at once.",
-      "_traditionalChinese": "在替換編組畫面中，可透過左右按鈕切換選擇的對象，\n一次變更多個樂團編組成員。",
+      "_traditionalChinese": "在替換編組畫面中，可透過左右按鈕切換選擇的對象，\n一次變更多個樂團編組團員。",
       "_simplifiedChinese": "在编队更换界面可以通过左右按钮来切换选项，从而一次性批量更改编队。",
       "_korean": "편성 교체 화면에서 좌우 버튼으로 선택을 전환할 수 있어,\n한 번에 편성을 바꿀 수 있습니다."
     },
@@ -87995,7 +88859,7 @@
     {
       "_id": "ui_arena_formation_suitable_character_button",
       "_japanese": "適正一覧",
-      "_english": "Recommended List",
+      "_english": "Recommended",
       "_traditionalChinese": "適性一覽",
       "_simplifiedChinese": "适用列表",
       "_korean": "적정 목록"
@@ -88012,7 +88876,7 @@
       "_id": "ui_arena_formation_suitable_member_label",
       "_japanese": "適正メンバー",
       "_english": "Recommended Member",
-      "_traditionalChinese": "適性成員",
+      "_traditionalChinese": "適性團員",
       "_simplifiedChinese": "适用成员",
       "_korean": "적정 멤버"
     },
@@ -90140,7 +91004,7 @@
       "_id": "ui_formation_no_member_message",
       "_japanese": "メンバーが編成されていないため編成出来ません。",
       "_english": "Cannot form a band because no Members have been assigned.",
-      "_traditionalChinese": "由於尚未選擇成員，因此無法編組。",
+      "_traditionalChinese": "由於尚未選擇團員，因此無法編組。",
       "_simplifiedChinese": "未编入成员，无法完成编队。",
       "_korean": "편성된 멤버가 없어 편성할 수 없습니다."
     },
@@ -91644,7 +92508,7 @@
       "_id": "ui_storage_box_piece_caution_message",
       "_japanese": "※メンバーの覚醒に必要なピースは変換することができません。\n※覚醒に必要な個数を超えた余剰分のみがリストに表示されます。\n※所持しているピースは「持ちもの」から確認することができます。",
       "_english": "*Pieces required to Awaken a member cannot be converted.\n*Only excess Pieces beyond the amount needed for Awakening will appear in the list.\n*You can check your currently owned Pieces in \"Items.\"",
-      "_traditionalChinese": "※無法轉換成員覺醒時所需的星輝。\n※清單中只會顯示超過覺醒所需數量的多餘星輝。\n※目前持有的星輝可以從「持有物」中確認。",
+      "_traditionalChinese": "※無法轉換團員覺醒時所需的星輝。\n※清單中只會顯示超過覺醒所需數量的多餘星輝。\n※目前持有的星輝可以從「持有物」中確認。",
       "_simplifiedChinese": "※成员觉醒所需的星辉无法转化。\n※列表中仅会显示超过觉醒所需数量的多余部分。\n※当前持有的星辉可在「持有物品」中查看。",
       "_korean": "※멤버 각성에 필요한 조각은 변환할 수 없습니다.\n※각성에 필요한 개수를 초과한 여유분만 리스트에 표시됩니다.\n※보유 중인 조각은 「보유 아이템」에서 확인할 수 있습니다."
     },
