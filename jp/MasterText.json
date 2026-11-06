@@ -8721,6 +8721,78 @@
       "_korean": ""
     },
     {
+      "_id": "Chapter_Title_974",
+      "_japanese": "Principissa Arcis.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_975",
+      "_japanese": "Crescit et decrescit.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_976",
+      "_japanese": "Adfer mihi quod volo.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_977",
+      "_japanese": "Vultus ignotus.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_978",
+      "_japanese": "Video ut volo.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_979",
+      "_japanese": "Attamen iuxta me.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_980",
+      "_japanese": "Responsum iam est.",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_981",
+      "_japanese": "重なる面影",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Chapter_Title_982",
+      "_japanese": "ただ、傍に",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Chapter_Title_1199",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "",
@@ -10043,6 +10115,14 @@
     {
       "_id": "Arranger_Name_100115",
       "_japanese": "Klas Sylvsky",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Arranger_Name_100116",
+      "_japanese": "長谷川大介(SUPA LOVE)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -11954,6 +12034,14 @@
     },
     {
       "_id": "Help_Carousel_Title_22",
+      "_japanese": "チャレンジライブイベント",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Help_Carousel_Title_23",
       "_japanese": "チャレンジライブイベント",
       "_english": "",
       "_traditionalChinese": "",
@@ -20889,6 +20977,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100116",
+      "_japanese": "長谷川大介(SUPA LOVE)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Composer_Name_100118",
       "_japanese": "ピノキオピー",
       "_english": "",
@@ -23913,6 +24009,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_276",
+      "_japanese": "「光降る宮殿のエピソディウムガチャ」の交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "",
@@ -24849,200 +24953,264 @@
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000243",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
+      "_id": "Degree_Description_20000118",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000244",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
+      "_id": "Degree_Description_20000119",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000245",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
+      "_id": "Degree_Description_20000120",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000246",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
+      "_id": "Degree_Description_20000121",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000247",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
+      "_id": "Degree_Description_20000122",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000248",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
+      "_id": "Degree_Description_20000123",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000249",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
+      "_id": "Degree_Description_20000124",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000250",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
+      "_id": "Degree_Description_20000125",
+      "_japanese": "イベント「移ろう月のサルタティオ」「ふたつの月  ~Deep Into The Forest~」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000251",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
+      "_id": "Degree_Description_20000126",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000252",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
+      "_id": "Degree_Description_20000127",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000253",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
+      "_id": "Degree_Description_20000128",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000254",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
+      "_id": "Degree_Description_20000129",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000255",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
+      "_id": "Degree_Description_20000130",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000256",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
+      "_id": "Degree_Description_20000131",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000257",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
+      "_id": "Degree_Description_20000132",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000258",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
+      "_id": "Degree_Description_20000133",
+      "_japanese": "イベント「移ろう月のサルタティオ」「八芒星ダンス」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000259",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
+      "_id": "Degree_Description_20000134",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000260",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
+      "_id": "Degree_Description_20000135",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000261",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
+      "_id": "Degree_Description_20000136",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000262",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
+      "_id": "Degree_Description_20000137",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000263",
-      "_japanese": "撃奏アリーナのビギナーランク初回到達報酬",
+      "_id": "Degree_Description_20000138",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000264",
-      "_japanese": "撃奏アリーナのブロンズランク初回到達報酬",
+      "_id": "Degree_Description_20000139",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000265",
-      "_japanese": "撃奏アリーナのシルバーランク初回到達報酬",
+      "_id": "Degree_Description_20000140",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000266",
-      "_japanese": "撃奏アリーナのゴールドランク初回到達報酬",
+      "_id": "Degree_Description_20000141",
+      "_japanese": "イベント「移ろう月のサルタティオ」「残酷な天使のテーゼ」スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Description_20000267",
-      "_japanese": "撃奏アリーナのプラチナランク初回到達報酬",
+      "_id": "Degree_Description_20000142",
+      "_japanese": "イベント「移ろう月のサルタティオ」 プレミアムミッションパス報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000143",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000144",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000145",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000146",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000147",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000148",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000149",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_20000150",
+      "_japanese": "イベント「移ろう月のサルタティオ」総合スコアランキング報酬で獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -25985,200 +26153,264 @@
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000243",
-      "_japanese": "[ステッカー]MyGO!!!!!ビギナー到達",
+      "_id": "Degree_Name_20000118",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 1位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000244",
-      "_japanese": "[ステッカー]MyGO!!!!!ブロンズ到達",
+      "_id": "Degree_Name_20000119",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 2位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000245",
-      "_japanese": "[ステッカー]MyGO!!!!!シルバー到達",
+      "_id": "Degree_Name_20000120",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ 3位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000246",
-      "_japanese": "[ステッカー]MyGO!!!!!ゴールド到達",
+      "_id": "Degree_Name_20000121",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP10",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000247",
-      "_japanese": "[ステッカー]MyGO!!!!!プラチナ到達",
+      "_id": "Degree_Name_20000122",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP100",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000248",
-      "_japanese": "[ステッカー]Ave Mujicaビギナー到達",
+      "_id": "Degree_Name_20000123",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP1000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000249",
-      "_japanese": "[ステッカー]Ave Mujicaブロンズ到達",
+      "_id": "Degree_Name_20000124",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP5000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000250",
-      "_japanese": "[ステッカー]Ave Mujicaシルバー到達",
+      "_id": "Degree_Name_20000125",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/ふたつの月  ~Deep Into The Forest~ TOP10000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000251",
-      "_japanese": "[ステッカー]Ave Mujicaゴールド到達",
+      "_id": "Degree_Name_20000126",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 1位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000252",
-      "_japanese": "[ステッカー]Ave Mujicaプラチナ到達",
+      "_id": "Degree_Name_20000127",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 2位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000253",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷビギナー到達",
+      "_id": "Degree_Name_20000128",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス 3位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000254",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷブロンズ到達",
+      "_id": "Degree_Name_20000129",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP10",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000255",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷシルバー到達",
+      "_id": "Degree_Name_20000130",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP100",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000256",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷゴールド到達",
+      "_id": "Degree_Name_20000131",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP1000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000257",
-      "_japanese": "[ステッカー]夢限大みゅーたいぷプラチナ到達",
+      "_id": "Degree_Name_20000132",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP5000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000258",
-      "_japanese": "[ステッカー]millsageビギナー到達",
+      "_id": "Degree_Name_20000133",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/八芒星ダンス TOP10000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000259",
-      "_japanese": "[ステッカー]millsageブロンズ到達",
+      "_id": "Degree_Name_20000134",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 1位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000260",
-      "_japanese": "[ステッカー]millsageシルバー到達",
+      "_id": "Degree_Name_20000135",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 2位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000261",
-      "_japanese": "[ステッカー]millsageゴールド到達",
+      "_id": "Degree_Name_20000136",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ 3位",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000262",
-      "_japanese": "[ステッカー]millsageプラチナ到達",
+      "_id": "Degree_Name_20000137",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP10",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000263",
-      "_japanese": "[ステッカー]一家Dumb Rock!ビギナー到達",
+      "_id": "Degree_Name_20000138",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP100",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000264",
-      "_japanese": "[ステッカー]一家Dumb Rock!ブロンズ到達",
+      "_id": "Degree_Name_20000139",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP1000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000265",
-      "_japanese": "[ステッカー]一家Dumb Rock!シルバー到達",
+      "_id": "Degree_Name_20000140",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP5000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000266",
-      "_japanese": "[ステッカー]一家Dumb Rock!ゴールド到達",
+      "_id": "Degree_Name_20000141",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/残酷な天使のテーゼ TOP10000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
       "_korean": ""
     },
     {
-      "_id": "Degree_Name_20000267",
-      "_japanese": "[ステッカー]一家Dumb Rock!プラチナ到達",
+      "_id": "Degree_Name_20000142",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000143",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 1位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000144",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 2位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000145",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング 3位",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000146",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP10",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000147",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP100",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000148",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP1000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000149",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP5000",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_20000150",
+      "_japanese": "[ステッカー]移ろう月のサルタティオ/総合ランキング TOP10000",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -26923,6 +27155,14 @@
     {
       "_id": "Degree_Description_10000113",
       "_japanese": "「怪物」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_10000114",
+      "_japanese": "「ふたつの月  ~Deep Into The Forest~」を100回クリアで獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27681,6 +27921,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_10000114",
+      "_japanese": "[ステッカー]ふたつの月  ~Deep Into The Forest~ジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_10000115",
       "_japanese": "[ステッカー]ノンブレス・オブリージュジャケット",
       "_english": "",
@@ -28089,6 +28337,30 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_30000051",
+      "_japanese": "「[煌めきのパッスス]モーティス」を4回覚醒すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_30000052",
+      "_japanese": "「[玉座より見下ろして]アモーリス」を4回覚醒すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_30000053",
+      "_japanese": "「[跪いて、忠誠を]ドロリス」を4回覚醒すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "",
@@ -28483,6 +28755,30 @@
     {
       "_id": "Degree_Name_30000050",
       "_japanese": "[ステッカー][Happy Birthday 26-27]千石 ユノ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_30000051",
+      "_japanese": "[ステッカー][煌めきのパッスス]モーティス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_30000052",
+      "_japanese": "[ステッカー][玉座より見下ろして]アモーリス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_30000053",
+      "_japanese": "[ステッカー][跪いて、忠誠を]ドロリス",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -30385,6 +30681,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_276",
+      "_japanese": "[ステッカー]光降る宮殿のエピソディウム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "",
@@ -30795,6 +31099,30 @@
     {
       "_id": "Degree_Description_40000052",
       "_japanese": "「[運んで、飾って]睦&初華」を4回上限解放すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_40000053",
+      "_japanese": "「[何も映さない瞳]モーティス」を4回上限解放すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_40000054",
+      "_japanese": "「[月よ、憐れみの光を]オブリビオニス」を4回上限解放すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_40000055",
+      "_japanese": "「[近すぎる距離]海鈴&にゃむ」を4回上限解放すると獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -31217,6 +31545,30 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_40000053",
+      "_japanese": "[ステッカー][何も映さない瞳]モーティス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_40000054",
+      "_japanese": "[ステッカー][月よ、憐れみの光を]オブリビオニス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_40000055",
+      "_japanese": "[ステッカー][近すぎる距離]海鈴&にゃむ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Source_Name_1",
       "_japanese": "タイトル",
       "_english": "",
@@ -31379,6 +31731,14 @@
     {
       "_id": "Event_Name_0004",
       "_japanese": "A day〜#HalloweenSnap〜",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Event_Name_0005",
+      "_japanese": "移ろう月のサルタティオ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -31627,6 +31987,22 @@
     {
       "_id": "Exchange_Name_32",
       "_japanese": "ユノバースデーピック交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_33",
+      "_japanese": "移ろう月のサルタティオ イベント交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_34",
+      "_japanese": "光降る宮殿のエピソディウムガチャ交換所",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -32969,6 +33345,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_23",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -33683,6 +34067,14 @@
     {
       "_id": "Gacha_Name_22",
       "_japanese": "千石ユノ Happy Birthday 26-27ガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_23",
+      "_japanese": "光降る宮殿のエピソディウムガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -39553,6 +39945,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_46",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Description_47",
       "_japanese": "メンバーピースまたはスナップを変換すると獲得することができるアイテム",
       "_english": "",
@@ -40577,6 +40977,30 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000076",
+      "_japanese": "[煌めきのパッスス]モーティスの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_10000077",
+      "_japanese": "[玉座より見下ろして]アモーリスの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Description_10000078",
+      "_japanese": "[跪いて、忠誠を]ドロリスの覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -41171,6 +41595,30 @@
     {
       "_id": "Item_Name_10000075",
       "_japanese": "メンバーピース([Happy Birthday 26-27]千石 ユノ)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000076",
+      "_japanese": "メンバーピース([煌めきのパッスス]モーティス)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000077",
+      "_japanese": "メンバーピース([玉座より見下ろして]アモーリス)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_10000078",
+      "_japanese": "メンバーピース([跪いて、忠誠を]ドロリス)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -41777,6 +42225,30 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Phonetic_Name_10000076",
+      "_japanese": "めんばーぴーす10000076",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000077",
+      "_japanese": "めんばーぴーす10000077",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000078",
+      "_japanese": "めんばーぴーす10000078",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "",
@@ -42123,6 +42595,14 @@
     {
       "_id": "Item_Name_45",
       "_japanese": "イベントバッジ(山吹)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Name_46",
+      "_japanese": "イベントバッジ(紫苑)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -42635,6 +43115,14 @@
     {
       "_id": "Item_Phonetic_Name_45",
       "_japanese": "イベントバッジ(山吹)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_46",
+      "_japanese": "イベントバッジ(紫苑)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43299,6 +43787,22 @@
     {
       "_id": "Leader_Skill_Name_Description_63",
       "_japanese": "夢限大みゅーたいぷメンバーのテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに山吹のメンバーはテクニックが{effects[1].value/100:F1}%UP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_64",
+      "_japanese": "紫苑のメンバーはビジュアルが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにAve Mujicaメンバーのビジュアルが{effects[1].value/100:F1}%UP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_65",
+      "_japanese": "Ave Mujicaメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -45099,6 +45603,22 @@
     {
       "_id": "Leader_Skill_Name_63",
       "_japanese": "夢限大みゅーたいぷ&山吹テクニックUP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_64",
+      "_japanese": "紫苑&Ave MujicaビジュアルUP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_65",
+      "_japanese": "Ave Mujica&撃奏スキル【LUCK】パフォーマンスUP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53649,6 +54169,14 @@
       "_korean": ""
     },
     {
+      "_id": "Lyricist_Name_100116",
+      "_japanese": "Diggy-MO’",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100118",
       "_japanese": "ピノキオピー",
       "_english": "",
@@ -53819,6 +54347,22 @@
     {
       "_id": "MemberGachaVoice_75",
       "_japanese": "いや、こんなの聞いてないし……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_76",
+      "_japanese": "光差すこの場所に——私は、いる",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberGachaVoice_77",
+      "_japanese": "そんな顔しちゃって……アタシに完敗じゃん",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -54419,6 +54963,30 @@
     {
       "_id": "MemberSubtitle_75",
       "_japanese": "Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_76",
+      "_japanese": "煌めきのパッスス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_77",
+      "_japanese": "玉座より見下ろして",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_78",
+      "_japanese": "跪いて、忠誠を",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -55067,6 +55635,14 @@
     {
       "_id": "Mission_Description_LiveClearMusic",
       "_japanese": "楽曲「{MusicId}」を{AchievementCount}回クリアしよう\n※LIFE1以上でライブを終えるとクリア",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Mission_Description_LiveClearMusic_02",
+      "_japanese": "楽曲「{MusicId}」を{AchievementCount}回クリアしよう ※LIFE1以上でライブを終えるとクリア",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -56873,6 +57449,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100116",
+      "_japanese": "ふたつの月  ~Deep Into The Forest~",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Tilte_100118",
       "_japanese": "ノンブレス・オブリージュ",
       "_english": "",
@@ -57673,6 +58257,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100116",
+      "_japanese": "ふたつのつき ～でぃーぷ いんとぅ ざ ふぉれすと～",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100118",
       "_japanese": "のんぶれす・おぶりーじゅ",
       "_english": "",
@@ -58322,7 +58914,7 @@
     },
     {
       "_id": "Music_Ruby_Tilte_100102",
-      "_japanese": "新人類は仮想世界の夢を見るか？",
+      "_japanese": "<r=ニュータイプはバーチャルのゆめをみるか？>新人類は仮想世界の夢を見るか？</r>",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -58419,6 +59011,14 @@
     {
       "_id": "Music_Ruby_Tilte_100115",
       "_japanese": "怪物",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100116",
+      "_japanese": "ふたつの月  ~Deep Into The Forest~",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -59265,6 +59865,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_9",
+      "_japanese": "移ろう月のサルタティオプレミアムミッションパスが解放されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "",
@@ -59641,6 +60249,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Name_9",
+      "_japanese": "移ろう月のサルタティオミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Name_2",
       "_japanese": "スター×120",
       "_english": "",
@@ -59897,6 +60513,14 @@
       "_korean": ""
     },
     {
+      "_id": "Shop_Name_37",
+      "_japanese": "移ろう月のサルタティオプレミアムミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Description_2",
       "_japanese": "スター120個(有償120個)を購入できます。",
       "_english": "",
@@ -60147,6 +60771,14 @@
     {
       "_id": "Shop_Description_36",
       "_japanese": "スター16450個(有償16000個+無償おまけ450個)を購入できます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Shop_Description_37",
+      "_japanese": "ミッションパスのプレミアムパスを購入できます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -62545,6 +63177,14 @@
       "_korean": ""
     },
     {
+      "_id": "Stamp_Name_79",
+      "_japanese": "移ろう月のサルタティオ 報酬スタンプ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Stamp_Name_81",
       "_japanese": "ABRACADABRA",
       "_english": "",
@@ -62673,6 +63313,14 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Chapter_Description_9",
+      "_japanese": "Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。\nそこで紡がれるのは、森の古城の姫を巡る物語。\n彼女の顔は、見る者によって違っていて……\t\t",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Story_Chapter_Description_33",
       "_japanese": "Happy Birthday 26-27",
       "_english": "",
@@ -62739,6 +63387,14 @@
     {
       "_id": "Story_Chapter_Name_8",
       "_japanese": "Shake Your 魂, Baby!!",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Chapter_Name_9",
+      "_japanese": "移ろう月のサルタティオ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -64041,6 +64697,78 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Episode_Description_901",
+      "_japanese": "だけれど美しい姫君、彼女は……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_902",
+      "_japanese": "（今夜は三日月ですのね……）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_903",
+      "_japanese": "僕にはあの人がわからない……\nわからないのです",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_904",
+      "_japanese": "……なぜそのような、冷めた眼差しを――",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_905",
+      "_japanese": "あなた自身の悲しみはどこへ行ってしまったのですか！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_906",
+      "_japanese": "（もう何も演じる必要がなくなった彼女は、\nもしかすると——）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_907",
+      "_japanese": "（どうであれ、わたくしは――）",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_908",
+      "_japanese": "……そういえば、サキコっていつもどうやって台本考えてんの？",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Story_Episode_Description_909",
+      "_japanese": "……着実に評価を取り戻せているからこそ、今は――……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Story_Episode_Description_3301",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "",
@@ -64387,6 +65115,30 @@
     {
       "_id": "Snap_Name_Mutsumi_Uika",
       "_japanese": "睦&初華",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Snap_Name_Umiri_Nyamu",
+      "_japanese": "海鈴&にゃむ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Snap_Name_Mortis",
+      "_japanese": "モーティス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Snap_Name_Oblivionis",
+      "_japanese": "オブリビオニス",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -64787,6 +65539,30 @@
     {
       "_id": "SupportDiary_77",
       "_japanese": "かぼちゃ\nどれも微妙に　顔が違う\n目とか　口の形とか\n\n持ってみると　意外と軽い\n３つ持っても　大丈夫\n\n初華が心配してる\n平気なのに\n\n抱えてると\nちょっと土の匂いがする\nかぼちゃ　育ててた時のこと\n思い出す\n\nまた　育ててみようかな",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_78",
+      "_japanese": "叫んでる\n必死な顔で\n\n大丈夫\n私にはわかるわ\n\nあなたが何を望んでいるのか\nどんな私を見たいのか\nどんな嘘が欲しいのか\n\nあなたには　わかるかしら\n\nこれが演技か\nはたまた嘘か\n\nそれとも――――",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_79",
+      "_japanese": "どうして　こうなってしまったんだろう\n\n嗚呼　愛しい姫\n何よりもかけがえのない　大切な人――\n\n初めて会った日　あなたは\n右も左もわからない小さな僕に\n月のように優しく微笑んで\n手を差し伸べてくれた\n\nそのあたたかい手も　その美しい微笑みも\nもう戻ってはこない……\n\n怖くてどうしようもなくて\n逃げ出した僕のことを　どうか許して欲しい\n\n僕にできることは　もうこれしかない\nどうかこの祈りが　この想いが\nあなたへの手向けとなりますように",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportDiary_80",
+      "_japanese": "ふむ……\n『怒りじゃなくて寂しさをぶつけてる』\n『気持ちをぶつける前に一呼吸置く』\n『抑えていた分、ここで一気にテンション上げて』\n\n感情の機微から間の取り方、緩急のつけ方まで\n細かくメモされています\n\n役については、ずいぶん深く考えているんですね\n\n\n祐天寺さんに対する理解が\nまた一段と深まった気がします\n\n近いうちに、私の仕事のメモも見せてあげましょう\n相互理解は絆を深める近道になるでしょうから\n\n我ながら良い作戦ですね",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -65403,6 +66179,30 @@
     {
       "_id": "SupportSubtitle_77",
       "_japanese": "運んで、飾って",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_78",
+      "_japanese": "何も映さない瞳",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_79",
+      "_japanese": "月よ、憐れみの光を",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_80",
+      "_japanese": "近すぎる距離",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

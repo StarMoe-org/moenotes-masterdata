@@ -657,6 +657,10 @@
       "_cueSheetName": "A_Kaibutsu"
     },
     {
+      "_id": 1300000000116,
+      "_cueSheetName": "A_FutatsunoTsuki"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -1031,6 +1035,10 @@
     {
       "_id": 1400000000086,
       "_cueSheetName": "I_HarehareYukai_short"
+    },
+    {
+      "_id": 1400000000116,
+      "_cueSheetName": "A_FutatsunoTsuki_short"
     },
     {
       "_id": 2301001000001,
@@ -1567,6 +1575,14 @@
     {
       "_id": 3202015000075,
       "_cueSheetName": "VoiceGacha_15_00075"
+    },
+    {
+      "_id": 3202007000076,
+      "_cueSheetName": "VoiceGacha_07_00076"
+    },
+    {
+      "_id": 3202009000077,
+      "_cueSheetName": "VoiceGacha_09_00077"
     },
     {
       "_id": 2100000000001,

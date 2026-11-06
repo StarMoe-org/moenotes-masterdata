@@ -1663,6 +1663,390 @@
         79,
         281
       ]
+    },
+    {
+      "_id": 157,
+      "_group": 100501,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_rewardIds": [
+        375,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 158,
+      "_group": 100501,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_rewardIds": [
+        376,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 159,
+      "_group": 100501,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_rewardIds": [
+        377,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 160,
+      "_group": 100501,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_rewardIds": [
+        378,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 161,
+      "_group": 100501,
+      "_rankStart": 11,
+      "_rankEnd": 100,
+      "_rewardIds": [
+        379,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 162,
+      "_group": 100501,
+      "_rankStart": 101,
+      "_rankEnd": 1000,
+      "_rewardIds": [
+        380,
+        187,
+        314
+      ]
+    },
+    {
+      "_id": 163,
+      "_group": 100501,
+      "_rankStart": 1001,
+      "_rankEnd": 5000,
+      "_rewardIds": [
+        381,
+        188,
+        315
+      ]
+    },
+    {
+      "_id": 164,
+      "_group": 100501,
+      "_rankStart": 5001,
+      "_rankEnd": 10000,
+      "_rewardIds": [
+        382,
+        189,
+        316
+      ]
+    },
+    {
+      "_id": 165,
+      "_group": 100501,
+      "_rankStart": 10001,
+      "_rankEnd": 20000,
+      "_rewardIds": [
+        190,
+        317
+      ]
+    },
+    {
+      "_id": 166,
+      "_group": 100501,
+      "_rankStart": 20001,
+      "_rankEnd": 30000,
+      "_rewardIds": [
+        191,
+        318
+      ]
+    },
+    {
+      "_id": 167,
+      "_group": 100501,
+      "_rankStart": 30001,
+      "_rankEnd": 50000,
+      "_rewardIds": [
+        158,
+        319
+      ]
+    },
+    {
+      "_id": 168,
+      "_group": 100501,
+      "_rankStart": 50001,
+      "_rankEnd": 100000,
+      "_rewardIds": [
+        79,
+        281
+      ]
+    },
+    {
+      "_id": 169,
+      "_group": 100502,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_rewardIds": [
+        383,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 170,
+      "_group": 100502,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_rewardIds": [
+        384,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 171,
+      "_group": 100502,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_rewardIds": [
+        385,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 172,
+      "_group": 100502,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_rewardIds": [
+        386,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 173,
+      "_group": 100502,
+      "_rankStart": 11,
+      "_rankEnd": 100,
+      "_rewardIds": [
+        387,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 174,
+      "_group": 100502,
+      "_rankStart": 101,
+      "_rankEnd": 1000,
+      "_rewardIds": [
+        388,
+        187,
+        314
+      ]
+    },
+    {
+      "_id": 175,
+      "_group": 100502,
+      "_rankStart": 1001,
+      "_rankEnd": 5000,
+      "_rewardIds": [
+        389,
+        188,
+        315
+      ]
+    },
+    {
+      "_id": 176,
+      "_group": 100502,
+      "_rankStart": 5001,
+      "_rankEnd": 10000,
+      "_rewardIds": [
+        390,
+        189,
+        316
+      ]
+    },
+    {
+      "_id": 177,
+      "_group": 100502,
+      "_rankStart": 10001,
+      "_rankEnd": 20000,
+      "_rewardIds": [
+        190,
+        317
+      ]
+    },
+    {
+      "_id": 178,
+      "_group": 100502,
+      "_rankStart": 20001,
+      "_rankEnd": 30000,
+      "_rewardIds": [
+        191,
+        318
+      ]
+    },
+    {
+      "_id": 179,
+      "_group": 100502,
+      "_rankStart": 30001,
+      "_rankEnd": 50000,
+      "_rewardIds": [
+        158,
+        319
+      ]
+    },
+    {
+      "_id": 180,
+      "_group": 100502,
+      "_rankStart": 50001,
+      "_rankEnd": 100000,
+      "_rewardIds": [
+        79,
+        281
+      ]
+    },
+    {
+      "_id": 181,
+      "_group": 100503,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_rewardIds": [
+        391,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 182,
+      "_group": 100503,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_rewardIds": [
+        392,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 183,
+      "_group": 100503,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_rewardIds": [
+        393,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 184,
+      "_group": 100503,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_rewardIds": [
+        394,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 185,
+      "_group": 100503,
+      "_rankStart": 11,
+      "_rankEnd": 100,
+      "_rewardIds": [
+        395,
+        186,
+        313
+      ]
+    },
+    {
+      "_id": 186,
+      "_group": 100503,
+      "_rankStart": 101,
+      "_rankEnd": 1000,
+      "_rewardIds": [
+        396,
+        187,
+        314
+      ]
+    },
+    {
+      "_id": 187,
+      "_group": 100503,
+      "_rankStart": 1001,
+      "_rankEnd": 5000,
+      "_rewardIds": [
+        397,
+        188,
+        315
+      ]
+    },
+    {
+      "_id": 188,
+      "_group": 100503,
+      "_rankStart": 5001,
+      "_rankEnd": 10000,
+      "_rewardIds": [
+        398,
+        189,
+        316
+      ]
+    },
+    {
+      "_id": 189,
+      "_group": 100503,
+      "_rankStart": 10001,
+      "_rankEnd": 20000,
+      "_rewardIds": [
+        190,
+        317
+      ]
+    },
+    {
+      "_id": 190,
+      "_group": 100503,
+      "_rankStart": 20001,
+      "_rankEnd": 30000,
+      "_rewardIds": [
+        191,
+        318
+      ]
+    },
+    {
+      "_id": 191,
+      "_group": 100503,
+      "_rankStart": 30001,
+      "_rankEnd": 50000,
+      "_rewardIds": [
+        158,
+        319
+      ]
+    },
+    {
+      "_id": 192,
+      "_group": 100503,
+      "_rankStart": 50001,
+      "_rankEnd": 100000,
+      "_rewardIds": [
+        79,
+        281
+      ]
     }
   ]
 }
