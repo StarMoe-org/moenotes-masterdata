@@ -2765,6 +2765,28 @@
       "_endAt": ""
     },
     {
+      "_id": 277,
+      "_nameTextId": "Degree_Name_277",
+      "_descriptionTextId": "Degree_Description_277",
+      "_degreeType": 3,
+      "_characterIds": [],
+      "_imagePath": "Image/Degree/Media/mygo/degree_9th_live_02_01",
+      "_orderNum": 277,
+      "_startAt": "2026/11/14 12:00:00",
+      "_endAt": ""
+    },
+    {
+      "_id": 278,
+      "_nameTextId": "Degree_Name_278",
+      "_descriptionTextId": "Degree_Description_278",
+      "_degreeType": 3,
+      "_characterIds": [],
+      "_imagePath": "Image/Degree/Media/mygo/degree_9th_live_02_02",
+      "_orderNum": 278,
+      "_startAt": "2026/11/09 15:30:00",
+      "_endAt": ""
+    },
+    {
       "_id": 501010001,
       "_nameTextId": "Degree_Name_501010001",
       "_descriptionTextId": "Degree_Description_501010001",
@@ -5830,6 +5852,17 @@
       "_endAt": ""
     },
     {
+      "_id": 10000117,
+      "_nameTextId": "Degree_Name_10000117",
+      "_descriptionTextId": "Degree_Description_10000117",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "Image/Jacket/jkt_001_100201",
+      "_orderNum": 10000117,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
       "_id": 30000001,
       "_nameTextId": "Degree_Name_30000001",
       "_descriptionTextId": "Degree_Description_30000001",
@@ -7014,6 +7047,17 @@
       "_characterIds": [],
       "_imagePath": "SupportCard/80/snap_full",
       "_orderNum": 40000055,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 40000056,
+      "_nameTextId": "Degree_Name_40000056",
+      "_descriptionTextId": "Degree_Description_40000056",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "SupportCard/81/snap_full",
+      "_orderNum": 40000056,
       "_startAt": "",
       "_endAt": ""
     }

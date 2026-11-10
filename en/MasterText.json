@@ -10137,6 +10137,14 @@
       "_korean": "오기 가쿠시"
     },
     {
+      "_id": "Arranger_Name_100201",
+      "_japanese": "トミタカズキ(SUPA LOVE)",
+      "_english": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
+      "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
+      "_korean": "토미타 카즈키 (SUPA LOVE)"
+    },
+    {
       "_id": "AutoPostPresent_1",
       "_japanese": "事前登録10万人達成のプレゼントです。",
       "_english": "100,000 Pre-registration Gift",
@@ -14571,7 +14579,7 @@
     {
       "_id": "Character_En_Name_Uika",
       "_japanese": "Doloris / Uika Misumi",
-      "_english": "ドロリス / 三角 初華",
+      "_english": "",
       "_traditionalChinese": "Doloris / Uika Misumi",
       "_simplifiedChinese": "Doloris / Uika Misumi",
       "_korean": "Doloris / Uika Misumi"
@@ -14579,7 +14587,7 @@
     {
       "_id": "Character_En_Name_Mutsumi",
       "_japanese": "Mortis / Mutsumi Wakaba",
-      "_english": "モーティス / 若葉 睦",
+      "_english": "",
       "_traditionalChinese": "Mortis / Mutsumi Wakaba",
       "_simplifiedChinese": "Mortis / Mutsumi Wakaba",
       "_korean": "Mortis / Mutsumi Wakaba"
@@ -14587,7 +14595,7 @@
     {
       "_id": "Character_En_Name_Umiri",
       "_japanese": "Timoris / Umiri Yahata",
-      "_english": "ティモリス / 八幡 海鈴",
+      "_english": "",
       "_traditionalChinese": "Timoris / Umiri Yahata",
       "_simplifiedChinese": "Timoris / Umiri Yahata",
       "_korean": "Timoris / Umiri Yahata"
@@ -14595,7 +14603,7 @@
     {
       "_id": "Character_En_Name_Nyamu",
       "_japanese": "Amoris / Nyamu Yūtenji",
-      "_english": "アモーリス / 祐天寺 にゃむ",
+      "_english": "",
       "_traditionalChinese": "Amoris / Nyamu Yūtenji",
       "_simplifiedChinese": "Amoris / Nyamu Yūtenji",
       "_korean": "Amoris / Nyamu Yūtenji"
@@ -14603,7 +14611,7 @@
     {
       "_id": "Character_En_Name_Sakiko",
       "_japanese": "Oblivionis / Sakiko Togawa",
-      "_english": "オブリビオニス / 豊川 祥子",
+      "_english": "",
       "_traditionalChinese": "Oblivionis / Sakiko Togawa",
       "_simplifiedChinese": "Oblivionis / Sakiko Togawa",
       "_korean": "Oblivionis / Sakiko Togawa"
@@ -20385,6 +20393,14 @@
       "_korean": "[룸 초대]"
     },
     {
+      "_id": "ui_chat_gacha_result_preview",
+      "_japanese": "",
+      "_english": "[Gacha Result]",
+      "_traditionalChinese": "[轉蛋結果]",
+      "_simplifiedChinese": "[招募结果]",
+      "_korean": "[뽑기 결과]"
+    },
+    {
       "_id": "ui_chat_reward",
       "_japanese": "[Reward]",
       "_english": "[Reward]",
@@ -20747,10 +20763,34 @@
     {
       "_id": "ui_chat_entertain_frequency_description",
       "_japanese": "",
-      "_english": "",
-      "_traditionalChinese": "",
+      "_english": "Sharing is on cooldown. Please try again later.",
+      "_traditionalChinese": "分享冷卻中，請稍後再試",
       "_simplifiedChinese": "分享冷却中，请稍后再试",
-      "_korean": ""
+      "_korean": "잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "ui_chat_gacharesult_frequency_description",
+      "_japanese": "",
+      "_english": "Sharing is on cooldown. Please try again later.",
+      "_traditionalChinese": "分享冷卻中，請稍後再試",
+      "_simplifiedChinese": "分享冷却中，请稍后再试",
+      "_korean": "잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "ui_chat_gacharesult_share_title",
+      "_japanese": "",
+      "_english": "Share Gacha Result",
+      "_traditionalChinese": "分享轉蛋",
+      "_simplifiedChinese": "分享招募",
+      "_korean": "뽑기 결과 공유"
+    },
+    {
+      "_id": "ui_chat_gacharesult_confirm_title",
+      "_japanese": "",
+      "_english": "Share Gacha Result",
+      "_traditionalChinese": "確認分享",
+      "_simplifiedChinese": "确认分享",
+      "_korean": "공유 확인"
     },
     {
       "_id": "ui_chat_setting_title",
@@ -20807,6 +20847,14 @@
       "_traditionalChinese": "房間邀請",
       "_simplifiedChinese": "房间邀请",
       "_korean": "룸 초대"
+    },
+    {
+      "_id": "ui_chat_setting_gacha_result",
+      "_japanese": "",
+      "_english": "Gacha Result",
+      "_traditionalChinese": "轉蛋結果",
+      "_simplifiedChinese": "招募结果",
+      "_korean": "뽑기 결과"
     },
     {
       "_id": "ui_chat_setting_empty",
@@ -23783,6 +23831,14 @@
       "_traditionalChinese": "ピノキオピー",
       "_simplifiedChinese": "ピノキオピー",
       "_korean": "PinocchioP"
+    },
+    {
+      "_id": "Composer_Name_100201",
+      "_japanese": "トミタカズキ(SUPA LOVE)",
+      "_english": "Kazuki Tomita (SUPA LOVE)",
+      "_traditionalChinese": "トミタカズキ(SUPA LOVE)",
+      "_simplifiedChinese": "トミタカズキ(SUPA LOVE)",
+      "_korean": "토미타 카즈키 (SUPA LOVE)"
     },
     {
       "_id": "Content_Name_1",
@@ -26809,9 +26865,25 @@
       "_korean": "「빛 내리는 궁전의 에피소디움 뽑기」 교환소에서 획득"
     },
     {
+      "_id": "Degree_Description_277",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 特別ログインボーナスで獲得",
+      "_english": "Obtained via MyGO!!!!! 9th LIVE \"つなぎ目の向こうに\" -Kobe Re-Scape Edition- Celebration Special Login Bonus.",
+      "_traditionalChinese": "透過MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 特別登入獎勵獲得",
+      "_simplifiedChinese": "通过MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念 特别登录奖励获得",
+      "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 특별 로그인 보상에서 획득"
+    },
+    {
+      "_id": "Degree_Description_278",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -特典シリアルコードで獲得",
+      "_english": "Obtained via MyGO!!!!! 9th LIVE \"つなぎ目の向こうに\" -Kobe Re-Scape Edition- Bonus Serial Code.",
+      "_traditionalChinese": "透過MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -特典序號獲得",
+      "_simplifiedChinese": "使用MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -观看特典兑换码获得",
+      "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 혜택 교환 코드로 획득"
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26819,7 +26891,7 @@
     {
       "_id": "Degree_Description_20000002",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26827,7 +26899,7 @@
     {
       "_id": "Degree_Description_20000003",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26835,7 +26907,7 @@
     {
       "_id": "Degree_Description_20000004",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26843,7 +26915,7 @@
     {
       "_id": "Degree_Description_20000005",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26851,7 +26923,7 @@
     {
       "_id": "Degree_Description_20000006",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26859,7 +26931,7 @@
     {
       "_id": "Degree_Description_20000007",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26867,7 +26939,7 @@
     {
       "_id": "Degree_Description_20000008",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「夢我夢中」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「夢我夢中」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「mugamuchu」 스코어 랭킹 보상으로 획득"
@@ -26875,7 +26947,7 @@
     {
       "_id": "Degree_Description_20000009",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26883,7 +26955,7 @@
     {
       "_id": "Degree_Description_20000010",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26891,7 +26963,7 @@
     {
       "_id": "Degree_Description_20000011",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26899,7 +26971,7 @@
     {
       "_id": "Degree_Description_20000012",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26907,7 +26979,7 @@
     {
       "_id": "Degree_Description_20000013",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26915,7 +26987,7 @@
     {
       "_id": "Degree_Description_20000014",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26923,7 +26995,7 @@
     {
       "_id": "Degree_Description_20000015",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26931,7 +27003,7 @@
     {
       "_id": "Degree_Description_20000016",
       "_japanese": "イベント「アイの奔流 AtoZ 」「これはぼくたちの生存のあらすじ」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Our Survival.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「這是我們的生存梗概」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「这是我们的生存梗概」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「이것은 우리들이 살아남는 줄거리」 스코어 랭킹 보상으로 획득"
@@ -26939,7 +27011,7 @@
     {
       "_id": "Degree_Description_20000017",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26947,7 +27019,7 @@
     {
       "_id": "Degree_Description_20000018",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26955,7 +27027,7 @@
     {
       "_id": "Degree_Description_20000019",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26963,7 +27035,7 @@
     {
       "_id": "Degree_Description_20000020",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26971,7 +27043,7 @@
     {
       "_id": "Degree_Description_20000021",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26979,7 +27051,7 @@
     {
       "_id": "Degree_Description_20000022",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26987,7 +27059,7 @@
     {
       "_id": "Degree_Description_20000023",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -26995,7 +27067,7 @@
     {
       "_id": "Degree_Description_20000024",
       "_japanese": "イベント「アイの奔流 AtoZ 」「オリオンをなぞる」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru\".",
+      "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"Orion wo Nazoru.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」，樂曲「オリオンをなぞる」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」「オリオンをなぞる」分数排名奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 「Orion wo Nazoru」 스코어 랭킹 보상으로 획득"
@@ -27003,7 +27075,7 @@
     {
       "_id": "Degree_Description_20000025",
       "_japanese": "イベント「アイの奔流 AtoZ 」プレミアムミッションパス報酬で獲得",
-      "_english": "Obtained via the Premium Mission Pass Rewards for the event \"Love Rush A to Z\".",
+      "_english": "Obtained via the Premium Mission Pass Rewards for the event \"Love Rush A to Z.\"",
       "_traditionalChinese": "透過活動「愛的奔流 AtoZ」Premium任務通行證報酬獲得",
       "_simplifiedChinese": "通过活动「爱的奔流 AtoZ」高级任务通行证奖励获得",
       "_korean": "이벤트 「사랑의 격류 AtoZ」 프리미엄 미션 패스 보상으로 획득"
@@ -27011,7 +27083,7 @@
     {
       "_id": "Degree_Description_20000026",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27019,7 +27091,7 @@
     {
       "_id": "Degree_Description_20000027",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27027,7 +27099,7 @@
     {
       "_id": "Degree_Description_20000028",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27035,7 +27107,7 @@
     {
       "_id": "Degree_Description_20000029",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27043,7 +27115,7 @@
     {
       "_id": "Degree_Description_20000030",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27051,7 +27123,7 @@
     {
       "_id": "Degree_Description_20000031",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27059,7 +27131,7 @@
     {
       "_id": "Degree_Description_20000032",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27067,7 +27139,7 @@
     {
       "_id": "Degree_Description_20000033",
       "_japanese": "イベント「お願い、サイドスロー」「Odd Dice」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Odd Dice.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「Odd Dice」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「Odd Dice」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「Odd Dice」 스코어 랭킹 보상으로 획득"
@@ -27075,7 +27147,7 @@
     {
       "_id": "Degree_Description_20000034",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27083,7 +27155,7 @@
     {
       "_id": "Degree_Description_20000035",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27091,7 +27163,7 @@
     {
       "_id": "Degree_Description_20000036",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27099,7 +27171,7 @@
     {
       "_id": "Degree_Description_20000037",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27107,7 +27179,7 @@
     {
       "_id": "Degree_Description_20000038",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27115,7 +27187,7 @@
     {
       "_id": "Degree_Description_20000039",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27123,7 +27195,7 @@
     {
       "_id": "Degree_Description_20000040",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27131,7 +27203,7 @@
     {
       "_id": "Degree_Description_20000041",
       "_japanese": "イベント「お願い、サイドスロー」「カーネーションの咲く日に」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"On the Day the Carnations Bloom.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「カーネーションの咲く日に」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「カーネーションの咲く日に」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「On the Day the Carnations Bloom」 스코어 랭킹 보상으로 획득"
@@ -27139,7 +27211,7 @@
     {
       "_id": "Degree_Description_20000042",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27147,7 +27219,7 @@
     {
       "_id": "Degree_Description_20000043",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27155,7 +27227,7 @@
     {
       "_id": "Degree_Description_20000044",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27163,7 +27235,7 @@
     {
       "_id": "Degree_Description_20000045",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27171,7 +27243,7 @@
     {
       "_id": "Degree_Description_20000046",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27179,7 +27251,7 @@
     {
       "_id": "Degree_Description_20000047",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27187,7 +27259,7 @@
     {
       "_id": "Degree_Description_20000048",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27195,7 +27267,7 @@
     {
       "_id": "Degree_Description_20000049",
       "_japanese": "イベント「お願い、サイドスロー」「ロウワー」スコアランキング報酬で獲得",
-      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower\".",
+      "_english": "Obtained via the Score Ranking Rewards for Sidearm Upon the Water \"Lower.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」，樂曲「ロウワー」分數排行榜報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」「ロウワー」分数排名奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 「로워」 스코어 랭킹 보상으로 획득"
@@ -27203,7 +27275,7 @@
     {
       "_id": "Degree_Description_20000050",
       "_japanese": "イベント「お願い、サイドスロー」 プレミアムミッションパス報酬で獲得",
-      "_english": "Obtained via the Premium Mission Pass Rewards for the event \"Sidearm Upon the Water\".",
+      "_english": "Obtained via the Premium Mission Pass Rewards for the event \"Sidearm Upon the Water.\"",
       "_traditionalChinese": "透過活動「拜託了，傾心一擲」Premium任務通行證報酬獲得",
       "_simplifiedChinese": "通过活动「拜托了，倾心一掷」高级任务通行证奖励获得",
       "_korean": "이벤트 「부탁해, 사이드 스로」 프리미엄 미션 패스 보상으로 획득"
@@ -29969,6 +30041,14 @@
       "_korean": "「논브레스 오블리주」 100회 클리어 시 획득"
     },
     {
+      "_id": "Degree_Description_10000117",
+      "_japanese": "「世点彩」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"Sepia\" 100 times.",
+      "_traditionalChinese": "通關「世點彩」100次即獲得",
+      "_simplifiedChinese": "完成「世点彩」100次时获得",
+      "_korean": "「세피아」 100회 클리어 시 획득"
+    },
+    {
       "_id": "Degree_Name_10000001",
       "_japanese": "[ステッカー]迷星叫ジャケット",
       "_english": "[Sticker] Mayoiuta Jacket",
@@ -30727,6 +30807,14 @@
       "_traditionalChinese": "[貼紙]ノンブレス・オブリージュ封面",
       "_simplifiedChinese": "[贴纸]ノンブレス・オブリージュ封面",
       "_korean": "[스티커] 논브레스 오블리주 재킷"
+    },
+    {
+      "_id": "Degree_Name_10000117",
+      "_japanese": "[ステッカー]世点彩ジャケット",
+      "_english": "[Sticker] Sepia Jacket",
+      "_traditionalChinese": "[貼紙]世點彩封面",
+      "_simplifiedChinese": "[贴纸]世点彩封面",
+      "_korean": "[스티커] 세피아 재킷"
     },
     {
       "_id": "Degree_Description_30000001",
@@ -33481,6 +33569,22 @@
       "_korean": "[스티커] 빛 내리는 궁전의 에피소디움"
     },
     {
+      "_id": "Degree_Name_277",
+      "_japanese": "[ステッカー]つなぎ目の向こうに- 神戸再景編 -",
+      "_english": "[Sticker] つなぎ目の向こうに -Kobe Re-Scape Edition-",
+      "_traditionalChinese": "[貼紙]つなぎ目の向こうに- 神戸再景編 -",
+      "_simplifiedChinese": "[贴纸]つなぎ目の向こうに- 神戸再景編 -",
+      "_korean": "[스티커] 이음새 너머로 - 고베, 풍경 재발견 편 -"
+    },
+    {
+      "_id": "Degree_Name_278",
+      "_japanese": "[ステッカー]つなぎ目の向こうに- 神戸再景編 -(限定)",
+      "_english": "[Sticker] つなぎ目の向こうに -Kobe Re-Scape Edition- (Limited)",
+      "_traditionalChinese": "[貼紙]つなぎ目の向こうに- 神戸再景編 -（限定）",
+      "_simplifiedChinese": "[贴纸]つなぎ目の向こうに- 神戸再景編 -(限定)",
+      "_korean": "[스티커] 이음새 너머로 - 고베, 풍경 재발견 편 -(한정)"
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "Obtained by limit breaking \"Tomori Takamatsu [Favorite Penguins]\" 4 times.",
@@ -33921,6 +34025,14 @@
       "_korean": "「[너무 가까운 거리] 우미리&냐무」 4회 상한 해제 시 획득"
     },
     {
+      "_id": "Degree_Description_40000056",
+      "_japanese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"MyGO!!!!! [つなぎ目の向こうに -Kobe Re-Scape Edition-]\" 4 times.",
+      "_traditionalChinese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」開放上限4次後獲得",
+      "_simplifiedChinese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」上限解锁4次后获得",
+      "_korean": "「[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!」 4회 상한 해제 시 획득"
+    },
+    {
       "_id": "Degree_Name_40000001",
       "_japanese": "[ステッカー][お気に入りのペンギンたち]高松 燈",
       "_english": "[Sticker] Tomori Takamatsu [Favorite Penguins]",
@@ -34359,6 +34471,14 @@
       "_traditionalChinese": "[貼紙][過近的距離]海鈴&若麥",
       "_simplifiedChinese": "[贴纸][过近的距离]海铃&Nyamu",
       "_korean": "[스티커] [너무 가까운 거리] 우미리&냐무"
+    },
+    {
+      "_id": "Degree_Name_40000056",
+      "_japanese": "[ステッカー][つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "[Sticker] MyGO!!!!! [つなぎ目の向こうに -Kobe Re-Scape Edition-]",
+      "_traditionalChinese": "[貼紙][つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_simplifiedChinese": "[贴纸][つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_korean": "[스티커] [이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
     },
     {
       "_id": "Item_Source_Name_1",
@@ -37019,7 +37139,7 @@
     {
       "_id": "gacha_warning_daily_once_paid_only",
       "_japanese": "※「1日1回限定」のガチャは有償スターのみ使用できます",
-      "_english": "※The “Once Daily” Gacha can only be drawn with Paid Stars.",
+      "_english": "*Only Paid Stars can be used for the \"Once per Day\" Gacha.",
       "_traditionalChinese": "※「1天1次限定」的轉蛋僅可使用付費星鑽抽取。",
       "_simplifiedChinese": "※「每日限1次」的招募仅可使用付费星钻。",
       "_korean": "※「1일 1회 한정」뽑기는 유료 스타만 사용할 수 있습니다."
@@ -37035,7 +37155,7 @@
     {
       "_id": "gacha_warning_free_consumed_first",
       "_japanese": "※有償スターと無償スターを所持していた場合、無償分のスターから先に消費されます",
-      "_english": "※If you have both Paid and Free Stars, Free Stars will be used first.",
+      "_english": "*If you have both Paid Stars and Free Stars, Free Stars will be consumed first.",
       "_traditionalChinese": "※同時持有付費星鑽和免費星鑽時，將優先消耗免費星鑽。",
       "_simplifiedChinese": "※同时持有付费星钻和免费星钻时，将优先消耗免费星钻。",
       "_korean": "※유료 스타와 무료 스타를 동시에 소유하고 있을 경우 무료 스타를 먼저 소모합니다."
@@ -37043,7 +37163,7 @@
     {
       "_id": "gacha_warning_paid_oldest_first",
       "_japanese": "※有償スターを消費する場合、入手日の古い有償スターから先に消費されます",
-      "_english": "※When Paid Stars are used, those obtained earliest will be used first.",
+      "_english": "*When Paid Stars are consumed, the ones obtained earliest will be used first.",
       "_traditionalChinese": "※消耗付費星鑽時，將會優先消耗獲得日期較早的付費星鑽。",
       "_simplifiedChinese": "※消耗付费星钻时，将优先消耗最早获得的付费星钻。",
       "_korean": "※유료 스타를 사용할 경우 먼저 획득한 스타부터 소모됩니다."
@@ -37051,7 +37171,7 @@
     {
       "_id": "gacha_warning_ticket_only",
       "_japanese": "※本ガチャは専用の「{GachaTicketName}」を消費して引くことができるガチャです",
-      "_english": "※This Gacha can only be drawn using its dedicated “{GachaTicketName}.”",
+      "_english": "*This Gacha can only be pulled using dedicated \"{GachaTicketName}.\"",
       "_traditionalChinese": "※本轉蛋是可消耗專用的「{GachaTicketName}」進行抽取的轉蛋。",
       "_simplifiedChinese": "※本招募仅可消耗专用的「{GachaTicketName}」进行抽取。",
       "_korean": "※해당 뽑기는 전용 「{GachaTicketName}」을(를) 사용하여 뽑기를 진행할 수 있습니다."
@@ -37059,7 +37179,7 @@
     {
       "_id": "gacha_warning_ticket_hidden_if_none",
       "_japanese": "※本ガチャは専用の「{GachaTicketName}」を所持していない場合、ガチャ画面より非表示となります",
-      "_english": "※This Gacha will not appear on the Gacha screen unless you have its dedicated “{GachaTicketName}.”",
+      "_english": "*This Gacha will be hidden from the Gacha screen if you do not have dedicated \"{GachaTicketName}.\"",
       "_traditionalChinese": "※若未持有專用的「{GachaTicketName}」，本轉蛋將不會顯示於轉蛋頁面。",
       "_simplifiedChinese": "※若未持有专用的「{GachaTicketName}」，本招募将不会显示在招募页面。",
       "_korean": "※해당 뽑기는 전용 「{GachaTicketName}」을(를) 보유하고 있지 않을 경우 뽑기 화면에 나타나지 않습니다."
@@ -37067,7 +37187,7 @@
     {
       "_id": "gacha_warning_ticket_usable_with_free",
       "_japanese": "※本ガチャは専用の「{GachaTicketName}」をご利用いただけます",
-      "_english": "※The dedicated “{GachaTicketName}” can be used for this Gacha.",
+      "_english": "*Dedicated \"{GachaTicketName}\" can be used for this Gacha.",
       "_traditionalChinese": "※本轉蛋可使用專用的「{GachaTicketName}」進行抽取。",
       "_simplifiedChinese": "※本招募可使用专用的「{GachaTicketName}」。",
       "_korean": "※해당 뽑기는 전용 「{GachaTicketName}」을(를) 사용할 수 있습니다."
@@ -37075,7 +37195,7 @@
     {
       "_id": "gacha_warning_ticket_consumed_first",
       "_japanese": "※「{GachaTicketName}」とスターを所持していた場合、「{GachaTicketName}」から先に消費されます",
-      "_english": "※If you have both “{GachaTicketName}” and Stars, “{GachaTicketName}” will be used first.",
+      "_english": "*If you have both \"{GachaTicketName}\" and Stars, \"{GachaTicketName}\" will be consumed first.",
       "_traditionalChinese": "※同時持有「{GachaTicketName}」和星鑽時，將優先消耗「{GachaTicketName}」。",
       "_simplifiedChinese": "※同时持有「{GachaTicketName}」和星钻时，将优先消耗「{GachaTicketName}」。",
       "_korean": "※「{GachaTicketName}」와(과) 스타를 모두 보유 중인 경우 「{GachaTicketName}」을(를) 먼저 소모합니다."
@@ -37083,7 +37203,7 @@
     {
       "_id": "gacha_warning_limited_pickup_detail",
       "_japanese": "※ピックアップ対象のパラメータやスキルはガチャページ内の詳細にてご確認ください",
-      "_english": "※See the details on the Gacha page for the featured members’ and Snapshots’ stats and skills.",
+      "_english": "*Please check the details on the Gacha page for the Parameters and Skills of the Pickup content.",
       "_traditionalChinese": "※Pick Up對象的能力值及技能，請於轉蛋頁面的詳情中確認。",
       "_simplifiedChinese": "※Pick Up对象的能力值和技能请于招募页面的详情中确认。",
       "_korean": "※픽업 대상의 능력치와 스킬은 뽑기 화면에서 확인해 주세요."
@@ -37091,7 +37211,7 @@
     {
       "_id": "gacha_warning_limited_disappear",
       "_japanese": "※「期間限定」のガチャ排出コンテンツは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます再登場の時期や提供割合については現在未定です",
-      "_english": "※Gacha content marked “Limited” will no longer be available after this Gacha ends, but may return in the future. The timing and rates of any return have not been determined.",
+      "_english": "*\"Limited-Time\" content obtainable from this Gacha will no longer be available after this Gacha ends, but it may return in the future. The schedule and drop rates for its return are currently undetermined.",
       "_traditionalChinese": "※「期間限定」的轉蛋抽取內容在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定。",
       "_simplifiedChinese": "※标有「期间限定」的招募内容将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及提供概率。",
       "_korean": "※「기간 한정」 뽑기 대상은 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다."
@@ -37099,7 +37219,7 @@
     {
       "_id": "gacha_warning_comeback_hidden",
       "_japanese": "※本ガチャはカムバック期間が終了した際に、自動的にガチャ画面より非表示となります。本ガチャの残り期間についてガチャ画面をご確認ください",
-      "_english": "※This Gacha will automatically disappear from the Gacha screen when the comeback period ends. Check the Gacha screen for the time remaining.",
+      "_english": "*This Gacha will automatically be hidden once the Comeback period ends. Please check the Gacha screen for the remaining time.",
       "_traditionalChinese": "※本轉蛋會在回歸期間結束時，自動從轉蛋畫面中隱藏。關於本轉蛋的剩餘時間，請在轉蛋畫面進行確認。",
       "_simplifiedChinese": "※回归活动期间结束后，本招募将自动从招募页面隐藏。剩余开放时间请于招募页面确认。",
       "_korean": "※해당 뽑기는 복귀 기간이 종료될 시, 자동으로 뽑기 화면에서 미표시 상태로 됩니다. 해당 뽑기의 남은 기간은 뽑기 화면에서 확인해 주시기 바랍니다."
@@ -37115,7 +37235,7 @@
     {
       "_id": "gacha_warning_cm_count_timing",
       "_japanese": "※動画視聴の回数の判定は、動画を視聴完了し、ガチャを利用した時点で行われます\n※「期間限定」のガチャ排出コンテンツは出現しません",
-      "_english": "※A video view is counted once you finish watching the video and complete the Gacha draw.\n※Gacha content marked “Limited” is not available.",
+      "_english": "*A video ad view is counted only after you finish watching the ad and complete the pull.\n*\"Limited-Time\" Gacha content will not appear.",
       "_traditionalChinese": "※觀賞影片的次數，將會在看完影片且抽完轉蛋之後進行計算。\n※「期間限定」的轉蛋抽取內容將不會出現。",
       "_simplifiedChinese": "※观看次数将在视频观看完毕并完成招募时计入。\n※无法获得标有「期间限定」的招募内容。",
       "_korean": "※광고 시청 횟수 판정은 광고 시청을 완료하고, 뽑기를 진행한 시점에 이루어집니다.\n※「기간 한정」 뽑기 대상은 출현하지 않습니다"
@@ -37123,7 +37243,7 @@
     {
       "_id": "gacha_warning_cm_network",
       "_japanese": "※本ガチャを引くための動画視聴は携帯電話回線、Wi-Fi以外での通信環境では正常に動作しない場合がございます。動画を正常に視聴できない場合は、通信環境をご確認ください",
-      "_english": "※The video required to draw from this Gacha may not play correctly on connections other than mobile data or Wi-Fi. If it does not play, please check your connection.",
+      "_english": "*Video ads for this Gacha may not play correctly outside of mobile or Wi-Fi networks. If you experience issues viewing the ads, please check your internet connection.",
       "_traditionalChinese": "※為抽取本轉蛋觀賞影片時，若使用行動網路或Wi-Fi以外的網路環境，有可能無法正常運作。若無法正常播放影片，請確認您目前的網路環境。",
       "_simplifiedChinese": "※使用本招募所需的视频观看功能，在移动数据或 Wi-Fi 以外的网络环境下可能无法正常运行。若无法正常观看视频，请检查网络连接。",
       "_korean": "※해당 뽑기를 위한 동영상 시청은 휴대전화 통신망이나 Wi-Fi 이외의 환경에서는 정상적으로 작동하지 않을 수 있습니다. 동영상을 정상적으로 시청할 수 없는 경우 통신 환경을 확인해 주세요."
@@ -37131,7 +37251,7 @@
     {
       "_id": "gacha_warning_ensured_rarity",
       "_japanese": "※「{DrawCount}回引く」の{EnsuredRarity}以上1枠確定について、ガチャ抽選した結果、{EnsuredRarity}以上のガチャ排出コンテンツが1つも出現しなかった場合は、{DrawCount}回目の枠を確定枠提供割合から再度抽選されます",
-      "_english": "※For the guaranteed {EnsuredRarity}-or-higher slot in “Draw {DrawCount} Times”: if none of the results are {EnsuredRarity} or higher, the {DrawCount}th slot will be drawn again using the guaranteed slot’s rates.",
+      "_english": "*Regarding the guaranteed {EnsuredRarity} or higher slot in a \"Pull {DrawCount} Times\": If no Gacha content of {EnsuredRarity} or higher appears in your draw, the {DrawCount}th slot will be redrawn using the guaranteed slot drop rates.",
       "_traditionalChinese": "※關於「抽{DrawCount}次」的必得1名{EnsuredRarity}以上，若轉蛋結果沒有任何一張{EnsuredRarity}以上轉蛋抽取內容，則第{DrawCount}抽將會依據保底出現機率重新抽選。",
       "_simplifiedChinese": "※关于「抽取{DrawCount}次」中保证获得1个{EnsuredRarity}及以上内容的栏位：若招募结果中未出现任何{EnsuredRarity}及以上内容，则第{DrawCount}次抽取的栏位将依据保底栏位的提供概率重新抽取。",
       "_korean": "※「{DrawCount}회 뽑기」의 {EnsuredRarity} 이상 1개 확정에 관하여, 뽑기 추첨 후 {EnsuredRarity} 이상 뽑기 대상이 하나도 출현하지 않았을 경우, {DrawCount}회차 슬롯은 확정 슬롯 출현 확률로 다시 추첨됩니다."
@@ -37139,7 +37259,7 @@
     {
       "_id": "gacha_warning_before_enhance",
       "_japanese": "※ガチャ排出コンテンツは強化前の状態となります",
-      "_english": "※Content obtained from this Gacha will be in its unenhanced state.",
+      "_english": "*Gacha content will be in its unenhanced state.",
       "_traditionalChinese": "※轉蛋抽取內容皆為完成強化前的初始狀態。",
       "_simplifiedChinese": "※通过招募获得的内容均为强化前的状态。",
       "_korean": "※뽑기에 출현하는 대상은 강화 전 상태입니다."
@@ -37147,7 +37267,7 @@
     {
       "_id": "gacha_warning_duplicate",
       "_japanese": "※出現するガチャ排出コンテンツは同一のものが重複する場合があります",
-      "_english": "※You may obtain duplicate content from this Gacha.",
+      "_english": "*You may obtain duplicates of the same Gacha content from this Gacha.",
       "_traditionalChinese": "※轉蛋抽取內容皆有可能出現重複的情況。",
       "_simplifiedChinese": "※招募中可能重复获得相同内容。",
       "_korean": "※출현한 뽑기 대상은 중복 출현할 수 있습니다."
@@ -37155,7 +37275,7 @@
     {
       "_id": "gacha_warning_duplicate_member_piece",
       "_japanese": "※重複して獲得されたメンバーは該当メンバーの「ピース」に変換されます\n※変換された「ピース」は持ちもので確認できます\n※獲得したピースは、メンバーの覚醒で使用することができます\n※覚醒に必要な個数を超えた余剰分のピースは、自動的に保管庫に送られます",
-      "_english": "※Duplicate Members are converted into Pieces for the corresponding Member.\n※Converted Pieces can be viewed in your inventory.\n※Pieces can be used to Awaken Members.\n※Pieces exceeding the amount needed for Awakening are automatically sent to Storage.",
+      "_english": "*Duplicate Members will be converted into their respective \"Pieces.\"\n*Converted \"Pieces\" can be checked in your inventory.\n*Obtained Pieces can be used for Member Awakening.\n*Excess Pieces beyond the required amount for Awakening will be sent to Storage automatically.",
       "_traditionalChinese": "※重複獲得的團員將自動轉換為該團員的「星輝」。\n※轉換後的「星輝」可從持有物中確認。\n※獲得的星輝可用於團員覺醒。\n※超過覺醒所需數量的多餘星輝，將直接送至保管庫。",
       "_simplifiedChinese": "※重复获得的成员将转换为对应成员的「星辉」。\n※转换后的「星辉」可在持有物中确认。\n※获得的星辉可用于成员觉醒。\n※超过觉醒所需数量的星辉将自动送入仓库。",
       "_korean": "※중복으로 획득한 멤버는 해당 멤버의 「조각」으로 변환됩니다.\n※변환된 「조각」은 보유 아이템에서 확인할 수 있습니다.\n※획득한 조각은 멤버 각성에 사용할 수 있습니다.\n※각성에 필요한 개수를 초과한 여유분의 조각은 자동으로 보관함으로 전송됩니다."
@@ -37163,7 +37283,7 @@
     {
       "_id": "gacha_warning_duplicate_snap",
       "_japanese": "※重複して獲得されたスナップは、スナップの上限解放で使用することができます\n※上限解放に必要な個数を超えた余剰分は、自動的に保管庫に送られます",
-      "_english": "※Duplicate Snapshots can be used for a Snapshot’s Limit Break.\n※Copies exceeding the amount needed for Limit Break are automatically sent to Storage.",
+      "_english": "*Duplicate Snapshots can be used for Snapshot Limit Breaking.\n*Excess Snapshots beyond the required amount for Limit Breaking will be sent to Storage automatically.",
       "_traditionalChinese": "※重複獲得的快照，可用於快照的開放上限。\n※超過開放上限所需數量的多餘快照，將直接送至保管庫。",
       "_simplifiedChinese": "※重复获得的留影可用于留影的上限解锁。\n※超过上限解锁所需数量的留影将自动送入仓库。",
       "_korean": "※중복으로 획득한 스냅은 스냅의 상한 해제에 사용할 수 있습니다.\n※상한 해제에 필요한 개수를 초과한 여유분은 자동으로 보관함으로 전송됩니다."
@@ -37171,7 +37291,7 @@
     {
       "_id": "gacha_warning_see_ratio_tab",
       "_japanese": "※提供割合につきましては、提供割合タブにてご確認ください",
-      "_english": "※Check the Rates tab for Gacha rates.",
+      "_english": "*Please check the Drop Rates tab for more details.",
       "_traditionalChinese": "※關於出現機率，請至出現機率分頁確認。",
       "_simplifiedChinese": "※提供概率请于「提供概率」页签确认。",
       "_korean": "※출현 확률 정보는 출현 확률을 탭하여 확인해 주시기 바랍니다."
@@ -37179,7 +37299,7 @@
     {
       "_id": "gacha_warning_independent_lottery",
       "_japanese": "※ガチャは1回ごとに提供割合に基づいた抽選が行われ、前回の結果は引き継がれません。そのため、提供割合1%のガチャ排出コンテンツを100回中1回必ず獲得できるものではありません",
-      "_english": "※Each Gacha draw is independent and uses the stated rates. Previous results do not affect later draws. For example, a 1% rate does not guarantee that you will obtain the content once in 100 draws.",
+      "_english": "*Each pull is conducted independently based on the drop rates, and previous results are not carried over. Therefore, a 1% drop rate does not guarantee that you will obtain content from the Gacha once in every 100 pulls.",
       "_traditionalChinese": "※每次抽取轉蛋都會根據出現機率進行抽選，不會繼承前一次的結果。因此不代表抽100次就必定能獲得1次出現機率為1%的轉蛋抽取內容。",
       "_simplifiedChinese": "※每次招募均按提供概率独立抽取，前一次的结果不会影响下一次。因此，即使某项内容的提供概率为1%，抽取100次也不保证一定能获得1次。",
       "_korean": "※뽑기는 매번 출현 확률에 따라 추첨이 진행되며, 이전 결과는 다음 뽑기에 반영되지 않습니다. 따라서 출현 확률이 1%인 뽑기 대상을 100회 중 반드시 1회 획득할 수 있는 것은 아닙니다."
@@ -37187,7 +37307,7 @@
     {
       "_id": "gacha_warning_network_result",
       "_japanese": "※通信状況や端末状態などによって、ガチャの演出や結果が正常に表示されない場合がありますが、ガチャ排出コンテンツの獲得は正常に反映されております。内容については「ガチャ履歴」をご確認ください",
-      "_english": "※Connection or device issues may prevent the Gacha animation or results from displaying correctly. Content obtained will still be recorded. Check Gacha History for details.",
+      "_english": "*Due to network conditions, device status, or other factors, Gacha animations and results may not display correctly. Rest assured, any Gacha content you obtained has been correctly added to your account. Please check \"Gacha History\" for details.",
       "_traditionalChinese": "※因網路連線或裝置狀況等因素影響，可能會導致轉蛋的動畫或結果無法正常顯示，但此時轉蛋抽取內容仍已正常反映。詳細內容請至「轉蛋紀錄」確認。",
       "_simplifiedChinese": "※受网络连接或设备状态等影响，招募演出或结果可能无法正常显示，但获得的内容会正常记录。请于「招募记录」中确认。",
       "_korean": "※네트워크 상태나 기기 상태 등에 따라 뽑기 연출이나 결과가 정상적으로 표시되지 않을 수 있으나, 뽑기 대상은 정상적으로 획득됩니다. 상세 내용은 「뽑기 기록」에서 확인하시기 바랍니다."
@@ -37195,7 +37315,7 @@
     {
       "_id": "gacha_warning_no_end_schedule",
       "_japanese": "※本ガチャは無期限での開催を予定しておりますが、特定の日時での開催終了を含め、開催スケジュールを予告なく変更する場合がございます",
-      "_english": "※This Gacha is currently planned to run indefinitely. Its schedule may change without notice, including an end date being set.",
+      "_english": "*While this Gacha currently has no set end date, the schedule is subject to change without prior notice, including the addition of a specific end date.",
       "_traditionalChinese": "※本轉蛋預計為無期限開放，但包含於特定日期結束等情況在內，舉辦期間仍有可能會無預警變更。",
       "_simplifiedChinese": "※本招募目前计划长期开放，但开放日程可能未经预告而变更，包括在指定时间结束。",
       "_korean": "※해당 뽑기는 무기한 개최를 예정하고 있으나, 특정 시간에 개최 종료를 포함한 개최 일정을 예고 없이 변경될 수 있습니다."
@@ -37203,7 +37323,7 @@
     {
       "_id": "gacha_warning_schedule_change",
       "_japanese": "※本ガチャのスケジュールや内容は予告なく変更する場合があります",
-      "_english": "※This Gacha’s schedule and contents may change without notice.",
+      "_english": "*The schedule and contents of this Gacha are subject to change without prior notice.",
       "_traditionalChinese": "※本轉蛋的期間及內容有可能無預警變更。",
       "_simplifiedChinese": "※本招募的开放日程及内容可能未经预告而变更。",
       "_korean": "※해당 뽑기의 일정이나 내용은 예고 없이 변경될 수 있습니다."
@@ -37219,7 +37339,7 @@
     {
       "_id": "gacha_warning_point_add",
       "_japanese": "※本ガチャを引いてガチャ排出コンテンツを獲得するごとに、専用ガチャptが「1pt」加算されます",
-      "_english": "※You earn 1 Gacha Pt for this Gacha for each piece of content obtained from it.",
+      "_english": "*Each time you pull this Gacha and obtain Gacha content, your dedicated Gacha Pts will increase by \"1 Pt.\"",
       "_traditionalChinese": "※每次抽取本轉蛋並獲得轉蛋抽取內容時，專用轉蛋pt將增加「1pt」。",
       "_simplifiedChinese": "※每通过本招募获得1个内容，专属招募pt增加1pt。",
       "_korean": "※해당 뽑기를 진행하여 뽑기 대상을 획득할 때마다 전용 뽑기 pt가 「1 pt」 가산됩니다."
@@ -37227,7 +37347,7 @@
     {
       "_id": "gacha_warning_point_fixed",
       "_japanese": "※加算されるptはガチャ排出コンテンツのレアリティによって変動せずに、1つ獲得ごとに「1pt」加算されます",
-      "_english": "※The number of Gacha Pts does not vary by rarity. You earn 1 Gacha Pt for each piece of content obtained.",
+      "_english": "*The Pts added do not vary by the Rarity of the Gacha content obtained. \"1 Pt\" is added for each one obtained.",
       "_traditionalChinese": "※增加的pt不會受獲得的轉蛋抽取內容稀有度影響，每獲得一張即增加「1pt」。",
       "_simplifiedChinese": "※获得的pt不因内容稀有度而变化，每获得1个内容均增加1pt。",
       "_korean": "※가산된 pt는 뽑기 대상의 희귀도에 따라 변동되지 않으며, 1개 획득할 때마다 「1 pt」가 가산됩니다."
@@ -37235,7 +37355,7 @@
     {
       "_id": "gacha_warning_point_ticket",
       "_japanese": "※「{GachaTicketName}」を使用して、ガチャを引いた場合も専用ガチャptを獲得できます",
-      "_english": "※Draws made with “{GachaTicketName}” also earn Gacha Pts for this Gacha.",
+      "_english": "*You will also receive dedicated Gacha Pts when pulling with \"{GachaTicketName}.\"",
       "_traditionalChinese": "※使用「{GachaTicketName}」抽取本轉蛋時，同樣能獲得專用轉蛋pt。",
       "_simplifiedChinese": "※使用「{GachaTicketName}」进行招募时，也可获得专属招募pt。",
       "_korean": "※「{GachaTicketName}」을(를) 사용하여 뽑기를 진행할 경우, 전용 뽑기 pt를 획득할 수 있습니다."
@@ -37243,7 +37363,7 @@
     {
       "_id": "gacha_warning_point_scope",
       "_japanese": "※本ガチャで獲得できる専用ガチャptは他のガチャを引いても加算されません",
-      "_english": "※Gacha Pts for this Gacha cannot be earned by drawing from other Gachas.",
+      "_english": "*Dedicated Gacha Pts for this Gacha cannot be obtained by pulling from other Gachas.",
       "_traditionalChinese": "※抽取本轉蛋所獲得的專用轉蛋pt，在抽取其他轉蛋時將不會增加。",
       "_simplifiedChinese": "※通过本招募获得的专属招募pt，不会因抽取其他招募而增加。",
       "_korean": "※해당 뽑기에서 획득할 수 있는 전용 뽑기 pt는 다른 뽑기를 진행하여도 가산되지 않습니다."
@@ -37251,7 +37371,7 @@
     {
       "_id": "gacha_warning_point_exchange",
       "_japanese": "※本ガチャで獲得できる専用ガチャptは交換所で各種アイテムと交換できます。交換内容は、開催されているガチャによって異なります。内容は「交換所」をご確認ください",
-      "_english": "※Gacha Pts earned from this Gacha can be exchanged for items. Available items vary by Gacha; check the Exchange Shop for details.",
+      "_english": "*Dedicated Gacha Pts received from this Gacha can be exchanged for various items at the Exchange Shop. Available items vary depending on the active Gacha. Please check the \"Exchange Shop\" for details.",
       "_traditionalChinese": "※於本轉蛋獲得的專用轉蛋pt，可在兌換所兌換各種道具。兌換內容將依舉辦的轉蛋而有所不同。詳細內容請至「兌換所」確認。",
       "_simplifiedChinese": "※通过本招募获得的专属招募pt可在交换所兑换各类道具。可兑换内容因招募而异，请于「交换所」确认。",
       "_korean": "※해당 뽑기에서 획득할 수 있는 전용 뽑기 pt는 교환소에서 여러 아이템을 교환할 수 있습니다. 교환 내용은 개최 중인 뽑기에 따라 다릅니다. 내용은 「교환소」에서 확인하시기 바랍니다."
@@ -37259,7 +37379,7 @@
     {
       "_id": "gacha_warning_point_auto_convert",
       "_japanese": "※メンバー、スナップが排出されるガチャのガチャptは、\n　ガチャpt交換所の終了後に、1ptごとに星のシール×100に自動変換されます",
-      "_english": "*After this Gacha's Gacha Pt Exchange Shop closes,\nGacha Pts from Gachas that feature Members and Snapshots will be automatically converted into Star Stickers at a rate of 100 Star Stickers per Pt.",
+      "_english": "*After the Exchange Shop closes, all remaining Gacha Pts from Gachas that drop Members and Snaps\nwill be automatically converted into Star Stickers at a rate of 100 Star Stickers per Pt.",
       "_traditionalChinese": "※團員及快照的轉蛋pt在本轉蛋的轉蛋pt兌換所結束後，\n每1pt將會自動轉換為星光貼紙×100。",
       "_simplifiedChinese": "※可获得成员、留影的招募，其招募pt将于招募pt交换所结束后，\n每1pt自动转化为星星贴纸×100",
       "_korean": "※멤버, 스냅이 출현하는 뽑기의 뽑기 pt는\n뽑기 pt 교환소 종료 후, 1 pt당 별의 스티커×100로 자동 변환됩니다"
@@ -37267,7 +37387,7 @@
     {
       "_id": "gacha_warning_point_convert_present",
       "_japanese": "※自動変換された星のシールは、ガチャpt交換所の終了後一定期間を経てプレゼントに送られます",
-      "_english": "※Automatically converted Star Stickers will be sent to your Gift Box some time after the Gacha Pt Exchange Shop closes.",
+      "_english": "*The automatically converted Star Stickers will be sent to your Gift Box a certain period of time after the Gacha Pt Exchange Shop closes.",
       "_traditionalChinese": "※自動轉換的星光貼紙將於轉蛋pt兌換所結束一段時間後發送至禮物盒。",
       "_simplifiedChinese": "※自动转换的星星贴纸将在招募pt交换所结束一段时间后发送至礼物盒。",
       "_korean": "※자동 전환된 스타 스티커는 뽑기 pt 교환소 종료 후 일정 기간이 지나면 선물함으로 발송됩니다"
@@ -37275,7 +37395,7 @@
     {
       "_id": "gacha_warning_slot_detail",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります",
-      "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.",
+      "_english": "*For \"Pull 1 Time\" and the 1st–9th pulls of \"Pull 10 Times,\" the pull is from the normal pool.\n*The 10th pull of \"Pull 10 Times\" is from the guaranteed pool.",
       "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다."
@@ -37283,7 +37403,7 @@
     {
       "_id": "gacha_warning_event",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります\n※本ガチャで登場した新規のガチャ排出コンテンツは次回以降のガチャにも出現いたしますが、提供割合については本ガチャと異なります",
-      "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.\n※Content debuting in this Gacha may appear in future Gachas, but at different rates.",
+      "_english": "*For \"Pull 1 Time\" and the 1st–9th pulls of \"Pull 10 Times,\" the pull is from the normal pool.\n*The 10th pull of \"Pull 10 Times\" is from the guaranteed pool.\n*New Gacha content introduced in this Gacha will also appear in future Gachas, but the drop rates for such content will differ from those in this Gacha.",
       "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。\n※於本轉蛋登場的新轉蛋抽取內容亦會出現在今後的轉蛋中，但出現機率將與本轉蛋不同。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。\n※本招募首次登场的内容今后也会出现在其他招募中，但提供概率与本招募不同。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다.\n※해당 뽑기에서 등장한 신규 뽑기 대상은 다음 이후의 뽑기에서도 출현하지만, 출현 확률은 해당 뽑기와 다릅니다."
@@ -37291,7 +37411,7 @@
     {
       "_id": "gacha_warning_limited_event",
       "_japanese": "※「1回引く」及び「10回引く」の1〜9回目は通常枠での抽選となります\n※「10回引く」の10回目は確定枠での抽選となります",
-      "_english": "※“Draw 1” and draws 1–9 of “Draw 10” use the standard slot rates.\n※Draw 10 of “Draw 10” uses the guaranteed slot rates.",
+      "_english": "*For \"Pull 1 Time\" and the 1st–9th pulls of \"Pull 10 Times,\" the pull is from the normal pool.\n*The 10th pull of \"Pull 10 Times\" is from the guaranteed pool.",
       "_traditionalChinese": "※「抽1次」及「抽10次」的第1～9次皆採用一般名額進行抽取。\n※「抽10次」的第10次則採取保底名額進行抽取。",
       "_simplifiedChinese": "※「抽取1次」及「抽取10次」的第1～9次抽取均使用普通栏位的提供概率。\n※「抽取10次」的第10次抽取使用保底栏位的提供概率。",
       "_korean": "※「1회 뽑기」 및 「10회 뽑기」의 1~9회차는 일반 슬롯으로 추첨됩니다.\n※「10회 뽑기」의 10회차는 확정 슬롯으로 추첨됩니다."
@@ -37299,7 +37419,7 @@
     {
       "_id": "gacha_warning_point_monthly_pass_free",
       "_japanese": "※アワーノーツパスの「1日1回無料ガチャ」で引いたガチャ分に、ガチャptは適用されません",
-      "_english": "※Draws from the Our Notes Pass “One Free Daily Gacha” do not earn Gacha Pts.",
+      "_english": "*Gacha Pts will not be applied to the pull made with the \"Daily Free Gacha\" of the Our Notes Pass.",
       "_traditionalChinese": "※透過交織的樂章通行證的「1天1次免費轉蛋」抽取轉蛋時，無法獲得轉蛋pt。",
       "_simplifiedChinese": "※通过交织的乐章通行证「每日1次免费招募」进行的抽取不会获得招募pt。",
       "_korean": "※아워 노트 패스의 「1일 1회 무료 뽑기」에서 뽑은 분량에는 뽑기 pt가 적용되지 않습니다."
@@ -42905,6 +43025,14 @@
       "_korean": "[Virtus] Ave Mujica"
     },
     {
+      "_id": "Item_Description_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "[つなぎ目の向こうに -Kobe Re-Scape Edition-] MyGO!!!!!",
+      "_traditionalChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_simplifiedChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\n※一部のガチャは対象外",
       "_english": "A ticket used to draw from the Event Gacha.\n※Certain Gachas are excluded.",
@@ -43678,7 +43806,7 @@
       "_english": "An item used to Awaken Miku Mahashi [Happy Birthday 26-27]",
       "_traditionalChinese": "[Happy Birthday 26-27]馬橋心玖覺醒時使用的道具",
       "_simplifiedChinese": "用于[Happy Birthday 26-27]马桥心玖觉醒的道具",
-      "_korean": "[Happy Birthday 26-27] 마하시 미쿠 각성에 사용하는 아이템"
+      "_korean": "[Happy Birthday 26-27]마하시 미쿠 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000065",
@@ -43734,7 +43862,7 @@
       "_english": "An item used to Awaken Houka Izumi \"Happy Birthday 26-27\"",
       "_traditionalChinese": "[Happy Birthday 26-27]和泉朋花覺醒時使用的道具",
       "_simplifiedChinese": "用于[Happy Birthday 26-27]和泉朋花觉醒的道具",
-      "_korean": "[Happy Birthday 26-27] 이즈미 호우카 각성에 사용하는 아이템"
+      "_korean": "[Happy Birthday 26-27]이즈미 호우카 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000072",
@@ -43742,7 +43870,7 @@
       "_english": "An item used to Awaken Taki Shiina \"Spellbound Tonight\"",
       "_traditionalChinese": "[今晚，為魔法所囚]椎名立希覺醒時使用的道具",
       "_simplifiedChinese": "用于[今晚，为魔法所困]椎名立希觉醒的道具",
-      "_korean": "[오늘 밤, 마법에 사로잡히다] 시이나 타키 각성에 사용하는 아이템"
+      "_korean": "[오늘 밤, 마법에 사로잡히다]시이나 타키 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000073",
@@ -43750,7 +43878,7 @@
       "_english": "An item used to Awaken Doloris \"Unquenchable Thirst\"",
       "_traditionalChinese": "[永無止境的渴望]Doloris覺醒時使用的道具",
       "_simplifiedChinese": "用于[无餍之渴]Doloris觉醒的道具",
-      "_korean": "[채워지지 않는 갈증] 돌로리스 각성에 사용하는 아이템"
+      "_korean": "[채워지지 않는 갈증]돌로리스 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000074",
@@ -43758,7 +43886,7 @@
       "_english": "An item used to Awaken Rāna Kaname \"Cats' Halloween\"",
       "_traditionalChinese": "[貓咪們的萬聖節]要樂奈覺醒時使用的道具",
       "_simplifiedChinese": "用于[猫咪们的万圣节]要乐奈觉醒的道具",
-      "_korean": "[고양이들의 할로윈] 카나메 라나 각성에 사용하는 아이템"
+      "_korean": "[고양이들의 할로윈]카나메 라나 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000075",
@@ -43766,7 +43894,7 @@
       "_english": "An item used to Awaken Yuno Sengoku \"Happy Birthday 26-27\"",
       "_traditionalChinese": "[HAPPY BIRTHDAY 26-27]千石由乃覺醒時使用的道具",
       "_simplifiedChinese": "用于[Happy Birthday 26-27]千石由乃觉醒的道具",
-      "_korean": "[Happy Birthday 26-27] 센고쿠 유노 각성에 사용하는 아이템"
+      "_korean": "[Happy Birthday 26-27]센고쿠 유노 각성에 사용하는 아이템"
     },
     {
       "_id": "Item_Description_10000076",
@@ -45561,6 +45689,14 @@
       "_korean": "[Virtus] Ave Mujica"
     },
     {
+      "_id": "Item_Name_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "[つなぎ目の向こうに -Kobe Re-Scape Edition-] MyGO!!!!!",
+      "_traditionalChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_simplifiedChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
+    },
+    {
       "_id": "Item_Phonetic_Name_1",
       "_japanese": "すたー",
       "_english": "Star",
@@ -46079,6 +46215,14 @@
       "_traditionalChinese": "[Virtus]Ave Mujica",
       "_simplifiedChinese": "[Virtus]Ave Mujica",
       "_korean": "[Virtus] Ave Mujica"
+    },
+    {
+      "_id": "Item_Phonetic_Name_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "[つなぎ目の向こうに -Kobe Re-Scape Edition-] MyGO!!!!!",
+      "_traditionalChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_simplifiedChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
     },
     {
       "_id": "Leader_Skill_Name_Description_1",
@@ -54603,7 +54747,7 @@
     {
       "_id": "Live_Skill_Name_Description_9",
       "_japanese": "【判定】5秒間 PERFECT以上のスコア<color=#66FF8C>{effects[0].value/100:F1}%UP</color>\nGOOD以下を出すまでは、PERFECT以上のスコア<color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>",
-      "_english": "\"[Judgment] For 5 sec., score from PERFECT or higher judgments <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>.<br>Until a GOOD or lower judgment occurs, score from PERFECT or higher judgments <color=#66FF8C>increases by {(effects[0].value + effects[1].value)/100:F1}%</color>.\"",
+      "_english": "[HIT] For 5 seconds, Score is increased by <color=#66FF8C>{effects[0].value/100:F1}%</color> for PERFECT HIT or higher.\nUntil you get GOOD HIT or lower, Score is increased by <color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%</color> for PERFECT HIT or higher.",
       "_traditionalChinese": "【判定】5秒內，PERFECT以上的分數<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，\n在出現GOOD以下的判定前，PERFECT以上的分數<color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>",
       "_simplifiedChinese": "【判定】5秒内，PERFECT及以上判定的得分<color=#66FF8C>提升{effects[0].value/100:F1}%</color><br>在出现GOOD及以下判定前，PERFECT及以上判定的得分<color=#66FF8C>提升{(effects[0].value + effects[1].value)/100:F1}%</color>",
       "_korean": "[판정] 5초간 PERFECT 이상의 스코어 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>\nGOOD이하의 판정이 나오기 전 PERFECT 이상의 스코어 <color=#66FF8C>{(effects[0].value + effects[1].value)/100:F1}%UP</color>"
@@ -56225,6 +56369,22 @@
       "_korean": "특별 커버곡 「Abracadabra」 추가 기념 특별 로그인 보상"
     },
     {
+      "_id": "LoginBonus_Name_11",
+      "_japanese": "MyGO!!!!! 9th Single「世点彩」発売記念プレゼント！",
+      "_english": "MyGO!!!!! 9th Single \"Sepia\" Release Celebration Gift!",
+      "_traditionalChinese": "MyGO!!!!! 9th Single《世點彩》發售紀念禮物！",
+      "_simplifiedChinese": "MyGO!!!!! 9th Single「世点彩」发售纪念礼物！",
+      "_korean": "MyGO!!!!! 9th Single 「세피아」 발매 기념 선물!"
+    },
+    {
+      "_id": "LoginBonus_Name_12",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 特別ログインボーナス",
+      "_english": "MyGO!!!!! 9th LIVE \"つなぎ目の向こうに\" -Kobe Re-Scape Edition- Celebration Special Login Bonus",
+      "_traditionalChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 特別登入獎勵",
+      "_simplifiedChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 举办纪念 特别登录奖励",
+      "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 특별 로그인 보상"
+    },
+    {
       "_id": "LoginBonus_Name_1000000001",
       "_japanese": "\"Abracadabra\" Release Celebration Login Bonus!",
       "_english": "\"Abracadabra\" Release Celebration Login Bonus!",
@@ -56991,6 +57151,14 @@
       "_traditionalChinese": "ピノキオピー",
       "_simplifiedChinese": "ピノキオピー",
       "_korean": "PinocchioP"
+    },
+    {
+      "_id": "Lyricist_Name_100201",
+      "_japanese": "藤原優樹(SUPA LOVE)",
+      "_english": "Masaki Fujiwara (SUPA LOVE)",
+      "_traditionalChinese": "藤原優樹(SUPA LOVE)",
+      "_simplifiedChinese": "藤原優樹(SUPA LOVE)",
+      "_korean": "후지와라 마사키(SUPA LOVE)"
     },
     {
       "_id": "MemberGachaVoice_51",
@@ -59491,10 +59659,10 @@
     {
       "_id": "Monthly_Pass_Description_1",
       "_japanese": "無償スター(毎日ログイン時)\n・「無償スター」はご購入いただいた日から1日1回ゲームにログインした際に受け取ることができます。（1日あたり Premium: 60個、Standard: 30個、Lite: 10個、最大30日分・合計獲得数：Premium 1,800個 / Standard 900個 / Lite 300個）\n・「無償スター」を獲得できる機会は、毎日{DailyResetTime}にリセットされます。\n・ログインを行わず未受け取りとなった無償スターは、次回ログイン時に未受け取り日数分をまとめて受け取ることができます。\n・「アワーノーツパス」の有効期間終了後も、未受け取り分の無償スターを受け取ることができます。\n・「無償スター」の受け取り回数は1日1回、合計30回分となります。\n\n1週間に1回アワーノーツパスガチャが無料\n・「アワーノーツパスガチャ」を1週間に1回無料で引くことができます。\n・「アワーノーツパスガチャ」が引ける回数は、毎週{WeeklyResetDateTime}にリセットされます。\n・「アワーノーツパスガチャ」を引かなかった場合、その週の回数はリセット後に引き継がれず、無効となります。\n・「アワーノーツパスガチャ」の特典は各プランのアワーノーツパスで共通となります。例えば、「アワーノーツパスガチャ」を既に引いた週に、アワーノーツパスを再度購入しても、翌週{WeeklyResetDateTime}まで回数はリセットされません。\n\n「1日1回有償ガチャ」が2回引ける(ボーナス)\n・「1日1回有償ガチャ」を引くには、別途1回ごとに有償スターが必要です。\n・『「1日1回有償ガチャ」が2回引ける(ボーナス)』は、「1日1回有償ガチャ」が開催されていない期間中は適用されません。予めご了承ください。\n\n広告なし\n・CM視聴で報酬が獲得できる機能において、動画CMの視聴をスキップして報酬を獲得することができます。\n\n購入特典\n・「アワーノーツパス」を購入すると、「アワーノーツパスpt」を獲得できます。\n・「アワーノーツパスpt」は「アワーノーツパスpt交換所」で任意のアイテムと交換することができます。\n・購入の判定は、ご購入後ゲームにログインし商品が反映した際に行われます。\n\n累計購入回数特典\n・「アワーノーツパス」を購入すると、累計購入回数に応じてステッカーが追加されます。\n・購入の判定は、ご購入後ゲームにログインし商品が反映した際に行われます。",
-      "_english": "Free Stars (Daily Login)\n- \"Free Stars\" can be received once per day when you log into the game, starting from the date of purchase.(Per day - Premium: 60, Standard: 30, Lite: 10 / Up to 30 days / Total - Premium: 1,800 / Standard: 900 / Lite: 300)\n- The opportunity to receive \"Free Stars\" resets daily at {DailyResetTime}.\n- Free Stars that go uncollected due to missed logins can be claimed all at once upon your next login, covering all missed days.\n- Even after your \"Our Notes Pass\" expires, you may still claim any uncollected Free Stars.\n- \"Free Stars\" can be claimed once per day, for a total of 30 times.\n\nWeekly Free Our Notes Pass Gacha\n- You can pull the \"Our Notes Pass Gacha\" once per week for free.\n- The weekly pull count for the \"Our Notes Pass Gacha\" resets every {WeeklyResetDateTime}.\n- If you do not use your \"Our Notes Pass Gacha\" pull for the week, it will not carry over after the reset and will be forfeited.\n- The \"Our Notes Pass Gacha\" benefit is shared across all Our Notes Pass plans. For example, if you purchase a Our Notes Pass again during a week in which you have already used your weekly gacha pull, the count will not reset until the following {WeeklyResetDateTime}.\n\n\"Daily Paid Gacha\" ×2 (Bonus)\n- Each pull of \"Daily Paid Gacha\" requires Paid Stars.\n- The '\"Daily Paid Gacha\" ×2 (Bonus)' benefit does not apply during periods when \"Daily Paid Gacha\" is not available. Please note this in advance.\n\nLIVE Boost Full Consumption Count UP\n- The number of Full LIVE Boost consumptions available per day is increased to the specified amount (Premium: 5 times, Standard: 3 times).\n- The usage count resets daily at {DailyResetTime}.\n\nSkip Count UP\n- The daily skip count is increased from 3 to the specified amount (Premium: 5 times, Standard: 5 times).\n- The usage count resets daily at {DailyResetTime}.\n\nAd-Free\n- In features where rewards are earned by watching video ads, you may skip the ad and still receive the reward.\n\nPurchase Bonus\n- When you purchase the \"Our Notes Pass,\" you can earn \"Our Notes Pass Pts.\"\n- \"Our Notes Pass Pts\" can be exchanged for items of your choice at the \"Our Notes Pass Pt Exchange Shop.\"\n- Purchase eligibility is determined at the moment you log into the game after your purchase and the product is applied to your account.\n\nCumulative Purchase Count Bonus\n- When you purchase the \"Our Notes Pass,\" stickers will be added based on your total number of purchases.\n- Purchase eligibility is determined at the moment you log into the game after your purchase and the product is applied to your account.",
+      "_english": "Free Stars (Daily Login)\n- \"Free Stars\" can be received once per day when you log into the game, starting from the date of purchase.(Per day - Premium: 60, Standard: 30, Lite: 10 / Up to 30 days / Total - Premium: 1,800 / Standard: 900 / Lite: 300)\n- The opportunity to receive \"Free Stars\" resets daily at {DailyResetTime}.\n- Free Stars that go uncollected due to missed logins can be claimed all at once upon your next login, covering all missed days.\n- Even after your \"Our Notes Pass\" expires, you may still claim any uncollected Free Stars.\n- \"Free Stars\" can be claimed once per day, for a total of 30 times.\n\nWeekly Free Our Notes Pass Gacha\n- You can pull the \"Our Notes Pass Gacha\" once per week for free.\n- The weekly pull count for the \"Our Notes Pass Gacha\" resets every {WeeklyResetDateTime}.\n- If you do not use your \"Our Notes Pass Gacha\" pull for the week, it will not carry over after the reset and will be forfeited.\n- The \"Our Notes Pass Gacha\" benefit is shared across all Our Notes Pass plans. For example, if you purchase an Our Notes Pass again during a week in which you have already used your weekly gacha pull, the count will not reset until the following {WeeklyResetDateTime}.\n\n\"Daily Paid Gacha\" ×2 (Bonus)\n- Each pull of \"Daily Paid Gacha\" requires Paid Stars.\n- The \"'Daily Paid Gacha' ×2 (Bonus)\" benefit does not apply during periods when \"Daily Paid Gacha\" is not available. Please note this in advance.\n\nAd-Free\n- In features where rewards are earned by watching video ads, you may skip the ad and still receive the reward.\n\nPurchase Bonus\n- When you purchase the \"Our Notes Pass,\" you can earn \"Our Notes Pass Pts.\"\n- \"Our Notes Pass Pts\" can be exchanged for items of your choice at the \"Our Notes Pass Pt Exchange Shop.\"\n- Purchase eligibility is determined at the moment you log into the game after your purchase and the product is applied to your account.\n\nCumulative Purchase Count Bonus\n- When you purchase the \"Our Notes Pass,\" stickers will be added based on your total number of purchases.\n- Purchase eligibility is determined at the moment you log into the game after your purchase and the product is applied to your account.",
       "_traditionalChinese": "免費星鑽（每天登入時）\n·從購買日起1天1次於登入遊戲時可以領取「免費星鑽」。（1天 Premium: 60個、Standard: 30個、Lite: 10個，最多30天份·合計獲得數：Premium 1,800個 / Standard 900個 / Lite 300個）\n·可獲得「免費星鑽」的機會將於每天{DailyResetTime}重置。\n·因沒有登入遊戲而未領取的免費星鑽，可於下次登入時一併領取未登入天數的累積數量。\n·「交織的樂章通行證」的有效期間結束後，仍可以領取未領取的免費星鑽。\n·「免費星鑽」的領取次數1天1次，合計共30次。\n\n每週1次交織的樂章通行證轉蛋免費\n·每週可以免費抽1次「交織的樂章通行證轉蛋」。\n·「交織的樂章通行證轉蛋」的可抽取次數，將於每週的{WeeklyResetDateTime}重置。\n·若未抽取「交織的樂章通行證轉蛋」，該週的次數在重置後將無法累積，並會直接失效。\n·「交織的樂章通行證轉蛋」的特典在各方案的交織的樂章通行證中是共通的。例如，在已經抽過「交織的樂章通行證轉蛋」的當週，即使再度購買交織的樂章通行證，在次週的{WeeklyResetDateTime}之前抽取次數都不會重置。\n\n「1天1次付費轉蛋」可抽2次（獎勵）\n·抽取「1天1次付費轉蛋」時，每次皆需另行消耗付費星鑽。\n·「『1天1次付費轉蛋』可抽2次（獎勵）」，於未舉辦「1天1次付費轉蛋」的期間內將不適用。敬請見諒。\n\nLIVE BOOST全消耗次數UP\n·1天1次可全消耗的次數將增加至指定次數（Premium: 5次、Standard: 3次）。\n·每天的{DailyResetTime}重置使用次數。\n\n跳過次數UP\n·1天3次的跳過次數將增加至指定次數（Premium: 5次、Standard: 5次）。\n·每天的{DailyResetTime}重置使用次數。\n\n沒有廣告\n·在透過觀看廣告獲得報酬的功能中，可以跳過廣告影片並直接獲得報酬。\n\n購買特典\n·購買「交織的樂章通行證」可以獲得「交織的樂章通行證pt」。\n·「交織的樂章通行證pt」可在「交織的樂章通行證pt兌換所」兌換任意道具。\n·購買的判定，會在購買後登入遊戲且商品成功反映時進行。\n\n累計購買次數特典\n·購買「交織的樂章通行證」後，將會根據累計購買次數追加貼紙。\n·購買的判定，會在購買後登入遊戲且商品成功反映時進行。",
-      "_simplifiedChinese": "免费星钻（每日登录时）\n・自购买当日起，每天登录游戏时可领取1次「免费星钻」。（每日 Premium：60个、Standard：30个、Lite：10个，最多可领取30天・累计获得数：Premium 1,800个 / Standard 900个 / Lite 300个）\n・「免费星钻」的领取次数将于每日{DailyResetTime}重置。\n・若有因未登录游戏而未能领取的免费星钻，可在下次登录时一次性补领所有未领天数的份额。\n・即使「交织的乐章通行证」有效期结束，仍可继续领取尚未领取的免费星钻。\n・「免费星钻」的领取次数为每天1次，共计30次。\n\n每周1次免费进行交织的乐章通行证招募\n・每周可免费进行1次「交织的乐章通行证招募」。\n・「交织的乐章通行证招募」的次数将于每周{WeeklyResetDateTime}重置。\n・若当周未进行「交织的乐章通行证招募」，该免费次数在重置后不会继承至下周，将直接作废。\n・「交织的乐章通行证招募」的特典在各项通行证方案间共享。例如，在已进行过该招募的当周，即使再次购买通行证，该招募次数在下周{WeeklyResetDateTime}之前也不会重置。\n\n「每日1次付费招募」可进行2次（奖励）\n・进行「每日1次付费招募」时，每次仍需另行消耗付费星钻。\n・若当前期间未举办「每日1次付费招募」，则『「每日1次付费招募」可进行2次（奖励）』的特权将无法生效，敬请谅解。\n\nLIVE BOOST全消耗次数增加\n・每日可一次性消耗全部LIVE BOOST的次数将增加至指定次数（Premium：5次、Standard：3次）。\n・使用次数于每日{DailyResetTime}重置。\n\n跳过次数增加\n・每日基础3次的跳过次数将增加至指定次数（Premium：5次、Standard：5次）。\n・使用次数于每日{DailyResetTime}重置。\n\n免广告\n・在使用通过观看广告获取奖励的功能时，可直接跳过视频广告并获得奖励。\n\n购买特典\n・购买「交织的乐章通行证」后，可获得「交织的乐章通行证pt」。\n・「交织的乐章通行证pt」可在「交织的乐章通行证pt交换所」中兑换任意道具。\n・购买的判定将在购买后登录游戏且商品生效时进行。\n\n累计购买次数特典\n・购买「交织的乐章通行证」后，将根据累计购买次数解锁更多贴纸。\n・购买的判定将在购买后登录游戏且商品生效时进行。",
-      "_korean": "무료 스타(매일 로그인 시)\n・「무료 스타」는 구매하신 날부터 1일 1회 게임에 로그인했을 때 수령할 수 있습니다. (1일 기준 프리미엄: 60개, 스탠다드: 30개, 라이트: 10개, 최대 30일분・총 획득 수: 프리미엄 1,800개 / 스탠다드 900개 / 라이트 300개)\n・「무료 스타」를 획득할 수 있는 기회는 매일 {DailyResetTime}에 리셋됩니다.\n・로그인하지 않아 수령하지 못한 무료 스타는 다음 로그인 시 미수령 일수만큼 한 번에 수령할 수 있습니다.\n・「아워 노트 패스」의 유효 기간이 종료된 후에도 미수령한 무료 스타를 수령할 수 있습니다.\n・「무료 스타」 수령 횟수는 1일 1회, 총 30회분입니다.\n\n1주일에 1회 아워 노트 패스 뽑기 무료\n・「아워 노트 패스 뽑기」를 1주일에 1회 무료로 이용할 수 있습니다.\n・「아워 노트 패스 뽑기」 이용 가능 횟수는 매주 {WeeklyResetDateTime}에 리셋됩니다.\n・「아워 노트 패스 뽑기」를 이용하지 않은 경우, 해당 주의 횟수는 리셋 후 이월되지 않고 무효 처리됩니다.\n・「아워 노트 패스 뽑기」 혜택은 각 플랜의 아워 노트 패스에서 공통으로 적용됩니다. 예를 들어, 「아워 노트 패스 뽑기」를 이미 이용한 주에 아워 노트 패스를 다시 구매하더라도 다음 주 {WeeklyResetDateTime}까지 횟수는 리셋되지 않습니다.\n\n「1일 1회 유료 뽑기」 2회 이용 가능(보너스)\n・「1일 1회 유료 뽑기」를 이용하려면 별도로 1회마다 유료 스타가 필요합니다.\n・『「1일 1회 유료 뽑기」 2회 이용 가능(보너스)』는 「1일 1회 유료 뽑기」가 진행되지 않는 기간에는 적용되지 않습니다. 미리 양해 부탁드립니다.\n\n라이브 부스트 전체 소모 횟수 UP\n・1일 1회 전체 소모할 수 있는 횟수가 지정 횟수까지 증가합니다(프리미엄: 5회, 스탠다드: 3회).\n・매일 {DailyResetTime}에 이용 횟수가 리셋됩니다.\n\n스킵 횟수 UP\n・1일 3회인 스킵 횟수가 지정 횟수까지 증가합니다(프리미엄: 5회, 스탠다드: 5회).\n・매일 {DailyResetTime}에 이용 횟수가 리셋됩니다.\n\n광고 없음\n・광고 시청으로 보상을 획득할 수 있는 기능에서 영상 광고 시청을 스킵하고 보상을 획득할 수 있습니다.\n\n구매 혜택\n・「아워 노트 패스」를 구매하면 「아워 노트 패스 pt」를 획득할 수 있습니다.\n・「아워 노트 패스 pt」는 「아워 노트 패스 pt 교환소」에서 임의의 아이템으로 교환할 수 있습니다.\n・구매 판정은 구매 후 게임에 로그인하여 상품이 반영되었을 때 이루어집니다.\n\n누적 구매 횟수 혜택\n・「아워 노트 패스」를 구매하면 누적 구매 횟수에 따라 스티커가 추가됩니다.\n・구매 판정은 구매 후 게임에 로그인하여 상품이 반영되었을 때 이루어집니다."
+      "_simplifiedChinese": "免费星钻（每日登录时）\n・自购买当日起，每天登录游戏时可领取1次「免费星钻」。（每日 Premium：60个、Standard：30个、Lite：10个，最多可领取30天・累计获得数：Premium 1,800个 / Standard 900个 / Lite 300个）\n・「免费星钻」的领取次数将于每日{DailyResetTime}重置。\n・若有因未登录游戏而未能领取的免费星钻，可在下次登录时一次性补领所有未领天数的份额。\n・即使「交织的乐章通行证」有效期结束，仍可继续领取尚未领取的免费星钻。\n・「免费星钻」的领取次数为每天1次，共计30次。\n\n每周1次免费进行交织的乐章通行证招募\n・每周可免费进行1次「交织的乐章通行证招募」。\n・「交织的乐章通行证招募」的次数将于每周{WeeklyResetDateTime}重置。\n・若当周未进行「交织的乐章通行证招募」，该免费次数在重置后不会继承至下周，将直接作废。\n・「交织的乐章通行证招募」的特典在各项通行证方案间共享。例如，在已进行过该招募的当周，即使再次购买通行证，该招募次数在下周{WeeklyResetDateTime}之前也不会重置。\n\n「每日1次付费招募」可进行2次（奖励）\n・进行「每日1次付费招募」时，每次仍需另行消耗付费星钻。\n・若当前期间未举办「每日1次付费招募」，则『「每日1次付费招募」可进行2次（奖励）』的特权将无法生效，敬请谅解。\n\n免广告\n・在使用通过观看广告获取奖励的功能时，可直接跳过视频广告并获得奖励。\n\n购买特典\n・购买「交织的乐章通行证」后，可获得「交织的乐章通行证pt」。\n・「交织的乐章通行证pt」可在「交织的乐章通行证pt交换所」中兑换任意道具。\n・购买的判定将在购买后登录游戏且商品生效时进行。\n\n累计购买次数特典\n・购买「交织的乐章通行证」后，将根据累计购买次数解锁更多贴纸。\n・购买的判定将在购买后登录游戏且商品生效时进行。",
+      "_korean": "무료 스타(매일 로그인 시)\n・「무료 스타」는 구매하신 날부터 1일 1회 게임에 로그인했을 때 수령할 수 있습니다. (1일 기준 프리미엄: 60개, 스탠다드: 30개, 라이트: 10개, 최대 30일분・총 획득 수: 프리미엄 1,800개 / 스탠다드 900개 / 라이트 300개)\n・「무료 스타」를 획득할 수 있는 기회는 매일 {DailyResetTime}에 리셋됩니다.\n・로그인하지 않아 수령하지 못한 무료 스타는 다음 로그인 시 미수령 일수만큼 한 번에 수령할 수 있습니다.\n・「아워 노트 패스」의 유효 기간이 종료된 후에도 미수령한 무료 스타를 수령할 수 있습니다.\n・「무료 스타」 수령 횟수는 1일 1회, 총 30회분입니다.\n\n1주일에 1회 아워 노트 패스 뽑기 무료\n・「아워 노트 패스 뽑기」를 1주일에 1회 무료로 이용할 수 있습니다.\n・「아워 노트 패스 뽑기」 이용 가능 횟수는 매주 {WeeklyResetDateTime}에 리셋됩니다.\n・「아워 노트 패스 뽑기」를 이용하지 않은 경우, 해당 주의 횟수는 리셋 후 이월되지 않고 무효 처리됩니다.\n・「아워 노트 패스 뽑기」 혜택은 각 플랜의 아워 노트 패스에서 공통으로 적용됩니다. 예를 들어, 「아워 노트 패스 뽑기」를 이미 이용한 주에 아워 노트 패스를 다시 구매하더라도 다음 주 {WeeklyResetDateTime}까지 횟수는 리셋되지 않습니다.\n\n「1일 1회 유료 뽑기」 2회 이용 가능(보너스)\n・「1일 1회 유료 뽑기」를 이용하려면 별도로 1회마다 유료 스타가 필요합니다.\n・『「1일 1회 유료 뽑기」 2회 이용 가능(보너스)』는 「1일 1회 유료 뽑기」가 진행되지 않는 기간에는 적용되지 않습니다. 미리 양해 부탁드립니다.\n\n광고 없음\n・광고 시청으로 보상을 획득할 수 있는 기능에서 영상 광고 시청을 스킵하고 보상을 획득할 수 있습니다.\n\n구매 혜택\n・「아워 노트 패스」를 구매하면 「아워 노트 패스 pt」를 획득할 수 있습니다.\n・「아워 노트 패스 pt」는 「아워 노트 패스 pt 교환소」에서 임의의 아이템으로 교환할 수 있습니다.\n・구매 판정은 구매 후 게임에 로그인하여 상품이 반영되었을 때 이루어집니다.\n\n누적 구매 횟수 혜택\n・「아워 노트 패스」를 구매하면 누적 구매 횟수에 따라 스티커가 추가됩니다.\n・구매 판정은 구매 후 게임에 로그인하여 상품이 반영되었을 때 이루어집니다."
     },
     {
       "_id": "Monthly_Pass_Description_2",
@@ -60271,6 +60439,14 @@
       "_traditionalChinese": "ノンブレス・オブリージュ",
       "_simplifiedChinese": "ノンブレス・オブリージュ",
       "_korean": "논브레스 오블리주"
+    },
+    {
+      "_id": "Music_Tilte_100201",
+      "_japanese": "世点彩",
+      "_english": "Sepia",
+      "_traditionalChinese": "世點彩",
+      "_simplifiedChinese": "世点彩",
+      "_korean": "세피아"
     },
     {
       "_id": "Music_Category_1",
@@ -61078,7 +61254,15 @@
       "_english": "Non-breath oblige",
       "_traditionalChinese": "のんぶれす・おぶりーじゅ",
       "_simplifiedChinese": "ノンブレス・オブリージュ",
-      "_korean": "ノンブレス・オブリージュ"
+      "_korean": "논브레스 오블리주"
+    },
+    {
+      "_id": "Music_Phonetic_Tilte_100201",
+      "_japanese": "せぴあ",
+      "_english": "せぴあ",
+      "_traditionalChinese": "せぴあ",
+      "_simplifiedChinese": "せぴあ",
+      "_korean": "世点彩"
     },
     {
       "_id": "Music_Ruby_Tilte_100001",
@@ -61841,6 +62025,14 @@
       "_korean": "논브레스 오블리주"
     },
     {
+      "_id": "Music_Ruby_Tilte_100201",
+      "_japanese": "<r=セピア>世点彩</r>",
+      "_english": "<r=Sepia>世点彩</r>",
+      "_traditionalChinese": "<r=セピア>世點彩</r>",
+      "_simplifiedChinese": "<r=セピア>世点彩</r>",
+      "_korean": "<r=世点彩>世点彩</r>"
+    },
+    {
       "_id": "Option_Preset_Default_Name_1",
       "_japanese": "デフォルト",
       "_english": "Default",
@@ -62147,7 +62339,7 @@
     {
       "_id": "Present_18",
       "_japanese": "撃奏アリーナ「{0}」{1}初回ランク到達報酬です。",
-      "_english": "GEKISO ARENA [{0}] First-Time Rank {1} Reward",
+      "_english": "This is the first-time rank achievement reward for {1} in GEKISO Arena \"{0}.\"",
       "_traditionalChinese": "激奏舞台「{0}」首次達到{1}等級的報酬。",
       "_simplifiedChinese": "这是激奏舞台{1}段位首次达成奖励。",
       "_korean": "격주 아레나「{0}」 {1}  최초 달성 보상입니다."
@@ -62155,7 +62347,7 @@
     {
       "_id": "Present_19",
       "_japanese": "撃奏アリーナ「{0}」のシーズン報酬です。",
-      "_english": "GEKISO ARENA  [{0}] Season Reward.",
+      "_english": "This is the season reward for GEKISO Arena \"{0}.\"",
       "_traditionalChinese": "激奏舞台「{0}」的賽季報酬。",
       "_simplifiedChinese": "这是激奏舞台「{0}」的赛季奖励。",
       "_korean": "격주 아레나 「{0}」 시즌 보상입니다."
@@ -62163,7 +62355,7 @@
     {
       "_id": "Present_20",
       "_japanese": "撃奏アリーナ「{0}」{1}位のランキング報酬です。",
-      "_english": "GEKISO ARENA [{0}] Ranking Reward (No. {1})",
+      "_english": "This is the ranking reward for {1} place in GEKISO Arena \"{0}.\"",
       "_traditionalChinese": "激奏舞台「{0}」第{1}名的排行榜報酬。",
       "_simplifiedChinese": "这是激奏舞台「{0}」第{1}名的排名奖励。",
       "_korean": "격주 아레나 「{0}」 {1}위 랭크 보상입니다."
@@ -62841,6 +63033,14 @@
       "_korean": "흐르는 달의 살타티오 프리미엄 미션 패스가 해제됩니다."
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_10",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念ミッションパスが解放されます。",
+      "_english": "MyGO!!!!! 9th LIVE \"つなぎ目の向こうに\" -Kobe Re-Scape Edition- Celebration Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 任務通行證。",
+      "_simplifiedChinese": "解锁MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念任务通行证。",
+      "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 미션 패스가 해제됩니다."
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "Log in",
@@ -63223,6 +63423,14 @@
       "_traditionalChinese": "月色之下流轉之舞任務通行證",
       "_simplifiedChinese": "月下流转之舞任务通行证",
       "_korean": "흐르는 달의 살타티오 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_10",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 ミッションパス",
+      "_english": "MyGO!!!!! 9th LIVE \"つなぎ目の向こうに\" -Kobe Re-Scape Edition- Celebration Mission Pass",
+      "_traditionalChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 任務通行證",
+      "_simplifiedChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念 任务通行证",
+      "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -66997,7 +67205,7 @@
       "_japanese": "Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。\nそこで紡がれるのは、森の古城の姫を巡る物語。\n彼女の顔は、見る者によって違っていて……\t\t",
       "_english": "After Ave Mujica's re-debut, Sakiko works on the concept for their next masquerade.\nWhat unfolds is a tale centering on the princess of an old castle in the woods.\nHer face looks different to each beholder...\t\t",
       "_traditionalChinese": "Ave Mujica再次出道後，祥子開始構思下一場假面舞會。\n她所編織的，是一段關於森林古堡公主的故事。\n然而公主的面貌，在每個人的眼中似乎都截然不同……\t\t",
-      "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n她的面孔，在不同人眼中截然不同…………\t\t",
+      "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n而公主的面孔，在每个人眼中都截然不同…………\t\t",
       "_korean": "Ave Mujica 재데뷔 후, 다음 매스커레이드의 구상을 다듬는 사키코.\n그 무대에서 엮어내는 것은 숲속 고성의 공주를 둘러싼 이야기.\n그녀의 얼굴은 보는 이에 따라 저마다 달랐는데......\t\t"
     },
     {
@@ -69249,6 +69457,14 @@
       "_korean": "흠......\n「화내는 게 아니라 외로움을 쏟아붓는 느낌」\n「감정을 터뜨리기 전에 숨 한 번 고르기」\n「감정을 억누르고 있던 만큼, 여기서는 텐션을 단번에 확 끌어올리기」\n\n섬세한 감정선부터 뜸 들이는 타이밍, 완급 조절까지\n꼼꼼하게 메모해 뒀네요\n\n자신이 맡은 배역에 대해 꽤 깊이 파고들고 있군요\n\n\n유텐지 씨에 대해\n한층 더 깊이 알게 된 것 같아요\n\n조만간 제 업무 메모도 보여줘야겠어요\n서로를 이해하는 게 친해지는 가장 빠른 방법일 테니까요\n\n스스로 생각하기에도 제법 괜찮은 작전이네요"
     },
     {
+      "_id": "SupportDiary_81",
+      "_japanese": "Coming soon",
+      "_english": "Coming soon",
+      "_traditionalChinese": "Coming soon",
+      "_simplifiedChinese": "Coming soon",
+      "_korean": "Coming soon"
+    },
+    {
       "_id": "SupportSubtitle_1",
       "_japanese": "人間になりたくて",
       "_english": "I Want to Be Human",
@@ -69887,6 +70103,14 @@
       "_traditionalChinese": "過近的距離",
       "_simplifiedChinese": "过近的距离",
       "_korean": "너무 가까운 거리"
+    },
+    {
+      "_id": "SupportSubtitle_81",
+      "_japanese": "つなぎ目の向こうに - 神戸再景編 -",
+      "_english": "つなぎ目の向こうに -Kobe Re-Scape Edition-",
+      "_traditionalChinese": "つなぎ目の向こうに - 神戸再景編 -",
+      "_simplifiedChinese": "つなぎ目の向こうに - 神戸再景編 -",
+      "_korean": "이음새 너머로 - 고베, 풍경 재발견 편 -"
     },
     {
       "_id": "Support_Skill_Description_1",
@@ -71081,6 +71305,22 @@
       "_korean": "오늘은 아노 짱이 초콜릿을 한가득 챙겨왔어......"
     },
     {
+      "_id": "Talk_Text_15",
+      "_japanese": "もうすぐライブ……えっと、がんばります……",
+      "_english": "The live is almost here... Um, I'll do my best...",
+      "_traditionalChinese": "演唱會快到了……那個，我會加油的……",
+      "_simplifiedChinese": "马上就要演出了……那个，我会加油的……",
+      "_korean": "이제 곧 공연...... 으음, 열심히 하겠습니다......"
+    },
+    {
+      "_id": "Talk_Text_16",
+      "_japanese": "ライブ当日……えと、一生懸命、やります……",
+      "_english": "On the day of the live... um, I'll do my very best...",
+      "_traditionalChinese": "演唱會當天……那個，我會拚命努力的……",
+      "_simplifiedChinese": "演出当天……那个，我会拼尽全力的……",
+      "_korean": "공연 당일...... 어, 열심히 하겠습니다......"
+    },
+    {
       "_id": "Talk_Text_17",
       "_japanese": "私の誕生日……みんながお祝いしてくれた……",
       "_english": "My birthday... Everyone celebrated with me...",
@@ -71231,6 +71471,22 @@
       "_traditionalChinese": "今年的友情巧克力要買哪家的，讓我猶豫了很久呢～",
       "_simplifiedChinese": "今年的友情巧克力买哪家的好呢，好纠结啊～",
       "_korean": "올해 우정 초콜릿은 어디 걸로 할지 고민되네~"
+    },
+    {
+      "_id": "Talk_Text_36",
+      "_japanese": "もうすぐライブか～。ま、なんとかなるでしょ！",
+      "_english": "The live is almost here~ Well, it'll all work out!",
+      "_traditionalChinese": "演唱會快到了啊～算了，船到橋頭自然直嘛！",
+      "_simplifiedChinese": "马上就要演出了啊～算了，船到桥头自然直！",
+      "_korean": "이제 곧 공연이네~ 뭐, 어떻게든 되겠지!"
+    },
+    {
+      "_id": "Talk_Text_37",
+      "_japanese": "本番緊張してきた～！　けど後はやるだけ……！",
+      "_english": "I'm getting nervous for the real performance~! But all that's left now is to just do it...!",
+      "_traditionalChinese": "即將正式演出，開始緊張了～！但現在就只要放手去做……！",
+      "_simplifiedChinese": "快正式演出了，好紧张～！但也只能上了……！",
+      "_korean": "막상 무대 올라가려니까 긴장되네~! 그래도 이제는 부딪쳐 보는 수밖에 없어......!"
     },
     {
       "_id": "Talk_Text_38",
@@ -71385,6 +71641,22 @@
       "_korean": "밸런타인데이엔 다들 맛있는 초콜릿을 주더라"
     },
     {
+      "_id": "Talk_Text_57",
+      "_japanese": "ライブたのしみ。早くやりたい",
+      "_english": "I'm excited for the live. Wanna play already.",
+      "_traditionalChinese": "好期待演唱會，真想快點演奏。",
+      "_simplifiedChinese": "好期待演出。想快点办",
+      "_korean": "공연 기대돼. 빨리하고 싶어"
+    },
+    {
+      "_id": "Talk_Text_58",
+      "_japanese": "今日はライブ。待ってた",
+      "_english": "Today's the live. I've been waiting for it.",
+      "_traditionalChinese": "今天是演唱會，等好久了。",
+      "_simplifiedChinese": "今天演出。等好久了",
+      "_korean": "오늘은 공연하는 날. 줄곧 기다려왔어"
+    },
+    {
       "_id": "Talk_Text_59",
       "_japanese": "誕生日は、いっぱいパフェ食べていい日",
       "_english": "Birthdays mean you can eat lots of parfaits.",
@@ -71537,6 +71809,22 @@
       "_korean": "밸런타인데이에 초콜릿 교환하는 거, 다들 참 좋아해"
     },
     {
+      "_id": "Talk_Text_78",
+      "_japanese": "もうすぐライブかぁ。まあ普段通りにやるだけかな",
+      "_english": "The live is coming up. Well, I'll just do what I always do.",
+      "_traditionalChinese": "演唱會快到了啊。拿出平時的表現就行了吧。",
+      "_simplifiedChinese": "马上就要演出了啊，不过只要像平时那样做就行了吧",
+      "_korean": "벌써 공연인가. 뭐, 늘 하던 대로만 하면 되겠지"
+    },
+    {
+      "_id": "Talk_Text_79",
+      "_japanese": "ライブ当日かぁ。なんだかあっという間だったな",
+      "_english": "So it's the day of the live, huh. It feels like it came around in no time.",
+      "_traditionalChinese": "今天是演唱會當天啊～總覺得時間過得好快呢。",
+      "_simplifiedChinese": "到演出当天了啊。感觉一眨眼就到了呢",
+      "_korean": "벌써 공연하는 날이네. 참 순식간이었어"
+    },
+    {
       "_id": "Talk_Text_80",
       "_japanese": "今日は私の誕生日。朝からメッセージ沢山きてたな",
       "_english": "It's my birthday today. I've been getting so many messages since this morning.",
@@ -71687,6 +71975,22 @@
       "_traditionalChinese": "得小心別忘了要帶去RiNG的巧克力。",
       "_simplifiedChinese": "我可不能忘了把要带去RiNG的巧克力带上",
       "_korean": "RiNG에 가져갈 초콜릿, 까먹지 말아야지"
+    },
+    {
+      "_id": "Talk_Text_99",
+      "_japanese": "もうすぐライブか。今回はちゃんと準備できてよかった",
+      "_english": "Not long until the live. Good thing we got ready properly this time.",
+      "_traditionalChinese": "演唱會快到了啊。這次有順利做好準備，真是太好了。",
+      "_simplifiedChinese": "马上就要演出了啊。幸好这次好好准备了",
+      "_korean": "이제 곧 공연이네. 이번엔 제대로 준비해서 다행이야"
+    },
+    {
+      "_id": "Talk_Text_100",
+      "_japanese": "もうライブ始まるんだけど……野良猫どこ行った？",
+      "_english": "The live's about to start... Where'd that stray cat go?",
+      "_traditionalChinese": "演唱會已經要開始了……野貓到底跑去哪裡了？",
+      "_simplifiedChinese": "演出马上就要开始了……野猫跑哪儿去了？",
+      "_korean": "이제 곧 공연 시작인데...... 길고양이는 어디 간 거야?"
     },
     {
       "_id": "Talk_Text_101",
@@ -88707,7 +89011,7 @@
     {
       "_id": "ui_event_event_period",
       "_japanese": "開催期間 {0}",
-      "_english": "Event Period {0}",
+      "_english": "{0}",
       "_traditionalChinese": "舉辦期間 {0}",
       "_simplifiedChinese": "举办期间 {0}",
       "_korean": "개최 기간 {0}"

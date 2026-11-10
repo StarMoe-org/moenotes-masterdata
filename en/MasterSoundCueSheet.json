@@ -661,6 +661,10 @@
       "_cueSheetName": "A_FutatsunoTsuki"
     },
     {
+      "_id": 1300000000201,
+      "_cueSheetName": "M_Sepia"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -1039,6 +1043,10 @@
     {
       "_id": 1400000000116,
       "_cueSheetName": "A_FutatsunoTsuki_short"
+    },
+    {
+      "_id": 1400000000201,
+      "_cueSheetName": "M_Sepia_short"
     },
     {
       "_id": 2301001000001,
@@ -1451,6 +1459,26 @@
     {
       "_id": 3300000000025,
       "_cueSheetName": "VoiceLive_25"
+    },
+    {
+      "_id": 3400000000001,
+      "_cueSheetName": "VoiceRealLive_01"
+    },
+    {
+      "_id": 3400000000002,
+      "_cueSheetName": "VoiceRealLive_02"
+    },
+    {
+      "_id": 3400000000003,
+      "_cueSheetName": "VoiceRealLive_03"
+    },
+    {
+      "_id": 3400000000004,
+      "_cueSheetName": "VoiceRealLive_04"
+    },
+    {
+      "_id": 3400000000005,
+      "_cueSheetName": "VoiceRealLive_05"
     },
     {
       "_id": 3400000000006,

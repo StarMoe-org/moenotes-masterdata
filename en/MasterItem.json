@@ -1074,6 +1074,21 @@
       "_endAt": ""
     },
     {
+      "_id": 81,
+      "_nameTextId": "Item_Name_81",
+      "_inventoryDisplayGroup": 0,
+      "_type": 1,
+      "_imagePath": "",
+      "_phoneticNameTextId": "Item_Phonetic_Name_81",
+      "_descriptionTextId": "Item_Description_81",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 9999,
+      "_displayTargetIds": [],
+      "_startAt": "2026/11/14 12:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 20000001,
       "_nameTextId": "Item_Name_20000001",
       "_inventoryDisplayGroup": 3,
