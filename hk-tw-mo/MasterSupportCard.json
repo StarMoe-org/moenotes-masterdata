@@ -1894,6 +1894,33 @@
       "_gekisouSupportSkillId01": 37,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-11-08 15:00:00"
+    },
+    {
+      "_id": 81,
+      "_assetID": 81,
+      "_nameTextID": "Snap_Name_mygo",
+      "_descriptionTextID": "SupportSubtitle_81",
+      "_diaryTextID": "SupportDiary_81",
+      "_diarySoundId": 1200000000007,
+      "_characterIDs": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "_rarity": 10,
+      "_cardType": 2,
+      "_performancePowerMax": 1300,
+      "_technicPowerMax": 1400,
+      "_visualPowerMax": 1200,
+      "_supportCardLevelGroup": 5,
+      "_supportCardRankGroup": 5,
+      "_supportSkillId01": 71,
+      "_supportSkillId02": 73,
+      "_gekisouSupportSkillId01": 0,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-14 12:00:00"
     }
   ]
 }
