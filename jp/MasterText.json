@@ -10137,6 +10137,14 @@
       "_korean": ""
     },
     {
+      "_id": "Arranger_Name_100201",
+      "_japanese": "トミタカズキ(SUPA LOVE)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "AutoPostPresent_1",
       "_japanese": "事前登録10万人達成のプレゼントです。",
       "_english": "",
@@ -20993,6 +21001,14 @@
       "_korean": ""
     },
     {
+      "_id": "Composer_Name_100201",
+      "_japanese": "トミタカズキ(SUPA LOVE)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Content_Name_1",
       "_japanese": "スタジオ練習",
       "_english": "",
@@ -24011,6 +24027,22 @@
     {
       "_id": "Degree_Description_276",
       "_japanese": "「光降る宮殿のエピソディウムガチャ」の交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_277",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 特別ログインボーナスで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Description_278",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -特典シリアルコードで獲得",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -27177,6 +27209,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_10000117",
+      "_japanese": "「世点彩」を100回クリアで獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_10000001",
       "_japanese": "[ステッカー]迷星叫ジャケット",
       "_english": "",
@@ -27931,6 +27971,14 @@
     {
       "_id": "Degree_Name_10000115",
       "_japanese": "[ステッカー]ノンブレス・オブリージュジャケット",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_10000117",
+      "_japanese": "[ステッカー]世点彩ジャケット",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -30689,6 +30737,22 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_277",
+      "_japanese": "[ステッカー]つなぎ目の向こうに- 神戸再景編 -",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_278",
+      "_japanese": "[ステッカー]つなぎ目の向こうに- 神戸再景編 -(限定)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "",
@@ -31129,6 +31193,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_40000056",
+      "_japanese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」を4回上限解放すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_40000001",
       "_japanese": "[ステッカー][お気に入りのペンギンたち]高松 燈",
       "_english": "",
@@ -31563,6 +31635,14 @@
     {
       "_id": "Degree_Name_40000055",
       "_japanese": "[ステッカー][近すぎる距離]海鈴&にゃむ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_40000056",
+      "_japanese": "[ステッカー][つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -40113,6 +40193,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\n※一部のガチャは対象外",
       "_english": "",
@@ -42769,6 +42857,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_1",
       "_japanese": "すたー",
       "_english": "",
@@ -43283,6 +43379,14 @@
     {
       "_id": "Item_Phonetic_Name_74",
       "_japanese": "[Virtus]Ave Mujica",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_81",
+      "_japanese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -53425,6 +53529,22 @@
       "_korean": ""
     },
     {
+      "_id": "LoginBonus_Name_11",
+      "_japanese": "MyGO!!!!! 9th Single「世点彩」発売記念プレゼント！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "LoginBonus_Name_12",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 特別ログインボーナス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Lyricist_Name_100001",
       "_japanese": "藤原優樹(SUPA LOVE)",
       "_english": "",
@@ -54179,6 +54299,14 @@
     {
       "_id": "Lyricist_Name_100118",
       "_japanese": "ピノキオピー",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Lyricist_Name_100201",
+      "_japanese": "藤原優樹(SUPA LOVE)",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -57465,6 +57593,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Tilte_100201",
+      "_japanese": "世点彩",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Category_1",
       "_japanese": "オリジナル",
       "_english": "Original",
@@ -58273,6 +58409,14 @@
       "_korean": ""
     },
     {
+      "_id": "Music_Phonetic_Tilte_100201",
+      "_japanese": "せぴあ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Music_Ruby_Tilte_100001",
       "_japanese": "<r=まよいうた>迷星叫</r>",
       "_english": "Music_Tilte_1",
@@ -59027,6 +59171,14 @@
     {
       "_id": "Music_Ruby_Tilte_100118",
       "_japanese": "ノンブレス・オブリージュ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Music_Ruby_Tilte_100201",
+      "_japanese": "<r=セピア>世点彩</r>",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -59873,6 +60025,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_10",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念ミッションパスが解放されます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "",
@@ -60257,6 +60417,14 @@
       "_korean": ""
     },
     {
+      "_id": "Season_Pass_Name_10",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 ミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Name_2",
       "_japanese": "スター×120",
       "_english": "",
@@ -60521,6 +60689,14 @@
       "_korean": ""
     },
     {
+      "_id": "Shop_Name_38",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 ミッションパス",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Shop_Description_2",
       "_japanese": "スター120個(有償120個)を購入できます。",
       "_english": "",
@@ -60779,6 +60955,14 @@
     {
       "_id": "Shop_Description_37",
       "_japanese": "ミッションパスのプレミアムパスを購入できます。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Shop_Description_38",
+      "_japanese": "スター760個(有償760個)とミッションパスのプレミアムパスを購入できます。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -65569,6 +65753,14 @@
       "_korean": ""
     },
     {
+      "_id": "SupportDiary_81",
+      "_japanese": "Coming soon",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "SupportSubtitle_1",
       "_japanese": "人間になりたくて",
       "_english": "",
@@ -66203,6 +66395,14 @@
     {
       "_id": "SupportSubtitle_80",
       "_japanese": "近すぎる距離",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "SupportSubtitle_81",
+      "_japanese": "つなぎ目の向こうに - 神戸再景編 -",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -67401,6 +67601,22 @@
       "_korean": ""
     },
     {
+      "_id": "Talk_Text_15",
+      "_japanese": "もうすぐライブ……えっと、がんばります……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_16",
+      "_japanese": "ライブ当日……えと、一生懸命、やります……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Talk_Text_17",
       "_japanese": "私の誕生日……みんながお祝いしてくれた……",
       "_english": "",
@@ -67547,6 +67763,22 @@
     {
       "_id": "Talk_Text_35",
       "_japanese": "今年の友チョコはどこのにしようか迷っちゃったな～",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_36",
+      "_japanese": "もうすぐライブか～。ま、なんとかなるでしょ！",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_37",
+      "_japanese": "本番緊張してきた～！　けど後はやるだけ……！",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -67705,6 +67937,22 @@
       "_korean": ""
     },
     {
+      "_id": "Talk_Text_57",
+      "_japanese": "ライブたのしみ。早くやりたい",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_58",
+      "_japanese": "今日はライブ。待ってた",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Talk_Text_59",
       "_japanese": "誕生日は、いっぱいパフェ食べていい日",
       "_english": "",
@@ -67857,6 +68105,22 @@
       "_korean": ""
     },
     {
+      "_id": "Talk_Text_78",
+      "_japanese": "もうすぐライブかぁ。まあ普段通りにやるだけかな",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_79",
+      "_japanese": "ライブ当日かぁ。なんだかあっという間だったな",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Talk_Text_80",
       "_japanese": "今日は私の誕生日。朝からメッセージ沢山きてたな",
       "_english": "",
@@ -68003,6 +68267,22 @@
     {
       "_id": "Talk_Text_98",
       "_japanese": "RiNGに持っていくチョコ、忘れないようにしないと",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_99",
+      "_japanese": "もうすぐライブか。今回はちゃんと準備できてよかった",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Talk_Text_100",
+      "_japanese": "もうライブ始まるんだけど……野良猫どこ行った？",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",

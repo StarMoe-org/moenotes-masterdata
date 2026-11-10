@@ -278,6 +278,15 @@
       "_displayOrder": 973889094,
       "_startAt": "2026-11-08 15:00:00",
       "_endAt": "2026-11-17 14:59:59"
+    },
+    {
+      "_id": 32,
+      "_imageAsset": "SeasonPass/Banner/banner_seasonpass_00010",
+      "_displayType": 25,
+      "_contentId": 10,
+      "_displayOrder": 973888587,
+      "_startAt": "2026-11-14 12:00:00",
+      "_endAt": "2026-11-22 20:59:59"
     }
   ]
 }
