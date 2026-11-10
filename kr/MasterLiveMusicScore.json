@@ -2659,6 +2659,34 @@
       "_musicScoreLevel": 26,
       "_musicScoreDisplayLevel": 26.5,
       "_fullComboCount": 957
+    },
+    {
+      "_id": 10020100,
+      "_musicScoreTextFileName": "0201/0201_00",
+      "_musicScoreLevel": 7,
+      "_musicScoreDisplayLevel": 7.0,
+      "_fullComboCount": 344
+    },
+    {
+      "_id": 10020101,
+      "_musicScoreTextFileName": "0201/0201_01",
+      "_musicScoreLevel": 13,
+      "_musicScoreDisplayLevel": 13.0,
+      "_fullComboCount": 492
+    },
+    {
+      "_id": 10020102,
+      "_musicScoreTextFileName": "0201/0201_02",
+      "_musicScoreLevel": 17,
+      "_musicScoreDisplayLevel": 17.0,
+      "_fullComboCount": 617
+    },
+    {
+      "_id": 10020103,
+      "_musicScoreTextFileName": "0201/0201_03",
+      "_musicScoreLevel": 24,
+      "_musicScoreDisplayLevel": 24.0,
+      "_fullComboCount": 675
     }
   ]
 }

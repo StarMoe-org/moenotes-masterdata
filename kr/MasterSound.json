@@ -8966,6 +8966,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000201,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000201,
+      "_cueName": "M_Sepia",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1400000000001,
       "_category": 0,
       "_soundCueSheetID": 1400000000001,
@@ -10004,6 +10015,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000116,
       "_cueName": "A_FutatsunoTsuki_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000201,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000201,
+      "_cueName": "M_Sepia_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -11782,6 +11804,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200101000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000001,
+      "_cueName": "BandTop_Tomori_RealLive_02",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200101000017,
       "_category": 2,
       "_soundCueSheetID": 3201001000001,
@@ -12321,6 +12354,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200101000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000001,
+      "_cueName": "BandTop_Tomori_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200102000001,
       "_category": 2,
       "_soundCueSheetID": 3202001000051,
@@ -12490,6 +12534,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201002000001,
       "_cueName": "BandTop_Anon_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200201000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000002,
+      "_cueName": "BandTop_Anon_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -13036,6 +13091,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200201000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000002,
+      "_cueName": "BandTop_Anon_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200202000001,
       "_category": 2,
       "_soundCueSheetID": 3202002000052,
@@ -13205,6 +13271,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201003000001,
       "_cueName": "BandTop_Rana_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200301000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000003,
+      "_cueName": "BandTop_Rana_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -13751,6 +13828,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200301000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000003,
+      "_cueName": "BandTop_Rana_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200302000001,
       "_category": 2,
       "_soundCueSheetID": 3202003000053,
@@ -13920,6 +14008,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201004000001,
       "_cueName": "BandTop_Soyo_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200401000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000004,
+      "_cueName": "BandTop_Soyo_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -14466,6 +14565,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200401000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000004,
+      "_cueName": "BandTop_Soyo_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200402000001,
       "_category": 2,
       "_soundCueSheetID": 3202004000054,
@@ -14635,6 +14745,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201005000001,
       "_cueName": "BandTop_Taki_Valentine_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200501000016,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000005,
+      "_cueName": "BandTop_Taki_RealLive_02",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -15174,6 +15295,17 @@
       "_category": 2,
       "_soundCueSheetID": 3201005000001,
       "_cueName": "Growth_Taki_LevelUP_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3200501000067,
+      "_category": 2,
+      "_soundCueSheetID": 3400000000005,
+      "_cueName": "BandTop_Taki_RealLive_01",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
