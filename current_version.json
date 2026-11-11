@@ -69,7 +69,7 @@
     "jp": {
       "version": "1.1.0.400/14276eee3bdd32c47660f70274bd2225",
       "resource_version": "1.1.0.400",
-      "resource_hash": "a3aa613dd7974f2678b49b40d933e7b5",
+      "resource_hash": "34d268f190473ff6e4faf541bd8f755e",
       "resource_version_source": "x-asset-version",
       "client_version": "1.1.0",
       "upstream": {
@@ -77,7 +77,7 @@
         "cdn_root": "https://static.bang-dream-on.jp",
         "source": "version_response_headers"
       },
-      "verified_at": "2026-11-10T04:47:06.308546+00:00",
+      "verified_at": "2026-11-11T11:15:09.754817+00:00",
       "table_count": 247,
       "record_count": 49906,
       "manifest_sha256": "ca7a5de35070422544f018d90f39dc10590a84738e28f3a27a41b2bc44426769",
@@ -87,9 +87,9 @@
         "provider": "jp",
         "platform": "Android",
         "version": "1.1.0.400",
-        "hash": "a3aa613dd7974f2678b49b40d933e7b5",
-        "catalog_url": "https://static.bang-dream-on.jp/asset/1.1.0.400/Android/a3aa613dd7974f2678b49b40d933e7b5/catalog_main.bin",
-        "bundle_root": "https://static.bang-dream-on.jp/asset/1.1.0.400/Android/a3aa613dd7974f2678b49b40d933e7b5",
+        "hash": "34d268f190473ff6e4faf541bd8f755e",
+        "catalog_url": "https://static.bang-dream-on.jp/asset/1.1.0.400/Android/34d268f190473ff6e4faf541bd8f755e/catalog_main.bin",
+        "bundle_root": "https://static.bang-dream-on.jp/asset/1.1.0.400/Android/34d268f190473ff6e4faf541bd8f755e",
         "api_root": "https://api.bang-dream-on.jp",
         "client_version": "1.1.0"
       }
