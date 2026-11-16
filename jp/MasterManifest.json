@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0.400/14276eee3bdd32c47660f70274bd2225",
+    "version": "1.1.0.400/2c7c1fd001c8f1aab9f16a9a6a24564f",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1168,7 +1168,7 @@
         },
         {
             "name": "MasterText.bin",
-            "hash": "b1dfdbe8d889d6ac021180a6099ea70e979c803f7c1cfc9a1afed2099c1f653c",
+            "hash": "3c97b978089ea3f11f4e74f745bd2c66d8f08e0b158c7814f63ae218791c9f33",
             "size": 259168
         },
         {
