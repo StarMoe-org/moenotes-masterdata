@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0.500/c0795cb27d59526c52314f4fe72609f5",
+    "version": "1.1.0.500/902cd28d9597f19d0229c28bcc49e6e8",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1028,7 +1028,7 @@
         },
         {
             "name": "MasterShop.bin",
-            "hash": "692c74e0c65a2e1d5139578397255c25fd91dd66c0cfc4c31f5baaa9bb722d84",
+            "hash": "9ce9a4e801e38636a0f561fcf359fcf32cc8fa65f0a5511b4ae8061a84e67b29",
             "size": 3328
         },
         {
