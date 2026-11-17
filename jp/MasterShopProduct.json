@@ -601,6 +601,46 @@
       "_isBonus": false
     },
     {
+      "_id": 3901,
+      "_shopId": 39,
+      "_resourceType": 10,
+      "_resourceId": 11,
+      "_resourceCount": 1,
+      "_isBonus": false
+    },
+    {
+      "_id": 3902,
+      "_shopId": 39,
+      "_resourceType": 1,
+      "_resourceId": 2,
+      "_resourceCount": 320,
+      "_isBonus": false
+    },
+    {
+      "_id": 4001,
+      "_shopId": 40,
+      "_resourceType": 1,
+      "_resourceId": 3000001,
+      "_resourceCount": 200,
+      "_isBonus": false
+    },
+    {
+      "_id": 4002,
+      "_shopId": 40,
+      "_resourceType": 1,
+      "_resourceId": 30,
+      "_resourceCount": 30,
+      "_isBonus": false
+    },
+    {
+      "_id": 4003,
+      "_shopId": 40,
+      "_resourceType": 1,
+      "_resourceId": 33,
+      "_resourceCount": 5,
+      "_isBonus": false
+    },
+    {
       "_id": 70000001,
       "_shopId": 70000001,
       "_resourceType": 1,

@@ -6131,6 +6131,306 @@
       "_icon": ""
     },
     {
+      "_id": 431,
+      "_leaderSkillID": 67,
+      "_level": 1,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        11
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4200,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 432,
+      "_leaderSkillID": 67,
+      "_level": 2,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        11
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 5200,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 433,
+      "_leaderSkillID": 67,
+      "_level": 3,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        11
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 6200,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 434,
+      "_leaderSkillID": 67,
+      "_level": 4,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        11
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 7200,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 435,
+      "_leaderSkillID": 67,
+      "_level": 5,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        11
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 10200,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 436,
+      "_leaderSkillID": 67,
+      "_level": 1,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4800,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 437,
+      "_leaderSkillID": 67,
+      "_level": 2,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4800,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 438,
+      "_leaderSkillID": 67,
+      "_level": 3,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4800,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 439,
+      "_leaderSkillID": 67,
+      "_level": 4,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4800,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 440,
+      "_leaderSkillID": 67,
+      "_level": 5,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1003,
+      "_effectValue": 4800,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 441,
+      "_leaderSkillID": 68,
+      "_level": 1,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 2400,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 442,
+      "_leaderSkillID": 68,
+      "_level": 2,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 2700,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 443,
+      "_leaderSkillID": 68,
+      "_level": 3,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 3000,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 444,
+      "_leaderSkillID": 68,
+      "_level": 4,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 3400,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 445,
+      "_leaderSkillID": 68,
+      "_level": 5,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        5
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 4400,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 446,
+      "_leaderSkillID": 68,
+      "_level": 1,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        52
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 600,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 447,
+      "_leaderSkillID": 68,
+      "_level": 2,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        52
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 600,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 448,
+      "_leaderSkillID": 68,
+      "_level": 3,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        52
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 600,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 449,
+      "_leaderSkillID": 68,
+      "_level": 4,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        52
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 600,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
+      "_id": 450,
+      "_leaderSkillID": 68,
+      "_level": 5,
+      "_skillConditionGroup": 0,
+      "_skillTargetIDs": [
+        52
+      ],
+      "_skillEffectType": 1000,
+      "_effectValue": 600,
+      "_skillCumulativeConditionID": 0,
+      "_effectExecuteLimitCount": 0,
+      "_effectExecuteLimitResetConditionGroup": 0,
+      "_icon": ""
+    },
+    {
       "_id": 90001,
       "_leaderSkillID": 90001,
       "_level": 1,

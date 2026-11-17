@@ -665,6 +665,10 @@
       "_cueSheetName": "M_Sepia"
     },
     {
+      "_id": 1300000000117,
+      "_cueSheetName": "Y_KeepOn"
+    },
+    {
       "_id": 1400000000001,
       "_cueSheetName": "M_Mayoiuta_short"
     },
@@ -1047,6 +1051,10 @@
     {
       "_id": 1400000000201,
       "_cueSheetName": "M_Sepia_short"
+    },
+    {
+      "_id": 1400000000117,
+      "_cueSheetName": "Y_KeepOn_short"
     },
     {
       "_id": 2301001000001,
@@ -1611,6 +1619,14 @@
     {
       "_id": 3202009000077,
       "_cueSheetName": "VoiceGacha_09_00077"
+    },
+    {
+      "_id": 3202014000079,
+      "_cueSheetName": "VoiceGacha_14_00079"
+    },
+    {
+      "_id": 3202011000080,
+      "_cueSheetName": "VoiceGacha_11_00080"
     },
     {
       "_id": 2100000000001,

@@ -8966,6 +8966,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 1300000000117,
+      "_category": 0,
+      "_soundCueSheetID": 1300000000117,
+      "_cueName": "Y_KeepOn",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": true,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 1300000000201,
       "_category": 0,
       "_soundCueSheetID": 1300000000201,
@@ -10015,6 +10026,17 @@
       "_category": 0,
       "_soundCueSheetID": 1400000000116,
       "_cueName": "A_FutatsunoTsuki_short",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 1400000000117,
+      "_category": 0,
+      "_soundCueSheetID": 1400000000117,
+      "_cueName": "Y_KeepOn_short",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,
@@ -19746,6 +19768,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3201102000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202011000080,
+      "_cueName": "Member_Arale_Gacha_080",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3201201000001,
       "_category": 2,
       "_soundCueSheetID": 3201012000001,
@@ -21928,6 +21961,17 @@
       "_category": 2,
       "_soundCueSheetID": 3400000000014,
       "_cueName": "BandTop_Miyako_RealLive_01",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
+      "_id": 3201402000001,
+      "_category": 2,
+      "_soundCueSheetID": 3202014000079,
+      "_cueName": "Member_Miyako_Gacha_079",
       "_cacheType": 0,
       "_audioSyncedTimerEnabled": false,
       "_isRandomPitch": false,

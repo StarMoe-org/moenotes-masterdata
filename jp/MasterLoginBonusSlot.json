@@ -626,6 +626,17 @@
       "_resourceCount": 50,
       "_isDecorated": false,
       "_thumbnailAsset": ""
+    },
+    {
+      "_id": 60,
+      "_loginBonusID": 13,
+      "_sheetNo": 1,
+      "_slotNo": 1,
+      "_resourceType": 3,
+      "_resourceId": 85,
+      "_resourceCount": 1,
+      "_isDecorated": false,
+      "_thumbnailAsset": ""
     }
   ]
 }
