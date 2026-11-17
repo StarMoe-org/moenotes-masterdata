@@ -166,6 +166,21 @@
       "_priority": 12
     },
     {
+      "_id": 13,
+      "_nameTextID": "LoginBonus_Name_13",
+      "_isLoop": false,
+      "_isComeback": false,
+      "_isPremium": false,
+      "_dayOfWeek": 0,
+      "_startAt": "2026/11/18 0:00:00",
+      "_endAt": "2026/11/20 23:59:59",
+      "_sheetType": 2,
+      "_sheetImageAsset": "LoginBonus/Sprite/loginbonus_00013",
+      "_backgroundImageAsset": "LoginBonus/Background/white",
+      "_talkIds": [],
+      "_priority": 13
+    },
+    {
       "_id": 1000000001,
       "_nameTextID": "LoginBonus_Name_1000000001",
       "_isLoop": false,

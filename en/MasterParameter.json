@@ -116,6 +116,11 @@
       "_value": "47"
     },
     {
+      "_id": "gacha_point_convert_rate_00",
+      "_type": "Int32",
+      "_value": "100"
+    },
+    {
       "_id": "piece_exchange_member_item_id",
       "_type": "Int32",
       "_value": "47"
@@ -433,7 +438,7 @@
     {
       "_id": "arena_matching_entry_time_limit_second",
       "_type": "Int32",
-      "_value": "25"
+      "_value": "75"
     },
     {
       "_id": "arena_matching_time_limit_second",
@@ -453,12 +458,12 @@
     {
       "_id": "arena_matching_phase_duration_sec",
       "_type": "Int32",
-      "_value": "5"
+      "_value": "15"
     },
     {
       "_id": "arena_matching_phase_3_rank_range",
       "_type": "Int32",
-      "_value": "1"
+      "_value": "2"
     },
     {
       "_id": "arena_matching_phase_4_rank_range",

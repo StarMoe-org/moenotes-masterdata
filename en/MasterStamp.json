@@ -1061,6 +1061,20 @@
       "_endAt": ""
     },
     {
+      "_id": 80,
+      "_nameTextId": "Stamp_Name_80",
+      "_stampCategory": 3,
+      "_priority": 80,
+      "_characterIds": [
+        14
+      ],
+      "_isInitialOwnership": false,
+      "_stampAsset": "Stamp/illust/stamp_illust_miyako_003",
+      "_voiceAsset": "",
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 1000000001,
       "_nameTextId": "Stamp_Name_1000000001",
       "_stampCategory": 2,

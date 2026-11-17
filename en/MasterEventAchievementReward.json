@@ -3050,6 +3050,606 @@
       "_rewardIds": [
         124
       ]
+    },
+    {
+      "_id": 379,
+      "_eventId": 6,
+      "_eventPoint": 500,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 380,
+      "_eventId": 6,
+      "_eventPoint": 1000,
+      "_rewardIds": [
+        12
+      ]
+    },
+    {
+      "_id": 381,
+      "_eventId": 6,
+      "_eventPoint": 2000,
+      "_rewardIds": [
+        218
+      ]
+    },
+    {
+      "_id": 382,
+      "_eventId": 6,
+      "_eventPoint": 3000,
+      "_rewardIds": [
+        219
+      ]
+    },
+    {
+      "_id": 383,
+      "_eventId": 6,
+      "_eventPoint": 4000,
+      "_rewardIds": [
+        266
+      ]
+    },
+    {
+      "_id": 384,
+      "_eventId": 6,
+      "_eventPoint": 5000,
+      "_rewardIds": [
+        268
+      ]
+    },
+    {
+      "_id": 385,
+      "_eventId": 6,
+      "_eventPoint": 6000,
+      "_rewardIds": [
+        270
+      ]
+    },
+    {
+      "_id": 386,
+      "_eventId": 6,
+      "_eventPoint": 7000,
+      "_rewardIds": [
+        218
+      ]
+    },
+    {
+      "_id": 387,
+      "_eventId": 6,
+      "_eventPoint": 8000,
+      "_rewardIds": [
+        219
+      ]
+    },
+    {
+      "_id": 388,
+      "_eventId": 6,
+      "_eventPoint": 9000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 389,
+      "_eventId": 6,
+      "_eventPoint": 10000,
+      "_rewardIds": [
+        14
+      ]
+    },
+    {
+      "_id": 390,
+      "_eventId": 6,
+      "_eventPoint": 12000,
+      "_rewardIds": [
+        265
+      ]
+    },
+    {
+      "_id": 391,
+      "_eventId": 6,
+      "_eventPoint": 14000,
+      "_rewardIds": [
+        267
+      ]
+    },
+    {
+      "_id": 392,
+      "_eventId": 6,
+      "_eventPoint": 16000,
+      "_rewardIds": [
+        269
+      ]
+    },
+    {
+      "_id": 393,
+      "_eventId": 6,
+      "_eventPoint": 18000,
+      "_rewardIds": [
+        216
+      ]
+    },
+    {
+      "_id": 394,
+      "_eventId": 6,
+      "_eventPoint": 20000,
+      "_rewardIds": [
+        265
+      ]
+    },
+    {
+      "_id": 395,
+      "_eventId": 6,
+      "_eventPoint": 22000,
+      "_rewardIds": [
+        267
+      ]
+    },
+    {
+      "_id": 396,
+      "_eventId": 6,
+      "_eventPoint": 24000,
+      "_rewardIds": [
+        269
+      ]
+    },
+    {
+      "_id": 397,
+      "_eventId": 6,
+      "_eventPoint": 27000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 398,
+      "_eventId": 6,
+      "_eventPoint": 30000,
+      "_rewardIds": [
+        409
+      ]
+    },
+    {
+      "_id": 399,
+      "_eventId": 6,
+      "_eventPoint": 35000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 400,
+      "_eventId": 6,
+      "_eventPoint": 40000,
+      "_rewardIds": [
+        72
+      ]
+    },
+    {
+      "_id": 401,
+      "_eventId": 6,
+      "_eventPoint": 45000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 402,
+      "_eventId": 6,
+      "_eventPoint": 50000,
+      "_rewardIds": [
+        226
+      ]
+    },
+    {
+      "_id": 403,
+      "_eventId": 6,
+      "_eventPoint": 55000,
+      "_rewardIds": [
+        72
+      ]
+    },
+    {
+      "_id": 404,
+      "_eventId": 6,
+      "_eventPoint": 60000,
+      "_rewardIds": [
+        214
+      ]
+    },
+    {
+      "_id": 405,
+      "_eventId": 6,
+      "_eventPoint": 65000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 406,
+      "_eventId": 6,
+      "_eventPoint": 70000,
+      "_rewardIds": [
+        72
+      ]
+    },
+    {
+      "_id": 407,
+      "_eventId": 6,
+      "_eventPoint": 75000,
+      "_rewardIds": [
+        410
+      ]
+    },
+    {
+      "_id": 408,
+      "_eventId": 6,
+      "_eventPoint": 80000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 409,
+      "_eventId": 6,
+      "_eventPoint": 85000,
+      "_rewardIds": [
+        72
+      ]
+    },
+    {
+      "_id": 410,
+      "_eventId": 6,
+      "_eventPoint": 90000,
+      "_rewardIds": [
+        59
+      ]
+    },
+    {
+      "_id": 411,
+      "_eventId": 6,
+      "_eventPoint": 95000,
+      "_rewardIds": [
+        68
+      ]
+    },
+    {
+      "_id": 412,
+      "_eventId": 6,
+      "_eventPoint": 100000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 413,
+      "_eventId": 6,
+      "_eventPoint": 105000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 414,
+      "_eventId": 6,
+      "_eventPoint": 110000,
+      "_rewardIds": [
+        59
+      ]
+    },
+    {
+      "_id": 415,
+      "_eventId": 6,
+      "_eventPoint": 115000,
+      "_rewardIds": [
+        68
+      ]
+    },
+    {
+      "_id": 416,
+      "_eventId": 6,
+      "_eventPoint": 120000,
+      "_rewardIds": [
+        76
+      ]
+    },
+    {
+      "_id": 417,
+      "_eventId": 6,
+      "_eventPoint": 125000,
+      "_rewardIds": [
+        410
+      ]
+    },
+    {
+      "_id": 418,
+      "_eventId": 6,
+      "_eventPoint": 130000,
+      "_rewardIds": [
+        59
+      ]
+    },
+    {
+      "_id": 419,
+      "_eventId": 6,
+      "_eventPoint": 135000,
+      "_rewardIds": [
+        68
+      ]
+    },
+    {
+      "_id": 420,
+      "_eventId": 6,
+      "_eventPoint": 140000,
+      "_rewardIds": [
+        50
+      ]
+    },
+    {
+      "_id": 421,
+      "_eventId": 6,
+      "_eventPoint": 145000,
+      "_rewardIds": [
+        47
+      ]
+    },
+    {
+      "_id": 422,
+      "_eventId": 6,
+      "_eventPoint": 150000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 423,
+      "_eventId": 6,
+      "_eventPoint": 155000,
+      "_rewardIds": [
+        50
+      ]
+    },
+    {
+      "_id": 424,
+      "_eventId": 6,
+      "_eventPoint": 160000,
+      "_rewardIds": [
+        47
+      ]
+    },
+    {
+      "_id": 425,
+      "_eventId": 6,
+      "_eventPoint": 165000,
+      "_rewardIds": [
+        59
+      ]
+    },
+    {
+      "_id": 426,
+      "_eventId": 6,
+      "_eventPoint": 170000,
+      "_rewardIds": [
+        68
+      ]
+    },
+    {
+      "_id": 427,
+      "_eventId": 6,
+      "_eventPoint": 175000,
+      "_rewardIds": [
+        50
+      ]
+    },
+    {
+      "_id": 428,
+      "_eventId": 6,
+      "_eventPoint": 180000,
+      "_rewardIds": [
+        47
+      ]
+    },
+    {
+      "_id": 429,
+      "_eventId": 6,
+      "_eventPoint": 185000,
+      "_rewardIds": [
+        50
+      ]
+    },
+    {
+      "_id": 430,
+      "_eventId": 6,
+      "_eventPoint": 190000,
+      "_rewardIds": [
+        47
+      ]
+    },
+    {
+      "_id": 431,
+      "_eventId": 6,
+      "_eventPoint": 200000,
+      "_rewardIds": [
+        410
+      ]
+    },
+    {
+      "_id": 432,
+      "_eventId": 6,
+      "_eventPoint": 210000,
+      "_rewardIds": [
+        77
+      ]
+    },
+    {
+      "_id": 433,
+      "_eventId": 6,
+      "_eventPoint": 220000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 434,
+      "_eventId": 6,
+      "_eventPoint": 230000,
+      "_rewardIds": [
+        51
+      ]
+    },
+    {
+      "_id": 435,
+      "_eventId": 6,
+      "_eventPoint": 240000,
+      "_rewardIds": [
+        77
+      ]
+    },
+    {
+      "_id": 436,
+      "_eventId": 6,
+      "_eventPoint": 250000,
+      "_rewardIds": [
+        51
+      ]
+    },
+    {
+      "_id": 437,
+      "_eventId": 6,
+      "_eventPoint": 260000,
+      "_rewardIds": [
+        77
+      ]
+    },
+    {
+      "_id": 438,
+      "_eventId": 6,
+      "_eventPoint": 270000,
+      "_rewardIds": [
+        80
+      ]
+    },
+    {
+      "_id": 439,
+      "_eventId": 6,
+      "_eventPoint": 280000,
+      "_rewardIds": [
+        77
+      ]
+    },
+    {
+      "_id": 440,
+      "_eventId": 6,
+      "_eventPoint": 300000,
+      "_rewardIds": [
+        410
+      ]
+    },
+    {
+      "_id": 441,
+      "_eventId": 6,
+      "_eventPoint": 330000,
+      "_rewardIds": [
+        201
+      ]
+    },
+    {
+      "_id": 442,
+      "_eventId": 6,
+      "_eventPoint": 375000,
+      "_rewardIds": [
+        411
+      ]
+    },
+    {
+      "_id": 443,
+      "_eventId": 6,
+      "_eventPoint": 450000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 444,
+      "_eventId": 6,
+      "_eventPoint": 525000,
+      "_rewardIds": [
+        410
+      ]
+    },
+    {
+      "_id": 445,
+      "_eventId": 6,
+      "_eventPoint": 600000,
+      "_rewardIds": [
+        412
+      ]
+    },
+    {
+      "_id": 446,
+      "_eventId": 6,
+      "_eventPoint": 675000,
+      "_rewardIds": [
+        412
+      ]
+    },
+    {
+      "_id": 447,
+      "_eventId": 6,
+      "_eventPoint": 750000,
+      "_rewardIds": [
+        159
+      ]
+    },
+    {
+      "_id": 448,
+      "_eventId": 6,
+      "_eventPoint": 825000,
+      "_rewardIds": [
+        158
+      ]
+    },
+    {
+      "_id": 449,
+      "_eventId": 6,
+      "_eventPoint": 900000,
+      "_rewardIds": [
+        217
+      ]
+    },
+    {
+      "_id": 450,
+      "_eventId": 6,
+      "_eventPoint": 1000000,
+      "_rewardIds": [
+        123
+      ]
+    },
+    {
+      "_id": 451,
+      "_eventId": 6,
+      "_eventPoint": 1250000,
+      "_rewardIds": [
+        123
+      ]
+    },
+    {
+      "_id": 452,
+      "_eventId": 6,
+      "_eventPoint": 1500000,
+      "_rewardIds": [
+        123
+      ]
+    },
+    {
+      "_id": 453,
+      "_eventId": 6,
+      "_eventPoint": 2000000,
+      "_rewardIds": [
+        123
+      ]
     }
   ]
 }

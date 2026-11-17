@@ -103,6 +103,19 @@
       "_startAt": "2026/11/08 15:00:00",
       "_endAt": "2046/07/01 00:00:00",
       "_isShowWhenLocked": true
+    },
+    {
+      "_id": 9,
+      "_assetName": "BiliUI/BiliChatAtlas/ChatThemeSkinAtlas_MewType",
+      "_previewAssetName": "BiliUI/BiliChatThemePreview/MewType",
+      "_textAssetName": "BiliUI/BiliChatThemeText/ChatThemeText_MewType",
+      "_skinNameTextId": "ChatThemeName_9",
+      "_skinDescTextId": "ChatThemeDesc_9",
+      "_isInitialOwnership": false,
+      "_iconAssetPath": "BiliUI/BiliChatResourceIcon/IconTheme",
+      "_startAt": "2026/11/18 15:00:00",
+      "_endAt": "2046/07/01 00:00:00",
+      "_isShowWhenLocked": true
     }
   ]
 }
