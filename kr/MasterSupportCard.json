@@ -1921,6 +1921,104 @@
       "_gekisouSupportSkillId01": 0,
       "_gekisouSupportSkillId02": 0,
       "_startAt": "2026-11-14 12:00:00"
+    },
+    {
+      "_id": 82,
+      "_assetID": 82,
+      "_nameTextID": "Snap_Name_Miyako",
+      "_descriptionTextID": "SupportSubtitle_82",
+      "_diaryTextID": "SupportDiary_82",
+      "_diarySoundId": 1200000000007,
+      "_characterIDs": [
+        14
+      ],
+      "_rarity": 4,
+      "_cardType": 4,
+      "_performancePowerMax": 3500,
+      "_technicPowerMax": 3400,
+      "_visualPowerMax": 3300,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 58,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 93,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-18 15:00:00"
+    },
+    {
+      "_id": 83,
+      "_assetID": 83,
+      "_nameTextID": "Snap_Name_Ritsu_Arale_Yuno",
+      "_descriptionTextID": "SupportSubtitle_83",
+      "_diaryTextID": "SupportDiary_83",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        13,
+        11,
+        15
+      ],
+      "_rarity": 4,
+      "_cardType": 4,
+      "_performancePowerMax": 4100,
+      "_technicPowerMax": 3000,
+      "_visualPowerMax": 3100,
+      "_supportCardLevelGroup": 3,
+      "_supportCardRankGroup": 3,
+      "_supportSkillId01": 13,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 28,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-18 15:00:00"
+    },
+    {
+      "_id": 84,
+      "_assetID": 84,
+      "_nameTextID": "Snap_Name_Yuno",
+      "_descriptionTextID": "SupportSubtitle_84",
+      "_diaryTextID": "SupportDiary_84",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        15
+      ],
+      "_rarity": 3,
+      "_cardType": 4,
+      "_performancePowerMax": 1500,
+      "_technicPowerMax": 1600,
+      "_visualPowerMax": 2000,
+      "_supportCardLevelGroup": 2,
+      "_supportCardRankGroup": 2,
+      "_supportSkillId01": 53,
+      "_supportSkillId02": 0,
+      "_gekisouSupportSkillId01": 88,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-18 15:00:00"
+    },
+    {
+      "_id": 85,
+      "_assetID": 85,
+      "_nameTextID": "Snap_Name_yumemita",
+      "_descriptionTextID": "SupportSubtitle_85",
+      "_diaryTextID": "SupportDiary_85",
+      "_diarySoundId": 1200000000008,
+      "_characterIDs": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "_rarity": 10,
+      "_cardType": 4,
+      "_performancePowerMax": 1300,
+      "_technicPowerMax": 1300,
+      "_visualPowerMax": 1300,
+      "_supportCardLevelGroup": 5,
+      "_supportCardRankGroup": 5,
+      "_supportSkillId01": 71,
+      "_supportSkillId02": 73,
+      "_gekisouSupportSkillId01": 0,
+      "_gekisouSupportSkillId02": 0,
+      "_startAt": "2026-11-18 0:00:00"
     }
   ]
 }

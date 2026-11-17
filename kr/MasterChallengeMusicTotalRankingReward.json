@@ -143,6 +143,78 @@
       "_rewardIds": [
         408
       ]
+    },
+    {
+      "_id": 17,
+      "_eventId": 6,
+      "_rankStart": 1,
+      "_rankEnd": 1,
+      "_rewardIds": [
+        437
+      ]
+    },
+    {
+      "_id": 18,
+      "_eventId": 6,
+      "_rankStart": 2,
+      "_rankEnd": 2,
+      "_rewardIds": [
+        438
+      ]
+    },
+    {
+      "_id": 19,
+      "_eventId": 6,
+      "_rankStart": 3,
+      "_rankEnd": 3,
+      "_rewardIds": [
+        439
+      ]
+    },
+    {
+      "_id": 20,
+      "_eventId": 6,
+      "_rankStart": 4,
+      "_rankEnd": 10,
+      "_rewardIds": [
+        440
+      ]
+    },
+    {
+      "_id": 21,
+      "_eventId": 6,
+      "_rankStart": 11,
+      "_rankEnd": 100,
+      "_rewardIds": [
+        441
+      ]
+    },
+    {
+      "_id": 22,
+      "_eventId": 6,
+      "_rankStart": 101,
+      "_rankEnd": 1000,
+      "_rewardIds": [
+        442
+      ]
+    },
+    {
+      "_id": 23,
+      "_eventId": 6,
+      "_rankStart": 1001,
+      "_rankEnd": 5000,
+      "_rewardIds": [
+        443
+      ]
+    },
+    {
+      "_id": 24,
+      "_eventId": 6,
+      "_rankStart": 5001,
+      "_rankEnd": 10000,
+      "_rewardIds": [
+        444
+      ]
     }
   ]
 }

@@ -8793,6 +8793,78 @@
       "_korean": "그저, 곁에"
     },
     {
+      "_id": "Chapter_Title_983",
+      "_japanese": "がっしゅく",
+      "_english": "Training Camp",
+      "_traditionalChinese": "集訓",
+      "_simplifiedChinese": "集训",
+      "_korean": "합숙"
+    },
+    {
+      "_id": "Chapter_Title_984",
+      "_japanese": "いっしょに",
+      "_english": "Together",
+      "_traditionalChinese": "一起",
+      "_simplifiedChinese": "一起",
+      "_korean": "다 같이"
+    },
+    {
+      "_id": "Chapter_Title_985",
+      "_japanese": "あらーと",
+      "_english": "Alert",
+      "_traditionalChinese": "警報",
+      "_simplifiedChinese": "警报",
+      "_korean": "삐뽀"
+    },
+    {
+      "_id": "Chapter_Title_986",
+      "_japanese": "おともだち",
+      "_english": "Friends",
+      "_traditionalChinese": "朋友",
+      "_simplifiedChinese": "朋友",
+      "_korean": "친구"
+    },
+    {
+      "_id": "Chapter_Title_987",
+      "_japanese": "おしゃべり",
+      "_english": "Chatting",
+      "_traditionalChinese": "聊天",
+      "_simplifiedChinese": "聊天",
+      "_korean": "얘기"
+    },
+    {
+      "_id": "Chapter_Title_988",
+      "_japanese": "まるくん",
+      "_english": "Maru-kun",
+      "_traditionalChinese": "丸君",
+      "_simplifiedChinese": "丸君",
+      "_korean": "마루 군"
+    },
+    {
+      "_id": "Chapter_Title_989",
+      "_japanese": "いたみ",
+      "_english": "Pain",
+      "_traditionalChinese": "痛楚",
+      "_simplifiedChinese": "疼痛",
+      "_korean": "아픔"
+    },
+    {
+      "_id": "Chapter_Title_990",
+      "_japanese": "しお",
+      "_english": "Salt",
+      "_traditionalChinese": "鹽巴",
+      "_simplifiedChinese": "盐",
+      "_korean": "소금"
+    },
+    {
+      "_id": "Chapter_Title_991",
+      "_japanese": "じんろう",
+      "_english": "Werewolf",
+      "_traditionalChinese": "狼人",
+      "_simplifiedChinese": "狼人",
+      "_korean": "늑대인간"
+    },
+    {
       "_id": "Chapter_Title_1199",
       "_japanese": "26年誕生日：馬橋 心玖(10/4)",
       "_english": "2026 Birthday: Miku Mahashi (10/4)",
@@ -10137,6 +10209,14 @@
       "_korean": "오기 가쿠시"
     },
     {
+      "_id": "Arranger_Name_100117",
+      "_japanese": "Aiobahn +81",
+      "_english": "Aiobahn +81",
+      "_traditionalChinese": "Aiobahn +81",
+      "_simplifiedChinese": "Aiobahn +81",
+      "_korean": "Aiobahn +81"
+    },
+    {
       "_id": "Arranger_Name_100201",
       "_japanese": "トミタカズキ(SUPA LOVE)",
       "_english": "Kazuki Tomita (SUPA LOVE)",
@@ -10539,6 +10619,14 @@
     {
       "_id": "AutoPostPresent_50",
       "_japanese": "ライブサポートおよび撃奏サポート不具合のお詫びです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "AutoPostPresent_51",
+      "_japanese": "海外版 特別施策連動のプレゼントです。",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -12826,11 +12914,11 @@
     },
     {
       "_id": "bili_ban_account",
-      "_japanese": "由于多次违规行为，您的账号已被封禁。",
-      "_english": "Due to repeated violations, your account has been suspended.",
-      "_traditionalChinese": "由於多次違規，您的帳號已被封鎖。",
-      "_simplifiedChinese": "由于多次违规行为，您的账号已被封禁。",
-      "_korean": "반복적인 규정 위반으로 계정이 정지되었습니다."
+      "_japanese": "現在アカウントの利用が制限されています。\nタイトル画面へ戻ります。",
+      "_english": "Your account has been banned and will be unbanned on {0} (UTC+9). If you have any questions, please contact Customer Support for more information.",
+      "_traditionalChinese": "您目前的帳號已遭封禁，將於{0}（UTC+9）解除封禁。如有疑問，請聯絡客服了解詳情。",
+      "_simplifiedChinese": "您当前的账号已被封禁，将于{0}（UTC+9）解封，如有疑问可联系客服了解详情。",
+      "_korean": "계정 이용이 정지되었습니다. {0}(UTC+9)부터 정상적으로 이용하실 수 있습니다. 자세한 내용은 고객센터로 문의해 주세요."
     },
     {
       "_id": "bili_token_illegal",
@@ -12935,6 +13023,134 @@
       "_traditionalChinese": "登入狀態異常，請再試一次。",
       "_simplifiedChinese": "登录状态异常，请重试。",
       "_korean": "로그인 상태가 원활하지 않습니다. 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_internal",
+      "_japanese": "",
+      "_english": "Server error. Please try again later.",
+      "_traditionalChinese": "伺服器發生異常，請稍後再試。",
+      "_simplifiedChinese": "服务器异常，请稍后再试。",
+      "_korean": "서버에 문제가 발생했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_request_timeout",
+      "_japanese": "",
+      "_english": "Request timed out. Check your connection and try again.",
+      "_traditionalChinese": "請求逾時，請檢查網路後重試。",
+      "_simplifiedChinese": "请求超时，请检查网络后重试。",
+      "_korean": "요청 시간이 초과되었습니다. 네트워크 연결을 확인 한 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_processing_conflict",
+      "_japanese": "",
+      "_english": "An action is already in progress. Please try again later.",
+      "_traditionalChinese": "操作處理中，請稍後再試。",
+      "_simplifiedChinese": "操作处理中，请稍后再试。",
+      "_korean": "처리 중입니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_master_data_not_found",
+      "_japanese": "",
+      "_english": "Game data error. Please restart the game and try again.",
+      "_traditionalChinese": "資料版本異常，請重新啟動遊戲後再試。",
+      "_simplifiedChinese": "数据版本异常，请重启游戏后再试。",
+      "_korean": "데이터 버전에 문제가 발생했습니다. 게임을 재실행한 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_data_not_found",
+      "_japanese": "",
+      "_english": "Required data could not be found. Please try again later.",
+      "_traditionalChinese": "未找到相關資料，請稍後再試。",
+      "_simplifiedChinese": "未找到相关数据，请稍后再试。",
+      "_korean": "관련 데이터를 찾을 수 없습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_data_already_exists",
+      "_japanese": "",
+      "_english": "This data already exists. Please do not repeat this action.",
+      "_traditionalChinese": "資料已存在，請勿重複操作。",
+      "_simplifiedChinese": "数据已存在，请勿重复操作。",
+      "_korean": "이미 존재하는 데이터입니다. 중복으로 진행할 수 없습니다."
+    },
+    {
+      "_id": "bili_error_invalid_parameter",
+      "_japanese": "",
+      "_english": "Request failed. Please restart the game and try again.",
+      "_traditionalChinese": "請求異常，請重新啟動遊戲後再試。",
+      "_simplifiedChinese": "请求异常，请重启游戏后再试。",
+      "_korean": "요청 처리 중 오류가 발생했습니다. 게임을 재실행한 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_limit_exceeded",
+      "_japanese": "",
+      "_english": "Limit reached. Please try again later.",
+      "_traditionalChinese": "操作次數已達上限，請稍後再試。",
+      "_simplifiedChinese": "操作次数已达上限，请稍后再试。",
+      "_korean": "조작 가능 횟수를 초과했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_insufficient_resource",
+      "_japanese": "",
+      "_english": "Not enough resources to complete this action.",
+      "_traditionalChinese": "所需資料不足，無法完成操作。",
+      "_simplifiedChinese": "所需资源不足，无法完成操作。",
+      "_korean": "필요한 재화가 부족하여 조작을 진행할 수 없습니다."
+    },
+    {
+      "_id": "bili_error_permission_denied",
+      "_japanese": "",
+      "_english": "This action isn't available right now.",
+      "_traditionalChinese": "暫無權限執行此操作。",
+      "_simplifiedChinese": "暂无权限执行此操作。",
+      "_korean": "관련 권한이 없어 조작할 수 없습니다."
+    },
+    {
+      "_id": "bili_error_out_of_period",
+      "_japanese": "",
+      "_english": "This action isn't available at this time.",
+      "_traditionalChinese": "目前不在有效期間內，無法操作。",
+      "_simplifiedChinese": "当前不在有效时间内，无法操作。",
+      "_korean": "유효 기간이 지나 조작할 수 없습니다."
+    },
+    {
+      "_id": "bili_error_data_write_failure",
+      "_japanese": "",
+      "_english": "Failed to save data. Please try again later.",
+      "_traditionalChinese": "資料儲存失敗，請稍後再試。",
+      "_simplifiedChinese": "数据保存失败，请稍后再试。",
+      "_korean": "데이터 저장에 실패했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_data_read_failure",
+      "_japanese": "",
+      "_english": "Failed to load data. Please try again later.",
+      "_traditionalChinese": "資料讀取失敗，請稍後再試。",
+      "_simplifiedChinese": "数据读取失败，请稍后再试。",
+      "_korean": "데이터를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요."
+    },
+    {
+      "_id": "bili_error_context_value_missing",
+      "_japanese": "",
+      "_english": "Game data error. Please log in again.",
+      "_traditionalChinese": "資料異常，請重新登入遊戲。",
+      "_simplifiedChinese": "数据异常，请重新登录游戏。",
+      "_korean": "데이터에 문제가 발생했습니다. 게임에 다시 로그인해 주세요."
+    },
+    {
+      "_id": "bili_live_settlement_rejected_title",
+      "_japanese": "",
+      "_english": "Abnormal Behavior Detected",
+      "_traditionalChinese": "異常行為偵測",
+      "_simplifiedChinese": "异常行为检测",
+      "_korean": "이상 행위 감지"
+    },
+    {
+      "_id": "bili_live_settlement_rejected_message",
+      "_japanese": "",
+      "_english": "Abnormal gameplay behavior was detected during this performance. The results of this performance will not be counted. You will be returned to the title screen shortly",
+      "_traditionalChinese": "偵測到本次演出存在異常遊戲行為，本次演出結果將不列入計算，即將返回標題畫面",
+      "_simplifiedChinese": "检测到本次演出存在异常游戏行为，本次演出结果将不计入，即将返回标题",
+      "_korean": "비정상적인 게임 플레이가 감지되어 이번 라이브 결과는 무효 처리되었습니다.\\n타이틀 화면으로 이동합니다."
     },
     {
       "_id": "ui_bili_feature_maintenance_name_chat",
@@ -13911,6 +14127,30 @@
       "_traditionalChinese": "賽季準備中，請稍候。",
       "_simplifiedChinese": "赛季准备中，请稍作等待。",
       "_korean": "시즌 준비 중입니다. 잠시만 기다려 주세요."
+    },
+    {
+      "_id": "ui_item_type_vip_rank",
+      "_japanese": "T.G.W CARD pt",
+      "_english": "T.G.W CARD pt",
+      "_traditionalChinese": "T.G.W CARD pt",
+      "_simplifiedChinese": "T.G.W CARD pt",
+      "_korean": "T.G.W 카드 pt"
+    },
+    {
+      "_id": "ui_item_type_monthly_pass",
+      "_japanese": "アワーノーツパス",
+      "_english": "Our Notes Pass",
+      "_traditionalChinese": "交織的樂章通行證",
+      "_simplifiedChinese": "交织的乐章通行证",
+      "_korean": "아워 노트 패스"
+    },
+    {
+      "_id": "ui_item_type_cash",
+      "_japanese": "現金",
+      "_english": "Cash",
+      "_traditionalChinese": "現金",
+      "_simplifiedChinese": "现金",
+      "_korean": "현금"
     },
     {
       "_id": "Campaign_Description_LiveRewardDrop01Nonenull",
@@ -15333,7 +15573,7 @@
       "_japanese": "可憐で品のある少女。\n社交的で常識もありつつ、ちょっぴりちゃめっ気もあるクラスの人気者。\n圧倒的な『才能』に強い興味を持っている。",
       "_english": "A graceful and refined girl.\nSociable and well-mannered, she's a popular presence in her class, with just a hint of playful charm.\nShe has a strong fascination with overwhelming \"talent\".",
       "_traditionalChinese": "氣質出眾、惹人憐愛的少女。\n懂分寸知進退、善於社交又有點調皮，是班上的風雲人物。\n對無可比擬的「才能」相當感興趣。",
-      "_simplifiedChinese": "楚楚动人、气质高雅的少女。\n善于社交且懂分寸，同时也带着一点俏皮，是班上备受欢迎的人气角色。对压倒性的『才能』抱有浓厚兴趣。",
+      "_simplifiedChinese": "楚楚动人、气质高雅的少女。\n善于社交且懂分寸，同时也带着一点俏皮，是班上备受欢迎的人气角色。\n对压倒性的『才能』抱有浓厚兴趣。",
       "_korean": "사랑스럽고 품격 있는 소녀.\n사교적이고 예의도 바른 데다, 살짝 장난기도 있는 반의 인기스타다.\n압도적인 「재능」에 강한 흥미를 가지고 있다."
     },
     {
@@ -21329,6 +21569,54 @@
       "_korean": "Ave Mujica 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
     },
     {
+      "_id": "ChatThemeName_9",
+      "_japanese": "",
+      "_english": "Dreamspace",
+      "_traditionalChinese": "夢想空間",
+      "_simplifiedChinese": "梦想空间",
+      "_korean": "꿈의 공간"
+    },
+    {
+      "_id": "ChatBubbleName_9",
+      "_japanese": "",
+      "_english": "Mew Express",
+      "_traditionalChinese": "Mew訊速遞",
+      "_simplifiedChinese": "Mew讯速递",
+      "_korean": "Mew 속보"
+    },
+    {
+      "_id": "ChatFrameName_9",
+      "_japanese": "",
+      "_english": "Heart Reboot",
+      "_traditionalChinese": "煥心啟程",
+      "_simplifiedChinese": "焕心启程",
+      "_korean": "새로운 마음"
+    },
+    {
+      "_id": "ChatThemeDesc_9",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Mugendai MewType Chat Room Theme Pack.",
+      "_traditionalChinese": "購買夢限大MewType 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买梦限大MewType 聊天室主题礼包后获取。",
+      "_korean": "무겐다이 뮤타입 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatBubbleDesc_9",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Mugendai MewType Chat Room Theme Pack.",
+      "_traditionalChinese": "購買夢限大MewType 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买梦限大MewType 聊天室主题礼包后获取。",
+      "_korean": "무겐다이 뮤타입 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
+      "_id": "ChatFrameDesc_9",
+      "_japanese": "",
+      "_english": "Obtained by purchasing the Mugendai MewType Chat Room Theme Pack.",
+      "_traditionalChinese": "購買夢限大MewType 聊天室主題禮包後獲得。",
+      "_simplifiedChinese": "购买梦限大MewType 聊天室主题礼包后获取。",
+      "_korean": "무겐다이 뮤타입 채팅방 테마 패키지 구매 후 획득할 수 있습니다."
+    },
+    {
       "_id": "chatskin_talk_example1",
       "_japanese": "Nice to meet you!",
       "_english": "Nice to meet you!",
@@ -22517,7 +22805,7 @@
       "_japanese": "スター{0}個を消費して、グループを設立します。\nよろしいですか？",
       "_english": "You will spend {0} Stars to create a Group.\nContinue?",
       "_traditionalChinese": "即將消耗{0}個星鑽成立社群。\n確定要繼續嗎？",
-      "_simplifiedChinese": "消耗{0}个星钻，创建社群。确定要创建吗？",
+      "_simplifiedChinese": "消耗{0}个星钻，创建社群。\n确定要创建吗？",
       "_korean": "스타 {0}개를 사용하여 그룹을 설립합니다.\n계속 진행하시겠습니까?"
     },
     {
@@ -23831,6 +24119,14 @@
       "_traditionalChinese": "ピノキオピー",
       "_simplifiedChinese": "ピノキオピー",
       "_korean": "PinocchioP"
+    },
+    {
+      "_id": "Composer_Name_100117",
+      "_japanese": "Aiobahn +81",
+      "_english": "Aiobahn +81",
+      "_traditionalChinese": "Aiobahn +81",
+      "_simplifiedChinese": "Aiobahn +81",
+      "_korean": "Aiobahn +81"
     },
     {
       "_id": "Composer_Name_100201",
@@ -26881,6 +27177,30 @@
       "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 혜택 교환 코드로 획득"
     },
     {
+      "_id": "Degree_Description_279",
+      "_japanese": "「よい子のための新時代トレーニングガチャ」の交換所で獲得",
+      "_english": "Obtained at the Exchange Shop for the \"New-Age Training for Good Kids Gacha.\"",
+      "_traditionalChinese": "透過「專為好孩子打造的新時代Training轉蛋」的兌換所獲得",
+      "_simplifiedChinese": "通过「专为好孩子定制的新时代Training招募」的交换所获得",
+      "_korean": "「착한 아이를 위한 새로운 시대의 트레이닝 뽑기」 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_287",
+      "_japanese": "夢限大みゅーたいぷ バンド記念日ピック交換所で獲得",
+      "_english": "Obtained at the Mugendai MewType Band Anniversary Pick Exchange Shop",
+      "_traditionalChinese": "透過夢限大MewType 樂團紀念日撥片兌換所獲得",
+      "_simplifiedChinese": "通过梦限大MewType 乐队纪念日拨片交换所获得",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 피크 교환소에서 획득"
+    },
+    {
+      "_id": "Degree_Description_1000000001",
+      "_japanese": "",
+      "_english": "Obtained with the AGF2026 bonus serial code.",
+      "_traditionalChinese": "透過AGF2026特典序號獲得",
+      "_simplifiedChinese": "使用AGF2026参展特典兑换码获得",
+      "_korean": "AGF2026 혜택 교환 코드로 획득"
+    },
+    {
       "_id": "Degree_Description_20000001",
       "_japanese": "イベント「アイの奔流 AtoZ 」「夢我夢中」スコアランキング報酬で獲得",
       "_english": "Obtained via the Score Ranking Rewards for Love Rush A to Z \"mugamuchu.\"",
@@ -28081,6 +28401,270 @@
       "_korean": "이벤트 「흐르는 달의 살타티오」 종합 스코어 랭킹 보상으로 획득"
     },
     {
+      "_id": "Degree_Description_20000151",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000152",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000153",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000154",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000155",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000156",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000157",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000158",
+      "_japanese": "イベント「きみはまるくん」「KEEP ON 」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"KEEP ON.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「KEEP ON」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「KEEP ON」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「KEEP ON」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000159",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000160",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000161",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000162",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000163",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000164",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000165",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000166",
+      "_japanese": "イベント「きみはまるくん」「限界現実サバイブ天使」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"GENKAI GENJITSU SURVIVAL ANGEL.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「限界現實Survive天使」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「限界现实Survive天使」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「한계 현실 서바이브 천사」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000167",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000168",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000169",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000170",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000171",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000172",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000173",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000174",
+      "_japanese": "イベント「きみはまるくん」「唱」スコアランキング報酬で獲得",
+      "_english": "Obtained via the Score Ranking Rewards for You're Maru-kun \"Show.\"",
+      "_traditionalChinese": "透過活動「你是丸君」，樂曲「唱」分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」「唱」分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 「쇼」 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000175",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000176",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000177",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000178",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000179",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000180",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000181",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000182",
+      "_japanese": "イベント「きみはまるくん」総合スコアランキング報酬で獲得",
+      "_english": "Obtained via the Total Score Ranking Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」，綜合分數排行榜報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」综合分数排名奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 종합 스코어 랭킹 보상으로 획득"
+    },
+    {
+      "_id": "Degree_Description_20000183",
+      "_japanese": "イベント「きみはまるくん」 プレミアムミッションパス報酬で獲得",
+      "_english": "Obtained via the Premium Mission Pass Rewards for You're Maru-kun.",
+      "_traditionalChinese": "透過活動「你是丸君」Premium任務通行證報酬獲得",
+      "_simplifiedChinese": "通过活动「你是丸君」高级任务通行证奖励获得",
+      "_korean": "이벤트 「너는 마루 군」 프리미엄 미션 패스 보상으로 획득"
+    },
+    {
       "_id": "Degree_Name_20000001",
       "_japanese": "[ステッカー]アイの奔流 AtoZ/夢我夢中 1位",
       "_english": "[Sticker] Love Rush A to Z/mugamuchu 1st place",
@@ -28150,7 +28734,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 1st place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第1名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第1名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 1위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 1위"
     },
     {
       "_id": "Degree_Name_20000010",
@@ -28158,7 +28742,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 2nd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第2名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第2名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 2위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 2위"
     },
     {
       "_id": "Degree_Name_20000011",
@@ -28166,7 +28750,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival 3rd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 第3名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 第3名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 3위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 3위"
     },
     {
       "_id": "Degree_Name_20000012",
@@ -28174,7 +28758,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP10",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10"
     },
     {
       "_id": "Degree_Name_20000013",
@@ -28182,7 +28766,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP100",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP100",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP100",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP100"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP100"
     },
     {
       "_id": "Degree_Name_20000014",
@@ -28190,7 +28774,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP1000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP1000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP1000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP1000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP1000"
     },
     {
       "_id": "Degree_Name_20000015",
@@ -28198,7 +28782,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP5000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP5000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP5000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP5000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP5000"
     },
     {
       "_id": "Degree_Name_20000016",
@@ -28206,7 +28790,7 @@
       "_english": "[Sticker] Love Rush A to Z/Our Survival TOP10000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/這是我們的生存梗概 TOP10000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/这是我们的生存梗概 TOP10000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/이것은 우리들이 살아남는 줄거리 TOP10000"
     },
     {
       "_id": "Degree_Name_20000017",
@@ -28214,7 +28798,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 1st place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第1名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第1名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 1위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru 1위"
     },
     {
       "_id": "Degree_Name_20000018",
@@ -28222,7 +28806,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 2nd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第2名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第2名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 2위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru 2위"
     },
     {
       "_id": "Degree_Name_20000019",
@@ -28230,7 +28814,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru 3rd place",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる 第3名",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる 第3名",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru 3위"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru 3위"
     },
     {
       "_id": "Degree_Name_20000020",
@@ -28238,7 +28822,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP10",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP10"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru TOP10"
     },
     {
       "_id": "Degree_Name_20000021",
@@ -28246,7 +28830,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP100",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP100",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP100",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP100"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru TOP100"
     },
     {
       "_id": "Degree_Name_20000022",
@@ -28254,7 +28838,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP1000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP1000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP1000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP1000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru TOP1000"
     },
     {
       "_id": "Degree_Name_20000023",
@@ -28262,7 +28846,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP5000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP5000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP5000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP5000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru TOP5000"
     },
     {
       "_id": "Degree_Name_20000024",
@@ -28270,7 +28854,7 @@
       "_english": "[Sticker] Love Rush A to Z/Orion wo Nazoru TOP10000",
       "_traditionalChinese": "[貼紙]愛的奔流 AtoZ/オリオンをなぞる TOP10000",
       "_simplifiedChinese": "[贴纸]爱的奔流 AtoZ/オリオンをなぞる TOP10000",
-      "_korean": "[스티커]사랑의 격류 AtoZ/Orion wo Nazoru TOP10000"
+      "_korean": "[스티커] 사랑의 격류 AtoZ/Orion wo Nazoru TOP10000"
     },
     {
       "_id": "Degree_Name_20000025",
@@ -29006,7 +29590,7 @@
       "_english": "[Sticker]A day～#HalloweenSnap～ MyGO!!!!! Ver.",
       "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ MyGO!!!!! ver.",
       "_simplifiedChinese": "[贴纸]A day～#HalloweenSnap～ MyGO!!!!!版",
-      "_korean": "[스티커]A day〜#HalloweenSnap〜 MyGO!!!!! ver."
+      "_korean": "[스티커] A day〜#HalloweenSnap〜 MyGO!!!!! ver."
     },
     {
       "_id": "Degree_Name_20000117",
@@ -29014,7 +29598,7 @@
       "_english": "[Sticker]A day～#HalloweenSnap～ Ave Mujica Ver.",
       "_traditionalChinese": "[貼紙]A day～#HalloweenSnap～ Ave Mujica ver.",
       "_simplifiedChinese": "[贴纸]A day～#HalloweenSnap～ Ave Mujica版",
-      "_korean": "[스티커]A day〜#HalloweenSnap〜 Ave Mujica ver."
+      "_korean": "[스티커] A day〜#HalloweenSnap〜 Ave Mujica ver."
     },
     {
       "_id": "Degree_Name_20000118",
@@ -29279,6 +29863,270 @@
       "_traditionalChinese": "[貼紙]月色之下流轉之舞/綜合排行榜 TOP10000",
       "_simplifiedChinese": "[贴纸]月下流转之舞/综合排名 TOP10000",
       "_korean": "[스티커] 흐르는 달의 살타티오/종합 랭킹 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000151",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  1位",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON 1st Place",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON 第1名",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON 第1名",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON 1위"
+    },
+    {
+      "_id": "Degree_Name_20000152",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  2位",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON 2nd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON 第2名",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON 第2名",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON 2위"
+    },
+    {
+      "_id": "Degree_Name_20000153",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  3位",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON 3rd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON 第3名",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON 第3名",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON 3위"
+    },
+    {
+      "_id": "Degree_Name_20000154",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  TOP10",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON TOP10",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON TOP10",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON TOP10",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000155",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  TOP100",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON TOP100",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON TOP100",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON TOP100",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000156",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  TOP1000",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON TOP1000",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON TOP1000",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON TOP1000",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000157",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  TOP5000",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON TOP5000",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON TOP5000",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON TOP5000",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000158",
+      "_japanese": "[ステッカー]きみはまるくん/KEEP ON  TOP10000",
+      "_english": "[Sticker] You're Maru-kun/KEEP ON TOP10000",
+      "_traditionalChinese": "[貼紙]你是丸君/KEEP ON TOP10000",
+      "_simplifiedChinese": "[贴纸]你是丸君/KEEP ON TOP10000",
+      "_korean": "[스티커] 너는 마루 군/KEEP ON TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000159",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 1位",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL 1st Place",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 第1名",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 第1名",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 1위"
+    },
+    {
+      "_id": "Degree_Name_20000160",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 2位",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL 2nd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 第2名",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 第2名",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 2위"
+    },
+    {
+      "_id": "Degree_Name_20000161",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 3位",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL 3rd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 第3名",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 第3名",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 3위"
+    },
+    {
+      "_id": "Degree_Name_20000162",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 TOP10",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL TOP10",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 TOP10",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 TOP10",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000163",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 TOP100",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL TOP100",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 TOP100",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 TOP100",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000164",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 TOP1000",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL TOP1000",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 TOP1000",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 TOP1000",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000165",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 TOP5000",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL TOP5000",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 TOP5000",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 TOP5000",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000166",
+      "_japanese": "[ステッカー]きみはまるくん/限界現実サバイブ天使 TOP10000",
+      "_english": "[Sticker] You're Maru-kun/GENKAI GENJITSU SURVIVAL ANGEL TOP10000",
+      "_traditionalChinese": "[貼紙]你是丸君/限界現實Survive天使 TOP10000",
+      "_simplifiedChinese": "[贴纸]你是丸君/限界现实Survive天使 TOP10000",
+      "_korean": "[스티커] 너는 마루 군/한계 현실 서바이브 천사 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000167",
+      "_japanese": "[ステッカー]きみはまるくん/唱 1位",
+      "_english": "[Sticker] You're Maru-kun/Show 1st Place",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 第1名",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 第1名",
+      "_korean": "[스티커] 너는 마루 군/쇼 1위"
+    },
+    {
+      "_id": "Degree_Name_20000168",
+      "_japanese": "[ステッカー]きみはまるくん/唱 2位",
+      "_english": "[Sticker] You're Maru-kun/Show 2nd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 第2名",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 第2名",
+      "_korean": "[스티커] 너는 마루 군/쇼 2위"
+    },
+    {
+      "_id": "Degree_Name_20000169",
+      "_japanese": "[ステッカー]きみはまるくん/唱 3位",
+      "_english": "[Sticker] You're Maru-kun/Show 3rd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 第3名",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 第3名",
+      "_korean": "[스티커] 너는 마루 군/쇼 3위"
+    },
+    {
+      "_id": "Degree_Name_20000170",
+      "_japanese": "[ステッカー]きみはまるくん/唱 TOP10",
+      "_english": "[Sticker] You're Maru-kun/Show TOP10",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 TOP10",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 TOP10",
+      "_korean": "[스티커] 너는 마루 군/쇼 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000171",
+      "_japanese": "[ステッカー]きみはまるくん/唱 TOP100",
+      "_english": "[Sticker] You're Maru-kun/Show TOP100",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 TOP100",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 TOP100",
+      "_korean": "[스티커] 너는 마루 군/쇼 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000172",
+      "_japanese": "[ステッカー]きみはまるくん/唱 TOP1000",
+      "_english": "[Sticker] You're Maru-kun/Show TOP1000",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 TOP1000",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 TOP1000",
+      "_korean": "[스티커] 너는 마루 군/쇼 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000173",
+      "_japanese": "[ステッカー]きみはまるくん/唱 TOP5000",
+      "_english": "[Sticker] You're Maru-kun/Show TOP5000",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 TOP5000",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 TOP5000",
+      "_korean": "[스티커] 너는 마루 군/쇼 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000174",
+      "_japanese": "[ステッカー]きみはまるくん/唱 TOP10000",
+      "_english": "[Sticker] You're Maru-kun/Show TOP10000",
+      "_traditionalChinese": "[貼紙]你是丸君/唱 TOP10000",
+      "_simplifiedChinese": "[贴纸]你是丸君/唱 TOP10000",
+      "_korean": "[스티커] 너는 마루 군/쇼 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000175",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング 1位",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking 1st Place",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 第1名",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 第1名",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 1위"
+    },
+    {
+      "_id": "Degree_Name_20000176",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング 2位",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking 2nd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 第2名",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 第2名",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 2위"
+    },
+    {
+      "_id": "Degree_Name_20000177",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング 3位",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking 3rd Place",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 第3名",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 第3名",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 3위"
+    },
+    {
+      "_id": "Degree_Name_20000178",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング TOP10",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking TOP10",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 TOP10",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 TOP10",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 TOP10"
+    },
+    {
+      "_id": "Degree_Name_20000179",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング TOP100",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking TOP100",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 TOP100",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 TOP100",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 TOP100"
+    },
+    {
+      "_id": "Degree_Name_20000180",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング TOP1000",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking TOP1000",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 TOP1000",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 TOP1000",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 TOP1000"
+    },
+    {
+      "_id": "Degree_Name_20000181",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング TOP5000",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking TOP5000",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 TOP5000",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 TOP5000",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 TOP5000"
+    },
+    {
+      "_id": "Degree_Name_20000182",
+      "_japanese": "[ステッカー]きみはまるくん/総合ランキング TOP10000",
+      "_english": "[Sticker] You're Maru-kun/Total Ranking TOP10000",
+      "_traditionalChinese": "[貼紙]你是丸君/綜合排行榜 TOP10000",
+      "_simplifiedChinese": "[贴纸]你是丸君/综合排名 TOP10000",
+      "_korean": "[스티커] 너는 마루 군/종합 랭킹 TOP10000"
+    },
+    {
+      "_id": "Degree_Name_20000183",
+      "_japanese": "[ステッカー]きみはまるくん",
+      "_english": "[Sticker] You're Maru-kun",
+      "_traditionalChinese": "[貼紙]你是丸君",
+      "_simplifiedChinese": "[贴纸]你是丸君",
+      "_korean": "[스티커] 너는 마루 군"
     },
     {
       "_id": "Degree_Description_10000001",
@@ -30039,6 +30887,14 @@
       "_traditionalChinese": "通關「ノンブレス・オブリージュ」100次即獲得",
       "_simplifiedChinese": "完成「ノンブレス・オブリージュ」100次时获得",
       "_korean": "「논브레스 오블리주」 100회 클리어 시 획득"
+    },
+    {
+      "_id": "Degree_Description_10000116",
+      "_japanese": "「KEEP ON」を100回クリアで獲得",
+      "_english": "Obtained by clearing \"KEEP ON\" 100 times.",
+      "_traditionalChinese": "通關「KEEP ON」100次即獲得",
+      "_simplifiedChinese": "完成「KEEP ON」100次时获得",
+      "_korean": "「KEEP ON」 100회 클리어 시 획득"
     },
     {
       "_id": "Degree_Description_10000117",
@@ -30809,6 +31665,14 @@
       "_korean": "[스티커] 논브레스 오블리주 재킷"
     },
     {
+      "_id": "Degree_Name_10000116",
+      "_japanese": "[ステッカー]KEEP ONジャケット",
+      "_english": "[Sticker] KEEP ON Jacket",
+      "_traditionalChinese": "[貼紙]KEEP ON封面",
+      "_simplifiedChinese": "[贴纸]KEEP ON封面",
+      "_korean": "[스티커] KEEP ON 재킷"
+    },
+    {
       "_id": "Degree_Name_10000117",
       "_japanese": "[ステッカー]世点彩ジャケット",
       "_english": "[Sticker] Sepia Jacket",
@@ -31241,6 +32105,30 @@
       "_korean": "「[무릎 꿇고, 충성을 맹세하라] 돌로리스」 4회 각성 시 획득"
     },
     {
+      "_id": "Degree_Description_30000054",
+      "_japanese": "「[みやこおねえさんとうたおう]藤 都子」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Miyako Fuji [Sing with Sister Miyako!]\" 4 times.",
+      "_traditionalChinese": "「[和都子姐姐一起唱歌吧！]藤都子」覺醒4次後獲得",
+      "_simplifiedChinese": "「[和都子姐姐一起唱歌吧！]藤都子」觉醒4次后获得",
+      "_korean": "「[미야코 언니와 노래해요!] 후지 미야코」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000055",
+      "_japanese": "「[おしゃべりしたい子、集まれ～！]仲町 あられ」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Arale Nakamachi [Wanna Chat? Come On Over!]\" 4 times.",
+      "_traditionalChinese": "「[想聊天的小朋友，集合囉～！]仲町阿拉蕾」覺醒4次後獲得",
+      "_simplifiedChinese": "「[想聊天的小朋友，集合啦～！]仲町阿拉蕾」觉醒4次后获得",
+      "_korean": "「[수다 떨고 싶은 사람, 다 모여~!] 나카마치 아라레」 4회 각성 시 획득"
+    },
+    {
+      "_id": "Degree_Description_30000056",
+      "_japanese": "「[ののちゃんのぴょんぴょん体操]宮永 ののか」を4回覚醒すると獲得",
+      "_english": "Obtained by awakening \"Nonoka Miyanaga [Nono-chan's Bouncy Exercise]\" 4 times.",
+      "_traditionalChinese": "「[小野乃的跳跳體操]宮永野乃花」覺醒4次後獲得",
+      "_simplifiedChinese": "「[小野乃的蹦蹦体操]宫永野乃花」觉醒4次后获得",
+      "_korean": "「[노노 짱의 깡총깡총 체조] 미야나가 노노카」 4회 각성 시 획득"
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "[Sticker] Tomori Takamatsu [Words That Stay]",
@@ -31663,6 +32551,30 @@
       "_traditionalChinese": "[貼紙][屈膝，獻上忠誠]Doloris",
       "_simplifiedChinese": "[贴纸][单膝跪地，献上忠诚]Doloris",
       "_korean": "[스티커] [무릎 꿇고, 충성을 맹세하라] 돌로리스"
+    },
+    {
+      "_id": "Degree_Name_30000054",
+      "_japanese": "[ステッカー][みやこおねえさんとうたおう]藤 都子",
+      "_english": "[Sticker] Miyako Fuji [Sing with Sister Miyako!]",
+      "_traditionalChinese": "[貼紙][和都子姐姐一起唱歌吧！]藤都子",
+      "_simplifiedChinese": "[贴纸][和都子姐姐一起唱歌吧！]藤都子",
+      "_korean": "[스티커] [미야코 언니와 노래해요!] 후지 미야코"
+    },
+    {
+      "_id": "Degree_Name_30000055",
+      "_japanese": "[ステッカー][おしゃべりしたい子、集まれ～！]仲町 あられ",
+      "_english": "[Sticker] Arale Nakamachi [Wanna Chat? Come On Over!]",
+      "_traditionalChinese": "[貼紙][想聊天的小朋友，集合囉～！]仲町阿拉蕾",
+      "_simplifiedChinese": "[贴纸][想聊天的小朋友，集合啦～！]仲町阿拉蕾",
+      "_korean": "[스티커] [수다 떨고 싶은 사람, 다 모여~!] 나카마치 아라레"
+    },
+    {
+      "_id": "Degree_Name_30000056",
+      "_japanese": "[ステッカー][ののちゃんのぴょんぴょん体操]宮永 ののか",
+      "_english": "[Sticker] Nonoka Miyanaga [Nono-chan's Bouncy Exercise]",
+      "_traditionalChinese": "[貼紙][小野乃的跳跳體操]宮永野乃花",
+      "_simplifiedChinese": "[贴纸][小野乃的蹦蹦体操]宫永野乃花",
+      "_korean": "[스티커] [노노 짱의 깡총깡총 체조] 미야나가 노노카"
     },
     {
       "_id": "Degree_Name_1",
@@ -33585,6 +34497,30 @@
       "_korean": "[스티커] 이음새 너머로 - 고베, 풍경 재발견 편 -(한정)"
     },
     {
+      "_id": "Degree_Name_279",
+      "_japanese": "[ステッカー]よい子のための新時代トレーニング",
+      "_english": "[Sticker] New-Age Training for Good Kids",
+      "_traditionalChinese": "[貼紙]專為好孩子打造的新時代Training",
+      "_simplifiedChinese": "[贴纸]专为好孩子定制的新时代Training",
+      "_korean": "[스티커] 착한 아이를 위한 새로운 시대의 트레이닝"
+    },
+    {
+      "_id": "Degree_Name_287",
+      "_japanese": "[ステッカー]夢限大みゅーたいぷ Band Anniversary 26",
+      "_english": "[Sticker] Mugendai MewType Band Anniversary 26",
+      "_traditionalChinese": "[貼紙]夢限大MewType Band Anniversary 26",
+      "_simplifiedChinese": "[贴纸]梦限大MewType Band Anniversary 26",
+      "_korean": "[스티커] 무겐다이 뮤타입 Band Anniversary 26"
+    },
+    {
+      "_id": "Degree_Name_1000000001",
+      "_japanese": "",
+      "_english": "[Sticker] Celebrating the Event Appearance 2026.12.4 (Limited)",
+      "_traditionalChinese": "[貼圖] 線下活動出席紀念2026.12.4（限定）",
+      "_simplifiedChinese": "[贴纸] 线下活动出演纪念2026.12.4（限定）",
+      "_korean": "[스티커] 오프라인 이벤트 출연 기념2026.12.4 (한정)"
+    },
+    {
       "_id": "Degree_Description_40000001",
       "_japanese": "「[お気に入りのペンギンたち]高松 燈」を4回上限解放すると獲得",
       "_english": "Obtained by limit breaking \"Tomori Takamatsu [Favorite Penguins]\" 4 times.",
@@ -34031,6 +34967,38 @@
       "_traditionalChinese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」開放上限4次後獲得",
       "_simplifiedChinese": "「[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!」上限解锁4次后获得",
       "_korean": "「[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000057",
+      "_japanese": "「[きみが現れた]藤 都子」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Miyako Fuji [Then You Appeared]\" 4 times.",
+      "_traditionalChinese": "「[你的出現]藤都子」開放上限4次後獲得",
+      "_simplifiedChinese": "「[你出现了]藤都子」上限解锁4次后获得",
+      "_korean": "「[네가 나타났어] 후지 미야코」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000058",
+      "_japanese": "「[夕暮れの応援団]律&あられ&ユノ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Ritsu & Arale & Yuno [Sunset Cheer Squad]\" 4 times.",
+      "_traditionalChinese": "「[黃昏應援團]律&阿拉蕾&由乃」開放上限4次後獲得",
+      "_simplifiedChinese": "「[黄昏应援团]律&阿拉蕾&由乃」上限解锁4次后获得",
+      "_korean": "「[노을빛 응원단] 리츠&아라레&유노」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000059",
+      "_japanese": "「[ムリムリムリムリ]千石 ユノ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Yuno Sengoku [No No No No]\" 4 times.",
+      "_traditionalChinese": "「[不行不行不行不行]千石由乃」開放上限4次後獲得",
+      "_simplifiedChinese": "「[不行不行不行不行]千石由乃」上限解锁4次后获得",
+      "_korean": "「[무리무리무리무리] 센고쿠 유노」 4회 상한 해제 시 획득"
+    },
+    {
+      "_id": "Degree_Description_40000060",
+      "_japanese": "「[Band Anniversary 26]夢限大みゅーたいぷ」を4回上限解放すると獲得",
+      "_english": "Obtained by limit breaking \"Mugendai MewType [Band Anniversary 26]\" 4 times.",
+      "_traditionalChinese": "「[Band Anniversary 26]夢限大MewType」開放上限4次後獲得",
+      "_simplifiedChinese": "「[Band Anniversary 26]梦限大MewType」上限解锁4次后获得",
+      "_korean": "「[Band Anniversary 26] 무겐다이 뮤타입」 4회 상한 해제 시 획득"
     },
     {
       "_id": "Degree_Name_40000001",
@@ -34481,6 +35449,38 @@
       "_korean": "[스티커] [이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
     },
     {
+      "_id": "Degree_Name_40000057",
+      "_japanese": "[ステッカー][きみが現れた]藤 都子",
+      "_english": "[Sticker] Miyako Fuji [Then You Appeared]",
+      "_traditionalChinese": "[貼紙][你的出現]藤都子",
+      "_simplifiedChinese": "[贴纸][你出现了]藤都子",
+      "_korean": "[스티커] [네가 나타났어] 후지 미야코"
+    },
+    {
+      "_id": "Degree_Name_40000058",
+      "_japanese": "[ステッカー][夕暮れの応援団]律&あられ&ユノ",
+      "_english": "[Sticker] Ritsu & Arale & Yuno [Sunset Cheer Squad]",
+      "_traditionalChinese": "[貼紙][黃昏應援團]律&阿拉蕾&由乃",
+      "_simplifiedChinese": "[贴纸][黄昏应援团]律&阿拉蕾&由乃",
+      "_korean": "[스티커] [노을빛 응원단] 리츠&아라레&유노"
+    },
+    {
+      "_id": "Degree_Name_40000059",
+      "_japanese": "[ステッカー][ムリムリムリムリ]千石 ユノ",
+      "_english": "[Sticker] Yuno Sengoku [No No No No]",
+      "_traditionalChinese": "[貼紙][不行不行不行不行]千石由乃",
+      "_simplifiedChinese": "[贴纸][不行不行不行不行]千石由乃",
+      "_korean": "[스티커] [무리무리무리무리] 센고쿠 유노"
+    },
+    {
+      "_id": "Degree_Name_40000060",
+      "_japanese": "[ステッカー][Band Anniversary 26]夢限大みゅーたいぷ",
+      "_english": "[Sticker] Mugendai MewType [Band Anniversary 26]",
+      "_traditionalChinese": "[貼紙][Band Anniversary 26]夢限大MewType",
+      "_simplifiedChinese": "[贴纸][Band Anniversary 26]梦限大MewType",
+      "_korean": "[스티커] [Band Anniversary 26] 무겐다이 뮤타입"
+    },
+    {
       "_id": "Item_Source_Name_1",
       "_japanese": "タイトル",
       "_english": "Title",
@@ -34655,6 +35655,14 @@
       "_traditionalChinese": "月色之下流轉之舞",
       "_simplifiedChinese": "月下流转之舞",
       "_korean": "흐르는 달의 살타티오"
+    },
+    {
+      "_id": "Event_Name_0006",
+      "_japanese": "きみはまるくん",
+      "_english": "You're Maru-kun",
+      "_traditionalChinese": "你是丸君",
+      "_simplifiedChinese": "你是丸君",
+      "_korean": "너는 마루 군"
     },
     {
       "_id": "Exchange_Name_1",
@@ -34919,6 +35927,30 @@
       "_traditionalChinese": "光輝殿堂的不朽篇章轉蛋兌換所",
       "_simplifiedChinese": "光辉殿堂的不朽篇章招募交换所",
       "_korean": "빛 내리는 궁전의 에피소디움 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_35",
+      "_japanese": "きみはまるくん イベント交換所",
+      "_english": "You're Maru-kun Event Exchange Shop",
+      "_traditionalChinese": "你是丸君活動兌換所",
+      "_simplifiedChinese": "你是丸君 活动交换所",
+      "_korean": "너는 마루 군 이벤트 교환소"
+    },
+    {
+      "_id": "Exchange_Name_36",
+      "_japanese": "よい子のための新時代トレーニングガチャ交換所",
+      "_english": "New-Age Training for Good Kids Gacha Exchange Shop",
+      "_traditionalChinese": "專為好孩子打造的新時代Training轉蛋兌換所",
+      "_simplifiedChinese": "专为好孩子定制的新时代Training招募交换所",
+      "_korean": "착한 아이를 위한 새로운 시대의 트레이닝 뽑기 교환소"
+    },
+    {
+      "_id": "Exchange_Name_39",
+      "_japanese": "夢限大みゅーたいぷ バンド記念日 ピック交換所",
+      "_english": "Mugendai MewType Band Anniversary Pick Exchange Shop",
+      "_traditionalChinese": "夢限大MewType 樂團紀念日 撥片兌換所",
+      "_simplifiedChinese": "梦限大MewType 乐队纪念日 拨片交换所",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 피크 교환소"
     },
     {
       "_id": "exchange_title",
@@ -36265,6 +37297,14 @@
       "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
     },
     {
+      "_id": "Gacha_Description_24",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ",
+      "_english": "Gacha with R or Higher Members or Snapshots",
+      "_traditionalChinese": "可獲得R以上團員或是快照的轉蛋",
+      "_simplifiedChinese": "可获得R及以上成员或留影的招募",
+      "_korean": "R 이상 멤버 또는 스냅을 획득할 수 있는 뽑기"
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -36993,6 +38033,14 @@
       "_korean": "빛 내리는 궁전의 에피소디움 뽑기"
     },
     {
+      "_id": "Gacha_Name_24",
+      "_japanese": "よい子のための新時代トレーニングガチャ",
+      "_english": "New-Age Training for Good Kids Gacha",
+      "_traditionalChinese": "專為好孩子打造的新時代Training轉蛋",
+      "_simplifiedChinese": "专为好孩子定制的新时代Training招募",
+      "_korean": "착한 아이를 위한 새로운 시대의 트레이닝 뽑기"
+    },
+    {
       "_id": "gacha_rates_label_draw_one",
       "_japanese": "「1回引く」",
       "_english": "\"Pull 1 Time\"",
@@ -37202,19 +38250,19 @@
     },
     {
       "_id": "gacha_warning_limited_pickup_detail",
-      "_japanese": "※ピックアップ対象のパラメータやスキルはガチャページ内の詳細にてご確認ください",
-      "_english": "*Please check the details on the Gacha page for the Parameters and Skills of the Pickup content.",
-      "_traditionalChinese": "※Pick Up對象的能力值及技能，請於轉蛋頁面的詳情中確認。",
-      "_simplifiedChinese": "※Pick Up对象的能力值和技能请于招募页面的详情中确认。",
-      "_korean": "※픽업 대상의 능력치와 스킬은 뽑기 화면에서 확인해 주세요."
+      "_japanese": "※ピックアップ対象のパラメータやスキルはガチャのピックアップ詳細にてご確認ください",
+      "_english": "*For the Parameters and Skills of the Pickup content, please check the Gacha's Pickup details.",
+      "_traditionalChinese": "※Pick Up對象的能力值與技能，請在轉蛋頁面的Pick Up詳情中確認。",
+      "_simplifiedChinese": "※Pick Up对象的能力值和技能请于招募的Pick Up详情中确认",
+      "_korean": "※픽업 대상의 능력치나 스킬은 뽑기의 픽업 상세에서 확인해 주시기 바랍니다"
     },
     {
       "_id": "gacha_warning_limited_disappear",
-      "_japanese": "※「期間限定」のガチャ排出コンテンツは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます再登場の時期や提供割合については現在未定です",
+      "_japanese": "※「期間限定」のガチャ排出コンテンツは本ガチャ終了後出現しなくなりますが、今後再登場する場合がございます。再登場の時期や提供割合については現在未定です",
       "_english": "*\"Limited-Time\" content obtainable from this Gacha will no longer be available after this Gacha ends, but it may return in the future. The schedule and drop rates for its return are currently undetermined.",
-      "_traditionalChinese": "※「期間限定」的轉蛋抽取內容在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定。",
-      "_simplifiedChinese": "※标有「期间限定」的招募内容将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及提供概率。",
-      "_korean": "※「기간 한정」 뽑기 대상은 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다."
+      "_traditionalChinese": "※「期間限定」的轉蛋抽取內容在本次轉蛋期間結束後將不會再次出現，但未來仍有可能再次登場。再次登場的時間及出現機率目前尚未決定",
+      "_simplifiedChinese": "※标有「期间限定」的招募内容将在本招募结束后停止出现，但今后可能再次登场。目前尚未确定再次登场的时间及出现概率",
+      "_korean": "※「기간 한정」 뽑기 대상은 뽑기 종료 후 더 이상 등장하지 않지만 추후 재등장할 수 있습니다. 재등장 시기와 출현 확률에 대해서는 현재 미정입니다"
     },
     {
       "_id": "gacha_warning_comeback_hidden",
@@ -38498,83 +39546,83 @@
     },
     {
       "_id": "Gekisou_Support_Description_86",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_87",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_88",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_89",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_90",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_91",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_92",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_93",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_94",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_95",
-      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（<color=#66FF8C>{effects[0].limitCount}回</color>まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
-      "_english": "{0 < effects[0].time ? \"From the start of the COMBO GEKISO\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \" seconds\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO will not reset on MISS (up to <color=#66FF8C>{effects[0].limitCount} time(s)</color>)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nalso activates on BAD",
-      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
-      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多<color=#66FF8C>{effects[0].limitCount}次</color>）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
-      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다(<color=#66FF8C>{effects[0].limitCount}회</color>까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
+      "_japanese": "{0 < effects[0].time ? \"COMBO撃奏開始から\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒間\" : \"COMBO撃奏中\"}</color>\nMISSでも撃奏COMBOをリセットしない（{effects[0].limitCount}回まで）\n「{effects[1].con[0][0].targets[0].name}」メンバーの場合\nBADでも発動",
+      "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}<color=#66FF8C>{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}</color>\nGEKISO COMBO is not reset even on a MISS (up to {effects[0].limitCount} times)\nFor \"{effects[1].con[0][0].targets[0].name}\" Members,\nit also activates on a BAD.",
+      "_traditionalChinese": "{0 < effects[0].time ? \"自COMBO激奏開始\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒內\" : \"在COMBO激奏中\"}</color>\n即使發生MISS也不會重置激奏COMBO（最多{effects[0].limitCount}次）\n若為「{effects[1].con[0][0].targets[0].name}」團員，\nBAD判定也會發動",
+      "_simplifiedChinese": "{0 < effects[0].time ? \"COMBO激奏开始后\" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"秒内\" : \"COMBO激奏期间\"}</color>\n即使出现MISS也不会重置激奏COMBO（最多{effects[0].limitCount}次）\n若为「{effects[1].con[0][0].targets[0].name}」成员\n对BAD也生效",
+      "_korean": "{0 < effects[0].time ? \"COMBO 격주 시작부터 \" : \"\"}<color=#66FF8C>{0 < effects[0].time ? effects[0].time ~ \"초간\" : \"COMBO 격주 중\"}</color>\nMISS가 나와도 격주 COMBO를 리셋하지 않는다({effects[0].limitCount}회까지)\n「{effects[1].con[0][0].targets[0].name}」 멤버일 경우\nBAD가 나와도 발동"
     },
     {
       "_id": "Gekisou_Support_Description_96",
@@ -43033,9 +44081,41 @@
       "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
     },
     {
+      "_id": "Item_Description_1000000001",
+      "_japanese": "「T.G.W CARD」のランクで使用できるポイントです。受け取るとT.G.W CARD ptに変換されます。",
+      "_english": "Points used for T.G.W CARD ranks. Converted to T.G.W CARD pt upon receiving.",
+      "_traditionalChinese": "用於T.G.W CARD階級的點數。領取後會轉換為T.G.W CARD pt。",
+      "_simplifiedChinese": "用于T.G.W CARD等级的积分。领取后会转换为T.G.W CARD pt。",
+      "_korean": "T.G.W CARD 랭크에서 사용되는 포인트입니다. 수령하면 T.G.W CARD pt로 변환됩니다."
+    },
+    {
+      "_id": "Item_Description_3000001",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "An item used at the Event Exchange Shop.",
+      "_traditionalChinese": "在活動兌換所使用的道具",
+      "_simplifiedChinese": "在活动交换所中使用的道具",
+      "_korean": "이벤트 교환소에서 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Name_3000001",
+      "_japanese": "夢限大みゅーたいぷ バンド記念日ピック",
+      "_english": "Mugendai MewType Band Anniversary Pick",
+      "_traditionalChinese": "夢限大MewType 樂團紀念日撥片",
+      "_simplifiedChinese": "梦限大MewType 乐队纪念日拨片",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 피크"
+    },
+    {
+      "_id": "Item_Phonetic_Name_3000001",
+      "_japanese": "むげんだいみゅーたいぷ ばんどきねんびぴっく",
+      "_english": "Mugendai MewType Band Anniversary Pick",
+      "_traditionalChinese": "夢限大MewType 樂團紀念日撥片",
+      "_simplifiedChinese": "梦限大MewType 乐队纪念日拨片",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 피크"
+    },
+    {
       "_id": "Gacha_Ticket_Description_2000001",
       "_japanese": "イベント連動ガチャが引けるチケット\n※一部のガチャは対象外",
-      "_english": "A ticket used to draw from the Event Gacha.\n※Certain Gachas are excluded.",
+      "_english": "A ticket used to draw from the Event Gacha.\n*Some Gachas are not eligible.",
       "_traditionalChinese": "可抽取「活動合作轉蛋」的轉蛋券\n※部分轉蛋除外",
       "_simplifiedChinese": "可用于进行活动同期招募的招募券\n※部分招募除外",
       "_korean": "이벤트 연동 뽑기를 뽑을 수 있는 티켓\n※일부 뽑기는 제외됩니다."
@@ -43921,6 +45001,30 @@
       "_korean": "[무릎 꿇고, 충성을 맹세하라]돌로리스 각성에 사용하는 아이템"
     },
     {
+      "_id": "Item_Description_10000079",
+      "_japanese": "[みやこおねえさんとうたおう]藤 都子の覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Miyako Fuji \"Sing with Sister Miyako!\"",
+      "_traditionalChinese": "[和都子姐姐一起唱歌吧！]藤都子覺醒時使用的道具",
+      "_simplifiedChinese": "用于[和都子姐姐一起唱歌吧！]藤都子觉醒的道具",
+      "_korean": "[미야코 언니와 노래해요!]후지 미야코 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000080",
+      "_japanese": "[おしゃべりしたい子、集まれ～！]仲町 あられの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Arale Nakamachi \"Wanna Chat? Come On Over!\"",
+      "_traditionalChinese": "[想聊天的小朋友，集合囉～！]仲町阿拉蕾覺醒時使用的道具",
+      "_simplifiedChinese": "用于[想聊天的小朋友，集合啦～！]仲町阿拉蕾觉醒的道具",
+      "_korean": "[수다 떨고 싶은 사람, 다 모여~!]나카마치 아라레 각성에 사용하는 아이템"
+    },
+    {
+      "_id": "Item_Description_10000081",
+      "_japanese": "[ののちゃんのぴょんぴょん体操]宮永 ののかの覚醒に使用するアイテム",
+      "_english": "An item used to Awaken Nonoka Miyanaga \"Nono-chan's Bouncy Exercise\"",
+      "_traditionalChinese": "[小野乃的跳跳體操]宮永野乃花覺醒時使用的道具",
+      "_simplifiedChinese": "用于[小野乃的蹦蹦体操]宫永野乃花觉醒的道具",
+      "_korean": "[노노 짱의 깡총깡총 체조]미야나가 노노카 각성에 사용하는 아이템"
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "Member Piece (Tomori Takamatsu \"Right Here, Right Now\")",
@@ -44430,7 +45534,7 @@
       "_english": "Member Piece ([Happy Birthday 26-27] Miku Mahashi)",
       "_traditionalChinese": "團員星輝（[Happy Birthday 26-27]馬橋心玖）",
       "_simplifiedChinese": "成员星辉（[Happy Birthday 26-27]马桥心玖）",
-      "_korean": "멤버 조각([Happy Birthday 26-27] 마하시 미쿠)"
+      "_korean": "멤버 조각 ([Happy Birthday 26-27] 마하시 미쿠)"
     },
     {
       "_id": "Item_Name_10000065",
@@ -44543,6 +45647,30 @@
       "_traditionalChinese": "團員星輝（[屈膝，獻上忠誠]Doloris）",
       "_simplifiedChinese": "成员星辉（[单膝跪地，献上忠诚]Doloris）",
       "_korean": "멤버 조각 ([무릎 꿇고, 충성을 맹세하라] 돌로리스)"
+    },
+    {
+      "_id": "Item_Name_10000079",
+      "_japanese": "メンバーピース([みやこおねえさんとうたおう]藤 都子)",
+      "_english": "Member Piece (Miyako Fuji \"Sing with Sister Miyako!\")",
+      "_traditionalChinese": "團員星輝（[和都子姐姐一起唱歌吧！]藤都子）",
+      "_simplifiedChinese": "成员星辉（[和都子姐姐一起唱歌吧！]藤都子）",
+      "_korean": "멤버 조각 ([미야코 언니와 노래해요!] 후지 미야코)"
+    },
+    {
+      "_id": "Item_Name_10000080",
+      "_japanese": "メンバーピース([おしゃべりしたい子、集まれ～！]仲町 あられ)",
+      "_english": "Member Piece (Arale Nakamachi \"Wanna Chat? Come On Over!\")",
+      "_traditionalChinese": "團員星輝（[想聊天的小朋友，集合囉～！]仲町阿拉蕾）",
+      "_simplifiedChinese": "成员星辉（[想聊天的小朋友，集合啦～！]仲町阿拉蕾）",
+      "_korean": "멤버 조각 ([수다 떨고 싶은 사람, 다 모여~!] 나카마치 아라레)"
+    },
+    {
+      "_id": "Item_Name_10000081",
+      "_japanese": "メンバーピース([ののちゃんのぴょんぴょん体操]宮永 ののか)",
+      "_english": "Member Piece (Nonoka Miyanaga \"Nono-chan's Bouncy Exercise\")",
+      "_traditionalChinese": "團員星輝（[小野乃的跳跳體操]宮永野乃花）",
+      "_simplifiedChinese": "成员星辉（[小野乃的蹦蹦体操]宫永野乃花）",
+      "_korean": "멤버 조각 ([노노 짱의 깡총깡총 체조] 미야나가 노노카)"
     },
     {
       "_id": "Item_Phonetic_Name_10000001",
@@ -45169,6 +46297,30 @@
       "_korean": "멤버 조각 10000078"
     },
     {
+      "_id": "Item_Phonetic_Name_10000079",
+      "_japanese": "めんばーぴーす10000079",
+      "_english": "Member Piece 10000079",
+      "_traditionalChinese": "團員星輝10000079",
+      "_simplifiedChinese": "成员星辉10000079",
+      "_korean": "멤버 조각 10000079"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000080",
+      "_japanese": "めんばーぴーす10000080",
+      "_english": "Member Piece 10000080",
+      "_traditionalChinese": "團員星輝10000080",
+      "_simplifiedChinese": "成员星辉10000080",
+      "_korean": "멤버 조각 10000080"
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000081",
+      "_japanese": "めんばーぴーす10000081",
+      "_english": "Member Piece 10000081",
+      "_traditionalChinese": "團員星輝10000081",
+      "_simplifiedChinese": "成员星辉10000081",
+      "_korean": "멤버 조각 10000081"
+    },
+    {
       "_id": "Item_Name_1",
       "_japanese": "スター",
       "_english": "Star",
@@ -45695,6 +46847,14 @@
       "_traditionalChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
       "_simplifiedChinese": "[つなぎ目の向こうに - 神戸再景編 -]MyGO!!!!!",
       "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
+    },
+    {
+      "_id": "Item_Name_1000000001",
+      "_japanese": "T.G.W CARD pt",
+      "_english": "T.G.W CARD pt",
+      "_traditionalChinese": "T.G.W CARD pt",
+      "_simplifiedChinese": "T.G.W CARD pt",
+      "_korean": "T.G.W CARD pt"
     },
     {
       "_id": "Item_Phonetic_Name_1",
@@ -46225,6 +47385,14 @@
       "_korean": "[이음새 너머로 - 고베, 풍경 재발견 편 -] MyGO!!!!!"
     },
     {
+      "_id": "Item_Phonetic_Name_1000000001",
+      "_japanese": "T.G.W CARD pt",
+      "_english": "T.G.W CARD pt",
+      "_traditionalChinese": "T.G.W CARD pt",
+      "_simplifiedChinese": "T.G.W CARD pt",
+      "_korean": "T.G.W CARD pt"
+    },
+    {
       "_id": "Leader_Skill_Name_Description_1",
       "_japanese": "MyGO!!!!!メンバーの\n全パラメータを<color=#66FF8C>{effects[0].value/100:F1}%UP</color>",
       "_english": "MyGO!!!!! Member's\nall parameters <color=#66FF8C>+{effects[0].value/100:F1}%</color>",
@@ -46613,7 +47781,7 @@
       "_japanese": "MyGO!!!!!メンバーのパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにライブスキル【ライフ】のメンバーはパフォーマンス<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
       "_english": "MyGO!!!!! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with Life type LIVE Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
       "_traditionalChinese": "MyGO!!!!!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有演出技能【LIFE】團員的表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "MyGO!!!!!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>并且带有【生命值】演出技能的成员表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
+      "_simplifiedChinese": "MyGO!!!!!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【生命值】演出技能的成员表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
       "_korean": "MyGO!!!!! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 라이브 스킬 [라이프] 멤버는 퍼포먼스 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
     },
     {
@@ -46621,7 +47789,7 @@
       "_japanese": "MyGO!!!!!メンバーのビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにライブスキル【シンプル】のメンバーはビジュアル<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
       "_english": "MyGO!!!!! Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the visual of Member with Simple type LIVE Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
       "_traditionalChinese": "MyGO!!!!!團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有演出技能【SIMPLE】團員的形象值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "MyGO!!!!!成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>并且带有【简单】演出技能的成员形象值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
+      "_simplifiedChinese": "MyGO!!!!!成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【简单】演出技能的成员形象值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
       "_korean": "MyGO!!!!! 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 라이브 스킬 [심플] 멤버는 비주얼 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
     },
     {
@@ -46629,7 +47797,7 @@
       "_japanese": "Ave Mujicaメンバーのテクニック<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにライブスキル【シンプル】のメンバーはテクニック<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
       "_english": "Ave Mujica Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the technique of Member with Simple type LIVE Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
       "_traditionalChinese": "Ave Mujica團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有演出技能【SIMPLE】團員的技巧值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "Ave Mujica成员的技巧值提升<color=#66FF8C>{effects[0].value/100:F1}%</color>并且带有【简单】演出技能的成员技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
+      "_simplifiedChinese": "Ave Mujica成员的技巧值提升<color=#66FF8C>{effects[0].value/100:F1}%</color> 并且带有【简单】演出技能的成员技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
       "_korean": "Ave Mujica 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 라이브 스킬 [심플] 멤버는 테크닉 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
     },
     {
@@ -46637,63 +47805,63 @@
       "_japanese": "Ave Mujicaメンバーのテクニック<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにライブスキル【判定】のメンバーはテクニック<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
       "_english": "Ave Mujica Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the technique of Member with HIT type LIVE Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
       "_traditionalChinese": "Ave Mujica團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有演出技能【判定】團員的技巧值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "Ave Mujica成员的技巧值提升<color=#66FF8C>{effects[0].value/100:F1}%</color>并且带有【判定】演出技能的成员技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
+      "_simplifiedChinese": "Ave Mujica成员的技巧值提升<color=#66FF8C>{effects[0].value/100:F1}%</color> 并且带有【判定】演出技能的成员技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
       "_korean": "Ave Mujica 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 라이브 스킬 [판정] 멤버는 테크닉 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
     },
     {
       "_id": "Leader_Skill_Name_Description_53",
-      "_japanese": "紺碧のメンバーはパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに夢限大みゅーたいぷメンバーのパフォーマンス<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Azure Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Mugendai MewType Member's performance <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "紺碧團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且夢限大MewType團員的表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "绀碧成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且梦限大MewType成员的表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "블루 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 무겐다이 뮤타입 멤버의 퍼포먼스 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "紺碧のメンバーはパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに夢限大みゅーたいぷメンバーのパフォーマンス{effects[1].value/100:F1}%UP",
+      "_english": "Azure Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Mugendai MewType Member's performance +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "紺碧團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且夢限大MewType團員的表演值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "绀碧成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且梦限大MewType成员的表演值提升{effects[1].value/100:F1}%",
+      "_korean": "블루 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 무겐다이 뮤타입 멤버의 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_54",
-      "_japanese": "夢限大みゅーたいぷメンバーのビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【JUST】のメンバーはビジュアル<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Mugendai MewType Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the visual of Member with JUST type GEKISO Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "夢限大MewType團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【JUST】團員的形象值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "梦限大MewType成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>并且带有【JUST】激奏技能的成员形象值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "무겐다이 뮤타입 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [JUST] 멤버는 비주얼 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "夢限大みゅーたいぷメンバーのビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【JUST】のメンバーはビジュアル{effects[1].value/100:F1}%UP",
+      "_english": "Mugendai MewType Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Member with JUST type GEKISO Skill visual +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "夢限大MewType團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【JUST】團員的形象值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "梦限大MewType成员的形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【JUST】激奏技能的成员形象值提升{effects[1].value/100:F1}%",
+      "_korean": "무겐다이 뮤타입 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [JUST] 멤버는 비주얼 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_55",
-      "_japanese": "紅赤のメンバーはビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにmillsageメンバーのビジュアル<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Ruby Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and millsage Member's visual <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "緋紅團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且millsage團員的形象值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "绯红属性的成员形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且millsage成员的形象值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "레드 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 millsage 멤버의 비주얼 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "紅赤のメンバーはビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにmillsageメンバーのビジュアル{effects[1].value/100:F1}%UP",
+      "_english": "Ruby Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and millsage Member's visual +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "緋紅團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且millsage團員的形象值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "绯红属性的成员形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且millsage成员的形象值提升{effects[1].value/100:F1}%",
+      "_korean": "레드 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 millsage 멤버의 비주얼 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_56",
-      "_japanese": "millsageメンバーのテクニック<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【COMBO】のメンバーはテクニック<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "millsage Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the technique of Member with COMBO type GEKISO Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "millsage團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【COMBO】團員的技巧值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "millsage成员的技巧值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且带有【COMBO】激奏技能的成员技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "millsage 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [COMBO] 멤버는 테크닉 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "millsageメンバーのテクニック<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【COMBO】のメンバーはテクニック{effects[1].value/100:F1}%UP",
+      "_english": "millsage Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the technique of Member with COMBO type GEKISO Skill +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "millsage團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【COMBO】團員的技巧值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "millsage成员的技巧值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【COMBO】激奏技能的成员技巧值提升{effects[1].value/100:F1}%",
+      "_korean": "millsage 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [COMBO] 멤버는 테크닉 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_57",
-      "_japanese": "山吹のメンバーはテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに一家Dumb Rock!メンバーのテクニックが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Amber Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Ikka Dumb Rock! Member's technique <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "琉金團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且一家Dumb Rock!團員的技巧值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "琉金属性的成员技巧值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且一家Dumb Rock!成员的技巧值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "옐로우 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 일가 Dumb Rock! 멤버의 테크닉 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "山吹のメンバーはテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに一家Dumb Rock!メンバーのテクニックが{effects[1].value/100:F1}%UP",
+      "_english": "Amber Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Ikka Dumb Rock! Member's technique +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "琉金團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且一家Dumb Rock!團員的技巧值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "琉金属性的成员技巧值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且一家Dumb Rock!成员的技巧值提升{effects[1].value/100:F1}%",
+      "_korean": "옐로우 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 일가 Dumb Rock! 멤버의 테크닉 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_58",
-      "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with LUCK type GEKISO Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【LUCK】團員的表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且带有【LUCK】激奏技能的成员表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [LUCK] 멤버는 퍼포먼스 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
+      "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with LUCK type GEKISO Skill +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【LUCK】團員的表演值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【LUCK】激奏技能的成员表演值提升{effects[1].value/100:F1}%",
+      "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [LUCK] 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_59",
       "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紫苑のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "Ikka Dumb Rock! Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Violet's Member +{effects[1].value/100:F1}%",
       "_traditionalChinese": "一家Dumb Rock!團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紫苑的團員表演值{effects[1].value/100:F1}%UP",
-      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，且紫苑的成员表演值提升{effects[1].value/100:F1}%",
+      "_simplifiedChinese": "一家Dumb Rock!成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且紫苑的成员表演值提升{effects[1].value/100:F1}%",
       "_korean": "일가 Dumb Rock! 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 추가로 퍼플 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
@@ -46701,7 +47869,7 @@
       "_japanese": "millsageメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紺碧のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "millsage Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Azure Members +{effects[1].value/100:F1}%",
       "_traditionalChinese": "millsage團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且紺碧團員的表演值{effects[1].value/100:F1}%UP",
-      "_simplifiedChinese": "millsage成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且绀碧成员表演值提升{effects[1].value/100:F1}%",
+      "_simplifiedChinese": "millsage成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且绀碧成员表演值提升{effects[1].value/100:F1}%",
       "_korean": "millsage 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 블루 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
     },
     {
@@ -46722,27 +47890,43 @@
     },
     {
       "_id": "Leader_Skill_Name_Description_63",
-      "_japanese": "夢限大みゅーたいぷメンバーのテクニックが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに山吹のメンバーはテクニックが{effects[1].value/100:F1}%UP",
-      "_english": "Mugendai MewType Members’ Technique <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>. In addition, Amber-type Members’ Technique increases by {effects[1].value/100:F1}%.",
-      "_traditionalChinese": "夢限大MewType團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金團員的技巧值再提升{effects[1].value/100:F1}%",
-      "_simplifiedChinese": "梦限大MewType成员的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金成员的技巧值再提升{effects[1].value/100:F1}%",
-      "_korean": "무겐다이 뮤타입 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 또한 옐로우 멤버는 테크닉 {effects[1].value/100:F1}% 추가 UP"
+      "_japanese": "夢限大みゅーたいぷメンバーのテクニック<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに山吹のメンバーはテクニック{effects[1].value/100:F1}%UP",
+      "_english": "Mugendai MewType Member's technique <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Amber Member's technique +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "夢限大MewType團員的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且琉金團員的技巧值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "梦限大MewType成员的技巧值<color=#66FF8C>{effects[0].value/100:F1}%UP</color> 并且琉金成员的技巧值再提升{effects[1].value/100:F1}%",
+      "_korean": "무겐다이 뮤타입 멤버의 테크닉 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 옐로우 멤버는 테크닉 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_64",
-      "_japanese": "紫苑のメンバーはビジュアルが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにAve Mujicaメンバーのビジュアルが{effects[1].value/100:F1}%UP",
+      "_japanese": "紫苑のメンバーはビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにAve Mujicaメンバーのビジュアル{effects[1].value/100:F1}%UP",
       "_english": "Violet Member's visual <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and Ave Mujica Member's visual +{effects[1].value/100:F1}%",
       "_traditionalChinese": "紫苑團員的形象值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且Ave Mujica團員的形象值{effects[1].value/100:F1}%UP",
-      "_simplifiedChinese": "紫苑属性的成员形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且Ave Mujica成员的形象值提升{effects[1].value/100:F1}%",
+      "_simplifiedChinese": "紫苑属性的成员形象值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且Ave Mujica成员的形象值提升{effects[1].value/100:F1}%",
       "_korean": "퍼플 멤버의 비주얼 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 Ave Mujica 멤버의 비주얼 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_65",
-      "_japanese": "Ave Mujicaメンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_english": "Ave Mujica Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with LUCK type GEKISO Skill <color=#66FF8C>+{effects[1].value/100:F1}%</color>",
-      "_traditionalChinese": "Ave Mujica團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【LUCK】團員的表演值<color=#66FF8C>{effects[1].value/100:F1}%UP</color>",
-      "_simplifiedChinese": "Ave Mujica成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，并且带有【LUCK】激奏技能的成员表演值<color=#66FF8C>提升{effects[1].value/100:F1}%</color>",
-      "_korean": "Ave Mujica 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [LUCK] 멤버는 퍼포먼스 <color=#66FF8C>{effects[1].value/100:F1}% UP</color>"
+      "_japanese": "Ave Mujicaメンバーのパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【LUCK】のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
+      "_english": "Ave Mujica Member's performance <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and the performance of Member with LUCK type GEKISO Skill +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "Ave Mujica團員的表演值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有激奏技能【LUCK】團員的表演值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "Ave Mujica成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且带有【LUCK】激奏技能的成员表演值提升{effects[1].value/100:F1}%",
+      "_korean": "Ave Mujica 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 격주 스킬 [LUCK] 멤버는 퍼포먼스 {effects[1].value/100:F1}% UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_67",
+      "_japanese": "山吹のメンバーはパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに夢限大みゅーたいぷメンバーのパフォーマンス{effects[1].value/100:F1}%UP",
+      "_english": "Amber Type Members' Performance <color=#66FF8C>increases by {effects[0].value/100:F1}%</color>. Mugendai MewType Members' Performance also increases by {effects[1].value/100:F1}%.",
+      "_traditionalChinese": "琉金屬性團員的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，此外夢限大MewType團員的表演值提升{effects[1].value/100:F1}%。",
+      "_simplifiedChinese": "琉金属性成员的表演值<color=#66FF8C>提升{effects[0].value/100:F1}%</color>，此外梦限大MewType成员的表演值提升{effects[1].value/100:F1}%。",
+      "_korean": "옐로우 타입 멤버의 퍼포먼스 <color=#66FF8C>{effects[0].value/100:F1}%UP</color>, 추가로 무겐다이 뮤타입 멤버의 퍼포먼스 {effects[1].value/100:F1}%UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_68",
+      "_japanese": "夢限大みゅーたいぷメンバーの全パラメータ<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらにCOMBO系撃奏スキルメンバーは全パラメータ{effects[1].value/100:F1}%UP",
+      "_english": "Mugendai MewType Member's all parameters <color=#66FF8C>+{effects[0].value/100:F1}%</color>, and COMBO type GEKISO Skill Member all parameters +{effects[1].value/100:F1}%",
+      "_traditionalChinese": "夢限大MewType團員的所有能力值<color=#66FF8C>{effects[0].value/100:F1}%UP</color>，且持有COMBO類激奏技能團員的所有能力值{effects[1].value/100:F1}%UP",
+      "_simplifiedChinese": "梦限大MewType成员的全部能力值<color=#66FF8C>提升{effects[0].value/100:F1}%</color> 并且COMBO类型激奏技能成员的全部能力值提升{effects[1].value/100:F1}%",
+      "_korean": "무겐다이 뮤타입 멤버의 전체 능력치 <color=#66FF8C>{effects[0].value/100:F1}% UP</color>, 추가로 COMBO 계열 격주 스킬 멤버는 전체 능력치 {effects[1].value/100:F1}% UP"
     },
     {
       "_id": "Leader_Skill_Name_Description_90001",
@@ -48559,6 +49743,22 @@
       "_traditionalChinese": "Ave Mujica＆激奏技能【LUCK】表演值UP",
       "_simplifiedChinese": "Ave Mujica&激奏技能【LUCK】表演值UP",
       "_korean": "Ave Mujica & 격주 스킬 [LUCK] 퍼포먼스 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_67",
+      "_japanese": "夢限大みゅーたいぷ&山吹パフォーマンスUP",
+      "_english": "Mugendai MewType & Amber Performance UP",
+      "_traditionalChinese": "夢限大MewType＆琉金表演值UP",
+      "_simplifiedChinese": "梦限大MewType&琉金表演值UP",
+      "_korean": "무겐다이 뮤타입 & 옐로우 퍼포먼스 UP"
+    },
+    {
+      "_id": "Leader_Skill_Name_68",
+      "_japanese": "夢限大みゅーたいぷ&撃奏スキル【COMBO】&全パラメータUP",
+      "_english": "Mugendai MewType & COMBO Type GEKISO Skill & All Parameters UP",
+      "_traditionalChinese": "夢限大MewType＆激奏技能【COMBO】＆所有能力值UP",
+      "_simplifiedChinese": "梦限大MewType&激奏技能【COMBO】&全部能力值UP",
+      "_korean": "무겐다이 뮤타입 & 격주 스킬 [COMBO] 전체 능력치 UP"
     },
     {
       "_id": "Leader_Skill_Name_90001",
@@ -56385,6 +57585,14 @@
       "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 특별 로그인 보상"
     },
     {
+      "_id": "LoginBonus_Name_13",
+      "_japanese": "夢限大みゅーたいぷ バンド記念日 特別ログインボーナス",
+      "_english": "Mugendai MewType Band Anniversary Special Login Bonus",
+      "_traditionalChinese": "夢限大MewType 樂團紀念日 特別登入獎勵",
+      "_simplifiedChinese": "梦限大MewType 乐队纪念日 特别登录奖励",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 특별 로그인 보상"
+    },
+    {
       "_id": "LoginBonus_Name_1000000001",
       "_japanese": "\"Abracadabra\" Release Celebration Login Bonus!",
       "_english": "\"Abracadabra\" Release Celebration Login Bonus!",
@@ -57066,11 +58274,11 @@
     },
     {
       "_id": "Lyricist_Name_100107",
-      "_japanese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_english": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_traditionalChinese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_simplifiedChinese": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke",
-      "_korean": "Lady Gaga,Andrew Watt,Henry Russell Walter,Susan Ballion,Steven Severin,John McGeoch,Peter Edward Clarke"
+      "_japanese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_english": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_traditionalChinese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_simplifiedChinese": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke",
+      "_korean": "Lady Gaga, Andrew Watt, Henry Russell Walter, Susan Ballion, Steven Severin, John McGeoch, Peter Edward Clarke"
     },
     {
       "_id": "Lyricist_Name_100108",
@@ -57151,6 +58359,14 @@
       "_traditionalChinese": "ピノキオピー",
       "_simplifiedChinese": "ピノキオピー",
       "_korean": "PinocchioP"
+    },
+    {
+      "_id": "Lyricist_Name_100117",
+      "_japanese": "q*Left",
+      "_english": "q*Left",
+      "_traditionalChinese": "q*Left",
+      "_simplifiedChinese": "q*Left",
+      "_korean": "q*Left"
     },
     {
       "_id": "Lyricist_Name_100201",
@@ -57343,6 +58559,22 @@
       "_traditionalChinese": "瞧你這表情……輸得真徹底呢。",
       "_simplifiedChinese": "瞧你这表情……输得真彻底呢。",
       "_korean": "그런 표정까지 짓다니...... 내가 완전히 이겼네?"
+    },
+    {
+      "_id": "MemberGachaVoice_79",
+      "_japanese": "まるくん体操、第１〜〜〜！",
+      "_english": "Maru-kun Exercise, Part One!",
+      "_traditionalChinese": "丸君體操，第一～～～！",
+      "_simplifiedChinese": "丸君体操，第一套～～～！",
+      "_korean": "마루 군 체조, 제1~~~!"
+    },
+    {
+      "_id": "MemberGachaVoice_80",
+      "_japanese": "よい子のみんなも、一緒に歌ってね〜っ！",
+      "_english": "All you good kids, sing along with me!",
+      "_traditionalChinese": "好孩子們，要跟我一起唱哦～！",
+      "_simplifiedChinese": "好孩子们，要跟我一起唱哦～！",
+      "_korean": "착한 어린이 친구들도 함께 노래해 줘~!"
     },
     {
       "_id": "MemberSubtitle_1",
@@ -57967,6 +59199,30 @@
       "_traditionalChinese": "屈膝，獻上忠誠",
       "_simplifiedChinese": "单膝跪地，献上忠诚",
       "_korean": "무릎 꿇고, 충성을 맹세하라"
+    },
+    {
+      "_id": "MemberSubtitle_79",
+      "_japanese": "みやこおねえさんとうたおう",
+      "_english": "Sing with Sister Miyako!",
+      "_traditionalChinese": "和都子姐姐一起唱歌吧！",
+      "_simplifiedChinese": "和都子姐姐一起唱歌吧！",
+      "_korean": "미야코 언니와 노래해요!"
+    },
+    {
+      "_id": "MemberSubtitle_80",
+      "_japanese": "おしゃべりしたい子、集まれ～！",
+      "_english": "Wanna Chat? Come On Over!",
+      "_traditionalChinese": "想聊天的小朋友，集合囉～！",
+      "_simplifiedChinese": "想聊天的小朋友，集合啦～！",
+      "_korean": "수다 떨고 싶은 사람, 다 모여~!"
+    },
+    {
+      "_id": "MemberSubtitle_81",
+      "_japanese": "ののちゃんのぴょんぴょん体操",
+      "_english": "Nono-chan's Bouncy Exercise",
+      "_traditionalChinese": "小野乃的跳跳體操",
+      "_simplifiedChinese": "小野乃的蹦蹦体操",
+      "_korean": "노노 짱의 깡총깡총 체조"
     },
     {
       "_id": "Mission_Description_Login1",
@@ -59067,7 +60323,7 @@
     {
       "_id": "Mission_Description_BattleLiveClear",
       "_japanese": "みんなでライブを{AchievementCount}回クリアしよう\n※LIFE1以上でライブを終えるとクリア",
-      "_english": "Clear Multi LIVE {AchievementCount} times\n※Finish with at least 1 LIFE to count as a clear.",
+      "_english": "Clear Multi LIVE {AchievementCount} times\n*Finish with at least 1 LIFE to count as a clear.",
       "_traditionalChinese": "通關多人演出{AchievementCount}次\n※在LIFE1以上的狀態完成演出即可通關",
       "_simplifiedChinese": "通关多人演出{AchievementCount}次\n※结束演出时LIFE为1及以上，即视为通关",
       "_korean": "멀티 플레이에서 {AchievementCount}회 클리어하기\n※LIFE 1 이상으로 라이브 완료 시 클리어"
@@ -59155,7 +60411,7 @@
     {
       "_id": "Mission_Description_MemberCardUniqueCollect",
       "_japanese": "「{MemberCardId.SubTitle} {MemberCardId}」のメンバーを獲得しよう",
-      "_english": "Obtain the member “{MemberCardId.SubTitle} {MemberCardId}”",
+      "_english": "Obtain the member \"{MemberCardId.SubTitle} {MemberCardId}\"",
       "_traditionalChinese": "獲得「{MemberCardId.SubTitle} {MemberCardId}」團員",
       "_simplifiedChinese": "获得「{MemberCardId.SubTitle} {MemberCardId}」成员",
       "_korean": "「{MemberCardId.SubTitle} {MemberCardId}」 멤버 획득하기"
@@ -59163,7 +60419,7 @@
     {
       "_id": "Mission_Description_SupportCardUniqueCollect",
       "_japanese": "「{SupportCardId.SubTitle} {SupportCardId}」のスナップを獲得しよう",
-      "_english": "Obtain the Snapshot “{SupportCardId.SubTitle} {SupportCardId}”",
+      "_english": "Obtain the Snapshot \"{SupportCardId.SubTitle} {SupportCardId}\"",
       "_traditionalChinese": "獲得「{SupportCardId.SubTitle} {SupportCardId}」快照",
       "_simplifiedChinese": "获得「{SupportCardId.SubTitle} {SupportCardId}」留影",
       "_korean": "「{SupportCardId.SubTitle} {SupportCardId}」 스냅 획득하기"
@@ -59195,7 +60451,7 @@
     {
       "_id": "Mission_Description_MemberCardUniqueRank",
       "_japanese": "「{MemberCardId.SubTitle} {MemberCardId}」の覚醒段階を{AchievementCount}にしよう",
-      "_english": "Raise the Awakening stage of “{MemberCardId.SubTitle} {MemberCardId}” to {AchievementCount}",
+      "_english": "Raise the Awakening stage of \"{MemberCardId.SubTitle} {MemberCardId}\" to {AchievementCount}",
       "_traditionalChinese": "將「{MemberCardId.SubTitle} {MemberCardId}」團員的覺醒階段提升至{AchievementCount}",
       "_simplifiedChinese": "将「{MemberCardId.SubTitle} {MemberCardId}」成员的觉醒阶段提升至{AchievementCount}",
       "_korean": "「{MemberCardId.SubTitle} {MemberCardId}」의 각성 단계 {AchievementCount} 달성하기"
@@ -59211,7 +60467,7 @@
     {
       "_id": "Mission_Description_SupportCardUniqueRank",
       "_japanese": "「{SupportCardId.SubTitle} {SupportCardId}」の上限解放段階を{AchievementCount}にしよう",
-      "_english": "Raise the Limit Break stage of “{SupportCardId.SubTitle} {SupportCardId}” to {AchievementCount}",
+      "_english": "Raise the Limit Break stage of \"{SupportCardId.SubTitle} {SupportCardId}\" to {AchievementCount}",
       "_traditionalChinese": "將「{SupportCardId.SubTitle} {SupportCardId}」快照開放上限提升至{AchievementCount}",
       "_simplifiedChinese": "将「{SupportCardId.SubTitle} {SupportCardId}」留影的上限解放阶段提升至{AchievementCount}",
       "_korean": "「{SupportCardId.SubTitle} {SupportCardId}」의 상한 해제 단계 {AchievementCount} 달성하기"
@@ -60441,6 +61697,14 @@
       "_korean": "논브레스 오블리주"
     },
     {
+      "_id": "Music_Tilte_100117",
+      "_japanese": "KEEP ON",
+      "_english": "KEEP ON",
+      "_traditionalChinese": "KEEP ON",
+      "_simplifiedChinese": "KEEP ON",
+      "_korean": "KEEP ON"
+    },
+    {
       "_id": "Music_Tilte_100201",
       "_japanese": "世点彩",
       "_english": "Sepia",
@@ -61257,12 +62521,20 @@
       "_korean": "논브레스 오블리주"
     },
     {
+      "_id": "Music_Phonetic_Tilte_100117",
+      "_japanese": "きーぷおん",
+      "_english": "KEEP ON",
+      "_traditionalChinese": "きーぷおん",
+      "_simplifiedChinese": "KEEP ON",
+      "_korean": "KEEP ON"
+    },
+    {
       "_id": "Music_Phonetic_Tilte_100201",
       "_japanese": "せぴあ",
-      "_english": "せぴあ",
+      "_english": "Sepia",
       "_traditionalChinese": "せぴあ",
       "_simplifiedChinese": "せぴあ",
-      "_korean": "世点彩"
+      "_korean": "세피아"
     },
     {
       "_id": "Music_Ruby_Tilte_100001",
@@ -61355,7 +62627,7 @@
     {
       "_id": "Music_Ruby_Tilte_100012",
       "_japanese": "<r=スピード>歩拾道</r>",
-      "_english": "<r=なもなき>Speed</r>",
+      "_english": "<r=スピード>Speed</r>",
       "_traditionalChinese": "<r=スピード>步拾道</r>",
       "_simplifiedChinese": "<r=スピード>步拾道</r>",
       "_korean": "<r=스피드>스피드</r>"
@@ -61363,7 +62635,7 @@
     {
       "_id": "Music_Ruby_Tilte_100013",
       "_japanese": "<r=パノラマ>端程山</r>",
-      "_english": "<r=なもなき>Panorama</r>",
+      "_english": "<r=パノラマ>Panorama</r>",
       "_traditionalChinese": "<r=パノラマ>端程山</r>",
       "_simplifiedChinese": "<r=パノラマ>端程山</r>",
       "_korean": "<r=파노라마>파노라마</r>"
@@ -61371,7 +62643,7 @@
     {
       "_id": "Music_Ruby_Tilte_100014",
       "_japanese": "<r=さすらい>砂寸奏</r>",
-      "_english": "<r=なもなき>Sasurai</r>",
+      "_english": "<r=さすらい>Sasurai</r>",
       "_traditionalChinese": "<r=さすらい>砂寸奏</r>",
       "_simplifiedChinese": "<r=さすらい>砂寸奏</r>",
       "_korean": "<r=방랑>방랑</r>"
@@ -62025,12 +63297,20 @@
       "_korean": "논브레스 오블리주"
     },
     {
+      "_id": "Music_Ruby_Tilte_100117",
+      "_japanese": "KEEP ON",
+      "_english": "KEEP ON",
+      "_traditionalChinese": "KEEP ON",
+      "_simplifiedChinese": "KEEP ON",
+      "_korean": "KEEP ON"
+    },
+    {
       "_id": "Music_Ruby_Tilte_100201",
       "_japanese": "<r=セピア>世点彩</r>",
-      "_english": "<r=Sepia>世点彩</r>",
+      "_english": "<r=セピア>Sepia</r>",
       "_traditionalChinese": "<r=セピア>世點彩</r>",
       "_simplifiedChinese": "<r=セピア>世点彩</r>",
-      "_korean": "<r=世点彩>世点彩</r>"
+      "_korean": "<r=세피아>세피아</r>"
     },
     {
       "_id": "Option_Preset_Default_Name_1",
@@ -62139,7 +63419,7 @@
     {
       "_id": "present_claim_all_confirm_message",
       "_japanese": "プレゼントをまとめて受け取りますか？\n<color=#FF4D4D>※最大100件まで受け取ります。</color>",
-      "_english": "Would you like to claim all gifts at once?\n<color=#FF4D4D>※You can claim up to 100 at a time.</color>",
+      "_english": "Would you like to claim all gifts at once?\n<color=#FF4D4D>*You can claim up to 100 gifts.</color>",
       "_traditionalChinese": "確定要一併領取禮物嗎？\n<color=#FF4D4D>※最多可同時領取100件。</color>",
       "_simplifiedChinese": "是否一键领取礼物？\n<color=#FF4D4D>※最多可领取100件。</color>",
       "_korean": "선물을 일괄로 수령하시겠습니까?\n<color=#FF4D4D>※최대 100건까지 수령합니다.</color>"
@@ -63041,6 +64321,14 @@
       "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 미션 패스가 해제됩니다."
     },
     {
+      "_id": "Season_Pass_Description_Season_Pass_Name_11",
+      "_japanese": "きみはまるくんプレミアムミッションパスが解放されます。",
+      "_english": "You're Maru-kun Premium Mission Pass will be unlocked.",
+      "_traditionalChinese": "開放你是丸君 Premium任務通行證。",
+      "_simplifiedChinese": "解锁你是丸君高级任务通行证。",
+      "_korean": "너는 마루 군 프리미엄 미션 패스가 해제됩니다."
+    },
+    {
       "_id": "ui_season_pass_1_mission_daily_login_1_description",
       "_japanese": "ログインしよう",
       "_english": "Log in",
@@ -63431,6 +64719,14 @@
       "_traditionalChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念 任務通行證",
       "_simplifiedChinese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念 任务通行证",
       "_korean": "MyGO!!!!! 9th LIVE 「이음새 너머로」- 고베, 풍경 재발견 편 - 개최 기념 미션 패스"
+    },
+    {
+      "_id": "Season_Pass_Name_11",
+      "_japanese": "きみはまるくんミッションパス",
+      "_english": "You're Maru-kun Mission Pass",
+      "_traditionalChinese": "你是丸君任務通行證",
+      "_simplifiedChinese": "你是丸君任务通行证",
+      "_korean": "너는 마루 군 미션 패스"
     },
     {
       "_id": "ui_selectserver_title",
@@ -64041,6 +65337,30 @@
       "_korean": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -개최 기념 프리미엄 미션 패스"
     },
     {
+      "_id": "Shop_Name_1000000149",
+      "_japanese": "",
+      "_english": "You're Maru-kun Premium Mission Pass",
+      "_traditionalChinese": "你是丸君 Premium任務通行證",
+      "_simplifiedChinese": "你是丸君 高级任务通行证",
+      "_korean": "너는 마루 군 프리미엄 미션 패스"
+    },
+    {
+      "_id": "Shop_Name_1000000150",
+      "_japanese": "",
+      "_english": "Mugendai MewType Chat Room Theme Pack",
+      "_traditionalChinese": "夢限大MewType 聊天室主題禮包",
+      "_simplifiedChinese": "梦限大MewType 聊天室主题礼包",
+      "_korean": "무겐다이 뮤타입 채팅방 테마 패키지"
+    },
+    {
+      "_id": "Shop_Name_1000000152",
+      "_japanese": "",
+      "_english": "Mugendai MewType Band Anniversary Pack",
+      "_traditionalChinese": "夢限大MewType 樂團紀念日禮包",
+      "_simplifiedChinese": "梦限大MewType 乐队纪念日礼包",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 패키지"
+    },
+    {
       "_id": "Shop_Name_1100000001",
       "_japanese": "",
       "_english": "Star×120 [MyCard]",
@@ -64527,6 +65847,14 @@
       "_traditionalChinese": "可購買MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -舉辦紀念任務通行證與付費星鑽760個。",
       "_simplifiedChinese": "可购买MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -举办纪念任务通行证与付费星钻760个。",
       "_korean": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -개최 기념 미션 패스와 유료 스타 760개를 구매할 수 있습니다."
+    },
+    {
+      "_id": "Shop_Description_1000000138",
+      "_japanese": "",
+      "_english": "Includes Mugendai MewType Band Anniversary Picks and Mugendai MewType Prisms.",
+      "_traditionalChinese": "可購買夢限大MewType樂團紀念日撥片與夢限大MewType稜晶。",
+      "_simplifiedChinese": "可购买梦限大MewType乐队纪念日拨片与梦限大MewType棱晶。",
+      "_korean": "무겐다이 뮤타입 밴드 기념일 피크와 무겐다이 뮤타입 젬을 구매할 수 있습니다."
     },
     {
       "_id": "Shop_Description_1100000001",
@@ -67009,6 +68337,14 @@
       "_korean": "흐르는 달의 살타티오 보상 스탬프"
     },
     {
+      "_id": "Stamp_Name_80",
+      "_japanese": "きみはまるくん 報酬スタンプ",
+      "_english": "You're Maru-kun reward stamp",
+      "_traditionalChinese": "你是丸君 報酬貼圖",
+      "_simplifiedChinese": "你是丸君 奖励表情",
+      "_korean": "너는 마루 군 보상 스탬프"
+    },
+    {
       "_id": "Stamp_Name_81",
       "_japanese": "ABRACADABRA",
       "_english": "ABRACADABRA",
@@ -67149,7 +68485,7 @@
       "_japanese": "CRYCHIC解散後、祥子は過酷な運命に抗うように、\n新しく『Ave Mujica』を結成。史上最速で武道館公演を果たすが、\n彼女たちの歯車は大きく狂い始める――",
       "_english": "After CRYCHIC disbanded, as if resisting her harsh fate, Sakiko formed a new band called \"Ave Mujica.\" The girls achieved the fastest Budokan performance in history, but the gears of their fate started to go seriously off track...",
       "_traditionalChinese": "CRYCHIC解散後，祥子為了對抗殘酷的命運，\n組成了新樂團「Ave Mujica」。\n儘管以史上最快的速度登上武道館舞台，\n她們的齒輪卻開始出現巨大的偏差──",
-      "_simplifiedChinese": "CRYCHIC解散后，祥子仿佛要反抗残酷的命运一般，\n重新组建了『Ave Mujica』。她们以史上最快的速度登上了武道馆的舞台，但她们的齿轮却开始发生巨大的错位——",
+      "_simplifiedChinese": "CRYCHIC解散后，祥子仿佛要反抗残酷的命运一般，\n重新组建了『Ave Mujica』。她们以史上最快的速度登上了武道馆的舞台，\n但她们的齿轮却开始发生巨大的错位——",
       "_korean": "CRYCHIC 해체 후, 사키코는 가혹한 운명에 발버둥 치듯\n새롭게 「Ave Mujica」를 결성한다.\n역대 최단기간에 무도관 공연을 이뤄내지만,\n그녀들의 톱니바퀴는 걷잡을 수 없이 어긋나기 시작하는데......"
     },
     {
@@ -67207,6 +68543,14 @@
       "_traditionalChinese": "Ave Mujica再次出道後，祥子開始構思下一場假面舞會。\n她所編織的，是一段關於森林古堡公主的故事。\n然而公主的面貌，在每個人的眼中似乎都截然不同……\t\t",
       "_simplifiedChinese": "Ave Mujica重新出道后，祥子正构思着下一场假面舞会。\n在那里上演的，是一段围绕森林古堡中的公主所展开的故事。\n而公主的面孔，在每个人眼中都截然不同…………\t\t",
       "_korean": "Ave Mujica 재데뷔 후, 다음 매스커레이드의 구상을 다듬는 사키코.\n그 무대에서 엮어내는 것은 숲속 고성의 공주를 둘러싼 이야기.\n그녀의 얼굴은 보는 이에 따라 저마다 달랐는데......\t\t"
+    },
+    {
+      "_id": "Story_Chapter_Description_10",
+      "_japanese": "迫る全国ツアーに備え、強化合宿を行うゆめみた。\n大部屋、カレー、大自然の中で育まれる青春の絆――に、\n思わずトラウマがフラッシュバックする都子。\t\t",
+      "_english": "To prepare for their fast-approaching nationwide tour, YMMT holds a training camp.\nThe youthful bonds forged in a shared room, over curry, and amid the great outdoors—\npromptly trigger a traumatic flashback for Miyako.\t\t",
+      "_traditionalChinese": "為了迎接即將到來的全國巡演，夢限大舉辦了集訓。\n大房間、咖哩飯、在大自然中培育出的青春羈絆──\n面對這一切，都子的心靈創傷卻不禁歷歷在目。\t\t",
+      "_simplifiedChinese": "为备战即将到来的全国巡演，梦限大开展了强化集训。\n集体宿舍、咖喱，还有在大自然中孕育的青春情谊——\n面对这一切，都子的心理阴影却不由自主地闪回浮现。\t\t",
+      "_korean": "전국 투어를 앞두고 강화 합숙을 떠난 유메미타.\n한 방에서 카레도 만들고 대자연 속에서 유대를 쌓아가던 중......\n불현듯 과거의 트라우마가 되살아나는 미야코.\t\t"
     },
     {
       "_id": "Story_Chapter_Description_33",
@@ -67287,6 +68631,14 @@
       "_traditionalChinese": "月色之下流轉之舞",
       "_simplifiedChinese": "月下流转之舞",
       "_korean": "흐르는 달의 살타티오"
+    },
+    {
+      "_id": "Story_Chapter_Name_10",
+      "_japanese": "きみはまるくん",
+      "_english": "You're Maru-kun",
+      "_traditionalChinese": "你是丸君",
+      "_simplifiedChinese": "你是丸君",
+      "_korean": "너는 마루 군"
     },
     {
       "_id": "Story_Chapter_Name_33",
@@ -68333,7 +69685,7 @@
       "_japanese": "ばーちゃんには敵わないや",
       "_english": "I'm no match for you, Granny.",
       "_traditionalChinese": "我果然拿奶奶沒轍呢。",
-      "_simplifiedChinese": "什么都瞒不过奶奶啊",
+      "_simplifiedChinese": "什么都瞒不过外婆啊",
       "_korean": "역시 할머니한텐 안 되겠다니까"
     },
     {
@@ -68655,6 +70007,78 @@
       "_traditionalChinese": "……正因為我們正一步步挽回外界的評價，所以現在……",
       "_simplifiedChinese": "……正因为已经在稳步挽回评价，现在才更要——",
       "_korean": "......차근차근 평판을 되찾아 가고 있는 만큼, 더더욱 지금은......"
+    },
+    {
+      "_id": "Story_Episode_Description_1001",
+      "_japanese": "（引っかかる……大いに引っかかる……）",
+      "_english": "(Something bothers me... it bothers me a lot...)",
+      "_traditionalChinese": "（但是有件事讓我好在意……非常在意……）",
+      "_simplifiedChinese": "（总觉得哪里不对劲……非常不对劲……）",
+      "_korean": "(찝찝해...... 엄청나게 찝찝하단 말이야......)"
+    },
+    {
+      "_id": "Story_Episode_Description_1002",
+      "_japanese": "（どうして私は、米を研いでるんだろう）",
+      "_english": "(Why am I rinsing rice?)",
+      "_traditionalChinese": "（為什麼我會在這裡洗米啊……）",
+      "_simplifiedChinese": "（为什么我会在淘米呢）",
+      "_korean": "(난 대체 왜 여기서 쌀을 씻고 있는 걸까)"
+    },
+    {
+      "_id": "Story_Episode_Description_1003",
+      "_japanese": "カワイイガ……カワイイガ、タリナアアアアイ！",
+      "_english": "Cute... Cuteness... I NEED MOOOORE!",
+      "_traditionalChinese": "可愛……可愛，還不夠啊啊啊啊！",
+      "_simplifiedChinese": "可爱……可爱，还不够啊啊啊啊！",
+      "_korean": "귀여움... 귀여움이... 부족해애애애애!"
+    },
+    {
+      "_id": "Story_Episode_Description_1004",
+      "_japanese": "……やっぱりみやこが、へんなのかなあ",
+      "_english": "...Maybe Miyako really is weird, after all.",
+      "_traditionalChinese": "……果然是我很奇怪嗎？",
+      "_simplifiedChinese": "……果然是都子太奇怪了吗",
+      "_korean": "......역시 내가 이상한 걸까?"
+    },
+    {
+      "_id": "Story_Episode_Description_1005",
+      "_japanese": "何か私に、できることってないですか？",
+      "_english": "Is there anything I can do?",
+      "_traditionalChinese": "有沒有我能幫上忙的事情？",
+      "_simplifiedChinese": "有什么是我能帮上忙的吗？",
+      "_korean": "제가 뭐 도와드릴 수 있는 건 없을까요?"
+    },
+    {
+      "_id": "Story_Episode_Description_1006",
+      "_japanese": "うるせーーーーーー！！！",
+      "_english": "Shut uuuuup!!!",
+      "_traditionalChinese": "吵死人──────！！！",
+      "_simplifiedChinese": "吵死了——————！！！",
+      "_korean": "시끄러워~~~~~~!!!"
+    },
+    {
+      "_id": "Story_Episode_Description_1007",
+      "_japanese": "がんばれ！　都子ーーーーーーっ！",
+      "_english": "Do your best! Miyakoooooo!",
+      "_traditionalChinese": "加油！都子──────！",
+      "_simplifiedChinese": "加油！都子——————！",
+      "_korean": "힘내라! 미야코~~~~~~!"
+    },
+    {
+      "_id": "Story_Episode_Description_1008",
+      "_japanese": "――南無三ッ！！",
+      "_english": "—Heaven help me!!",
+      "_traditionalChinese": "──老天保佑！！",
+      "_simplifiedChinese": "──老天保佑！！",
+      "_korean": "에라 모르겠다!!"
+    },
+    {
+      "_id": "Story_Episode_Description_1009",
+      "_japanese": "なんとりっちゃんが、食べられてしまいました！",
+      "_english": "And wouldn't you know it, Ricchan got eaten!",
+      "_traditionalChinese": "天亮了……萬萬沒想到，小律竟然被吃掉了！",
+      "_simplifiedChinese": "没想到小律竟然被吃掉了！",
+      "_korean": "세상에, 간밤에 릿 짱이 잡아먹히고 말았습니다!"
     },
     {
       "_id": "Story_Episode_Description_3301",
@@ -69031,6 +70455,14 @@
       "_traditionalChinese": "Oblivionis",
       "_simplifiedChinese": "Oblivionis",
       "_korean": "오블리비오니스"
+    },
+    {
+      "_id": "Snap_Name_Ritsu_Arale_Yuno",
+      "_japanese": "律&あられ&ユノ",
+      "_english": "Ritsu & Arale & Yuno",
+      "_traditionalChinese": "律&阿拉蕾&由乃",
+      "_simplifiedChinese": "律&阿拉蕾&由乃",
+      "_korean": "리츠 & 아라레 & 유노"
     },
     {
       "_id": "SupportDiary_26",
@@ -69463,6 +70895,38 @@
       "_traditionalChinese": "Coming soon",
       "_simplifiedChinese": "Coming soon",
       "_korean": "Coming soon"
+    },
+    {
+      "_id": "SupportDiary_82",
+      "_japanese": "今日も　いやって言えなかった\n一人でいるだけで　心配されて\nみやこ　おえかきしたいだけなのに\n\nわたしって　そんなにおかしいのかな\nみんなと同じじゃないと　ダメなのかな\n\nそんな時――\n目の前に　何かがあらわれた\n\nふわふわの毛なみと　くろくて丸い目\nきみは……\nみやこがかいた　おともだち！\n\nみやこのために　出てきてくれたの？\nなんだか　すごくこわい顔……\n何かあったの？\nどうしてそんなに　怒ってるの？",
+      "_english": "Again today, I couldn't say no.\nPeople worry about me just for being alone.\nEven though I only want to draw.\n\nAm I really that strange?\nDo I have to be just like everyone else?\n\nThen—\nsomething appeared right before my eyes.\n\nFluffy fur and round black eyes.\nYou're...\nthe friend Miyako drew!\n\nDid you come out for Miyako's sake?\nYou look really scary somehow...\nDid something happen?\nWhy are you so angry?",
+      "_traditionalChinese": "今天，也沒能鼓起勇氣拒絕。\n只要我獨自待著，就會有人擔心我。\n都子，明明只是想畫圖而已。\n\n我，真的有那麼奇怪嗎？\n難道，一定得跟大家一樣才行嗎？\n\n就在那個時候──\n有什麼東西在我眼前出現了。\n\n軟軟的毛髮，又黑又圓的眼睛。\n你是……\n都子畫出來的朋友！\n\n你是為了都子才出現的嗎？\n總覺得，你的表情好恐怖喔……\n怎麼了嗎？\n為什麼，你會那麼生氣呢？",
+      "_simplifiedChinese": "今天　也没能把『不愿意』说出口\n不过是一个人待着　却惹人担心了\n都子　明明只是想画画而已呀\n\n我　真的有那么奇怪吗\n不和大家一样　就不行吗\n\n就在这时——\n我的眼前　出现了什么东西\n\n蓬松柔软的毛发　又黑又圆的眼睛\n你是……\n都子画的　好朋友！\n\n你是为了都子　才出现的吗？\n感觉　你的表情好凶哦……\n发生什么事了吗？\n你为什么　这么生气呀？",
+      "_korean": "오늘도 제대로 거절하지 못했다\n혼자 있기만 하면 다들 미야코를 걱정한다\n미야코는 그냥 그림을 그리고 싶을 뿐인데\n\n미야코가 그렇게 이상한가?\n꼭 남들과 똑같아야 하는 걸까?\n\n바로 그때......\n눈앞에 무언가가 나타났다\n\n보들보들한 털에 까맣고 동그란 눈\n너는......\n미야코의 그림 속에만 존재하는 친구잖아!\n\n미야코를 위해 나와준 거야?\n왠지 표정이 엄청 무섭네......\n무슨 일 있었어?\n왜 그렇게 화가 난 거야?"
+    },
+    {
+      "_id": "SupportDiary_83",
+      "_japanese": "都子さんが言ってた\n『まるくんはかけがえのない親友』だって\n『まるくんと一緒なら、がんばれる』って\n\nだったら、私が言うより\nまるくんの方が届くかもしれない\n\nまるくん、勝手に連れ出してすみません\n今だけ、私に力を貸してください\n\n走っているので揺れますよね\n私の持ち方、くすぐったくないですか？\nもう少しですから、辛抱してくださいね\n\nほら、見えてきましたよ\nまるくん、伝えてくれますか\n諦めずに走ってる都子さんに\nがんばれって",
+      "_english": "Miyako-san said it:\n\"Maru-kun is my irreplaceable best friend.\"\n\"I can keep doing my best as long as Maru-kun is with me.\"\n\nThen maybe Maru-kun can\nget through to her better than I can.\n\nMaru-kun, I'm sorry for taking you out without asking.\nPlease lend me your strength—just for now.\n\nYou’re getting jostled because I’m running, aren’t you?\nIs the way I'm holding you ticklish?\nWe're almost there, so please hang on.\n\nLook, there she is.\nMaru-kun, can you tell her for me?\nTo Miyako-san, who's still running without giving up—\nTell her: \"Do your best.\"",
+      "_traditionalChinese": "都子同學說過──\n「丸君是無可取代的摯友」\n「只要有丸君陪著，就能繼續努力下去」\n\n既然如此，比起我來說，\n由丸君來說她或許更聽得進去。\n\n丸君，抱歉擅自把你帶出門，\n但我希望你現在能把力量借給我。\n\n因為我在跑步所以有點晃吧？\n這樣拿著你，會不會讓你覺得很難受？\n就快到了，所以還請忍耐一下。\n\n你看，已經看得到了喔。\n丸君，可以麻煩你傳話嗎？\n幫我跟沒有放棄、持續在跑步的都子同學\n說聲「加油」好嗎？",
+      "_simplifiedChinese": "都子同学之前说过\n『丸君是我无可替代的挚友』\n『只要和丸君在一起，我就能继续加油』\n\n既然这样，比起由我来说\n由丸君来鼓励她，或许更能传达到她心里\n\n丸君，很抱歉擅自把你带出来\n就现在这一会儿，请帮帮我吧\n\n我这样跑着，肯定晃得很厉害吧\n我这样抱着你，会不会弄痒你呀？\n马上就到了，还请你稍微忍耐一下哦\n\n你看，已经能看到她了哦\n丸君，能拜托你把这句话传达给她吗\n对一直没有放弃、仍在奔跑的都子同学\n说一声加油",
+      "_korean": "미야코 씨가 그랬었다\n「마루 군은 둘도 없는 소중한 친구」라고\n「마루 군만 있으면 힘낼 수 있다」고\n\n그렇다면 내가 말하는 것보다\n마루 군이 전해주는 게 더 잘 닿을지도 모른다\n\n마루 군, 허락도 없이 데리고 나와서 미안해요\n딱 지금 한 번만 저를 좀 도와주세요\n\n달리는 중이라 좀 흔들리시죠?\n이렇게 안고 있으면 간지럽진 않나요?\n곧 도착하니까 조금만 더 참아주세요\n\n자, 이제 좀 보이네요\n마루 군이 잘 전해줄래요?\n포기하지 않고 열심히 달리고 있는 미야코 씨한테\n힘내라는 말 한마디를요"
+    },
+    {
+      "_id": "SupportDiary_84",
+      "_japanese": "やばい　虫いすぎ\nそこにいるってだけで　ぞわってなる\n見たくもないし　近づきたくもない\n\nなんでこんなとこで合宿なんか……\n今さら文句言ってもしょうがないけど\n\nスプレー持ってきといてよかった\nでも２個で足りるか？\nなくなったらどうしよう\n\nどっかに売ってるかな\nいや　探しに行くのもめんどいな\n\nああ……\n合宿の間だけでいいから\n虫のいない世界になってくれないかな",
+      "_english": "Ugh, there are way too many bugs.\nJust knowing they're there gives me the creeps.\nI don't want to see them, and I don't want to get near them.\n\nWhy does the training camp have to be in a place like this...\nThough it's no use complaining now.\n\nGood thing I brought bug spray.\nBut will two cans be enough?\nWhat if I run out?\n\nI wonder if they sell it somewhere.\nNah, going to look for some would be a pain too.\n\nAhh...\nJust for the duration of the camp is enough—\ncan't the world just be bug-free?",
+      "_traditionalChinese": "不行，蟲超多的。\n光想到牠們就在那邊，我整個人都不對勁。\n根本不想看到牠們，更不想靠近。\n\n為什麼要在這種地方集訓……\n事到如今抱怨這個也沒什麼意義。\n\n有帶除蟲噴霧過來真是太好了。\n但兩罐真的夠嗎？\n要是用完了該怎麼辦？\n\n不知道哪裡有在賣。\n不，還要出去找實在太麻煩了。\n\n唉……\n只要在集訓的期間就好，\n這裡能不能變成沒有蟲的世界啊。",
+      "_simplifiedChinese": "糟了　虫子也太多了吧\n光是知道它们在附近　就浑身起鸡皮疙瘩\n看都不想看　更不想靠近\n\n为什么非得在这种地方集训啊……\n不过现在抱怨也没用了\n\n幸好我提前带了驱虫喷雾\n不过只带两罐够用吗？\n要是用完了该怎么办\n\n附近有地方卖吗\n算算了　到处去找也太麻烦了\n\n唉……\n哪怕只在集训这几天也好\n能不能变成一个没有虫子的世界啊",
+      "_korean": "미치겠네, 벌레가 너무 많잖아\n거기에 벌레가 있다는 것만으로도 소름 돋아\n쳐다보는 것도, 가까이 가는 것도 다 질색이야\n\n왜 하필 이런 데서 합숙하는 건데......\n뭐, 이제 와서 투덜대 봤자 아무 쓸데없긴 하지만\n\n스프레이 챙겨오길 잘했어\n근데 두 개로 되려나?\n다 떨어지면 어떡하지?\n\n어디 파는 데는 없으려나?\n아니야, 찾으러 나가는 것도 귀찮네\n\n아아......\n합숙하는 동안만이면 되니까\n제발 벌레들이 싹 다 사라져 주면 안 될까?"
+    },
+    {
+      "_id": "SupportDiary_85",
+      "_japanese": "みんなでライブしたあとに撮った写真！\nみーんなつやつやでピカピカに笑ってる！\nあの日、歌でおしゃべりできたこと\nずっと閉じ込めてきたものをさらけ出して\nみんなと演奏して、お客さんの顔を見て\n確信できたんだ\nぼくは、おしゃべりができる！\nぼくは、おしゃべりが大好き！\nこれからもずっとずーっと、おしゃべりしたい！\n都子さんのやりきったかっこいい笑顔も\nりっちゃんのふにゃふにゃな笑顔も\nユノさんちゃんのホッとしたみたいな笑顔も\nののちゃんさんのしあわせ満開笑顔も\n全部ぜーーんぶ大好き！\nこれからもずっとずーっとよろしくね！",
+      "_english": "A photo we took after our Multi Live!\nEveryone's glowing and sparkling and smiling!\nThat day, I chatted through song,\nlaid bare everything I'd kept locked away,\nplayed with everyone, looked at the faces of the audience,\nand I knew for sure.\nI can chat!\nI love chatting!\nI want to keep on chatting, forever and ever!\nMiyako-san's cool, I-gave-it-my-all smile,\nRicchan's soft, squishy smile,\nYuno-san-chan's relieved-looking smile,\nNono-chan-san's blissful, blooming smile.\nI love all of them—every single one!\nFrom here on out too—forever and ever—keep chatting with me, okay!",
+      "_traditionalChinese": "這是大家在演唱會結束後一起拍的照片！\n每個人都閃閃發亮，笑容也都好耀眼！\n那天，能透過歌聲和大家聊天，\n毫不保留地吐露我一直以來藏在心底的情感，\n和大家一起演奏、看著台下觀眾的臉，\n我總算能確定這件事了。\n我，有辦法和大家聊天！\n我，最喜歡和大家聊天了！\n從今以後，我也想一直一直和大家聊下去！\n都子同學全力以赴的帥氣笑容，\n小律軟綿綿的笑容，\n由乃同學醬像是鬆了一口氣的笑容，\n野乃醬同學幸福洋溢的笑容，\n我通──通都喜歡！\n今後也請大家多多指教了！",
+      "_simplifiedChinese": "大家一起演出完拍的照片！\n大家全都笑得容光焕发、闪闪发光！\n那天能够用歌声和大家聊天\n把一直藏在心底的一切全都释放出来\n和大家一起演奏，看着台下观众们的面孔\n这一切都让我彻底确信了\n我，也是能和大家聊天的！\n我，最喜欢聊天了！\n以后我也想一直、一直这样聊下去！\n无论是都子同学拼尽全力后那帅气的笑容\n小律那软乎乎的笑容\n小由乃同学如释重负般的笑容\n还是小野乃同学幸福满溢的笑容\n我全部、全部都最喜欢了！\n今后也请一直、一直多多关照哦！",
+      "_korean": "다 같이 공연하고 나서 찍은 사진!\n다들 생글생글 눈부시게 웃고 있어!\n그날, 노래로 수다 떨었을 때\n줄곧 마음속에 가둬 두었던 걸 전부 털어놓고,\n멤버들과 같이 연주하고, 관객분들의 얼굴을 보면서\n확신할 수 있었어\n나는 얘기할 수 있다고!\n나는 수다 떠는 게 너무 좋다고!\n앞으로도 계~속 수다 떨고 싶어!\n모든 걸 쏟아부은 미야코 씨의 멋진 미소도\n사르르 풀어진 릿 짱의 말랑말랑한 미소도\n어딘가 안심한 듯한 유노짱 씨의 미소도\n행복이 활짝 피어난 노노짱 씨의 미소도\n전부 다~~ 너무 좋아!\n앞으로도 쭉~ 잘 부탁해!"
     },
     {
       "_id": "SupportSubtitle_1",
@@ -70111,6 +71575,38 @@
       "_traditionalChinese": "つなぎ目の向こうに - 神戸再景編 -",
       "_simplifiedChinese": "つなぎ目の向こうに - 神戸再景編 -",
       "_korean": "이음새 너머로 - 고베, 풍경 재발견 편 -"
+    },
+    {
+      "_id": "SupportSubtitle_82",
+      "_japanese": "きみが現れた",
+      "_english": "Then You Appeared",
+      "_traditionalChinese": "你的出現",
+      "_simplifiedChinese": "你出现了",
+      "_korean": "네가 나타났어"
+    },
+    {
+      "_id": "SupportSubtitle_83",
+      "_japanese": "夕暮れの応援団",
+      "_english": "Sunset Cheer Squad",
+      "_traditionalChinese": "黃昏應援團",
+      "_simplifiedChinese": "黄昏应援团",
+      "_korean": "노을빛 응원단"
+    },
+    {
+      "_id": "SupportSubtitle_84",
+      "_japanese": "ムリムリムリムリ",
+      "_english": "No No No No",
+      "_traditionalChinese": "不行不行不行不行",
+      "_simplifiedChinese": "不行不行不行不行",
+      "_korean": "무리무리무리무리"
+    },
+    {
+      "_id": "SupportSubtitle_85",
+      "_japanese": "だいすきなもの",
+      "_english": "Things I Love",
+      "_traditionalChinese": "我最喜歡的東西",
+      "_simplifiedChinese": "我最喜欢的东西",
+      "_korean": "가장 좋아하는 것"
     },
     {
       "_id": "Support_Skill_Description_1",
@@ -76125,7 +77621,7 @@
       "_japanese": "編成入れ替え画面で左下の切替ボタンから情報を切り替えられ、\n目当ての情報を探しやすいです。",
       "_english": "On the Formation Edit screen, use the button at the bottom left to switch the displayed information\nand find what you need more easily.",
       "_traditionalChinese": "在替換編組畫面中，可透過左下角的切換按鈕來切換顯示資訊，\n方便尋找所需資訊。",
-      "_simplifiedChinese": "在编队更换界面可以通过左下角的切换按钮来切换信息，这样更容易找到目标信息。",
+      "_simplifiedChinese": "在编队更换界面可以通过左下角的切换按钮来切换信息，\n这样更容易找到目标信息。",
       "_korean": "편성 교체 화면에서 좌측 하단의 전환 버튼으로 정보를 전환할 수 있어,\n원하는 정보를 쉽게 찾을 수 있습니다."
     },
     {

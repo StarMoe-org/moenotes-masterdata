@@ -59,6 +59,18 @@
       "_eventId": 5,
       "_resourceType": 3,
       "_resourceId": 80
+    },
+    {
+      "_id": 11,
+      "_eventId": 6,
+      "_resourceType": 2,
+      "_resourceId": 81
+    },
+    {
+      "_id": 12,
+      "_eventId": 6,
+      "_resourceType": 3,
+      "_resourceId": 84
     }
   ]
 }

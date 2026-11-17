@@ -191,6 +191,42 @@
       "_rankingRewardGroup": 100503,
       "_stratAt": "",
       "_endAt": ""
+    },
+    {
+      "_id": 17,
+      "_eventId": 6,
+      "_liveMusicId": 100117,
+      "_musicType": 4,
+      "_gekisouMission1": 0,
+      "_gekisouMission2": 0,
+      "_gekisouMission3": 0,
+      "_rankingRewardGroup": 100601,
+      "_stratAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 18,
+      "_eventId": 6,
+      "_liveMusicId": 100052,
+      "_musicType": 4,
+      "_gekisouMission1": 0,
+      "_gekisouMission2": 0,
+      "_gekisouMission3": 0,
+      "_rankingRewardGroup": 100602,
+      "_stratAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 19,
+      "_eventId": 6,
+      "_liveMusicId": 100062,
+      "_musicType": 4,
+      "_gekisouMission1": 0,
+      "_gekisouMission2": 0,
+      "_gekisouMission3": 0,
+      "_rankingRewardGroup": 100603,
+      "_stratAt": "",
+      "_endAt": ""
     }
   ]
 }
