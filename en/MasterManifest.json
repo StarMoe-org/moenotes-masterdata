@@ -1,5 +1,5 @@
 {
-    "version": "5e13b6e0571374c472ba2563bde29fc0",
+    "version": "68bd3e281257937624b881a77600b40d",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -1048,8 +1048,8 @@
         },
         {
             "name": "MasterShop.bin",
-            "hash": "49ef24e0a63d05eb080f99b4cce3c448d0b170bfdea9888c0c5afd679df06f2f",
-            "size": 3776
+            "hash": "cc4d0645959f8e4b304d7ee5b90ae917340f502d8c0e02fc53fb4a6285129f37",
+            "size": 3808
         },
         {
             "name": "MasterShopBiliPay.bin",
