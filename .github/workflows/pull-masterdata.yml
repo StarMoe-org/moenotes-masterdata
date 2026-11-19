@@ -10,6 +10,8 @@ name: Pull masterdata
 on:
   repository_dispatch:
     types: [masterdata-updated]
+  schedule:
+    - cron: '11 4 * * *'
   workflow_dispatch:
 
 permissions:
