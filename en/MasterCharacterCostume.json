@@ -953,6 +953,24 @@
       "_costumeID": 103,
       "_isDefault": false,
       "_live2dPath": "015_live/live2d_yuno_015_birthday2627_01/model/live2d_yuno_015_birthday2627_01"
+    },
+    {
+      "_id": 1102,
+      "_characterID": 1,
+      "_groupID": 79,
+      "_costumeType": 1,
+      "_costumeID": 102,
+      "_isDefault": false,
+      "_live2dPath": "001_live/live2d_tomori_001_birthday2627_01_low/model/live2d_tomori_001_birthday2627_01_low"
+    },
+    {
+      "_id": 1103,
+      "_characterID": 1,
+      "_groupID": 79,
+      "_costumeType": 2,
+      "_costumeID": 103,
+      "_isDefault": false,
+      "_live2dPath": "001_live/live2d_tomori_001_birthday2627_01/model/live2d_tomori_001_birthday2627_01"
     }
   ]
 }
