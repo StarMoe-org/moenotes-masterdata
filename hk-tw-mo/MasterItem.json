@@ -1419,6 +1419,21 @@
       "_endAt": "2026/11/23 23:59:59"
     },
     {
+      "_id": 3000002,
+      "_nameTextId": "Item_Name_3000002",
+      "_inventoryDisplayGroup": 4,
+      "_type": 11,
+      "_imagePath": "Image/Campaign/birthday_pick_tomori",
+      "_phoneticNameTextId": "Item_Phonetic_Name_3000002",
+      "_descriptionTextId": "Item_Description_3000002",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 3000002,
+      "_displayTargetIds": [],
+      "_startAt": "2026/11/22 0:00:00",
+      "_endAt": "2026/11/27 23:59:59"
+    },
+    {
       "_id": 2000001,
       "_nameTextId": "Gacha_Ticket_Name_2000001",
       "_inventoryDisplayGroup": 1,
@@ -2794,6 +2809,21 @@
       "_value": 1,
       "_max": 99999999,
       "_orderNum": 10000081,
+      "_displayTargetIds": [],
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 10000082,
+      "_nameTextId": "Item_Name_10000082",
+      "_inventoryDisplayGroup": 3,
+      "_type": 9,
+      "_imagePath": "Item/piece/item_icon_piece_10000082",
+      "_phoneticNameTextId": "Item_Phonetic_Name_10000082",
+      "_descriptionTextId": "Item_Description_10000082",
+      "_value": 1,
+      "_max": 99999999,
+      "_orderNum": 10000082,
       "_displayTargetIds": [],
       "_startAt": "",
       "_endAt": ""

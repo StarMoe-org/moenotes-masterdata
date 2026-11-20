@@ -12398,6 +12398,17 @@
       "_maxPitch": 0.0
     },
     {
+      "_id": 3200102000002,
+      "_category": 2,
+      "_soundCueSheetID": 3202001000082,
+      "_cueName": "Member_Tomori_Gacha_082",
+      "_cacheType": 0,
+      "_audioSyncedTimerEnabled": false,
+      "_isRandomPitch": false,
+      "_minPitch": 0.0,
+      "_maxPitch": 0.0
+    },
+    {
       "_id": 3200201000001,
       "_category": 2,
       "_soundCueSheetID": 3201002000001,

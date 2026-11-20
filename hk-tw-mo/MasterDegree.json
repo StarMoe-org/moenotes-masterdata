@@ -2809,6 +2809,19 @@
       "_endAt": ""
     },
     {
+      "_id": 280,
+      "_nameTextId": "Degree_Name_280",
+      "_descriptionTextId": "Degree_Description_280",
+      "_degreeType": 1,
+      "_characterIds": [
+        1
+      ],
+      "_imagePath": "Image/Degree/Bd/degree_bd_2627_01",
+      "_orderNum": 280,
+      "_startAt": "2026/11/22 0:00:00",
+      "_endAt": ""
+    },
+    {
       "_id": 1000000001,
       "_nameTextId": "Degree_Name_1000000001",
       "_descriptionTextId": "Degree_Description_1000000001",
@@ -6948,6 +6961,17 @@
       "_characterIds": [],
       "_imagePath": "MemberCard/81/member_character",
       "_orderNum": 30000056,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
+      "_id": 30000057,
+      "_nameTextId": "Degree_Name_30000057",
+      "_descriptionTextId": "Degree_Description_30000057",
+      "_degreeType": 5,
+      "_characterIds": [],
+      "_imagePath": "MemberCard/82/member_character",
+      "_orderNum": 30000057,
       "_startAt": "",
       "_endAt": ""
     },
