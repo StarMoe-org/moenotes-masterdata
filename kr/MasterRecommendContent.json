@@ -4,7 +4,7 @@
       "_id": 1000000001,
       "_bannerAsset": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261003_122206_6ac074dea3779.png",
       "_url": "https://bdon.biligames.com/details/?id=181789560857900960&lang=ko-kr",
-      "_orderNum": 1,
+      "_orderNum": 2,
       "_startAt": "2026/09/25 17:00:00",
       "_endAt": ""
     },
@@ -12,7 +12,7 @@
       "_id": 1000000002,
       "_bannerAsset": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260922_170516_6ab236bcc3368.png",
       "_url": "https://bdon.biligames.com/details/?id=181789560522046650&lang=ko-kr",
-      "_orderNum": 2,
+      "_orderNum": 3,
       "_startAt": "2026/09/25 15:00:00",
       "_endAt": "2026/10/02 23:59:59"
     },
@@ -20,9 +20,17 @@
       "_id": 1000000003,
       "_bannerAsset": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260922_170451_6ab236a3b8e37.png",
       "_url": "https://bdon.biligames.com/details/?id=181789561021989038&lang=ko-kr",
-      "_orderNum": 3,
+      "_orderNum": 4,
       "_startAt": "2026/09/28 12:00:00",
       "_endAt": "2026/10/18 23:59:59"
+    },
+    {
+      "_id": 1000000004,
+      "_bannerAsset": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261120_113945_6affb2f1370f9.png",
+      "_url": "https://m.game.naver.com/lounge/BanG_Dream_Our_Notes/board/detail/8488723",
+      "_orderNum": 1,
+      "_startAt": "2026/09/28 12:00:00",
+      "_endAt": "2026/12/06 23:59:59"
     }
   ]
 }
