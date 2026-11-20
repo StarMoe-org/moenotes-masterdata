@@ -1,5 +1,5 @@
 {
-    "version": "12b9f2d88b5712edf09021ef508b55a6",
+    "version": "d7fe53227ffb35badd4e1e7f29e1f789",
     "files": [
         {
             "name": "MasterAdv.bin",
@@ -353,8 +353,8 @@
         },
         {
             "name": "MasterExchangeProduct.bin",
-            "hash": "b21db5c0bf1be1518aeacbb291788b1eb940e9106aa218c2006b9d1cdddf6cf5",
-            "size": 5088
+            "hash": "b107d490034889151ee57d6ce5802a5419d3d6196fed8257aab98c2a3bfeb40a",
+            "size": 5120
         },
         {
             "name": "MasterExternalContent.bin",
