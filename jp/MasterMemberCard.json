@@ -2267,6 +2267,34 @@
       "_gachaVoiceTextId": "",
       "_gachaVoiceSoundId": 0,
       "_startAt": "2026-11-18 15:00:00"
+    },
+    {
+      "_id": 82,
+      "_assetID": 82,
+      "_nameTextID": "Character_Name_Tomori",
+      "_subtitleTextID": "MemberSubtitle_82",
+      "_characterID": 1,
+      "_rarity": 20,
+      "_cardType": 1,
+      "_bestMusicTagIDs": [
+        1
+      ],
+      "_performancePowerMax": 19282,
+      "_technicPowerMax": 28923,
+      "_visualPowerMax": 28402,
+      "_memberCardLevelGroup": 4,
+      "_memberCardAwakeGroup": 1,
+      "_memberCardAwakeResourceGroup": 16,
+      "_memberCardRankGroup": 1,
+      "_rankUpItemID": 10000082,
+      "_leaderSkillID": 66,
+      "_liveSkillID": 8,
+      "_gekisouSkillID": 24,
+      "_liveSkillLevelResourceGroup": 4,
+      "_gekisouSkillLevelResourceGroup": 8,
+      "_gachaVoiceTextId": "MemberGachaVoice_82",
+      "_gachaVoiceSoundId": 3200102000002,
+      "_startAt": "2026-11-22 0:00:00"
     }
   ]
 }

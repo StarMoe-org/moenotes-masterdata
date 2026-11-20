@@ -851,6 +851,18 @@
       "_memberCardIds": [],
       "_supportCardIds": [],
       "_labelIds": []
+    },
+    {
+      "_id": 72,
+      "_gachaId": 25,
+      "_gachaViewType": 5,
+      "_hideLogo": true,
+      "_gachaTextDisplayType": 2,
+      "_frontAssetName": "Gacha/Video/00025/gacha_top_00025_01",
+      "_backAssetName": "Gacha/Bg/gacha_bg_00011",
+      "_memberCardIds": [],
+      "_supportCardIds": [],
+      "_labelIds": []
     }
   ]
 }

@@ -8889,6 +8889,14 @@
       "_korean": ""
     },
     {
+      "_id": "Chapter_Title_1202",
+      "_japanese": "26年誕生日：高松 燈(11/22)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Chapter_Title_1229",
       "_japanese": "26年10月 Halloween① 愛音",
       "_english": "",
@@ -24169,6 +24177,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_280",
+      "_japanese": "燈バースデーピック交換所で獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Description_287",
       "_japanese": "夢限大みゅーたいぷ バンド記念日ピック交換所で獲得",
       "_english": "",
@@ -29105,6 +29121,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Description_30000057",
+      "_japanese": "「[Happy Birthday 26-27]高松 燈」を4回覚醒すると獲得",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_30000001",
       "_japanese": "[ステッカー][残したい詩、まっすぐに]高松 燈",
       "_english": "",
@@ -29547,6 +29571,14 @@
     {
       "_id": "Degree_Name_30000056",
       "_japanese": "[ステッカー][ののちゃんのぴょんぴょん体操]宮永 ののか",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Degree_Name_30000057",
+      "_japanese": "[ステッカー][Happy Birthday 26-27]高松 燈",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -31481,6 +31513,14 @@
       "_korean": ""
     },
     {
+      "_id": "Degree_Name_280",
+      "_japanese": "[ステッカー]高松燈 Happy Birthday 26-27",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Degree_Name_287",
       "_japanese": "[ステッカー]夢限大みゅーたいぷ Band Anniversary 26",
       "_english": "",
@@ -32913,6 +32953,22 @@
       "_korean": ""
     },
     {
+      "_id": "Exchange_Name_37",
+      "_japanese": "高松燈 Happy Birthday 26-27 ガチャ交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Exchange_Name_38",
+      "_japanese": "燈バースデーピック交換所",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Exchange_Name_39",
       "_japanese": "夢限大みゅーたいぷ バンド記念日 ピック交換所",
       "_english": "",
@@ -34273,6 +34329,14 @@
       "_korean": ""
     },
     {
+      "_id": "Gacha_Description_25",
+      "_japanese": "R以上のメンバーまたはスナップを獲得できるガチャ\n\n本ガチャをご利用いただくごとに、おまけアイテム「バースデーピック」を獲得することができます。\n（1回引く：5個／10回引く：50個）\n※本ガチャで獲得できる「バースデーピック」は、イベント交換所の「バースデーピック交換所」でご利用いただけます。\n※交換内容は、開催されている交換所によって異なります。内容は「交換所」をご確認ください。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "gacha_ensured_rarity",
       "_japanese": "{0}枠{1}確定！",
       "_english": "{0} {1} Guaranteed!",
@@ -35003,6 +35067,14 @@
     {
       "_id": "Gacha_Name_24",
       "_japanese": "よい子のための新時代トレーニングガチャ",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Gacha_Name_25",
+      "_japanese": "高松燈 Happy Birthday 26-27ガチャ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -41057,6 +41129,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_3000002",
+      "_japanese": "イベント交換所で使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_3000001",
       "_japanese": "夢限大みゅーたいぷ バンド記念日ピック",
       "_english": "",
@@ -41065,8 +41145,24 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_3000002",
+      "_japanese": "燈バースデーピック",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_3000001",
       "_japanese": "むげんだいみゅーたいぷ ばんどきねんびぴっく",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_3000002",
+      "_japanese": "ともりばーすでーぴっく",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -41985,6 +42081,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Description_10000082",
+      "_japanese": "[Happy Birthday 26-27]高松 燈の覚醒に使用するアイテム",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Name_10000001",
       "_japanese": "メンバーピース([今、ここにいる]高松 燈)",
       "_english": "",
@@ -42633,6 +42737,14 @@
       "_korean": ""
     },
     {
+      "_id": "Item_Name_10000082",
+      "_japanese": "メンバーピース([Happy Birthday 26-27]高松 燈)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Item_Phonetic_Name_10000001",
       "_japanese": "めんばーぴーす10000001",
       "_english": "",
@@ -43275,6 +43387,14 @@
     {
       "_id": "Item_Phonetic_Name_10000081",
       "_japanese": "めんばーぴーす10000081",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Item_Phonetic_Name_10000082",
+      "_japanese": "めんばーぴーす10000082",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44794,7 +44914,7 @@
     },
     {
       "_id": "Leader_Skill_Name_Description_58",
-      "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【LUCK】のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
+      "_japanese": "一家Dumb Rock!メンバーのパフォーマンスが<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキルが【LUCK】のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44851,6 +44971,14 @@
     {
       "_id": "Leader_Skill_Name_Description_65",
       "_japanese": "Ave Mujicaメンバーのパフォーマンス<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに撃奏スキル【LUCK】のメンバーはパフォーマンスが{effects[1].value/100:F1}%UP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_Description_66",
+      "_japanese": "MyGO!!!!!メンバーのテクニック、ビジュアル<color=#66FF8C>{effects[0].value/100:F1}%UP</color> さらに紅赤のメンバーはテクニック、ビジュアル{effects[2].value/100:F1}%UP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -46683,6 +46811,14 @@
     {
       "_id": "Leader_Skill_Name_65",
       "_japanese": "Ave Mujica&撃奏スキル【LUCK】パフォーマンスUP",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "Leader_Skill_Name_66",
+      "_japanese": "MyGO!!!!!&紅赤テクニック,ビジュアルUP",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -55505,6 +55641,14 @@
       "_korean": ""
     },
     {
+      "_id": "MemberGachaVoice_82",
+      "_japanese": "大切に、するね……",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "MemberSubtitle_1",
       "_japanese": "今、ここにいる",
       "_english": "",
@@ -56147,6 +56291,14 @@
     {
       "_id": "MemberSubtitle_81",
       "_japanese": "ののちゃんのぴょんぴょん体操",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
+      "_id": "MemberSubtitle_82",
+      "_japanese": "Happy Birthday 26-27",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -66177,6 +66329,14 @@
       "_korean": ""
     },
     {
+      "_id": "Story_Episode_Description_3304",
+      "_japanese": "26年誕生日：高松 燈(11/22)",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Snap_Name_Tomori",
       "_japanese": "高松 燈",
       "_english": "",
@@ -66866,7 +67026,7 @@
     },
     {
       "_id": "SupportDiary_68",
-      "_japanese": "夢限大みゅーたいぷ\nBanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」\n2026/10/11(日) 東京ガーデンシアター\n\nM1 TearJerker\nM2 超惑星Xへの旅\nM3 夢現妄想世界\nM4 チューニング\nM5 真夜中遊園地\nM6 LET'Sあちあちトレーニング！\nM7 in my words\nM8 どんがらがっしゃん\nM9 みゅーたんとミュータント\nM10(1) ✞animaるパーティ✞開催中✞\nM10(2) エンプティパペット\nM10(3) 限界現実サバイブ天使\nM10(4) ビッグマウス\nM11 コハク\nM12 コミュ着火Fire!\n\nEN1 うちゅうのふしぎ\nEN2 これはぼくたちの生存のあらすじ\nEN3 愛は衝動",
+      "_japanese": "夢限大みゅーたいぷ\nBanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」\n2026/10/11(日) 東京ガーデンシアター\n\nM1 TearJerker\nM2 超惑星Xへの旅\nM3 夢現妄想世界\nM4 チューニング\nM5 真夜中遊園地\nM6 LET'Sあちあちトレーニング！\nM7 in my words\nM8 どんがらがっしゃん\nM9 みゅーたんとミュータント\nM10(1) †animaるパーティ†開催中†\nM10(2) エンプティパペット\nM10(3) 限界現実サバイブ天使\nM10(4) ビッグマウス\nM11 コハク\nM12 コミュ着火Fire!\n\nEN1 うちゅうのふしぎ\nEN2 これはぼくたちの生存のあらすじ\nEN3 愛は衝動",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -66962,7 +67122,7 @@
     },
     {
       "_id": "SupportDiary_81",
-      "_japanese": "Coming soon",
+      "_japanese": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -\n2026年11月14日(土)・15日(日)\nワールド記念ホール（神戸ポートアイランドホール）\n\n【DAY 1】\nM1 羅永線\nM2 明弦音\nM3 残痕字\nM4 掌心正銘\nM5 砂寸奏\nM6 潜在表明\nM7 夜隠染\nM8 輪符雨\nM9 孤壊牢\nM10 歌いましょう鳴らしましょう\nM11 証命讃歌\nM12 聿日箋秋\nM13 迷星叫\nM14 歩拾道\nM15 世点彩\n\nEN1 影色舞\nEN2 往欄印\n\n【DAY 2】\nM1 迷路日々\nM2 明弦音\nM3 孤壊牢\nM4 歌いましょう鳴らしましょう\nM5 証命讃歌\nM6 輪符雨\nM7 夜隠染\nM8 無路矢\nM9 世点彩\nM10 掌心正銘\nM11 砂寸奏\nM12 聿日箋秋\nM13 迷星叫\nM14 壱雫空\nM15 羅永線\n\nEN1 影色舞\nEN2 音一会",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
